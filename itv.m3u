@@ -386,7 +386,7 @@ http://121.232.178.93:5000/tsfile/live/0001_15.m3u8
 #EXTINF:-1 tvg-name="乌克兰台" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/World/KPBIM.png" group-title="国际",乌克兰台
 https://cdn.1tvcrimea.ru/1tvcrimea.m3u8
 
-#EXTINF:-1 tvg-name="泰国新闻" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/NEWS1.png" group-title="国际",泰国新闻
+#EXTINF:-1 tvg-name="泰国新闻" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/World/NEWS1.png" group-title="国际",泰国新闻
 http://news1.live14.com/stream/news1_hi.m3u8
 #EXTINF:-1 tvg-name="半岛国际" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/World/半岛国际新闻.png" group-title="国际",半岛国际
 http://live-hls-web-aje.getaj.net/AJE/01.m3u8
@@ -414,11 +414,11 @@ http://50.7.234.10:8278/meiyamovie_twn/playlist.m3u8?tid=MC6C9419277694192776&ct
 
 #EXTINF:-1 tvg-name="now爆谷" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/TVB/now爆谷.png” group-title="影视",now爆谷
 http://aktv.top/AKTV/live/aktv2/now-1/AKTV.m3u8
-#EXTINF:-1 tvg-name="now星影" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/TVB/now.png” group-title="影视",now星影
+#EXTINF:-1 tvg-name="now星影" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/TVB/now爆谷.png” group-title="影视",now星影
 http://aktv.top/AKTV/live/aktv2/now/AKTV.m3u8
 #EXTINF:-1 tvg-name="now爆谷" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/TVB/now爆谷.png",group-title="影视",now爆谷
 https://tv.mytvsuper.xyz/1/baogutai/baogu.m3u8
-#EXTINF:-1 tvg-name="now星影" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/TVB/now.png” group-title="影视",now星影
+#EXTINF:-1 tvg-name="now星影" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/TVB/now爆谷.png” group-title="影视",now星影
 https://tv.mytvsuper.xyz/1/xingyingtai/xingying.m3u8
 
 #EXTINF:-1 tvg-name="amc电影" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/TVB/AMC电影.png" group-title="影视",amc电影
