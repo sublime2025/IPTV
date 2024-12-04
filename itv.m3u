@@ -342,11 +342,11 @@ http://litv.zapi.us.kg/?id=litv-longturn14
 http://aktv.top/AKTV/live/aktv/null-9/AKTV.m3u8
 
 #EXTINF:-1 tvg-name="CNA" tvg-logo="https://assets.livednow.com/logo/亞洲新聞台.png" group-title="国际",亚洲新闻
-https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-#EXTINF:-1 tvg-name="CNA" tvg-logo="https://assets.livednow.com/logo/亞洲新聞台.png" group-title="国际",亚洲新闻
 http://aktv.top/AKTV/live/aktv3/null-3/AKTV.m3u8
 #EXTINF:-1 tvg-name="CNA" tvg-logo="https://assets.livednow.com/logo/亞洲新聞台.png" group-title="国际",亚洲新闻
 http://121.232.178.93:5000/tsfile/live/0001_14.m3u8
+#EXTINF:-1 tvg-name="CNA" tvg-logo="https://assets.livednow.com/logo/亞洲新聞台.png" group-title="国际",亚洲新闻
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 
 #EXTINF:-1 tvg-name="日本全天新闻" tvg-logo="https://about.smartnews.com/wp-content/uploads/2015/07/nnews_icon_512x512.png" group-title="国际",日全新闻
 http://aktv.top/AKTV/live/aktv/null-13/AKTV.m3u8
@@ -743,7 +743,7 @@ http://61.221.215.25:8800/hls/40/index.m3u8
 #EXTINF:-1 tvg-name="成龙历险记" tvg-logo="https://i.postimg.cc/G3Md5MBN/1.png" group-title="动漫",成龙历险记
 http://159.75.85.63:35455/huya/11352946
 #EXTINF:-1 tvg-name="迪迦奥特曼" tvg-logo="https://i.postimg.cc/G3Md5MBN/1.png" group-title="动漫",迪迦奥特曼
-https://live.iill.top/huya/30080227
+http://159.75.85.63:35455/huya/30080227
 #EXTINF:-1 tvg-name="名侦探柯南" tvg-logo="https://i.postimg.cc/G3Md5MBN/1.png" group-title="动漫",名侦探柯南
 http://159.75.85.63:35455/huya/30080236
 
@@ -818,3 +818,117 @@ https://txmov2.a.kwimgs.com/bs3/video-hls/5251197255879398624_hlshd15.m3u8
 https://p2.bdstatic.com/rtmp.liveshow.lss-user.baidubce.com/live/stream_bduid_6488563992_8982723413/merged_1707497046297_88536_25144_41936.m3u8
 #EXTINF:-1 tvg-name="2024" tvg-logo="https://ghp.ci/raw.githubusercontent.com/suxuang/myIPTV/main/img/春晚.png" group-title="春晚",2024
 https://ikcdn01.ikzybf.com/20240205/QBNgom4j/2000kb/hls/index.m3u8
+
+█████████████████████████████████████████████████████████████████████████████████████████████████████████
+
+#EXTINF:-1 tvg-name="松视1台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/松视1.png" group-title="限制",松视台
+http://18.svi-studio.com:8880/live/584830114073/800309151021/5.m3u8
+#EXTINF:-1 tvg-name="松视2台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/松视2.png" group-title="限制",松视台
+http://18.svi-studio.com:8880/live/917952932058/953281067271/6.m3u8
+#EXTINF:-1 tvg-name="松视3台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/松视3.png" group-title="限制",松视台
+http://18.svi-studio.com:8880/live/271871095922/006886711863/20205.m3u8
+#EXTINF:-1 tvg-name="惊艳台" tvg-logo="https://i.postimg.cc/9M64DTKP/image.png" group-title="限制",惊艳台
+http://18.svi-studio.com:8880/live/908957700097/132663288386/1.m3u8
+#EXTINF:-1 tvg-name="惊艳台" tvg-logo="https://i.postimg.cc/9M64DTKP/image.png" group-title="限制",惊艳台
+http://18.svi-studio.com:80/live/271871095922/006886711863/1.m3u8
+#EXTINF:-1 tvg-name="惊艳台" tvg-logo="https://i.postimg.cc/9M64DTKP/image.png" group-title="限制",惊艳台
+http://125.227.210.55:8156/VideoInput/play.ts
+#EXTINF:-1 tvg-name="香蕉台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/香蕉.png" group-title="限制",香蕉台
+http://18.svi-studio.com:80/live/271871095922/006886711863/4.m3u8
+#EXTINF:-1 tvg-name="香蕉台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/香蕉.png" group-title="限制",香蕉台
+http://18.svi-studio.com:8880/live/624372101145/418430465490/4.m3u8
+#EXTINF:-1 tvg-name="潘多拉" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/潘多拉紫.png" group-title="限制",潘多拉
+http://18.svi-studio.com:80/live/271871095922/006886711863/3.m3u8
+
+#EXTINF:-1 tvg-name="松视1台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/松视1.png" group-title="限制",松视台
+p3p://173.208.176.178:31809/5fe445280008a40682a0367c343436bb
+#EXTINF:-1 tvg-name="松视2台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/松视2.png" group-title="限制",松视台
+p3p://173.208.176.178:31809/60232b5f00007bc37850649979e379df
+#EXTINF:-1 tvg-name="彩虹e" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/彩虹E.png" group-title="限制",彩虹台
+p3p://173.208.176.178:31809/6062716c0008efc86f76f0c44d55329f
+#EXTINF:-1 tvg-name="彩虹电影" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/彩虹电影.png" group-title="限制",彩虹台
+p3p://173.208.176.178:31809/6253066c00049259f74b05224cf375e6
+
+#EXTINF:-1 tvg-name="波多野结衣" tvg-logo="https://i.postimg.cc/G3Md5MBN/1.png" group-title="限制",岛国片
+p3p://173.208.176.178:31809/5fe6d96b000d95298cb35d8161902e91
+#EXTINF:-1 tvg-name="加勒比" tvg-logo="https://i.postimg.cc/G3Md5MBN/1.png" group-title="限制",岛国片
+p3p://173.208.176.178:31809/5fe6d4c0000ea3178ca121c83d4b0a39
+#EXTINF:-1 tvg-name="东京热" tvg-logo="https://i.postimg.cc/G3Md5MBN/1.png" group-title="限制",岛国片
+p3p://173.208.176.178:31809/5fe6d4f10006c6ec8ca1df2d4bd07a2d
+#EXTINF:-1 tvg-name="一本道" tvg-logo="https://i.postimg.cc/G3Md5MBN/1.png" group-title="限制",岛国片
+p3p://173.208.176.178:31809/5fe6d4d8000a01508ca17e596611121f
+#EXTINF:-1 tvg-name="HAV" tvg-logo="https://i.postimg.cc/G3Md5MBN/1.png" group-title="限制",岛国片
+p3p://173.208.176.178:31809/5fe7fe14000bbbb1912a91354e4b5706
+#EXTINF:-1 tvg-name="中文无码" tvg-logo="https://i.postimg.cc/G3Md5MBN/1.png" group-title="限制",岛国片
+p3p://173.208.176.178:31809/5fed5578000e28fba6077f774fba6950
+#EXTINF:-1 tvg-name="中文有码1" tvg-logo="https://i.postimg.cc/G3Md5MBN/1.png" group-title="限制",岛国片
+p3p://173.208.176.178:31809/5fe790790005783d8f7e6a1d2f8774e6
+#EXTINF:-1 tvg-name="中文有码2" tvg-logo="https://i.postimg.cc/G3Md5MBN/1.png" group-title="限制",岛国片
+p3p://173.208.176.178:31809/5fea645500007b7e9a898b3d6ea244cf
+#EXTINF:-1 tvg-name="人妻斩" tvg-logo="https://i.postimg.cc/G3Md5MBN/1.png" group-title="限制",岛国片
+p3p://173.208.176.178:31809/5fe7fd63000e253a9127de6a777d49b4
+#EXTINF:-1 tvg-name="人妻熟女" tvg-logo="https://i.postimg.cc/G3Md5MBN/1.png" group-title="限制",岛国片
+p3p://173.208.176.178:31809/5fe8019000071e4f91382c5b7fef4506
+#EXTINF:-1 tvg-name="XXXAV" tvg-logo="https://i.postimg.cc/G3Md5MBN/1.png" group-title="限制",岛国片
+p3p://173.208.176.178:31809/5fe80214000d2ec8913a3189085b6434
+#EXTINF:-1 tvg-name="动漫" tvg-logo="https://i.postimg.cc/G3Md5MBN/1.png" group-title="限制",岛国片
+p3p://173.208.176.178:31809/5ff742d8000bbabbccce4cb0100a31ff
+
+#EXTINF:-1 tvg-name="彩虹K" tvg-logo="https://i.postimg.cc/G3Md5MBN/1.png" group-title="限制",国产台
+p3p://173.208.176.178:31809/63fd56ec000b5f0d26d4fe1b07963493
+#EXTINF:-1 tvg-name="麻豆台湾" tvg-logo="https://i.postimg.cc/G3Md5MBN/1.png" group-title="限制",国产台
+p3p://173.208.176.178:31809/5fef5ed40002a464adfc0be76180670f
+#EXTINF:-1 tvg-name="麻豆外番" tvg-logo="https://i.postimg.cc/G3Md5MBN/1.png" group-title="限制",国产台
+p3p://173.208.176.178:31809/5fee86ee0006ce80aab0b2811d842258
+#EXTINF:-1 tvg-name="麻豆导演" tvg-logo="https://i.postimg.cc/G3Md5MBN/1.png" group-title="限制",国产台
+p3p://173.208.176.178:31809/5fee723900074e31aa5fcfa0561f1b95
+#EXTINF:-1 tvg-name="麻豆大番" tvg-logo="https://i.postimg.cc/G3Md5MBN/1.png" group-title="限制",国产台
+p3p://173.208.176.178:31809/5fee099a000e4a8da8c7244c6ff632e3
+#EXTINF:-1 tvg-name="麻豆天美" tvg-logo="https://i.postimg.cc/G3Md5MBN/1.png" group-title="限制",国产台
+p3p://173.208.176.178:31809/61bff85e00029535c4bd1c4f47fb5400
+#EXTINF:-1 tvg-name="精东影业" tvg-logo="https://i.postimg.cc/G3Md5MBN/1.png" group-title="限制",国产台
+p3p://173.208.176.178:31809/6135966100022f18a83512374f864fd8
+#EXTINF:-1 tvg-name="果冻传媒" tvg-logo="https://i.postimg.cc/G3Md5MBN/1.png" group-title="限制",国产台
+p3p://173.208.176.178:31809/5ff5420900039286c4fb220f4b133915
+#EXTINF:-1 tvg-name="PornTW" tvg-logo="https://i.postimg.cc/G3Md5MBN/1.png" group-title="限制",国产台
+p3p://173.208.176.178:31809/5ff399460003af78be7fe8571735593d
+
+#EXTINF:-1 tvg-name="惊艳台" tvg-logo="https://i.postimg.cc/G3Md5MBN/1.png" group-title="限制",惊艳台
+p3p://173.208.176.178:31809/60626a1b00010e3e6f5a5a4f018e5ebe
+#EXTINF:-1 tvg-name="潘多拉" tvg-logo="https://i.postimg.cc/G3Md5MBN/1.png" group-title="限制",潘多拉
+p3p://173.208.176.178:31809/5fe4450c000c918b829fca233c845311
+#EXTINF:-1 tvg-name="香蕉台" tvg-logo="https://i.postimg.cc/G3Md5MBN/1.png" group-title="限制",香蕉台
+p3p://173.208.176.178:31809/60626a760005067e6f5bbecb5816771e
+
+#EXTINF:-1 tvg-name="极限电影" tvg-logo="https://i.postimg.cc/G3Md5MBN/1.png" group-title="限制",极限台
+p3p://173.208.176.178:31809/6109e9bb0005fd87fd9ce5ea2c1f18d3
+#EXTINF:-1 tvg-name="经典三级" tvg-logo="https://i.postimg.cc/G3Md5MBN/1.png" group-title="限制",极限台
+p3p://173.208.176.178:31809/62dac52e00087a70098570f12b7962e5
+#EXTINF:-1 tvg-name="香港三级" tvg-logo="https://i.postimg.cc/G3Md5MBN/1.png" group-title="限制",极限台
+p3p://173.208.176.178:31809/607e0dca0005cd6ddb506963435f6f5a
+
+#EXTINF:-1 tvg-name="欧美台" tvg-logo="https://i.postimg.cc/G3Md5MBN/1.png" group-title="限制",欧美台
+p3p://173.208.176.178:31809/6403cb9f0003a839400cad904b301253
+#EXTINF:-1 tvg-name="欧美台" tvg-logo="https://i.postimg.cc/G3Md5MBN/1.png" group-title="限制",欧美台
+p3p://173.208.176.178:31809/6403cc0d0000f97a400e5a9115f012f3
+#EXTINF:-1 tvg-name="欧美台" tvg-logo="https://i.postimg.cc/G3Md5MBN/1.png" group-title="限制",欧美台
+p3p://173.208.176.178:31809/607e1f9f0004af8edb961118303e4935
+
+#EXTINF:-1 tvg-name="PlayBoy KR" tvg-logo="http://smartntv.pro/logokanali/adults/playboy.png" group-title="限制",PlayBoy
+p3p://173.208.176.178:31809/646fa54000041fa7e554fbe50f3b3077
+
+#EXTINF:-1 tvg-name="PlayBoy PLUS" tvg-logo="http://smartntv.pro/logokanali/adults/playboy.png" group-title="限制",PlayBoy
+http://chencai80088.ottclub.xyz/iptv/LMV2ZNWTPQLRBE/6242/index.m3u
+#EXTINF:-1 tvg-name="Playboy" tvg-logo="http://smartntv.pro/logokanali/adults/playboy.png" group-title="限制",PlayBoy
+http://chencai80088.ottclub.xyz/iptv/LMV2ZNWTPQLRBE/527/index.m3u
+#EXTINF:-1 tvg-name="Playboy LA" tvg-logo="http://smartntv.pro/logokanali/adults/playboy.png" group-title="限制",PlayBoy
+http://chencai80088.ottclub.xyz/iptv/LMV2ZNWTPQLRBE/6280/index.m3u
+#EXTINF:-1 tvg-name="JDHDV" tvg-logo="https://i.postimg.cc/G3Md5MBN/1.png" group-title="限制",岛国片
+http://chencai80088.ottclub.xyz/iptv/LMV2ZNWTPQLRBE/6225/index.m3u
+
+#EXTINF:-1 tvg-name="欧美台" tvg-logo="https://i.postimg.cc/G3Md5MBN/1.png" group-title="限制",欧美台
+http://cdn.adultiptv.net/lesbian.m3u8
+#EXTINF:-1 tvg-name="欧美台" tvg-logo="https://i.postimg.cc/G3Md5MBN/1.png" group-title="限制",欧美台
+http://cdn.adultiptv.net/cuckold.m3u8
+#EXTINF:-1 tvg-name="欧美台" tvg-logo="https://i.postimg.cc/G3Md5MBN/1.png" group-title="限制",欧美台
+http://88.212.7.11/live/test_erox_hd_hevc/playlist.m3u8
