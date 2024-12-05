@@ -160,8 +160,6 @@ http://221.0.78.26:881/hls/50231/index.m3u8
 http://221.0.78.26:881/hls/50238/index.m3u8
 #EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/IPTV/深圳卫视.png" group-title="卫视",深圳卫视
 http://221.0.78.26:881/hls/50239/index.m3u8
-#EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/IPTV/东方卫视.png" group-title="卫视",东方卫视
-http://221.0.78.26:881/hls/50234/index.m3u8
 #EXTINF:-1 tvg-name="东南卫视" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/IPTV/东南卫视.png" group-title="卫视",东南卫视
 http://221.0.78.26:881/hls/50242/index.m3u8
 #EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/IPTV/北京卫视.png" group-title="卫视",北京卫视
@@ -230,13 +228,6 @@ http://203.205.220.174:80/qctv.fengshows.cn/live/0701pin72.m3u8
 http://203.205.220.174:80/qctv.fengshows.cn/live/0701phk72.m3u8
 
 #EXTINF:-1 tvg-name="凤凰卫视" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/TVB/凤凰中文.png" group-title="港台",凤凰卫视
-http://kxrj.site:1333/86/fh.php?id=fhzw
-#EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/TVB/凤凰资讯.png" group-title="港台",凤凰资讯
-http://kxrj.site:1333/86/fh.php?id=fhzx
-#EXTINF:-1 tvg-name="凤凰香港" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/TVB/凤凰香港.png" group-title="港台",凤凰香港
-http://kxrj.site:1333/86/fh.php?id=fhhk
-
-#EXTINF:-1 tvg-name="凤凰卫视" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/TVB/凤凰中文.png" group-title="港台",凤凰卫视
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/TVB/凤凰资讯.png" group-title="港台",凤凰资讯
 http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
@@ -249,6 +240,13 @@ http://aktv.top/AKTV/live/aktv/null-3/AKTV.m3u8
 http://aktv.top/AKTV/live/aktv/null-4/AKTV.m3u8
 #EXTINF:-1 tvg-name="凤凰香港" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/TVB/凤凰香港.png" group-title="港台",凤凰香港
 http://aktv.top/AKTV/live/aktv/null-5/AKTV.m3u8
+
+#EXTINF:-1 tvg-name="凤凰卫视" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/TVB/凤凰中文.png" group-title="港台",凤凰卫视
+http://kxrj.site:1333/86/fh.php?id=fhzw
+#EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/TVB/凤凰资讯.png" group-title="港台",凤凰资讯
+http://kxrj.site:1333/86/fh.php?id=fhzx
+#EXTINF:-1 tvg-name="凤凰香港" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/TVB/凤凰香港.png" group-title="港台",凤凰香港
+http://kxrj.site:1333/86/fh.php?id=fhhk
 
 #EXTINF:-1 tvg-name="香港卫视" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/TVB/香港卫视.png" group-title="港台",香港卫视
 http://zhibo.hkstv.tv/livestream/mutfysrq.flv
@@ -419,11 +417,11 @@ http://50.7.234.10:8278/meiyamovie_twn/playlist.m3u8?tid=MC6C9419277694192776&ct
 
 #EXTINF:-1 tvg-name="now爆谷" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/TVB/now爆谷.png” group-title="影视",now爆谷
 http://aktv.top/AKTV/live/aktv2/now-1/AKTV.m3u8
-#EXTINF:-1 tvg-name="now星影" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/TVB/爆谷星影.png” group-title="影视",now星影
+#EXTINF:-1 tvg-name="now星影" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/IMG.png” group-title="影视",now星影
 http://aktv.top/AKTV/live/aktv2/now/AKTV.m3u8
 #EXTINF:-1 tvg-name="now爆谷" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/TVB/now爆谷.png",group-title="影视",now爆谷
 https://tv.mytvsuper.xyz/1/baogutai/baogu.m3u8
-#EXTINF:-1 tvg-name="now星影" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/TVB/爆谷星影.png” group-title="影视",now星影
+#EXTINF:-1 tvg-name="now星影" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/IMG.png” group-title="影视",now星影
 https://tv.mytvsuper.xyz/1/xingyingtai/xingying.m3u8
 
 #EXTINF:-1 tvg-name="amc电影" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/TVB/AMC电影.png" group-title="影视",amc电影
