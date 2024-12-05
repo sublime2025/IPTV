@@ -500,7 +500,7 @@ https://live.metshop.top/douyu/4246519
 https://live.metshop.top/douyu/426517
 #EXTINF:-1 tvg-name="斗鱼" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/斗鱼.png" group-title="影视",斗鱼轮播(左右)
 https://live.metshop.top/douyu/1274132
-#EXTINF:-1 tvg-name="复仇者联盟" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/斗鱼.png" group-title="影视",斗鱼轮播(左右)
+#EXTINF:-1 tvg-name="复联" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/斗鱼.png" group-title="影视",斗鱼轮播(左右)
 http://159.75.85.63:35455/douyu/6140589
 #EXTINF:-1 tvg-name="斗鱼" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/斗鱼.png" group-title="影视",斗鱼轮播(左右)
 http://huanqiuzhibo.cn/manifest/douyu.php?id=85894
@@ -542,7 +542,7 @@ http://zby.xjqxz.top/cldy/live.m3u8
 http://159.75.85.63:35455/huya/11342421
 #EXTINF:-1 tvg-name="英叔" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/虎牙.png" group-title="影视",英叔
 http://43.136.119.99/yy.php?id=1351505899&uid=1150685483
-11601968
+
 █████████████████████████████████████████████████████████████████████████████████████████████████████████
 
 #EXTINF:-1 tvg-name="陈翔六点半" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/IMG.png" group-title="剧集",陈翔六点半
@@ -892,14 +892,14 @@ p3p://173.208.176.178:31809/60626a760005067e6f5bbecb5816771e
 p3p://173.208.176.178:31809/6109e9bb0005fd87fd9ce5ea2c1f18d3
 #EXTINF:-1 tvg-name="香港三级" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/TVB/极限电影.png" group-title="限制",极限台
 p3p://173.208.176.178:31809/607e0dca0005cd6ddb506963435f6f5a
-#EXTINF:-1 tvg-name="经典三级" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/sublime2025/IPTV/main/TVB/极限电影.png" group-title="限制",极限台
+#EXTINF:-1 tvg-name="经典三级" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/TVB/极限电影.png" group-title="限制",极限台
 p3p://173.208.176.178:31809/62dac52e00087a70098570f12b7962e5
 
-#EXTINF:-1 tvg-name="欧美台" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/World/欧美片.png" group-title="限制",欧美台
+#EXTINF:-1 tvg-name="欧美台" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/World/Porn.png" group-title="限制",欧美台
 p3p://173.208.176.178:31809/6403cb9f0003a839400cad904b301253
-#EXTINF:-1 tvg-name="欧美台" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/World/欧美片.png" group-title="限制",欧美台
+#EXTINF:-1 tvg-name="欧美台" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/World/Porn.png" group-title="限制",欧美台
 p3p://173.208.176.178:31809/6403cc0d0000f97a400e5a9115f012f3
-#EXTINF:-1 tvg-name="欧美台" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/World/欧美片.png" group-title="限制",欧美台
+#EXTINF:-1 tvg-name="欧美台" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/World/Porn.png" group-title="限制",欧美台
 p3p://173.208.176.178:31809/607e1f9f0004af8edb961118303e4935
 
 #EXTINF:-1 tvg-name="PlayBoy KR" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/TVB/PlayBoy.png" group-title="限制",PlayBoy
@@ -914,9 +914,9 @@ http://chencai80088.ottclub.xyz/iptv/LMV2ZNWTPQLRBE/6280/index.m3u
 #EXTINF:-1 tvg-name="JDHDV" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/World/岛国片.png" group-title="限制",岛国片
 http://chencai80088.ottclub.xyz/iptv/LMV2ZNWTPQLRBE/6225/index.m3u
 
-#EXTINF:-1 tvg-name="欧美台" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/World/欧美片.png" group-title="限制",欧美台
+#EXTINF:-1 tvg-name="欧美台" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/World/Porn.png" group-title="限制",欧美台
 http://cdn.adultiptv.net/lesbian.m3u8
-#EXTINF:-1 tvg-name="欧美台" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/World/欧美片.png" group-title="限制",欧美台
+#EXTINF:-1 tvg-name="欧美台" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/World/Porn.png" group-title="限制",欧美台
 http://cdn.adultiptv.net/cuckold.m3u8
-#EXTINF:-1 tvg-name="欧美台" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/World/欧美片.png" group-title="限制",欧美台
+#EXTINF:-1 tvg-name="欧美台" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/World/Porn.png" group-title="限制",欧美台
 http://88.212.7.11/live/test_erox_hd_hevc/playlist.m3u8
