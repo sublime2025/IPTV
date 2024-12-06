@@ -1,4 +1,4 @@
-咪咕,#genre#
+咪咕TV,#genre#
 CCTV1,https://api.livednow.org/migu/608807420?sign=gAAAAABnJcJqONXJva4TySqKVwkHLHby6Ne_WRDndhTk_GS6KA-nBZI-nPc8RaYfnLJYnZOi1_gpZX90FSquN6BF0XzcOnsBN41Kfi9k-GihR8VqmFvGDaU3-w7RPpKH_jQp1rc5eqRkG97TL1ZanN0d0KISy_vT_x2wMEchVQyRwJVbcr-5Q8MDl1WIvSdo9b0tlPwCujaaYIRxzFT-4iEr-NoUcuO0hw%3D%3D
 CCTV2,https://api.livednow.org/migu/631780532?sign=gAAAAABnJcJqr0fwyjCRZenumPiYq29AgCGZbexK2XyM9exSQfwePDL4rwLxMaYmUy5BI5tmZ3p5Opg3XGESQyj1Myyx8xlfa--CzghtRa5MzC5lgOOROQFokKNIjS1xgPhehkOToP6coFx9T1FJaYtv8R7vSMPYGiBtsqx-CdWfMNReSPjRaDJSSrjZ0WKCW5GajQiFiD1fOBTLjS-S7V-uzyIxCqKWiQ%3D%3D
 CCTV3,https://api.livednow.org/migu/624878271?sign=gAAAAABnJcJqBzuFtK_e-R8Y5zzuNWtH9dD5ErIUOw3PaGq-2cUt_ty4tVxaFlKDox0cB51jc5h1UbnYdWwVB34WOYuNc8lg2HAeZSq8eQxhLSx7-W74CNR6KtgxXvTUzW_5zsQ33PZEpqm7sIuxliL32bQtzxcIIdpid2Gub7vsNYzKJWuVjAicsjoVCenU41Q5dMi8XPDUfnmgkYYiwWzmBdMXqP4I5A%3D%3D
@@ -25,7 +25,7 @@ CCTV4美洲,https://api.livednow.org/migu/608807416?sign=gAAAAABnJcJqws7IJW3h6Bl
 陕西卫视,https://api.livednow.org/migu/738910838?sign=gAAAAABnJcJqOtVCdd8WAn4DUT3VSbQHyfe5YFbUoqjsj_bS5O0aue2z6CSXEwpR856Z7BWlzxU-e48aeBfTOpdvGCnMnnjR8JmShiQd8oXFM-hTre-JgsjlvAzznm1jDoaQZsP8S-DAbqZK_jtrsaKSodpssxZZqCQjAazFU9B7A5GIEqWa9YF3LDLXONSmsFB7J7d9UM0FZx-CpzgBS2AhX8uO40kd0A%3D%3D
 湖北卫视,https://api.livednow.org/migu/738906825?sign=gAAAAABnJcJqKQRd7CS3pk7T0oe-jdNPxgJMyiZoPVRnbmv_IbK9koQZf32EgjFFCiEXqL4IXCnWyIaEuCmqxVNsBOQTIfaHM11IVchAHo4fZfQDVy5O7WNEHwMhK7DKJ5KlnIetRjJM7Emho9soMEYdRhTfzufHG-iUjz7CegJ_e5AKCaTCCYDJttiaZciJOCbCaWjAIMfx_PmomLPvKyNinANdp0vlxg%3D%3D
 
-开心,#genre#
+开心TV,#genre#
 CCTV1,http://kxrj.site:1333/86/mg.php?id=cctv1
 CCTV2,http://kxrj.site:1333/86/mg.php?id=cctv2
 CCTV3,http://kxrj.site:1333/86/mg.php?id=cctv3
@@ -191,26 +191,6 @@ CCTV-17频道,http://218.13.170.98:9901/tsfile/live/0016_1.m3u8
 兵团卫视频道,http://218.13.170.98:9901/tsfile/live/0115_1.m3u8
 内蒙古视频道,http://218.13.170.98:9901/tsfile/live/0109_1.m3u8
 黑龙江视频道,http://218.13.170.98:9901/tsfile/live/1006_1.m3u8
-
-CCTV1,http://182.92.109.190:1668/migu720/migu720.php?id=cctv1
-CCTV2,http://182.92.109.190:1668/migu720/migu720.php?id=cctv2
-CCTV3,http://182.92.109.190:1668/migu720/migu720.php?id=cctv3
-CCTV4,http://182.92.109.190:1668/migu720/migu720.php?id=cctv4
-CCTV5,http://182.92.109.190:1668/migu720/migu720.php?id=cctv5
-CCTV6,http://182.92.109.190:1668/migu720/migu720.php?id=cctv6
-CCTV7,http://182.92.109.190:1668/migu720/migu720.php?id=cctv7
-CCTV8,http://182.92.109.190:1668/migu720/migu720.php?id=cctv8
-CCTV9,http://182.92.109.190:1668/migu720/migu720.php?id=cctv9
-CCTV10,http://182.92.109.190:1668/migu720/migu720.php?id=cctv10
-CCTV11,http://182.92.109.190:1668/migu720/migu720.php?id=cctv11
-CCTV12,http://182.92.109.190:1668/migu720/migu720.php?id=cctv12
-CCTV13,http://182.92.109.190:1668/migu720/migu720.php?id=cctv13
-CCTV14,http://182.92.109.190:1668/migu720/migu720.php?id=cctv14
-CCTV15,http://182.92.109.190:1668/migu720/migu720.php?id=cctv15
-CCTV17,http://182.92.109.190:1668/migu720/migu720.php?id=cctv17
-CCTV5+,http://182.92.109.190:1668/migu720/migu720.php?id=cctv5p
-CCTV4欧洲,http://182.92.109.190:1668/migu720/migu720.php?id=cctv4o
-CCTV4美洲,http://182.92.109.190:1668/migu720/migu720.php?id=cctv4a
 
 CCTV1,http://183.94.146.109:2222/tsfile/live/0001_1.m3u8
 CCTV2,http://183.94.146.109:2222/tsfile/live/0002_1.m3u8
