@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml"
-
+#EXTM3U x-tvg-url="https://assets.livednow.com/epg.xml"
 █████████████████████████████████████████████████████████████████████████████████████████████████████████
 
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/CCTV/CCTV1.png" group-title="央视",CCTV1
