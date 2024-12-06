@@ -1,14 +1,17 @@
 #### 点播源
 
-|  名称  | 地址                                                         |
-| :----: | ------------------------------------------------------------ |
-| 饭太硬 | [http://www.饭太硬.com/tv](http://www.xn--sss604efuw.com/tv) |
-| 盒子迷 | [https://盒子迷.top/禁止贩卖](https://xn--i8sz35d1yr.top/禁止贩卖) |
-| 摸鱼儿 | [http://我不是.摸鱼儿.com](http://xn--ihqu10cn4c.xn--v4q818bf34b.com/) |
-|  肥猫  | [http://肥猫.com/](https://xn--z7x900a.com/)                 |
-|  OK猫  | http://ok321.top/ok                                          |
-|  ZWC   | http://kv.zwc365.com/tv.json                                 |
-|  CDN   | http://cdn.qiaoji8.com/tvbox.json                            |
+|   名称   | 地址                                                         |
+| :------: | ------------------------------------------------------------ |
+|  饭太硬  | [http://www.饭太硬.com/tv](http://www.xn--sss604efuw.com/tv) |
+|  盒子迷  | [https://盒子迷.top/禁止贩卖](https://xn--i8sz35d1yr.top/禁止贩卖) |
+|  摸鱼儿  | [http://我不是.摸鱼儿.com](http://xn--ihqu10cn4c.xn--v4q818bf34b.com/) |
+|   肥猫   | [http://肥猫.com/](https://xn--z7x900a.com/)                 |
+|   OK猫   | http://ok321.top/ok                                          |
+|   ZWC    | http://kv.zwc365.com/tv.json                                 |
+|   CDN    | http://cdn.qiaoji8.com/tvbox.json                            |
+|   星辰   | https://fmbox.cc/                                            |
+|  喵影视  | http://meowtv.cn/tv                                          |
+| 福利视频 | https://git.acwing.com/abai/tv/-/raw/main/a18.json           |
 
 #### 直播源
 
@@ -51,4 +54,3 @@
 > 数据主要采集至https://github.com/ngo5/IPTV 项目，由个人进行整理 丨
 >
 > 尽量个人使用，请勿在互联网平台过度分享，以保障源的有效性
-
