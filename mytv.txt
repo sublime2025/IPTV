@@ -399,146 +399,160 @@ MEZZOl频道,http://litv.zapi.us.kg/?id=4gtv-4gtv083
 Ginx_TV频道,http://litv.zapi.us.kg/?id=4gtv-4gtv053
 
 MYTV,#genre#
-民視,https://4gtv.mytvsuper.xyz/litv/4gtv-4gtv002
-民視第一台,https://4gtv.mytvsuper.xyz/litv/4gtv-4gtv003
-民視新聞台,https://4gtv.mytvsuper.xyz/litv/litv-ftv13
-民視台灣台,https://4gtv.mytvsuper.xyz/litv/4gtv-4gtv001
-民視影劇台,https://4gtv.mytvsuper.xyz/litv/litv-ftv09
-民視旅遊台,https://4gtv.mytvsuper.xyz/litv/litv-ftv07
-民視綜藝台,https://4gtv.mytvsuper.xyz/litv/4gtv-4gtv004
-中視,https://4gtv.mytvsuper.xyz/litv/4gtv-4gtv040
-中視新聞台,https://4gtv.mytvsuper.xyz/litv/4gtv-4gtv074
-中視經典台,https://4gtv.mytvsuper.xyz/litv/4gtv-4gtv080
-中視菁采台,https://4gtv.mytvsuper.xyz/litv/4gtv-4gtv064
-中天新聞台,https://4gtv.mytvsuper.xyz/litv/4gtv-4gtv009
-中天亞洲台,https://4gtv.mytvsuper.xyz/litv/4gtv-4gtv109
-華視,https://4gtv.mytvsuper.xyz/litv/4gtv-4gtv041
-華視新聞,https://4gtv.mytvsuper.xyz/litv/4gtv-4gtv052
-靖天綜合台,https://4gtv.mytvsuper.xyz/litv/4gtv-4gtv046
-靖天國際台,https://4gtv.mytvsuper.xyz/litv/4gtv-4gtv063
-靖天戲劇台,https://4gtv.mytvsuper.xyz/litv/4gtv-4gtv058
-靖天日本台,https://4gtv.mytvsuper.xyz/litv/4gtv-4gtv047
-靖天映畫台,https://4gtv.mytvsuper.xyz/litv/4gtv-4gtv055
-靖天卡通台,https://4gtv.mytvsuper.xyz/litv/4gtv-4gtv044
-靖天育樂台,https://4gtv.mytvsuper.xyz/litv/4gtv-4gtv062
-靖天資訊台,https://4gtv.mytvsuper.xyz/litv/4gtv-4gtv065
-靖天電影台,https://4gtv.mytvsuper.xyz/litv/4gtv-4gtv061
-靖天歡樂台,https://4gtv.mytvsuper.xyz/litv/4gtv-4gtv054
-龍華偶像台,https://4gtv.mytvsuper.xyz/litv/litv-longturn12
-龍華卡通台,https://4gtv.mytvsuper.xyz/litv/litv-longturn01
-龍華戲劇台,https://4gtv.mytvsuper.xyz/litv/litv-longturn18
-龍華日韓台,https://4gtv.mytvsuper.xyz/litv/litv-longturn11
-龍華經典台,https://4gtv.mytvsuper.xyz/litv/litv-longturn21
-龍華電影台,https://4gtv.mytvsuper.xyz/litv/litv-longturn03
-靖洋戲劇台,https://4gtv.mytvsuper.xyz/litv/4gtv-4gtv045
-靖洋卡通 Nice Bingo,https://4gtv.mytvsuper.xyz/litv/4gtv-4gtv057
-寰宇新聞台,https://4gtv.mytvsuper.xyz/litv/litv-longturn14
-寰宇新聞台灣台,https://4gtv.mytvsuper.xyz/litv/litv-longturn15
-寰宇財經台,https://4gtv.mytvsuper.xyz/litv/litv-longturn23
-TVBS,https://4gtv.mytvsuper.xyz/litv/4gtv-4gtv073
-TVBS 新聞台,https://4gtv.mytvsuper.xyz/litv/4gtv-4gtv072
-TVBS 歡樂台,https://4gtv.mytvsuper.xyz/litv/4gtv-4gtv068
-TVBS 精采台,https://4gtv.mytvsuper.xyz/litv/4gtv-4gtv067
-八大精彩台,https://4gtv.mytvsuper.xyz/litv/4gtv-4gtv034
-八大綜藝台,https://4gtv.mytvsuper.xyz/litv/4gtv-4gtv039
-台視,https://4gtv.mytvsuper.xyz/litv/4gtv-4gtv066
-台視新聞台,https://4gtv.mytvsuper.xyz/litv/4gtv-4gtv051
-台視財經台,https://4gtv.mytvsuper.xyz/litv/4gtv-4gtv056
-博斯運動一台,https://4gtv.mytvsuper.xyz/litv/litv-longturn07
-博斯運動二台,https://4gtv.mytvsuper.xyz/litv/litv-longturn08
-博斯無限台,https://4gtv.mytvsuper.xyz/litv/litv-longturn10
-博斯無限二台,https://4gtv.mytvsuper.xyz/litv/litv-longturn13
-博斯網球台,https://4gtv.mytvsuper.xyz/litv/litv-longturn09
-博斯高球台,https://4gtv.mytvsuper.xyz/litv/litv-longturn05
-博斯高球二台,https://4gtv.mytvsuper.xyz/litv/litv-longturn06
-博斯魅力台,https://4gtv.mytvsuper.xyz/litv/litv-longturn04
-ELTA 娛樂台,https://4gtv.mytvsuper.xyz/litv/4gtv-4gtv070
-ELTV 生活英語,https://4gtv.mytvsuper.xyz/litv/litv-longturn20
-東森新聞,https://4gtv.mytvsuper.xyz/litv/4gtv-4gtv152
-東森財經新聞,https://4gtv.mytvsuper.xyz/litv/4gtv-4gtv153
-非凡新聞台,https://4gtv.mytvsuper.xyz/litv/4gtv-4gtv010
-非凡商業台,https://4gtv.mytvsuper.xyz/litv/4gtv-4gtv048
-鏡電視新聞台,https://4gtv.mytvsuper.xyz/litv/4gtv-4gtv075
-亞洲旅遊台,https://4gtv.mytvsuper.xyz/litv/litv-longturn17
-GINX Esports TV,https://4gtv.mytvsuper.xyz/litv/4gtv-4gtv053
-智林體育台,https://4gtv.mytvsuper.xyz/litv/4gtv-4gtv101
-TraceSports,https://4gtv.mytvsuper.xyz/litv/4gtv-4gtv077
-影迷數位電影台,https://4gtv.mytvsuper.xyz/litv/4gtv-4gtv011
-AMC 電影台,https://4gtv.mytvsuper.xyz/litv/4gtv-4gtv017
-CatchPlay 電影台,https://4gtv.mytvsuper.xyz/litv/4gtv-4gtv076
-公視戲劇台,https://4gtv.mytvsuper.xyz/litv/4gtv-4gtv042
-采昌影劇台,https://4gtv.mytvsuper.xyz/litv/4gtv-4gtv049
-台灣戲劇台,https://4gtv.mytvsuper.xyz/litv/litv-longturn22
-i-Fun 動漫台,https://4gtv.mytvsuper.xyz/litv/litv-ftv15
-達文西頻道,https://4gtv.mytvsuper.xyz/litv/4gtv-4gtv018
-Classica 古典樂,https://4gtv.mytvsuper.xyz/litv/4gtv-4gtv059
-Mezzo Live,https://4gtv.mytvsuper.xyz/litv/4gtv-4gtv083
-豬哥亮歌廳秀,https://4gtv.mytvsuper.xyz/litv/4gtv-4gtv006
-Trace Urban,https://4gtv.mytvsuper.xyz/litv/4gtv-4gtv082
-韓國娛樂台,https://4gtv.mytvsuper.xyz/litv/4gtv-4gtv016
-Arirang TV,https://4gtv.mytvsuper.xyz/litv/4gtv-4gtv079
-VOA 美國之音,https://4gtv.mytvsuper.xyz/litv/litv-ftv03
-半島國際新聞台,https://4gtv.mytvsuper.xyz/litv/litv-ftv10
-第1商業台,https://4gtv.mytvsuper.xyz/litv/4gtv-4gtv104
-Smart 知識台,https://4gtv.mytvsuper.xyz/litv/litv-longturn19
-視納華仁紀實頻道,https://4gtv.mytvsuper.xyz/litv/4gtv-4gtv013
-客家電視台,https://4gtv.mytvsuper.xyz/litv/4gtv-4gtv043
-好消息,https://4gtv.mytvsuper.xyz/litv/litv-ftv16
-好消息2台,https://4gtv.mytvsuper.xyz/litv/litv-ftv17
-國會頻道1,https://4gtv.mytvsuper.xyz/litv/4gtv-4gtv084
-國會頻道2,https://4gtv.mytvsuper.xyz/litv/4gtv-4gtv085
-
-台視,https://dingyue.mytvsuper.xyz/oufei/ofiii_all.php?id=4gtv-4gtv066
-中視,https://dingyue.mytvsuper.xyz/oufei/ofiii_all.php?id=4gtv-4gtv040
-華視,https://dingyue.mytvsuper.xyz/oufei/ofiii_all.php?id=4gtv-4gtv041
-好消息2台,https://dingyue.mytvsuper.xyz/oufei/ofiii_all.php?id=litv-ftv17
-好消息,https://dingyue.mytvsuper.xyz/oufei/ofiii_all.php?id=litv-ftv16
-ELTV生活英語台,https://dingyue.mytvsuper.xyz/oufei/ofiii_all.php?id=litv-longturn20
-龍華卡通台,https://dingyue.mytvsuper.xyz/oufei/ofiii_all.php?id=litv-longturn01
-亞洲旅遊台,https://dingyue.mytvsuper.xyz/oufei/ofiii_all.php?id=litv-longturn17
-Smart知識台,https://dingyue.mytvsuper.xyz/oufei/ofiii_all.php?id=litv-longturn19
-龍華戲劇台,https://dingyue.mytvsuper.xyz/oufei/ofiii_all.php?id=litv-longturn18
-台灣戲劇台,https://dingyue.mytvsuper.xyz/oufei/ofiii_all.php?id=litv-longturn22
-東森購物1台,https://dingyue.mytvsuper.xyz/oufei/ofiii_all.php?id=4gtv-4gtv102
-龍華偶像台,https://dingyue.mytvsuper.xyz/oufei/ofiii_all.php?id=litv-longturn12
-龍華日韓台,https://dingyue.mytvsuper.xyz/oufei/ofiii_all.php?id=litv-longturn11
-東森購物2台,https://dingyue.mytvsuper.xyz/oufei/ofiii_all.php?id=4gtv-4gtv103
-華視新聞,https://dingyue.mytvsuper.xyz/oufei/ofiii_all.php?id=4gtv-4gtv052
-倪珍播新聞,https://dingyue.mytvsuper.xyz/oufei/ofiii_all.php?id=nnews-zh
-三立新聞iNEWS,https://dingyue.mytvsuper.xyz/oufei/ofiii_all.php?id=iNEWS
-寰宇財經台,https://dingyue.mytvsuper.xyz/oufei/ofiii_all.php?id=litv-longturn23
-台視新聞,https://dingyue.mytvsuper.xyz/oufei/ofiii_all.php?id=4gtv-4gtv051
-中視新聞,https://dingyue.mytvsuper.xyz/oufei/ofiii_all.php?id=4gtv-4gtv074
-中天新聞台,https://dingyue.mytvsuper.xyz/oufei/ofiii_all.php?id=4gtv-4gtv009
-寰宇新聞台灣台,https://dingyue.mytvsuper.xyz/oufei/ofiii_all.php?id=litv-longturn15
-寰宇新聞台,https://dingyue.mytvsuper.xyz/oufei/ofiii_all.php?id=litv-longturn14
-第1商業台,https://dingyue.mytvsuper.xyz/oufei/ofiii_all.php?id=4gtv-4gtv104
-國會頻道1台,https://dingyue.mytvsuper.xyz/oufei/ofiii_all.php?id=4gtv-4gtv084
-國會頻道2台,https://dingyue.mytvsuper.xyz/oufei/ofiii_all.php?id=4gtv-4gtv085
-倪珍英語新聞,https://dingyue.mytvsuper.xyz/oufei/ofiii_all.php?id=nnews-en
-龍華經典台,https://dingyue.mytvsuper.xyz/oufei/ofiii_all.php?id=litv-longturn21
-龍華電影台,https://dingyue.mytvsuper.xyz/oufei/ofiii_all.php?id=litv-longturn03
-爆谷台,https://www.mytvsuper.xyz/1/baogutai/stream.m3u8
-星影台,https://www.mytvsuper.xyz/1/now/stream.m3u8
-千禧经典,https://www.mytvsuper.xyz/astro/qianxi/stream.m3u8
-TVB生活,https://www.mytvsuper.xyz/tvb/shenghuo/stream.m3u8
-TVB星河,https://www.mytvsuper.xyz/tvb/xinghe/stream.m3u8
-台视,https://dingyue.mytvsuper.xyz/oufei/ofiii_all.php?id=4gtv-4gtv066
-中视,https://dingyue.mytvsuper.xyz/oufei/ofiii_all.php?id=4gtv-4gtv040
-华视,https://dingyue.mytvsuper.xyz/oufei/ofiii_all.php?id=4gtv-4gtv041
-龙华卡通,https://dingyue.mytvsuper.xyz/oufei/ofiii_all.php?id=litv-longturn01
-龙华偶像,https://dingyue.mytvsuper.xyz/oufei/ofiii_all.php?id=litv-longturn12
-龙华日韩,https://dingyue.mytvsuper.xyz/oufei/ofiii_all.php?id=litv-longturn11
-龙华经典,https://dingyue.mytvsuper.xyz/oufei/ofiii_all.php?id=litv-longturn21
-龙华电影,https://dingyue.mytvsuper.xyz/oufei/ofiii_all.php?id=litv-longturn03
-华视新闻,https://dingyue.mytvsuper.xyz/oufei/ofiii_all.php?id=4gtv-4gtv052
-中视新闻,https://dingyue.mytvsuper.xyz/oufei/ofiii_all.php?id=4gtv-4gtv074
-中天新闻,https://dingyue.mytvsuper.xyz/oufei/ofiii_all.php?id=4gtv-4gtv009
-台视新闻,https://dingyue.mytvsuper.xyz/oufei/ofiii_all.php?id=4gtv-4gtv051
-寰宇新闻,https://dingyue.mytvsuper.xyz/oufei/ofiii_all.php?id=litv-longturn14
+綜合
+民視,https://pixman.mytvsuper.com.mp/litv/4gtv-4gtv002
+民視第一台,https://pixman.mytvsuper.com.mp/litv/4gtv-4gtv003
+民視台灣台,https://pixman.mytvsuper.com.mp/litv/4gtv-4gtv001
+中視,https://pixman.mytvsuper.com.mp/litv/4gtv-4gtv040
+中視菁采台,https://pixman.mytvsuper.com.mp/litv/4gtv-4gtv064
+中天亞洲台,https://pixman.mytvsuper.com.mp/litv/4gtv-4gtv109
+華視,https://pixman.mytvsuper.com.mp/litv/4gtv-4gtv041
+靖天綜合台,https://pixman.mytvsuper.com.mp/litv/4gtv-4gtv046
+靖天國際台,https://pixman.mytvsuper.com.mp/litv/4gtv-4gtv063
+靖天日本台,https://pixman.mytvsuper.com.mp/litv/4gtv-4gtv047
+三立綜合台,https://pixman.mytvsuper.com.mp/4gtv/169
+台視,https://pixman.mytvsuper.com.mp/litv/4gtv-4gtv066
+Arirang TV,https://pixman.mytvsuper.com.mp/litv/4gtv-4gtv079
+Bloomberg TV,https://pixman.mytvsuper.com.mp/4gtv/283
+新聞財經
+民視新聞台,https://pixman.mytvsuper.com.mp/litv/litv-ftv13
+中視新聞台,https://pixman.mytvsuper.com.mp/litv/4gtv-4gtv074
+中天新聞台,https://pixman.mytvsuper.com.mp/litv/4gtv-4gtv009
+華視新聞,https://pixman.mytvsuper.com.mp/litv/4gtv-4gtv052
+靖天資訊台,https://pixman.mytvsuper.com.mp/litv/4gtv-4gtv065
+寰宇新聞台,https://pixman.mytvsuper.com.mp/litv/litv-longturn14
+寰宇新聞台灣台,https://pixman.mytvsuper.com.mp/litv/litv-longturn15
+寰宇財經台,https://pixman.mytvsuper.com.mp/litv/litv-longturn23
+TVBS 新聞台,https://pixman.mytvsuper.com.mp/litv/4gtv-4gtv072
+三立 iNEWS,https://pixman.mytvsuper.com.mp/4gtv/229
+台視新聞台,https://pixman.mytvsuper.com.mp/litv/4gtv-4gtv051
+台視財經台,https://pixman.mytvsuper.com.mp/litv/4gtv-4gtv056
+東森新聞,https://pixman.mytvsuper.com.mp/litv/4gtv-4gtv152
+東森財經新聞,https://pixman.mytvsuper.com.mp/litv/4gtv-4gtv153
+非凡新聞台,https://pixman.mytvsuper.com.mp/litv/4gtv-4gtv010
+非凡商業台,https://pixman.mytvsuper.com.mp/litv/4gtv-4gtv048
+鏡電視新聞台,https://pixman.mytvsuper.com.mp/litv/4gtv-4gtv075
+CNBC Asia 財經台,https://pixman.mytvsuper.com.mp/4gtv/235
+VOA 美國之音,https://pixman.mytvsuper.com.mp/litv/litv-ftv03
+DW德國之聲,https://pixman.mytvsuper.com.mp/4gtv/226
+SBN 全球財經台,https://pixman.mytvsuper.com.mp/4gtv/224
+半島國際新聞台,https://pixman.mytvsuper.com.mp/litv/litv-ftv10
+第1商業台,https://pixman.mytvsuper.com.mp/litv/4gtv-4gtv104
+電影戲劇
+民視影劇台,https://pixman.mytvsuper.com.mp/litv/litv-ftv09
+中視經典台,https://pixman.mytvsuper.com.mp/litv/4gtv-4gtv080
+靖天戲劇台,https://pixman.mytvsuper.com.mp/litv/4gtv-4gtv058
+靖天電影台,https://pixman.mytvsuper.com.mp/litv/4gtv-4gtv061
+龍華偶像台,https://pixman.mytvsuper.com.mp/litv/litv-longturn12
+龍華戲劇台,https://pixman.mytvsuper.com.mp/litv/litv-longturn18
+龍華經典台,https://pixman.mytvsuper.com.mp/litv/litv-longturn21
+龍華電影台,https://pixman.mytvsuper.com.mp/litv/litv-longturn03
+靖洋戲劇台,https://pixman.mytvsuper.com.mp/litv/4gtv-4gtv045
+TVBS 台劇台,https://pixman.mytvsuper.com.mp/4gtv/285
+影迷數位紀實台,https://pixman.mytvsuper.com.mp/4gtv/212
+影迷數位電影台,https://pixman.mytvsuper.com.mp/litv/4gtv-4gtv011
+AMC 電影台,https://pixman.mytvsuper.com.mp/litv/4gtv-4gtv017
+CatchPlay 電影台,https://pixman.mytvsuper.com.mp/litv/4gtv-4gtv076
+My Cinema Europe HD 我的歐洲電影,https://pixman.mytvsuper.com.mp/4gtv/176
+公視戲劇台,https://pixman.mytvsuper.com.mp/litv/4gtv-4gtv042
+采昌影劇台,https://pixman.mytvsuper.com.mp/litv/4gtv-4gtv049
+台灣戲劇台,https://pixman.mytvsuper.com.mp/litv/litv-longturn22
+戲劇免費看 1台,https://pixman.mytvsuper.com.mp/4gtv/270
+戲劇免費看 2台,https://pixman.mytvsuper.com.mp/4gtv/244
+經典電影台,https://pixman.mytvsuper.com.mp/4gtv/201
+電影免費看 2台,https://pixman.mytvsuper.com.mp/4gtv/245
+電影原聲台 CMusic,https://pixman.mytvsuper.com.mp/4gtv/218
+花系列 經典劇場,https://pixman.mytvsuper.com.mp/4gtv/279
+CinemaWorld,https://pixman.mytvsuper.com.mp/4gtv/225
+HITS 頻道,https://pixman.mytvsuper.com.mp/4gtv/186
+Rock Action,https://pixman.mytvsuper.com.mp/4gtv/180
+Rock Entertainment,https://pixman.mytvsuper.com.mp/4gtv/275
+金光布袋戲,https://pixman.mytvsuper.com.mp/4gtv/236
+霹靂布袋戲,https://pixman.mytvsuper.com.mp/4gtv/301
+生活旅遊
+民視旅遊台,https://pixman.mytvsuper.com.mp/litv/litv-ftv07
+ELTA 生活旅遊,https://pixman.mytvsuper.com.mp/4gtv/237
+ELTV 生活英語,https://pixman.mytvsuper.com.mp/litv/litv-longturn20
+亞洲旅遊台,https://pixman.mytvsuper.com.mp/litv/litv-longturn17
+Global Trekker,https://pixman.mytvsuper.com.mp/4gtv/252
+LUXE TV,https://pixman.mytvsuper.com.mp/4gtv/175
+Pet Club TV,https://pixman.mytvsuper.com.mp/4gtv/182
+TV5MONDE Style,https://pixman.mytvsuper.com.mp/4gtv/178
+車迷 TV,https://pixman.mytvsuper.com.mp/4gtv/160
+Love Nature,https://pixman.mytvsuper.com.mp/4gtv/139
+Fun 探索娛樂台,https://pixman.mytvsuper.com.mp/4gtv/274
+幸福空間居家台,https://pixman.mytvsuper.com.mp/4gtv/168
+音樂綜藝
+民視綜藝台,https://pixman.mytvsuper.com.mp/litv/4gtv-4gtv004
+靖天育樂台,https://pixman.mytvsuper.com.mp/litv/4gtv-4gtv062
+靖天歡樂台,https://pixman.mytvsuper.com.mp/litv/4gtv-4gtv054
+龍華日韓台,https://pixman.mytvsuper.com.mp/litv/litv-longturn11
+TVBS 綜藝台,https://pixman.mytvsuper.com.mp/4gtv/284
+TVBS 歡樂台,https://pixman.mytvsuper.com.mp/litv/4gtv-4gtv068
+TVBS 精采台,https://pixman.mytvsuper.com.mp/litv/4gtv-4gtv067
+八大精彩台,https://pixman.mytvsuper.com.mp/litv/4gtv-4gtv034
+八大綜藝台,https://pixman.mytvsuper.com.mp/litv/4gtv-4gtv039
+ELTA 娛樂台,https://pixman.mytvsuper.com.mp/litv/4gtv-4gtv070
+Classica 古典樂,https://pixman.mytvsuper.com.mp/litv/4gtv-4gtv059
+Lifetime 娛樂頻道,https://pixman.mytvsuper.com.mp/4gtv/217
+MTV Live HD 音樂頻道,https://pixman.mytvsuper.com.mp/4gtv/213
+Mezzo Live,https://pixman.mytvsuper.com.mp/litv/4gtv-4gtv083
+豬哥亮歌廳秀,https://pixman.mytvsuper.com.mp/litv/4gtv-4gtv006
+Trace Urban,https://pixman.mytvsuper.com.mp/litv/4gtv-4gtv082
+韓國娛樂台,https://pixman.mytvsuper.com.mp/litv/4gtv-4gtv016
+少兒
+靖天映畫台,https://pixman.mytvsuper.com.mp/litv/4gtv-4gtv055
+靖天卡通台,https://pixman.mytvsuper.com.mp/litv/4gtv-4gtv044
+龍華卡通台,https://pixman.mytvsuper.com.mp/litv/litv-longturn01
+靖洋卡通 Nice Bingo,https://pixman.mytvsuper.com.mp/litv/4gtv-4gtv057
+DreamWorks 夢工廠動畫,https://pixman.mytvsuper.com.mp/4gtv/282
+Nickelodeon,https://pixman.mytvsuper.com.mp/4gtv/185
+Nick Jr. 兒童頻道,https://pixman.mytvsuper.com.mp/4gtv/219
+i-Fun 動漫台,https://pixman.mytvsuper.com.mp/litv/litv-ftv15
+兒童卡通台,https://pixman.mytvsuper.com.mp/4gtv/269
+精選動漫台,https://pixman.mytvsuper.com.mp/4gtv/204
+經典卡通台,https://pixman.mytvsuper.com.mp/4gtv/202
+達文西頻道,https://pixman.mytvsuper.com.mp/litv/4gtv-4gtv018
+超人力霸王整套看,https://pixman.mytvsuper.com.mp/4gtv/278
+MOMO 親子台,https://pixman.mytvsuper.com.mp/4gtv/231
+LiveABC 互動英語台,https://pixman.mytvsuper.com.mp/4gtv/188
+其他
+TVBS,https://pixman.mytvsuper.com.mp/litv/4gtv-4gtv073
+History 歷史頻道,https://pixman.mytvsuper.com.mp/4gtv/214
+CI 罪案偵查頻道,https://pixman.mytvsuper.com.mp/4gtv/215
+Smart 知識台,https://pixman.mytvsuper.com.mp/litv/litv-longturn19
+視納華仁紀實頻道,https://pixman.mytvsuper.com.mp/litv/4gtv-4gtv013
+原住民族電視台,https://pixman.mytvsuper.com.mp/4gtv/273
+客家電視台,https://pixman.mytvsuper.com.mp/litv/4gtv-4gtv043
+滾動力 Rollor,https://pixman.mytvsuper.com.mp/4gtv/249
+好消息,https://pixman.mytvsuper.com.mp/litv/litv-ftv16
+好消息2台,https://pixman.mytvsuper.com.mp/litv/litv-ftv17
+大愛電視,https://pixman.mytvsuper.com.mp/4gtv/209
+大愛電視2,https://pixman.mytvsuper.com.mp/4gtv/230
+人間衛視,https://pixman.mytvsuper.com.mp/4gtv/210
+國會頻道1,https://pixman.mytvsuper.com.mp/litv/4gtv-4gtv084
+國會頻道2,https://pixman.mytvsuper.com.mp/litv/4gtv-4gtv085
+東森購物一台,https://pixman.mytvsuper.com.mp/4gtv/173
+東森購物二台,https://pixman.mytvsuper.com.mp/4gtv/174
+東森購物三台,https://pixman.mytvsuper.com.mp/4gtv/287
+東森購物四台,https://pixman.mytvsuper.com.mp/4gtv/286
+體育
+博斯運動一台,https://pixman.mytvsuper.com.mp/litv/litv-longturn07
+博斯運動二台,https://pixman.mytvsuper.com.mp/litv/litv-longturn08
+博斯無限台,https://pixman.mytvsuper.com.mp/litv/litv-longturn10
+博斯無限二台,https://pixman.mytvsuper.com.mp/litv/litv-longturn13
+博斯網球台,https://pixman.mytvsuper.com.mp/litv/litv-longturn09
+博斯高球台,https://pixman.mytvsuper.com.mp/litv/litv-longturn05
+博斯高球二台,https://pixman.mytvsuper.com.mp/litv/litv-longturn06
+博斯魅力台,https://pixman.mytvsuper.com.mp/litv/litv-longturn04
+GINX Esports TV,https://pixman.mytvsuper.com.mp/litv/4gtv-4gtv053
+TechStorm,https://pixman.mytvsuper.com.mp/4gtv/181
+時尚運動X,https://pixman.mytvsuper.com.mp/4gtv/277
+智林體育台,https://pixman.mytvsuper.com.mp/litv/4gtv-4gtv101
+TraceSports,https://pixman.mytvsuper.com.mp/litv/4gtv-4gtv077
 
 阿里,#genre#
-http://ali.hlspull.yximgs.com/live/_pa_chong_bo___fenghuang.flv
+凤凰卫视,http://ali.hlspull.yximgs.com/live/_pa_chong_bo___fenghuang.flv
 翡翠台,https://ali.hlspull.yximgs.com/live/226ac3c29b6ec71357c33184777e64f9.flv
 TVB Plus,https://ali.hlspull.yximgs.com/live/1d9fbd2761fe63c1443e9eea6cb39973.flv
 明珠台,https://ali.hlspull.yximgs.com/live/36732b7a97d7f0a30aae29804ce15c09.flv
@@ -691,496 +705,6 @@ ELEVEN2,rtmp://f13h.mine.nu/sat/tv741
 緯來育樂,rtmp://220.130.201.73/sat/tv701
 緯來日本,rtmp://220.130.201.73/sat/tv771
 東森超視,rtmp://220.130.201.73/sat/tv331
-
-轮播,#genre#
-
-寻秦记,http://159.75.85.63:35455/yy/1382851591
-封神榜,http://159.75.85.63:35455/huya/23749096
-鹿鼎记,http://159.75.85.63:35455/huya/23865080
-西游记Ⅰ,http://159.75.85.63:35455/yy/1354936155
-西游记后传,http://159.75.85.63:35455/yy/1382736846
-天下第一,http://159.75.85.63:35455/yy/1382736838
-仙剑奇侠传Ⅰ,http://159.75.85.63:35455/yy/1382749903
-大江大河,http://159.75.85.63:35455/yy/1382736797
-新三国,http://159.75.85.63:35455/huya/11352944
-新水浒,http://159.75.85.63:35455/huya/11342384
-少年张三丰,http://159.75.85.63:35455/huya/26355824
-少年包青天1,http://159.75.85.63:35455/yy/1356043677
-少年包青天2,http://159.75.85.63:35455/yy/38498680
-少年包青天3,http://159.75.85.63:35455/yy/1382851540
-风云雄霸天下,http://159.75.85.63:35455/huya/21059612
-倚天屠龙记,http://159.75.85.63:35455/huya/11342403
-天龙八部,http://159.75.85.63:35455/yy/1351814644
-笑傲江湖,http://159.75.85.63:35455/yy/1354930909
-武林外传,http://159.75.85.63:35455/yy/21092633
-大唐双龙传,http://159.75.85.63:35455/huya/s4k
-隋唐英雄传,http://159.75.85.63:35455/yy/1352475619
-忠烈杨家将,http://159.75.85.63:35455/yy/1382749909
-雪中悍刀行,http://159.75.85.63:35455/yy/1382660835
-哆啦A梦,http://159.75.85.63:35455/huya/11601963
-蜡笔小新,http://159.75.85.63:35455/huya/11352970
-海绵宝宝,http://159.75.85.63:35455/huya/11352919
-火影忍者,http://159.75.85.63:35455/huya/11342385
-中华小当家,http://159.75.85.63:35455/huya/24257300
-与凤行,http://159.75.85.63:35455/huya/26355866
-开端,http://159.75.85.63:35455/huya/11342397
-芈月传,http://159.75.85.63:35455/huya/11352975
-甄嬛传,http://159.75.85.63:35455/huya/30145009
-庆余年,http://159.75.85.63:35455/huya/11352960
-雪中悍刀行,http://159.75.85.63:35455/huya/11336592
-
-周星驰,https://live.metshop.top/huya/11342412
-李连杰,https://live.metshop.top/huya/11342390
-甄子丹,https://live.metshop.top/huya/11352935
-刘德华,https://live.metshop.top/huya/11342424
-邱淑贞,https://live.metshop.top/huya/11352949
-女神系列,https://live.metshop.top/huya/11336571
-赌片,https://live.metshop.top/huya/11342399
-bang派,https://live.metshop.top/huya/11336719
-科幻动作,https://live.metshop.top/huya/11352964
-国产喜剧,https://live.metshop.top/huya/11602044
-五福星,https://live.metshop.top/huya/11282233
-古墓系列,https://live.metshop.top/huya/11352913
-灾难电影,https://live.metshop.top/huya/11352871
-港片,https://live.metshop.top/huya/11602043
-灾难片,https://live.metshop.top/huya/11602075
-奇幻片,https://live.metshop.top/huya/16149609
-悬疑片,https://live.metshop.top/huya/16099968
-香港贺岁,https://live.metshop.top/huya/11601971
-合家欢剧场,https://live.metshop.top/huya/11602067
-恐怖片,https://live.metshop.top/huya/16741179
-历年贺岁档,https://live.metshop.top/huya/11601986
-李世民,https://live.metshop.top/huya/11336572
-港产搞笑,https://live.metshop.top/huya/11342423
-滇军抗战,https://live.metshop.top/huya/11342388
-经典女神,https://live.metshop.top/huya/11352909
-爱情公寓,https://live.metshop.top/huya/11336726
-士兵突击,https://live.metshop.top/huya/11342430
-玄幻剧场,https://live.metshop.top/huya/11342414
-联合抗日,https://live.metshop.top/huya/11352910
-三国演义,https://live.metshop.top/huya/11602081
-三国,https://live.metshop.top/huya/11352944
-新水浒,https://live.metshop.top/huya/11342384
-神探狄仁杰2,https://live.metshop.top/huya/11342425
-神雕侠侣,https://live.metshop.top/huya/23865171
-笑傲江湖,https://live.metshop.top/huya/23865142
-埋堆堆,https://live.metshop.top/huya/23865036
-纪晓岚,https://live.metshop.top/huya/11342396
-雍正皇帝,https://live.metshop.top/huya/11342439
-许冠英合集,https://live.metshop.top/huya/11601972
-经典港剧,https://live.metshop.top/huya/11352965
-电影_强森,https://live.metshop.top/huya/21059581
-电影_怪兽,https://live.metshop.top/huya/21059577
-电影_救援,https://live.metshop.top/huya/21059594
-电影_盗墓,https://live.metshop.top/huya/21059552
-电影_谍战,https://live.metshop.top/huya/21059585
-电影_梁家辉,https://live.metshop.top/huya/11342429
-电影_斯坦森,https://live.metshop.top/huya/21059588
-电影_小鬼头,https://live.metshop.top/huya/11352963
-电影_八点档,https://live.metshop.top/huya/880261
-电影_丧尸片,https://live.metshop.top/huya/21059578
-电影_战争片,https://live.metshop.top/huya/21059574
-电影_犯罪片,https://live.metshop.top/huya/11352974
-电影_古装片,https://live.metshop.top/huya/11336590
-电影_国产悬疑,https://live.metshop.top/huya/11342395
-电影_喜乐影院,https://live.metshop.top/huya/21059580
-电影_蘑菇影厅,https://live.metshop.top/huya/11601981
-电影_死神来了,https://live.metshop.top/huya/11352903
-电影_怪兽系列,https://live.metshop.top/huya/21059554
-电影_强森,https://live.metshop.top/huya/21059581
-电影_怪兽,https://live.metshop.top/huya/21059577
-电影_救援,https://live.metshop.top/huya/21059594
-电影_玄幻,https://live.metshop.top/huya/11342414
-电影_谍战,https://live.metshop.top/huya/21059585
-电影_港片,https://live.metshop.top/huya/11602043
-电影_李连杰,https://live.metshop.top/huya/11342390
-电影_梁家辉,https://live.metshop.top/huya/11342429
-电影_刘德华,https://live.metshop.top/huya/11342424
-
-七龙珠,https://live.iill.top/huya/11601966
-海贼王,https://live.iill.top/huya/16913382
-灌篮高手,https://live.iill.top/yy/1382735626
-
-周星星,http://120.77.28.4:8648/huya.php?id=11336587
-小鬼头,http://120.77.28.4:8648/huya.php?id=11352963
-刘德华,http://120.77.28.4:8648/huya.php?id=11342424
-许冠英,http://120.77.28.4:8648/huya.php?id=11601972
-李连杰,http://120.77.28.4:8648/huya.php?id=11342390
-甄子丹,http://120.77.28.4:8648/huya.php?id=11352935
-星爷,http://120.77.28.4:8648/huya.php?id=11342412
-英叔,http://120.77.28.4:8648/huya.php?id=11342421
-成龙,http://120.77.28.4:8648/huya.php?id=11342386
-王晶,http://120.77.28.4:8648/huya.php?id=11602058
-沈腾,http://120.77.28.4:8648/huya.php?id=11601968
-黄渤,http://120.77.28.4:8648/huya.php?id=11352876
-吴京,http://120.77.28.4:8648/huya.php?id=11602041
-强森,http://120.77.28.4:8648/huya.php?id=21059581
-怪兽,http://120.77.28.4:8648/huya.php?id=21059577
-武侠,http://120.77.28.4:8648/huya.php?id=11342427
-罪犯,http://120.77.28.4:8648/huya.php?id=11352962
-枪战,http://120.77.28.4:8648/huya.php?id=21059579
-盗墓,http://120.77.28.4:8648/huya.php?id=21059552
-贺岁,http://120.77.28.4:8648/huya.php?id=11601971
-玄幻,http://120.77.28.4:8648/huya.php?id=11342414
-喜剧,http://120.77.28.4:8648/huya.php?id=11352877
-港片,http://120.77.28.4:8648/huya.php?id=11602043
-国产,http://120.77.28.4:8648/huya.php?id=11352973
-喜剧专场,http://120.77.28.4:8648/huya.php?id=11602044
-高分动作,http://120.77.28.4:8648/huya.php?id=11352884
-不挤影院,http://120.77.28.4:8648/huya.php?id=11352897
-黑帮斗争,http://120.77.28.4:8648/huya.php?id=11342419
-嫣然影厅,http://120.77.28.4:8648/huya.php?id=11601977
-女神系列,http://120.77.28.4:8648/huya.php?id=11336571
-经典女神,http://120.77.28.4:8648/huya.php?id=11352909
-许氏三杰,http://120.77.28.4:8648/huya.php?id=11602033
-经典港片,http://120.77.28.4:8648/huya.php?id=11352965
-镖行天下,http://120.77.28.4:8648/huya.php?id=11352969
-蘑菇影厅,http://120.77.28.4:8648/huya.php?id=11601981
-搞笑恐怖,http://120.77.28.4:8648/huya.php?id=11601960
-死神来了,http://120.77.28.4:8648/huya.php?id=11352903
-电影_发哥,http://120.77.28.4:8648/huya.php?id=11342387
-电影_漫威,http://120.77.28.4:8648/huya.php?id=11602034
-电影_宇宙,http://120.77.28.4:8648/huya.php?id=11342428
-电影_警匪,http://120.77.28.4:8648/huya.php?id=11352886
-电影_海盗,http://120.77.28.4:8648/huya.php?id=21059595
-电影_赛车,http://120.77.28.4:8648/huya.php?id=11279247
-电影_救援,http://120.77.28.4:8648/huya.php?id=21059594
-电影_热血,http://120.77.28.4:8648/huya.php?id=11352934
-电影_谍战,http://120.77.28.4:8648/huya.php?id=21059585
-电影_战争,http://120.77.28.4:8648/huya.php?id=21059592
-电影_洪金宝,http://120.77.28.4:8648/huya.php?id=11279251
-电影_梁家辉,http://120.77.28.4:8648/huya.php?id=11342429
-电影_斯坦森,http://120.77.28.4:8648/huya.php?id=21059588
-电影_八点档,http://120.77.28.4:8648/huya.php?id=880261
-电影_蜘蛛侠,http://120.77.28.4:8648/huya.php?id=21059599
-电影_贺岁片,http://120.77.28.4:8648/huya.php?id=11601986
-电影_功夫片,http://120.77.28.4:8648/huya.php?id=11352941
-电影_黑帮片,http://120.77.28.4:8648/huya.php?id=11336719
-电影_丧尸片,http://120.77.28.4:8648/huya.php?id=21059578
-电影_灾难片,http://120.77.28.4:8648/huya.php?id=11602075
-电影_谍战片,http://120.77.28.4:8648/huya.php?id=21059587
-电影_战争片,http://120.77.28.4:8648/huya.php?id=21059574
-电影_犯罪片,http://120.77.28.4:8648/huya.php?id=11352974
-电影_古装片,http://120.77.28.4:8648/huya.php?id=11336590
-电影_动作电影,http://120.77.28.4:8648/huya.php?id=11602077
-电影_搞笑喜剧,http://120.77.28.4:8648/huya.php?id=11342423
-电影_欢笑影院,http://120.77.28.4:8648/huya.php?id=11352894
-电影_国产悬疑,http://120.77.28.4:8648/huya.php?id=11342395
-电影_快意江湖,http://120.77.28.4:8648/huya.php?id=11342435
-电影_高能反转,http://120.77.28.4:8648/huya.php?id=11352887
-电影_喜乐影院,http://120.77.28.4:8648/huya.php?id=21059580
-电影_怪兽系列,http://120.77.28.4:8648/huya.php?id=21059554
-电影_发哥,http://120.77.28.4:8648/huya.php?id=11342387
-电影_漫威,http://120.77.28.4:8648/huya.php?id=11602034
-电影_宇宙,http://120.77.28.4:8648/huya.php?id=11342428
-电影_警匪,http://120.77.28.4:8648/huya.php?id=11352886
-电影_海盗,http://120.77.28.4:8648/huya.php?id=21059595
-电影_赛车,http://120.77.28.4:8648/huya.php?id=11279247
-电影_救援,http://120.77.28.4:8648/huya.php?id=21059594
-电影_热血,http://120.77.28.4:8648/huya.php?id=11352934
-电影_谍战,http://120.77.28.4:8648/huya.php?id=21059585
-电影_战争,http://120.77.28.4:8648/huya.php?id=21059592
-电影_洪金宝,http://120.77.28.4:8648/huya.php?id=11279251
-电影_梁家辉,http://120.77.28.4:8648/huya.php?id=11342429
-电影_斯坦森,http://120.77.28.4:8648/huya.php?id=21059588
-电影_八点档,http://120.77.28.4:8648/huya.php?id=880261
-电影_蜘蛛侠,http://120.77.28.4:8648/huya.php?id=21059599
-电影_贺岁片,http://120.77.28.4:8648/huya.php?id=11601986
-电影_功夫片,http://120.77.28.4:8648/huya.php?id=11352941
-电影_黑帮片,http://120.77.28.4:8648/huya.php?id=11336719
-电影_丧尸片,http://120.77.28.4:8648/huya.php?id=21059578
-电影_灾难片,http://120.77.28.4:8648/huya.php?id=11602075
-电影_谍战片,http://120.77.28.4:8648/huya.php?id=21059587
-电影_战争片,http://120.77.28.4:8648/huya.php?id=21059574
-电影_犯罪片,http://120.77.28.4:8648/huya.php?id=11352974
-电影_古装片,http://120.77.28.4:8648/huya.php?id=11336590
-电影_动作电影,http://120.77.28.4:8648/huya.php?id=11602077
-电影_搞笑喜剧,http://120.77.28.4:8648/huya.php?id=11342423
-电影_欢笑影院,http://120.77.28.4:8648/huya.php?id=11352894
-电影_国产悬疑,http://120.77.28.4:8648/huya.php?id=11342395
-电影_快意江湖,http://120.77.28.4:8648/huya.php?id=11342435
-电影_高能反转,http://120.77.28.4:8648/huya.php?id=11352887
-电影_喜乐影院,http://120.77.28.4:8648/huya.php?id=21059580
-电影_变形金刚,http://120.77.28.4:8648/huya.php?id=21059596
-电影_怪兽系列,http://120.77.28.4:8648/huya.php?id=21059554
-电影_贺岁,http://120.77.28.4:8648/huya.php?id=11601971
-电影_玄幻,http://120.77.28.4:8648/huya.php?id=11342414
-电影_谍战,http://120.77.28.4:8648/huya.php?id=21059585
-电影_战争,http://120.77.28.4:8648/huya.php?id=21059592
-电影_喜剧,http://120.77.28.4:8648/huya.php?id=11352877
-电影_国产,http://120.77.28.4:8648/huya.php?id=11352973
-电影_周星星,http://120.77.28.4:8648/huya.php?id=11336587
-电影_梁家辉,http://120.77.28.4:8648/huya.php?id=11342429
-电影_斯坦森,http://120.77.28.4:8648/huya.php?id=21059588
-电影_八点档,http://120.77.28.4:8648/huya.php?id=880261
-电影_喜剧专场,http://120.77.28.4:8648/huya.php?id=11602044
-电影_欢笑影院,http://120.77.28.4:8648/huya.php?id=11352894
-电影_不挤影院,http://120.77.28.4:8648/huya.php?id=11352897
-电影_国产悬疑,http://120.77.28.4:8648/huya.php?id=11342395
-电影_黑帮斗争,http://120.77.28.4:8648/huya.php?id=11342419
-电影_镖行天下,http://120.77.28.4:8648/huya.php?id=11352969
-电影_高能反转,http://120.77.28.4:8648/huya.php?id=11352887
-电影_沈腾,http://120.77.28.4:8648/huya.php?id=11601968
-电影_黄渤,http://120.77.28.4:8648/huya.php?id=11352876
-电影_怪兽,http://120.77.28.4:8648/huya.php?id=21059577
-电影_警匪,http://120.77.28.4:8648/huya.php?id=11352886
-电影_罪犯,http://120.77.28.4:8648/huya.php?id=11352962
-电影_枪战,http://120.77.28.4:8648/huya.php?id=21059579
-电影_海盗,http://120.77.28.4:8648/huya.php?id=21059595
-电影_赛车,http://120.77.28.4:8648/huya.php?id=11279247
-电影_国产,http://120.77.28.4:8648/huya.php?id=11602041
-电影_星爷,http://120.77.28.4:8648/huya.php?id=11342412
-电影_英叔,http://120.77.28.4:8648/huya.php?id=11342421
-电影_发哥,http://120.77.28.4:8648/huya.php?id=11342387
-电影_成龙,http://120.77.28.4:8648/huya.php?id=11342386
-电影_王晶,http://120.77.28.4:8648/huya.php?id=11602058
-电影_强森,http://120.77.28.4:8648/huya.php?id=21059581
-电影_漫威,http://120.77.28.4:8648/huya.php?id=11602034
-电影_宇宙,http://120.77.28.4:8648/huya.php?id=11342428
-电影_武侠,http://120.77.28.4:8648/huya.php?id=11342427
-电影_救援,http://120.77.28.4:8648/huya.php?id=21059594
-电影_热血,http://120.77.28.4:8648/huya.php?id=11352934
-电影_盗墓,http://120.77.28.4:8648/huya.php?id=21059552
-电影_贺岁,http://120.77.28.4:8648/huya.php?id=11601971
-电影_玄幻,http://120.77.28.4:8648/huya.php?id=11342414
-电影_谍战,http://120.77.28.4:8648/huya.php?id=21059585
-电影_战争,http://120.77.28.4:8648/huya.php?id=21059592
-电影_喜剧,http://120.77.28.4:8648/huya.php?id=11352877
-电影_港片,http://120.77.28.4:8648/huya.php?id=11602043
-电影_国产,http://120.77.28.4:8648/huya.php?id=11352973
-电影_周星星,http://120.77.28.4:8648/huya.php?id=11336587
-电影_李连杰,http://120.77.28.4:8648/huya.php?id=11342390
-电影_洪金宝,http://120.77.28.4:8648/huya.php?id=11279251
-电影_梁家辉,http://120.77.28.4:8648/huya.php?id=11342429
-电影_许冠英,http://120.77.28.4:8648/huya.php?id=11601972
-电影_刘德华,http://120.77.28.4:8648/huya.php?id=11342424
-电影_斯坦森,http://120.77.28.4:8648/huya.php?id=21059588
-电影_八点档,http://120.77.28.4:8648/huya.php?id=880261
-电影_蜘蛛侠,http://120.77.28.4:8648/huya.php?id=21059599
-电影_贺岁片,http://120.77.28.4:8648/huya.php?id=11601986
-电影_功夫片,http://120.77.28.4:8648/huya.php?id=11352941
-电影_黑帮片,http://120.77.28.4:8648/huya.php?id=11336719
-电影_丧尸片,http://120.77.28.4:8648/huya.php?id=21059578
-电影_灾难片,http://120.77.28.4:8648/huya.php?id=11602075
-电影_谍战片,http://120.77.28.4:8648/huya.php?id=21059587
-电影_战争片,http://120.77.28.4:8648/huya.php?id=21059574
-电影_犯罪片,http://120.77.28.4:8648/huya.php?id=11352974
-电影_古装片,http://120.77.28.4:8648/huya.php?id=11336590
-电影_高分动作,http://120.77.28.4:8648/huya.php?id=11352884
-电影_动作电影,http://120.77.28.4:8648/huya.php?id=11602077
-电影_搞笑喜剧,http://120.77.28.4:8648/huya.php?id=11342423
-电影_喜剧专场,http://120.77.28.4:8648/huya.php?id=11602044
-电影_欢笑影院,http://120.77.28.4:8648/huya.php?id=11352894
-电影_不挤影院,http://120.77.28.4:8648/huya.php?id=11352897
-电影_国产悬疑,http://120.77.28.4:8648/huya.php?id=11342395
-电影_快意江湖,http://120.77.28.4:8648/huya.php?id=11342435
-电影_黑帮斗争,http://120.77.28.4:8648/huya.php?id=11342419
-电影_古墓系列,http://120.77.28.4:8648/huya.php?id=11352913
-电影_嫣然影厅,http://120.77.28.4:8648/huya.php?id=11601977
-电影_女神系列,http://120.77.28.4:8648/huya.php?id=11336571
-电影_经典女神,http://120.77.28.4:8648/huya.php?id=11352909
-电影_许氏三杰,http://120.77.28.4:8648/huya.php?id=11602033
-电影_经典港片,http://120.77.28.4:8648/huya.php?id=11352965
-电影_镖行天下,http://120.77.28.4:8648/huya.php?id=11352969
-电影_高能反转,http://120.77.28.4:8648/huya.php?id=11352887
-电影_喜乐影院,http://120.77.28.4:8648/huya.php?id=21059580
-电影_蘑菇影厅,http://120.77.28.4:8648/huya.php?id=11601981
-电影_搞笑恐怖,http://120.77.28.4:8648/huya.php?id=11601960
-电影_死神来了,http://120.77.28.4:8648/huya.php?id=11352903
-电影_变形金刚,http://120.77.28.4:8648/huya.php?id=21059596
-电影_怪兽系列,http://120.77.28.4:8648/huya.php?id=21059554
-搞笑_陈翔六点半,http://120.77.28.4:8648/huya.php?id=11274154
-成龙电影,http://120.77.28.4:8648/yy.php?id=1354888751
-古惑仔电影,http://120.77.28.4:8648/yy.php?id=1354507447
-经典港片,http://120.77.28.4:8648/yy.php?id=1355263385
-沈腾电影,http://120.77.28.4:8648/yy.php?id=1354936191
-刘德华电影,http://120.77.28.4:8648/yy.php?id=1382745111
-周星驰电影,http://120.77.28.4:8648/yy.php?id=1354658049
-林正英电影,http://120.77.28.4:8648/yy.php?id=1453996620
-林正英电影,http://120.77.28.4:8648/yy.php?id=1382841203
-李连杰电影,http://120.77.28.4:8648/yy.php?id=74613175
-周润发电影,http://120.77.28.4:8648/yy.php?id=1354930961
-港片赌片,http://120.77.28.4:8648/yy.php?id=1355076627
-开心麻花小品,http://120.77.28.4:8648/yy.php?id=1354926643
-邵氏影院,http://120.77.28.4:8648/douyu.php?id=4246519
-华语经典,http://120.77.28.4:8648/douyu.php?id=434971
-漫威影片,http://120.77.28.4:8648/douyu.php?id=6140589
-华语电影,http://120.77.28.4:8648/douyu.php?id=3928
-恐怖经典,http://120.77.28.4:8648/douyu.php?id=1165374
-恐怖电影,http://120.77.28.4:8648/douyu.php?id=310926
-喜剧电影,http://120.77.28.4:8648/douyu.php?id=9292492
-译制影片,http://120.77.28.4:8648/douyu.php?id=2436390
-豆瓣高分,http://120.77.28.4:8648/douyu.php?id=8770422
-女神金电影,http://120.77.28.4:8648/douyu.php?id=747764
-贝爷影厅1,http://120.77.28.4:8648/douyu.php?id=252802
-贝爷影厅2,http://120.77.28.4:8648/douyu.php?id=36337
-霍格影片,http://120.77.28.4:8648/douyu.php?id=8814650
-可乐电影,http://120.77.28.4:8648/douyu.php?id=20415
-冰冰经典电影,http://120.77.28.4:8648/douyu.php?id=74374
-奶虫恐怖电影,http://120.77.28.4:8648/douyu.php?id=263824
-变种人电影,http://120.77.28.4:8648/douyu.php?id=9651304
-小U电影,http://120.77.28.4:8648/douyu.php?id=96577
-小宇60帧,http://120.77.28.4:8648/douyu.php?id=323876
-
-周星驰,http://huanqiuzhibo.cn/manifest/douyu.php?id=122402
-刘德华,http://huanqiuzhibo.cn/manifest/douyu.php?id=2516864
-好先生,http://huanqiuzhibo.cn/manifest/douyu.php?id=9650792
-庆余年,http://huanqiuzhibo.cn/manifest/douyu.php?id=5908256
-欢乐综艺,http://huanqiuzhibo.cn/manifest/douyu.php?id=131977
-万合出品,http://huanqiuzhibo.cn/manifest/douyu.php?id=9220456
-吃米滴虫,http://huanqiuzhibo.cn/manifest/douyu.php?id=315457
-高分电影,http://huanqiuzhibo.cn/manifest/douyu.php?id=7254536
-豆瓣高分,http://huanqiuzhibo.cn/manifest/douyu.php?id=8770422
-漫威影院,http://huanqiuzhibo.cn/manifest/douyu.php?id=6140589
-特辑电影,http://huanqiuzhibo.cn/manifest/douyu.php?id=3637778
-粤语电影,http://huanqiuzhibo.cn/manifest/douyu.php?id=1226741
-粤语电影,http://huanqiuzhibo.cn/manifest/douyu.php?id=6566671
-国产电影,http://huanqiuzhibo.cn/manifest/douyu.php?id=5423
-精彩电影,http://huanqiuzhibo.cn/manifest/douyu.php?id=9650887
-喜剧电影,http://huanqiuzhibo.cn/manifest/douyu.php?id=323876
-动作电影,http://huanqiuzhibo.cn/manifest/douyu.php?id=6763930
-恐怖电影,http://huanqiuzhibo.cn/manifest/douyu.php?id=218859
-恐怖鬼怪,http://huanqiuzhibo.cn/manifest/douyu.php?id=1165374
-童年阴影,http://huanqiuzhibo.cn/manifest/douyu.php?id=2935323
-惊悚电影,http://huanqiuzhibo.cn/manifest/douyu.php?id=96577
-华语影视,http://huanqiuzhibo.cn/manifest/douyu.php?id=3928
-神乐影视,http://huanqiuzhibo.cn/manifest/douyu.php?id=85894
-周末影院,http://huanqiuzhibo.cn/manifest/douyu.php?id=3637765
-周末电影,http://huanqiuzhibo.cn/manifest/douyu.php?id=3637726
-兔子影厅,http://huanqiuzhibo.cn/manifest/douyu.php?id=8985415
-冰冰影厅,http://huanqiuzhibo.cn/manifest/douyu.php?id=74374
-刀刀影院,http://huanqiuzhibo.cn/manifest/douyu.php?id=747764
-奶虫影院,http://huanqiuzhibo.cn/manifest/douyu.php?id=263824
-贝爷壹厅,http://huanqiuzhibo.cn/manifest/douyu.php?id=252802
-贝爷贰厅,http://huanqiuzhibo.cn/manifest/douyu.php?id=4332
-贝爷叁厅,http://huanqiuzhibo.cn/manifest/douyu.php?id=36337
-凌儿影院,http://huanqiuzhibo.cn/manifest/douyu.php?id=1377142
-云宝影院,http://huanqiuzhibo.cn/manifest/douyu.php?id=7305938
-花卷影院,http://huanqiuzhibo.cn/manifest/douyu.php?id=52787
-菜园小饼,http://huanqiuzhibo.cn/manifest/douyu.php?id=1735337
-米娅影院,http://huanqiuzhibo.cn/manifest/douyu.php?id=6537888
-橙記港剧,http://huanqiuzhibo.cn/manifest/douyu.php?id=4549169
-大宝影视,http://huanqiuzhibo.cn/manifest/douyu.php?id=805235
-蚂蚱影视,http://huanqiuzhibo.cn/manifest/douyu.php?id=6079455
-怡寶影视,http://huanqiuzhibo.cn/manifest/douyu.php?id=434971
-圆子影视,http://huanqiuzhibo.cn/manifest/douyu.php?id=6566658
-贝贝影视,http://huanqiuzhibo.cn/manifest/douyu.php?id=431460
-可乐影视,http://huanqiuzhibo.cn/manifest/douyu.php?id=20415
-萌牛影视,http://huanqiuzhibo.cn/manifest/douyu.php?id=7494871
-兔兔影视,http://huanqiuzhibo.cn/manifest/douyu.php?id=1504768
-无双影视,http://huanqiuzhibo.cn/manifest/douyu.php?id=4870914
-下饭神剧,http://huanqiuzhibo.cn/manifest/douyu.php?id=276200
-古装神剧,http://huanqiuzhibo.cn/manifest/douyu.php?id=338759
-晚湾影视,http://huanqiuzhibo.cn/manifest/douyu.php?id=9461178
-酒染影视,http://huanqiuzhibo.cn/manifest/douyu.php?id=7550220
-芊珏影视,http://huanqiuzhibo.cn/manifest/douyu.php?id=8814650
-热门港剧,http://huanqiuzhibo.cn/manifest/douyu.php?id=5522351
-盗墓剧集,http://huanqiuzhibo.cn/manifest/douyu.php?id=9292503
-金庸武侠,http://huanqiuzhibo.cn/manifest/douyu.php?id=7644931
-国产剧集,http://huanqiuzhibo.cn/manifest/douyu.php?id=8157860
-国产剧场,http://huanqiuzhibo.cn/manifest/douyu.php?id=308752
-爱情公寓,http://huanqiuzhibo.cn/manifest/douyu.php?id=2838296
-经典剧集,http://huanqiuzhibo.cn/manifest/douyu.php?id=6863367
-李卫当官,http://huanqiuzhibo.cn/manifest/douyu.php?id=7473576
-龙门镖局,http://huanqiuzhibo.cn/manifest/douyu.php?id=9650860
-雍正王朝,http://huanqiuzhibo.cn/manifest/douyu.php?id=4944033
-雍正帝王,http://huanqiuzhibo.cn/manifest/douyu.php?id=9650836
-隋唐演义,http://huanqiuzhibo.cn/manifest/douyu.php?id=7552568
-大宋神探,http://huanqiuzhibo.cn/manifest/douyu.php?id=7784862
-音乐欣赏,http://huanqiuzhibo.cn/manifest/douyu.php?id=3186217
-舌尖美食,http://huanqiuzhibo.cn/manifest/douyu.php?id=9650849
-篮球人物,http://huanqiuzhibo.cn/manifest/douyu.php?id=8434598
-史君说剧,http://huanqiuzhibo.cn/manifest/douyu.php?id=9419771
-史剧解说,http://huanqiuzhibo.cn/manifest/douyu.php?id=297689
-老秦说剧,http://huanqiuzhibo.cn/manifest/douyu.php?id=9650131
-老蔡解说,http://huanqiuzhibo.cn/manifest/douyu.php?id=8869614
-长片短解,http://huanqiuzhibo.cn/manifest/douyu.php?id=9410946
-宇哥解说,http://huanqiuzhibo.cn/manifest/douyu.php?id=8651489
-夜魔人老王,http://huanqiuzhibo.cn/manifest/douyu.php?id=610972
-皮皮看动漫,http://huanqiuzhibo.cn/manifest/douyu.php?id=9837291
-开心锤动漫,http://huanqiuzhibo.cn/manifest/douyu.php?id=9018297
-拳叔二次元,http://huanqiuzhibo.cn/manifest/douyu.php?id=9484105
-老邪说电影,http://huanqiuzhibo.cn/manifest/douyu.php?id=9222870
-洗碗君解说,http://huanqiuzhibo.cn/manifest/douyu.php?id=9446706
-百晓生说剧,http://huanqiuzhibo.cn/manifest/douyu.php?id=9649681
-百晓生解说,http://huanqiuzhibo.cn/manifest/douyu.php?id=9653063
-小司马说剧,http://huanqiuzhibo.cn/manifest/douyu.php?id=4808115
-小司马解说,http://huanqiuzhibo.cn/manifest/douyu.php?id=9660127
-星君说电影,http://huanqiuzhibo.cn/manifest/douyu.php?id=8014467
-刘哔讲电影,http://huanqiuzhibo.cn/manifest/douyu.php?id=2632223
-老王说电影,http://huanqiuzhibo.cn/manifest/douyu.php?id=9687733
-贤于说电影,http://huanqiuzhibo.cn/manifest/douyu.php?id=9461990
-牛叔说电影,http://huanqiuzhibo.cn/manifest/douyu.php?id=2758565
-侃片大师兄,http://huanqiuzhibo.cn/manifest/douyu.php?id=9338839
-虫哥说电影,http://huanqiuzhibo.cn/manifest/douyu.php?id=8915074
-电影迷小雅,http://huanqiuzhibo.cn/manifest/douyu.php?id=9639225
-1900影剧室,http://huanqiuzhibo.cn/manifest/douyu.php?id=7796193
-刘老师说电影,http://huanqiuzhibo.cn/manifest/douyu.php?id=8317926
-来呀官人解说,http://huanqiuzhibo.cn/manifest/douyu.php?id=9986305
-科幻Fans布玛,http://huanqiuzhibo.cn/manifest/douyu.php?id=3508304
-小片片说大片,http://huanqiuzhibo.cn/manifest/douyu.php?id=4258555
-大片片说小片,http://huanqiuzhibo.cn/manifest/douyu.php?id=7489563
-火龙果说电影,http://huanqiuzhibo.cn/manifest/douyu.php?id=9559158
-
-日本,#genre#
-
-地上波
-NHK東京　総合,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS291&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-日本テレビ,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS294&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-TBSテレビ,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS296&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-フジテレビ,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS298&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-テレビ朝日,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS295&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-テレビ東京,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS297&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-BS
-NHK BS1,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS101&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-NHK BSプレミアム,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS103&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-BS日テレ,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS141&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-BS朝日,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS151&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-BS-TBS,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS161&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-BSテレ東,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS171&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-BSフジ,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS181&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-WOWOWプライム,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS191&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-WOWOWライブ,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS192&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-WOWOWシネマ,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS193&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-スターチャンネル1,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS200&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-スターチャンネル2,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS201&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-スターチャンネル3,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS202&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-Animax,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS236&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-釣りビジョン,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS251&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-BSスカパー!,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS241&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-SPORTS 1,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS242&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-SPORTS 2,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS243&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-SPORTS 3,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS244&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-SPORTS 4,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS245&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-日本映画専門チャンネル,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS255&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-時代劇専門チャンネル,https://stream01.willfonk.com/live_playlist.m3u8?cid=CS292&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-CS
-AT-X,https://sub2.neetball.net/live/neet.m3u8
-AXN海外ドラマ,https://stream01.willfonk.com/live_playlist.m3u8?cid=CS311&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-FOX,https://stream01.willfonk.com/live_playlist.m3u8?cid=CS312&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-チャンネル銀河,https://stream01.willfonk.com/live_playlist.m3u8?cid=CS305&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-ファミリー劇場,https://stream01.willfonk.com/live_playlist.m3u8?cid=CS293&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-GAORA,https://stream01.willfonk.com/live_playlist.m3u8?cid=CS254&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-ゴルフネットワーク,https://stream01.willfonk.com/live_playlist.m3u8?cid=CS262&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-歌謡ポップスチャンネル,https://stream01.willfonk.com/live_playlist.m3u8?cid=CS329&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-キッズステーション,https://stream01.willfonk.com/live_playlist.m3u8?cid=CS330&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-ホームドラマチャンネル,https://stream01.willfonk.com/live_playlist.m3u8?cid=CS294&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-LaLaTV,https://stream01.willfonk.com/live_playlist.m3u8?cid=CS314&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-日テレジータス,https://stream01.willfonk.com/live_playlist.m3u8?cid=CS257&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-チャンネルNECO,https://stream01.willfonk.com/live_playlist.m3u8?cid=CS223&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-ムービープラス,https://stream01.willfonk.com/live_playlist.m3u8?cid=CS240&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-Music ON TV!,https://stream01.willfonk.com/live_playlist.m3u8?cid=CS325&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-東映チャンネル,https://stream01.willfonk.com/live_playlist.m3u8?cid=CS218&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-囲碁・将棋チャンネル,https://stream01.willfonk.com/live_playlist.m3u8?cid=CS363&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-スーパー!ドラマTV,https://stream01.willfonk.com/live_playlist.m3u8?cid=CS310&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-スカイA,https://stream01.willfonk.com/live_playlist.m3u8?cid=CS250&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-NEWS
-CNN J,https://stream01.willfonk.com/live_playlist.m3u8?cid=CS354&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-日テレNEWS24,https://stream01.willfonk.com/live_playlist.m3u8?cid=CS349&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-日テレNEWS24,https://www.news24.jp/livestream/index.m3u8
-北海道ニュース24,http://raw.githubusercontent.com/etag2000/IPTV/YTlive/hokkaidonews.m3u8
-ウェザーニュース,http://movie.mcas.jp/mcas/wn1_2/master.m3u8
-ウェザーニュース,https://movie.mcas.jp/mcas/smil:wn1.smil/master.m3u8
 
 韩国,#genre#
 
