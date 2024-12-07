@@ -224,6 +224,74 @@ http://fangke.blueswords.com:9901/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&
 
 █████████████████████████████████████████████████████████████████████████████████████████████████████████
 
+#EXTINF:-1 tvg-name="咪咕新片" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/IPTV/.png" group-title="咪咕",咪咕新片
+https://migu1.vip-tptv.xyz/migu/619495952?sign=gAAAAABnUrBhLIn1FDw08STn_tylNlJVgb1w2HPtdGifODd1VIdI3ZonBYLBoRSCBHYOvqpiKS5m9AI9Y-9oddMITy906c9DZtOblRR4rJ1ljiTpYFnOPuZ9czB8Jls0oqBzkjGLzOtmy6WBpVPjdYYmRvAg6Vz98_moyljk_0Cyj7I6RWX70LHfalmQ6-2Q530UChmlxtHpjIdPtmFS1tM7KihG6hUD8g%3D%3D
+
+#EXTINF:-1 tvg-name="咪咕体育" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/IPTV/.png" group-title="咪咕",咪咕体育
+http://159.75.85.63:36666/migu/654102378.m3u8?migutoken=ed0b1203c206d58c3baaf94cceb1d045166a6d0962d9bd11e791fd4d7bc07fb30224a55a11b321e46ea503b6ff030520328c3468fde6191e0647fa92d83640f913b22cc4a89290205e4c75fadd
+
+#EXTINF:-1 tvg-name="劲爆体育" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/IPTV/.png" group-title="咪咕",劲爆体育
+https://migu1.vip-tptv.xyz/migu/796071336?sign=gAAAAABnUrBhIV_Yyfts_Tgq0PRWlgzVChcsT895OLNWC3wny5v1EdnwI_LNr-ch93VlKt6Nn710yJsgdupPtuApTsuNBhFbReci2EP-3JukEk-3TSf9f6aySu0Gu0QXjQIl0AMxinq6tzBhbBYuNFeIUdTkQXhFhlXKKghBD43DMAcZKA6UU5dAz1fWnvD6ZMLY2UALlko3hDc5wAKBoSln_Vd8om8l2g%3D%3D
+
+#EXTINF:-1 tvg-name="咪咕音乐" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/IPTV/.png" group-title="咪咕",咪咕音乐
+http://159.75.85.63:36666/migu/939773601.m3u8?migutoken=bdcc9afd4bb4b22e28ea48648b56dc28837d87d82854de069c2ac005f65dc5ee06de218ba2656c718bd2c7752a6b748062b8a7bc28ed224c563a726ea81f7624e89fd540eab593489d101e9b48
+#EXTINF:-1 tvg-name="咪咕音乐" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/IPTV/.png" group-title="咪咕",咪咕音乐
+http://159.75.85.63:36666/migu/707671890.m3u8?migutoken=9d37466affd4c05cd3475320dbb6f77c61166ad2d8462a6debe4ea2f13f26d0dfc682316a3ffa6d693cab4cb05b2860037540a3855ef37d087afde69b1db6ca303c2541c924760105c9da03f99
+#EXTINF:-1 tvg-name="咪咕音乐" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/IPTV/.png" group-title="咪咕",咪咕音乐
+http://159.75.85.63:36666/migu/625133682.m3u8?migutoken=27f9955ee0348bbbca568e3f6374d9df5a0030a5ecb7db53cbb8f72ea1925cd3f52e2e87ac6e7465620d2e9f65d5b79543c2885770e719f9e77282aca55c157230fba865027bb116725efe53d4
+
+#EXTINF:-1 tvg-name="足球风云" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/IPTV/.png" group-title="咪咕",咪咕足球
+https://migu1.vip-tptv.xyz/migu/788816794?sign=gAAAAABnUrBh22CB725_L8S-D8a1mZ2mLBy4O9wPMVUre95WNWRUdEujqCq-LBUoqIasLGgriz01xSOy4CFzS96JYntkGzA2D655oWKeo3FO38FyCWkkwKX13MmytrZL1MYgCBlkp2JHCyB9e2qNEXQkRqesCgDVvZFz2WXkKReijmDFdPbc8B_4pJYwdf-lSYKjzw0eAVqzMeeWnrzqZ5QJRDkdZvfprw%3D%3D
+#EXTINF:-1 tvg-name="足球风云" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/IPTV/.png" group-title="咪咕",咪咕足球
+http://gslbserv.itv.cmvideo.cn:80/5000000011000031207/1.m3u8?channel-id=bestzb&Contentid=5000000011000031207&livemode=1&stbId=IPTV
+
+#EXTINF:-1 tvg-name="咪咕CBA" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/IPTV/.png" group-title="咪咕",咪咕CBA
+https://migu1.vip-tptv.xyz/migu/788813182?sign=gAAAAABnUrBh8eO_uSzBkISYt1tO8nsu8BTmGAXZvyTWgHssU0Jszp1kHTFB4frtSOQHFINXzkfeHMjVOUivWoj4mlONooR_gzXnP6udhR4PBZaeeyrnpUHCqKekV2mStor-CeafidDJ7qWxNJOQs8wIaH2zkzilKYBamDVUvSVrn5xkTCWi2v4npf4iRtONGZAthM6ByQ8pxkUNaACNf-bMrh9b6d4ijA%3D%3D
+
+#EXTINF:-1 tvg-name="咪咕NBA" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/IPTV/.png" group-title="咪咕",咪咕NBA
+http://159.75.85.63:36666/migu/788815380.m3u8?migutoken=3c538997e3715e7ba597bd9ffd0a83082f8ba8a6374c9dbab222d8e54aacb768bf03322568a418616a171b040f2305e20acda7de7c29fe22608ead2b97883e9d97ea84bdee8049bc550d81386f
+#EXTINF:-1 tvg-name="咪咕NBA" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/IPTV/.png" group-title="咪咕",咪咕NBA
+https://migu1.vip-tptv.xyz/migu/788815380?sign=gAAAAABnUrBhVBMfNdPvKzRWhrH2XVwMuR7qsi9iS9QM_rku0U8M9vs7gpephXckSVm1NX7dHukKAFCI-xNtan9ThR9nzBhlBpEmVdW2KqdYFDreH157vRxkbwdQkJq5E5aRrnIm1SMV4LqfetKDgSO0g1fbxOvqJpgC3wtU1OUEBm-62ryZLqU6Sr2EkeHtG_Mw_hcSjiGfMEM003FWVBxKGh2Cy5QneQ%3D%3D
+
+#EXTINF:-1 tvg-name="天空体育" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/IPTV/.png" group-title="咪咕",天空体育
+http://tv14s.xyz:8080/753468/894568/53704
+#EXTINF:-1 tvg-name="天空体育" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/IPTV/.png" group-title="咪咕",天空体育
+http://cord-cutter.net:8080/25464931/30585186/137720
+
+#EXTINF:-1 tvg-name="纬来体育" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/IPTV/.png" group-title="咪咕",纬来体育
+rtmp://f13h.mine.nu/sat/tv721
+#EXTINF:-1 tvg-name="纬来体育" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/IPTV/.png" group-title="咪咕",纬来体育
+rtmp://220.130.201.73/sat/tv721
+
+#EXTINF:-1 tvg-name="智林体育" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/IPTV/.png" group-title="咪咕",智林体育
+https://pixman.mytvsuper.com.mp/litv/4gtv-4gtv101
+
+#EXTINF:-1 tvg-name="博斯网球" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/IPTV/.png" group-title="咪咕",博斯网球
+https://pixman.mytvsuper.com.mp/litv/litv-longturn09
+#EXTINF:-1 tvg-name="博斯魅力" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/IPTV/.png" group-title="咪咕",博斯魅力
+
+https://pixman.mytvsuper.com.mp/litv/litv-longturn04
+
+#EXTINF:-1 tvg-name="博斯运动1" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/IPTV/.png" group-title="咪咕",博斯运动1
+https://pixman.mytvsuper.com.mp/litv/litv-longturn07
+#EXTINF:-1 tvg-name="博斯运动2" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/IPTV/.png" group-title="咪咕",博斯运动2
+https://pixman.mytvsuper.com.mp/litv/litv-longturn08
+
+#EXTINF:-1 tvg-name="博斯无限1" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/IPTV/.png" group-title="咪咕",博斯无限1
+https://pixman.mytvsuper.com.mp/litv/litv-longturn10
+#EXTINF:-1 tvg-name="博斯运动2" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/IPTV/.png" group-title="咪咕",博斯运动2
+https://pixman.mytvsuper.com.mp/litv/litv-longturn13
+
+#EXTINF:-1 tvg-name="ELEVEN1" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/IPTV/.png" group-title="咪咕",ELEVEN1
+rtmp://f13h.mine.nu/sat/tv731
+#EXTINF:-1 tvg-name="ELEVEN2" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/IPTV/.png" group-title="咪咕",ELEVEN2
+rtmp://f13h.mine.nu/sat/tv741
+
+#EXTINF:-1 tvg-name="TraceSports" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/IPTV/.png" group-title="咪咕",TraceSports
+https://pixman.mytvsuper.com.mp/litv/4gtv-4gtv077
+
+█████████████████████████████████████████████████████████████████████████████████████████████████████████
+
 #EXTINF:-1 tvg-name="凤凰卫视" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/TVB/凤凰中文.png" group-title="港台",凤凰卫视
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/TVB/凤凰资讯.png" group-title="港台",凤凰资讯
@@ -469,11 +537,10 @@ http://112.102.217.173:9003//hls/99/index.m3u8
 http://112.102.217.173:9003//hls/85/index.m3u8
 
 #EXTINF:-1 tvg-name="CHC动作电影" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/CCTV/CHC动作电影.png" group-title="影视",动作电影
-http://219.159.194.122:8181/tsfile/live/1019_1.m3u8
-#EXTINF:-1 tvg-name="CHC动作电影" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/CCTV/CHC动作电影.png" group-title="影视",动作电影
-http://171.116.182.74:8084/rtp/226.0.2.94:8012
+http://159.75.85.63:36666/migu/644368714.m3u8?migutoken=f552325b6795e63f539ac6d8f652b6b5e1b7002008e45731ab07932c87c3434cb7a071c821fc3bd5fa825a83d7f346338d5a90d74f7ba950b892332d4c6ca142840a52c3288b0e5978f9b61c1a
+
 #EXTINF:-1 tvg-name="CHC家庭影院" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/CCTV/CHC家庭影院.png" group-title="影视",家庭影院
-https://migu.mytvsuper.xyz/migu/644368373?sign=gAAAAABnSYtmRmILUyp0OpV7hSKs6-Pg_y321sKddCGAXlgsM5vBBgB0tg5Mn661-l5XxBZmWeJrmnFMVYXn1JdUY6RtbfQ95JrgunHIalyWhBOzGZ_boAqPuMsQM3CHVnkb-gxaRp81wVvyrgqMzADg-AxOfEg1xESTzw0IeTu2PfSlLubhy3pctazlzydNPYyAncH2ff2rxu6HCqrrXMZ_QReF9s2eJw%3D%3D
+http://159.75.85.63:36666/migu/644368373.m3u8?migutoken=abf962cdba8976f4be72f610cecb842beaa0f1cce9f81600e2f5c2d8b4d8c348d12a037b79a73f5b70ada161084f5d06b4742b7ceebc1db19724315f2a6538ea7f64f96970184bb354f30a589d
 
 #EXTINF:-1 tvg-name="重温经典" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/TVB/重温经典.png" group-title="影视",重温经典
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=cwjd
@@ -576,12 +643,9 @@ http://159.75.85.63:35455/yy/1382660835
 http://litv.zapi.us.kg/?id=litv-ftv15
 #EXTINF:-1 tvg-name="爱放动漫" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/TVB/爱放动漫.png" group-title="动漫",爱放动漫
 http://aktv.top/AKTV/live/aktv2/ifun/AKTV.m3u8
-#EXTINF:-1 tvg-name="黑莓动画" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/NewTV/黑莓动画.png" group-title="动漫",黑莓动画
-http://112.102.217.173:9003//hls/100/index.m3u8
-#EXTINF:-1 tvg-name="靖洋卡通" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/TVB/靖洋卡通.png" group-title="动漫",靖洋卡通
-http://litv.zapi.us.kg/?id=4gtv-4gtv057
-#EXTINF:-1 tvg-name="靖天卡通" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/TVB/靖天卡通.png" group-title="动漫",靖天卡通
-http://litv.zapi.us.kg/?id=4gtv-4gtv044
+
+#EXTINF:-1 tvg-name="经典动画" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/TVB/爱放动漫.png" group-title="动漫",经典动画
+http://159.75.85.63:36666/migu/629942219.m3u8?migutoken=19783922417ac520bcc0864988cc6a4343688f5759d50a8074e952913aa5cf9e7975d32557979110cb21d22d9cd8973ab5b6acd7d4f7db15e92333f202e02196e32a26a9f8f61d712d88aaec3d
 
 #EXTINF:-1 tvg-name="猫和老鼠" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/猫和老鼠.png" group-title="动漫",猫和老鼠
 http://159.75.85.63:35455/huya/11352879
