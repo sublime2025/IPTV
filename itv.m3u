@@ -330,6 +330,8 @@ rtmp://f13h.mine.nu/sat/tv051
 #EXTINF:-1 tvg-name="台视" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/TVB/台视.png" group-title="港台",台视
 rtmp://f13h.mine.nu/sat/tv071
 
+#EXTINF:-1 tvg-name="MBOTV" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/温馨提示.png" group-title="港台",MBOTV
+https://1816029567.rsc.cdn77.org/1816029567/index.m3u8
 #EXTINF:-1 tvg-name="CCTV" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/TVB/RTHK33.png" group-title="港台",RTHK33
 https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream04/streamPlaylist.m3u8
 #EXTINF:-1 tvg-name="CGTN" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/TVB/RTHK34.png" group-title="港台",RTHK34
@@ -375,9 +377,9 @@ https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m
 
 #EXTINF:-1 tvg-name="日本全天新闻" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/World/Japan24.png" group-title="国际",日全新闻
 http://aktv.top/AKTV/live/aktv/null-13/AKTV.m3u8
-#EXTINF:-1 tvg-name="日本全天新闻" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/World/Japan24.png" group-title="国际",日全新闻
+#EXTINF:-1 tvg-name="日本全天新闻" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/World/Japan24.png" group-title="国际",日全国际
 https://n24-cdn-live.ntv.co.jp/ch01/index_high.m3u8
-#EXTINF:-1 tvg-name="NHK World" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/World/NHK.png" group-title="国际",日本新闻
+#EXTINF:-1 tvg-name="NHK World" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/World/NHK.png" group-title="国际",日本国际
 http://aktv.top/AKTV/live/aktv3/nhkworldjapan/AKTV.m3u8
 
 #EXTINF:-1 tvg-name="DW" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/World/DW.png" group-title="国际",德国新闻
