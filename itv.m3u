@@ -218,77 +218,36 @@ http://fangke.blueswords.com:9901/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&
 
 █████████████████████████████████████████████████████████████████████████████████████████████████████████
 
-#EXTINF:-1 tvg-name="咪咕体育" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/咪咕视频.png" group-title="咪咕",咪咕体育1
-http://111.13.111.242/000000001000/3000000001000005308/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
-#EXTINF:-1 tvg-name="咪咕体育" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/咪咕视频.png" group-title="咪咕",咪咕体育2
-http://111.13.111.242/000000001000/3000000001000028638/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
-#EXTINF:-1 tvg-name="咪咕体育" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/咪咕视频.png" group-title="咪咕",咪咕体育3
-http://111.13.111.242/000000001000/3000000001000031494/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
-#EXTINF:-1 tvg-name="咪咕体育" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/咪咕视频.png" group-title="咪咕",咪咕体育4
-http://111.13.111.242/000000001000/3000000010000000097/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
-#EXTINF:-1 tvg-name="咪咕体育" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/咪咕视频.png" group-title="咪咕",咪咕体育5
-http://111.13.111.242/000000001000/3000000010000002019/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
-#EXTINF:-1 tvg-name="咪咕体育" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/咪咕视频.png" group-title="咪咕",咪咕体育6
-http://111.13.111.242/000000001000/3000000010000002809/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
-#EXTINF:-1 tvg-name="咪咕体育" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/咪咕视频.png" group-title="咪咕",咪咕体育7
-http://111.13.111.242/000000001000/3000000010000003915/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
-#EXTINF:-1 tvg-name="咪咕体育" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/咪咕视频.png" group-title="咪咕",咪咕体育8
-http://111.13.111.242/000000001000/3000000010000004193/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
-#EXTINF:-1 tvg-name="咪咕体育" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/咪咕视频.png" group-title="咪咕",咪咕体育9
-http://111.13.111.242/000000001000/3000000010000005837/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
-#EXTINF:-1 tvg-name="咪咕体育" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/咪咕视频.png" group-title="咪咕",咪咕体育10
-http://111.13.111.242/000000001000/3000000001000005969/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
-#EXTINF:-1 tvg-name="咪咕体育" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/咪咕视频.png" group-title="咪咕",咪咕体育11
-http://111.13.111.242/000000001000/3000000010000006077/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
-#EXTINF:-1 tvg-name="咪咕体育" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/咪咕视频.png" group-title="咪咕",咪咕体育12
-http://111.13.111.242/000000001000/3000000010000006658/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
-#EXTINF:-1 tvg-name="咪咕体育" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/咪咕视频.png" group-title="咪咕",咪咕体育13
-http://111.13.111.242/000000001000/3000000010000009788/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
-#EXTINF:-1 tvg-name="咪咕体育" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/咪咕视频.png" group-title="咪咕",咪咕体育14
-http://111.13.111.242/000000001000/3000000010000010833/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
-#EXTINF:-1 tvg-name="咪咕体育" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/咪咕视频.png" group-title="咪咕",咪咕体育15
-http://111.13.111.242/000000001000/3000000010000011297/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
-#EXTINF:-1 tvg-name="咪咕体育" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/咪咕视频.png" group-title="咪咕",咪咕体育16
-http://111.13.111.242/000000001000/3000000010000011518/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
-#EXTINF:-1 tvg-name="咪咕体育" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/咪咕视频.png" group-title="咪咕",咪咕体育17
-http://111.13.111.242/000000001000/3000000001000007218/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
-#EXTINF:-1 tvg-name="咪咕体育" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/咪咕视频.png" group-title="咪咕",咪咕体育18
-http://111.13.111.242/000000001000/3000000010000012558/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
-#EXTINF:-1 tvg-name="咪咕体育" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/咪咕视频.png" group-title="咪咕",咪咕体育19
-http://111.13.111.242/000000001000/3000000010000012616/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
-#EXTINF:-1 tvg-name="咪咕体育" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/咪咕视频.png" group-title="咪咕",咪咕体育20
-http://111.13.111.242/000000001000/3000000010000015470/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
-#EXTINF:-1 tvg-name="咪咕体育" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/咪咕视频.png" group-title="咪咕",咪咕体育21
-http://111.13.111.242/000000001000/3000000010000015560/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
-#EXTINF:-1 tvg-name="咪咕体育" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/咪咕视频.png" group-title="咪咕",咪咕体育22
-http://111.13.111.242/000000001000/3000000010000017678/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
-#EXTINF:-1 tvg-name="咪咕体育" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/咪咕视频.png" group-title="咪咕",咪咕体育23
-http://111.13.111.242/000000001000/3000000001000008001/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
-#EXTINF:-1 tvg-name="咪咕体育" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/咪咕视频.png" group-title="咪咕",咪咕体育24
-http://111.13.111.242/000000001000/3000000010000019839/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
-#EXTINF:-1 tvg-name="咪咕体育" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/咪咕视频.png" group-title="咪咕",咪咕体育25
-http://111.13.111.242/000000001000/3000000010000021904/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
-#EXTINF:-1 tvg-name="咪咕体育" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/咪咕视频.png" group-title="咪咕",咪咕体育26
-http://111.13.111.242/000000001000/3000000010000023434/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
-#EXTINF:-1 tvg-name="咪咕体育" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/咪咕视频.png" group-title="咪咕",咪咕体育27
-http://111.13.111.242/000000001000/3000000010000025380/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
-#EXTINF:-1 tvg-name="咪咕体育" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/咪咕视频.png" group-title="咪咕",咪咕体育28
-http://111.13.111.242/000000001000/3000000001000008176/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
-#EXTINF:-1 tvg-name="咪咕体育" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/咪咕视频.png" group-title="咪咕",咪咕体育29
-http://111.13.111.242/000000001000/3000000010000027691/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
-#EXTINF:-1 tvg-name="咪咕体育" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/咪咕视频.png" group-title="咪咕",咪咕体育30
-http://111.13.111.242/000000001000/3000000010000031669/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
-#EXTINF:-1 tvg-name="咪咕体育" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/咪咕视频.png" group-title="咪咕",咪咕体育31
-http://111.13.111.242/000000001000/3000000010000005180/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
-#EXTINF:-1 tvg-name="咪咕体育" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/咪咕视频.png" group-title="咪咕",咪咕体育32
-http://111.13.111.242/000000001000/3000000010000015686/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
-#EXTINF:-1 tvg-name="咪咕体育" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/咪咕视频.png" group-title="咪咕",咪咕体育33
-http://111.13.111.242/000000001000/3000000001000008379/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
-#EXTINF:-1 tvg-name="咪咕体育" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/咪咕视频.png" group-title="咪咕",咪咕体育34
-http://111.13.111.242/000000001000/3000000001000010129/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
-#EXTINF:-1 tvg-name="咪咕体育" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/咪咕视频.png" group-title="咪咕",咪咕体育35
-http://111.13.111.242/000000001000/3000000001000010948/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
 #EXTINF:-1 tvg-name="咪咕体育" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/咪咕视频.png" group-title="咪咕",咪咕体育
+http://111.13.111.242/000000001000/3000000001000005308/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
+#EXTINF:-1 tvg-name="咪咕体育" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/咪咕视频.png" group-title="咪咕",精品体育
+
+#EXTINF:-1 tvg-name="咪咕体育" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/咪咕视频.png" group-title="咪咕",超级体育
+
+#EXTINF:-1 tvg-name="咪咕体育" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/咪咕视频.png" group-title="咪咕",广东体育
+
+#EXTINF:-1 tvg-name="咪咕体育" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/咪咕视频.png" group-title="咪咕",智林体育
+
+#EXTINF:-1 tvg-name="咪咕体育" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/咪咕视频.png" group-title="咪咕",纬来体育
+
+#EXTINF:-1 tvg-name="咪咕体育" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/咪咕视频.png" group-title="咪咕",博斯运动
+
+#EXTINF:-1 tvg-name="咪咕体育" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/咪咕视频.png" group-title="咪咕",博斯网球
+
+#EXTINF:-1 tvg-name="咪咕体育" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/咪咕视频.png" group-title="咪咕",TRA体育
+
+#EXTINF:-1 tvg-name="咪咕体育" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/咪咕视频.png" group-title="咪咕",天空体育
+
+#EXTINF:-1 tvg-name="咪咕体育" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/咪咕视频.png" group-title="咪咕",ELEVEN
+
+#EXTINF:-1 tvg-name="咪咕体育" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/咪咕视频.png" group-title="咪咕",WWE
+
+#EXTINF:-1 tvg-name="咪咕体育" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/咪咕视频.png" group-title="咪咕",NBA
+
+#EXTINF:-1 tvg-name="咪咕体育" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/咪咕视频.png" group-title="咪咕",TNT
+
+#EXTINF:-1 tvg-name="咪咕体育" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/咪咕视频.png" group-title="咪咕",UFC
+
 
 █████████████████████████████████████████████████████████████████████████████████████████████████████████
 
@@ -471,6 +430,27 @@ https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 http://allinone.netsite.cc/douyu/8770422
 #EXTINF:-1 tvg-name="豆瓣TOP" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/豆瓣TOP.png" group-title="影视",豆瓣TOP
 http://120.77.28.4:8648/douyu.php?id=8770422
+#EXTINF:-1 tvg-name="豆瓣TOP" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/豆瓣TOP.png" group-title="影视",豆瓣TOP
+http://159.75.85.63:35455/douyu/8770422
+#EXTINF:-1 tvg-name="豆瓣TOP" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/豆瓣TOP.png" group-title="影视",豆瓣TOP
+http://111.67.193.2:35455/douyu/8770422
+#EXTINF:-1 tvg-name="豆瓣TOP" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/豆瓣TOP.png" group-title="影视",豆瓣TOP
+http://live.metshop.top/douyu/8770422
+#EXTINF:-1 tvg-name="豆瓣TOP" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/豆瓣TOP.png" group-title="影视",豆瓣TOP
+https://live.iill.top/douyu/8770422
+#EXTINF:-1 tvg-name="豆瓣TOP" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/豆瓣TOP.png" group-title="影视",豆瓣TOP
+http://huanqiuzhibo.cn/manifest/douyu.php?id=8770422
+#EXTINF:-1 tvg-name="豆瓣TOP" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/豆瓣TOP.png" group-title="影视",豆瓣TOP
+https://www.goodiptv.club/douyu/8770422
+#EXTINF:-1 tvg-name="豆瓣TOP" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/豆瓣TOP.png" group-title="影视",豆瓣TOP
+http://zzy789.xyz/douyu1.php?id=8770422
+#EXTINF:-1 tvg-name="豆瓣TOP" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/豆瓣TOP.png" group-title="影视",豆瓣TOP
+http://jiaojirentv.top/2020/dy.php?id=8770422
+#EXTINF:-1 tvg-name="豆瓣TOP" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/豆瓣TOP.png" group-title="影视",豆瓣TOP
+http://43.136.119.99/douyu.php?id=8770422
+#EXTINF:-1 tvg-name="豆瓣TOP" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/豆瓣TOP.png" group-title="影视",豆瓣TOP
+http://diyp.112114.xyz/douyu/8770422
+
 #EXTINF:-1 tvg-name="美亚电影粤" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/TVB/美亚电影.png" group-title="影视",美亚电影
 http://aktv.top/AKTV/live/aktv/hk-1/AKTV.m3u8
 #EXTINF:-1 tvg-name="美亚电影粤" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/TVB/美亚电影.png" group-title="影视",美亚电影
