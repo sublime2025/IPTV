@@ -384,6 +384,8 @@ https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8?v=1
 #EXTINF:-1 tvg-name="BBC World" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/World/BBC.png" group-title="国际",美国国际
 https://ythls.armelin.one/channel/UCelk6aHijZq-GJBBB9YpReA.m3u8?v=1
 #EXTINF:-1 tvg-name="CNN" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/World/CNN.png" group-title="国际",美国新闻
+https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
+#EXTINF:-1 tvg-name="CNN" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/World/CNN.png" group-title="国际",美国新闻
 https://amg01448-samsungin-cnnnow-samsungin-4npqg.amagi.tv/playlist/amg01448-samsungin-cnnnow-samsungin/playlist.m3u8
 
 #EXTINF:-1 tvg-name="DW" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/World/DW.png" group-title="国际",德国新闻
@@ -567,7 +569,8 @@ https://aldirect.flv.huya.com/src/1394575534-1394575534-5989656310331736064-2789
 http://allinone.netsite.cc/huya/11342412
 #EXTINF:-1 tvg-name="星爷粤" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/虎牙.png" group-title="影视",星爷
 http://allinone.netsite.cc/huya/11336587
-
+#EXTINF:-1 tvg-name="周润发" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/虎牙.png" group-title="影视",发哥
+http://allinone.netsite.cc/huya/11342387
 #EXTINF:-1 tvg-name="刘德华" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/虎牙.png" group-title="影视",华仔
 http://allinone.netsite.cc/huya/11342424
 #EXTINF:-1 tvg-name="成龙" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/虎牙.png" group-title="影视",龙叔
