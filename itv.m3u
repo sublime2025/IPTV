@@ -510,16 +510,6 @@ http://cdn9.1689.us.kg/smt1.1.php?id=Tvbclassic
 http://aktv.top/AKTV/live/aktv/null-15/AKTV.m3u8
 #EXTINF:-1 tvg-name="靖天电影" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/TVB/靖天电影.png" group-title="影视",靖天电影
 http://aktv.top/AKTV/live/aktv/null-6/AKTV.m3u8
-#EXTINF:-1 tvg-name="黑莓电影" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/NewTV/黑莓电影.png" group-title="影视",黑莓电影
-http://112.102.217.173:9003//hls/99/index.m3u8
-#EXTINF:-1 tvg-name="超级电影" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/NewTV/超级电影.png" group-title="影视",超级电影
-http://112.102.217.173:9003//hls/85/index.m3u8
-
-#EXTINF:-1 tvg-name="CHC动作电影" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/CCTV/CHC动作电影.png" group-title="影视",动作电影
-http://159.75.85.63:36666/migu/644368714.m3u8?migutoken=f552325b6795e63f539ac6d8f652b6b5e1b7002008e45731ab07932c87c3434cb7a071c821fc3bd5fa825a83d7f346338d5a90d74f7ba950b892332d4c6ca142840a52c3288b0e5978f9b61c1a
-
-#EXTINF:-1 tvg-name="CHC家庭影院" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/CCTV/CHC家庭影院.png" group-title="影视",家庭影院
-http://159.75.85.63:36666/migu/644368373.m3u8?migutoken=abf962cdba8976f4be72f610cecb842beaa0f1cce9f81600e2f5c2d8b4d8c348d12a037b79a73f5b70ada161084f5d06b4742b7ceebc1db19724315f2a6538ea7f64f96970184bb354f30a589d
 
 #EXTINF:-1 tvg-name="重温经典" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/TVB/重温经典.png" group-title="影视",重温经典
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=cwjd
@@ -531,26 +521,48 @@ http://php.jdshipin.com:8880/amlh.php
 #EXTINF:-1 tvg-name="邵氏电影" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/斗鱼.png" group-title="影视",邵氏电影
 http://allinone.netsite.cc/douyu/4246519
 
-#EXTINF:-1 tvg-name="斗鱼" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/斗鱼.png" group-title="影视",斗鱼轮播(左右)
-http://allinone.netsite.cc/douyu/426517
+#EXTINF:-1 tvg-name="神乐影院" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/斗鱼.png" group-title="影视",斗鱼轮播(左右)
+http://allinone.netsite.cc/douyu/85894
+#EXTINF:-1 tvg-name="可乐影视" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/斗鱼.png" group-title="影视",斗鱼轮播(左右)
+http://allinone.netsite.cc/douyu/20415
+#EXTINF:-1 tvg-name="吃米滴虫" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/斗鱼.png" group-title="影视",斗鱼轮播(左右)
+http://allinone.netsite.cc/douyu/315457
+#EXTINF:-1 tvg-name="花卷影院" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/斗鱼.png" group-title="影视",斗鱼轮播(左右)
+http://allinone.netsite.cc/douyu/52787
+#EXTINF:-1 tvg-name="冰冰影厅" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/斗鱼.png" group-title="影视",斗鱼轮播(左右)
+http://allinone.netsite.cc/douyu/74374
+#EXTINF:-1 tvg-name="贝爷影厅" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/斗鱼.png" group-title="影视",斗鱼轮播(左右)
+http://allinone.netsite.cc/douyu/252802
 
-#EXTINF:-1 tvg-name="虎牙" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/虎牙.png" group-title="影视",虎牙轮播(换台)
+#EXTINF:-1 tvg-name="高分动作" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/虎牙.png" group-title="影视",虎牙轮播(换台)
+http://allinone.netsite.cc/huya/11352884
+#EXTINF:-1 tvg-name="动作电影" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/虎牙.png" group-title="影视",虎牙轮播(换台)
 http://allinone.netsite.cc/huya/11602077
+#EXTINF:-1 tvg-name="嫣然影厅" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/虎牙.png" group-title="影视",虎牙轮播(换台)
+http://allinone.netsite.cc/huya/11601977
+#EXTINF:-1 tvg-name="黑帮斗争" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/虎牙.png" group-title="影视",虎牙轮播(换台)
+http://allinone.netsite.cc/huya/11342419
+#EXTINF:-1 tvg-name="不挤影院" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/虎牙.png" group-title="影视",虎牙轮播(换台)
+http://allinone.netsite.cc/huya/11352897
+#EXTINF:-1 tvg-name="搞笑恐怖" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/虎牙.png" group-title="影视",虎牙轮播(换台)
+http://allinone.netsite.cc/huya/11601960
 
-#EXTINF:-1 tvg-name="星爷" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/虎牙.png" group-title="影视",星爷
+#EXTINF:-1 tvg-name="周星驰" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/虎牙.png" group-title="影视",星爷
 http://zby.xjqxz.top/live12/live.m3u8
-#EXTINF:-1 tvg-name="星爷" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/虎牙.png" group-title="影视",星爷
+#EXTINF:-1 tvg-name="周星驰" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/虎牙.png" group-title="影视",星爷
 https://aldirect.flv.huya.com/src/1394575534-1394575534-5989656310331736064-2789274524-10057-A-0-1.flv
-#EXTINF:-1 tvg-name="星爷" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/虎牙.png" group-title="影视",星爷
+#EXTINF:-1 tvg-name="周星驰" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/虎牙.png" group-title="影视",星爷
 http://allinone.netsite.cc/huya/11342412
 #EXTINF:-1 tvg-name="星爷粤" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/虎牙.png" group-title="影视",星爷
 http://allinone.netsite.cc/huya/11336587
 
-#EXTINF:-1 tvg-name="成龙" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/虎牙.png" group-title="影视",成龙
+#EXTINF:-1 tvg-name="刘德华" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/虎牙.png" group-title="影视",华仔
+http://allinone.netsite.cc/huya/11342424
+#EXTINF:-1 tvg-name="成龙" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/虎牙.png" group-title="影视",龙叔
 http://allinone.netsite.cc/huya/11342386
 #EXTINF:-1 tvg-name="沈腾" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/虎牙.png" group-title="影视",沈腾
 http://allinone.netsite.cc/huya/11601968
-#EXTINF:-1 tvg-name="英叔" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/虎牙.png" group-title="影视",英叔
+#EXTINF:-1 tvg-name="林正英" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/虎牙.png" group-title="影视",英叔
 http://allinone.netsite.cc/huya/11342421
 
 █████████████████████████████████████████████████████████████████████████████████████████████████████████
@@ -615,6 +627,8 @@ http://allinone.netsite.cc/huya/21059612
 http://allinone.netsite.cc/yy/1382749909
 #EXTINF:-1 tvg-name="雪中悍刀行" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/IMG.png" group-title="剧集",雪中悍刀行
 http://allinone.netsite.cc/yy/1382660835
+#EXTINF:-1 tvg-name="庆余年" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/IMG.png" group-title="剧集",庆余年
+http://allinone.netsite.cc/huya/11352960
 
 █████████████████████████████████████████████████████████████████████████████████████████████████████████
 
@@ -660,6 +674,8 @@ http://allinone.netsite.cc/douyu/7620081
 
 #EXTINF:-1 tvg-name="轮播动漫" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/卡通.png" group-title="动漫",轮播动漫
 https://live.metshop.top/douyu/1174353
+#EXTINF:-1 tvg-name="轮播动漫" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/卡通.png" group-title="动漫",轮播动漫
+http://allinone.netsite.cc/douyu/426517
 
 █████████████████████████████████████████████████████████████████████████████████████████████████████████
 
