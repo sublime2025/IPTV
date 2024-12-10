@@ -118,27 +118,27 @@ http://112.102.217.173:9003//hls/30/index.m3u8
 https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
 
 #EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/IPTV/湖南卫视.png" group-title="卫视",湖南卫视
-http://218.67.174.173:8888/udp/225.1.1.114:5002
+http://117.161.12.116/live/program/live/hunanwshd8m/8000000/mnf.m3u8
 #EXTINF:-1 tvg-name="湖北卫视" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/IPTV/湖北卫视.png" group-title="卫视",湖北卫视
-http://218.67.174.173:8888/udp/225.1.1.147:5002
+http://117.161.12.116/live/program/live/hubeiws8m/8000000/mnf.m3u8
 #EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/IPTV/浙江卫视.png" group-title="卫视",浙江卫视
-http://218.67.174.173:8888/udp/225.1.1.112:5002
+http://117.161.12.116/live/program/live/zjwshd8m/8000000/mnf.m3u8
 #EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/IPTV/江苏卫视.png" group-title="卫视",江苏卫视
-http://218.67.174.173:8888/udp/225.1.1.126:5002
+http://117.161.12.116/live/program/live/jswshd8m/8000000/mnf.m3u8
 #EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/IPTV/广东卫视.png" group-title="卫视",广东卫视
-http://218.67.174.173:8888/udp/225.1.1.116:5002
+http://117.161.12.116/live/program/live/gdwshd8m/8000000/mnf.m3u8
 #EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/IPTV/深圳卫视.png" group-title="卫视",深圳卫视
-http://218.67.174.173:8888/udp/225.1.1.117:5002
+http://117.161.12.116/live/program/live/szwshd8m/8000000/mnf.m3u8
 #EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/IPTV/东方卫视.png" group-title="卫视",东方卫视
-http://218.67.174.173:8888/udp/225.1.2.31:5002
+http://117.161.12.116/live/program/live/dfwshd8m/8000000/mnf.m3u8
 #EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/IPTV/北京卫视.png" group-title="卫视",北京卫视
-http://218.67.174.173:8888/udp/225.1.1.113:5002
+http://117.161.12.116/live/program/live/bjwshd8m/8000000/mnf.m3u8
 #EXTINF:-1 tvg-name="天津卫视" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/IPTV/天津卫视.png" group-title="卫视",天津卫视
-http://218.67.174.173:8888/udp/225.1.1.111:5002
+http://117.161.12.116/live/program/live/tjwshd8m/8000000/mnf.m3u8
 #EXTINF:-1 tvg-name="江西卫视" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/IPTV/江西卫视.png" group-title="卫视",江西卫视
-http://218.67.174.173:8888/udp/225.1.2.29:5002
+http://117.161.12.116/live/program/live/jxws8m/8000000/mnf.m3u8
 #EXTINF:-1 tvg-name="安徽卫视" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/IPTV/安徽卫视.png" group-title="卫视",安徽卫视
-http://218.67.174.173:8888/udp/225.1.1.127:5002
+http://117.161.12.116/live/program/live/ahwshd8m/8000000/mnf.m3u8
 
 #EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/IPTV/江苏卫视.png" group-title="卫视",江苏卫视
 http://fangke.blueswords.com:9901/tsfile/live/0107_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -187,16 +187,14 @@ http://111.13.111.242/000000001000/3000000001000031494/index.m3u8?channel-id=Fif
 #EXTINF:-1 tvg-name="咪咕体育" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/咪咕视频.png" group-title="咪咕",广东体育
 http://111.13.111.242/000000001000/3000000010000000097/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
 #EXTINF:-1 tvg-name="咪咕体育" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/咪咕视频.png" group-title="咪咕",智林体育
-http://111.13.111.242/000000001000/3000000010000002019/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
+http://209.141.58.162:4994/proxy?url=http%3A//209.141.58.162%3A5050/litv/4gtv-4gtv101
 #EXTINF:-1 tvg-name="咪咕体育" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/咪咕视频.png" group-title="咪咕",纬来体育
-http://111.13.111.242/000000001000/3000000010000002809/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
-#EXTINF:-1 tvg-name="咪咕体育" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/咪咕视频.png" group-title="咪咕",博斯运动
-http://111.13.111.242/000000001000/3000000010000003915/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
+rtmp://f13h.mine.nu/sat/tv721
+#EXTINF:-1 tvg-name="魅力足球" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/咪咕视频.png" group-title="咪咕",魅力足球
+http://111.8.224.6:9999/tsfile/live/1037_1.m3u8
 
 #EXTINF:-1 tvg-name="博斯网球" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/咪咕视频.png" group-title="咪咕",博斯网球
 http://litv.zapi.us.kg/?id=litv-longturn09
-#EXTINF:-1 tvg-name="博斯魅力" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/咪咕视频.png" group-title="咪咕",博斯魅力
-http://litv.zapi.us.kg/?id=litv-longturn04
 #EXTINF:-1 tvg-name="博斯无线Ⅰ" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/咪咕视频.png" group-title="咪咕",博斯无线
 http://litv.zapi.us.kg/?id=litv-longturn10
 #EXTINF:-1 tvg-name="博斯无线Ⅱ" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/咪咕视频.png" group-title="咪咕",博斯无线
@@ -211,11 +209,16 @@ http://litv.zapi.us.kg/?id=litv-longturn05
 http://litv.zapi.us.kg/?id=litv-longturn06
 
 #EXTINF:-1 tvg-name="咪咕体育" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/咪咕视频.png" group-title="咪咕",TRA体育
-http://111.13.111.242/000000001000/3000000010000005837/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
+http://209.141.58.162:4994/proxy?url=http%3A//209.141.58.162%3A5050/litv/4gtv-4gtv077
 #EXTINF:-1 tvg-name="咪咕体育" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/咪咕视频.png" group-title="咪咕",天空体育
-http://111.13.111.242/000000001000/3000000001000005969/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
+http://tv14s.xyz:8080/753468/894568/53704
+#EXTINF:-1 tvg-name="咪咕体育" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/咪咕视频.png" group-title="咪咕",天空体育
+http://cord-cutter.net:8080/25464931/30585186/137720
 #EXTINF:-1 tvg-name="咪咕体育" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/咪咕视频.png" group-title="咪咕",ELEVEN
-http://111.13.111.242/000000001000/3000000010000006077/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
+rtmp://f13h.mine.nu/sat/tv731
+#EXTINF:-1 tvg-name="咪咕体育" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/咪咕视频.png" group-title="咪咕",ELEVEN
+rtmp://f13h.mine.nu/sat/tv741
+
 #EXTINF:-1 tvg-name="咪咕体育" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/咪咕视频.png" group-title="咪咕",WWE
 http://111.13.111.242/000000001000/3000000010000006658/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
 #EXTINF:-1 tvg-name="咪咕体育" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/咪咕视频.png" group-title="咪咕",NBA
@@ -278,6 +281,8 @@ http://litv.zapi.us.kg/?id=4gtv-4gtv068
 http://litv.zapi.us.kg/?id=4gtv-4gtv067
 #EXTINF:-1 tvg-name="TVBS新闻" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/TVB/TVBS.png" group-title="港台",TVBS新闻
 http://litv.zapi.us.kg/?id=4gtv-4gtv072
+#EXTINF:-1 tvg-name="TVBS新闻" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/TVB/TVBS.png" group-title="港台",TVBS新闻
+http://aktv.top/AKTV/live/aktv/tvbs-1/AKTV.m3u8
 #EXTINF:-1 tvg-name="ELTA娱乐" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/TVB/TVBS.png" group-title="港台",ELTA娱乐
 http://litv.zapi.us.kg/?id=4gtv-4gtv070
 
@@ -331,10 +336,6 @@ http://litv.zapi.us.kg/?id=4gtv-4gtv075
 http://aktv.top/AKTV/live/aktv/null-9/AKTV.m3u8
 #EXTINF:-1 tvg-name="寰宇新闻" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/TVB/寰宇新闻.png" group-title="国际",寰宇新闻
 http://litv.zapi.us.kg/?id=litv-longturn14
-
-#EXTINF:-1 tvg-name="寰宇台湾" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/TVB/寰宇新闻.png" group-title="国际",寰宇台湾
-http://litv.zapi.us.kg/?id=litv-longturn15
-
 #EXTINF:-1 tvg-name="民视新闻" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/TVB/镜新闻.png" group-title="国际",民视新闻
 http://litv.zapi.us.kg/?id=litv-ftv13
 
