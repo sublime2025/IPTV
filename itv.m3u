@@ -778,6 +778,8 @@ http://125.227.210.55:8203/VideoInput/play.ts
 #EXTINF:-1 tvg-name="澳视3台" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/TVB/澳视.png" group-title="限制",澳视台
 http://125.227.210.55:8201/VideoInput/play.ts
 
+#EXTINF:-1 tvg-name="JAPNHD" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/World/岛国片.png" group-title="限制",岛国片
+http://88b9da48.kazmazpaz.ru/iptv/2EA55L4SUE4RH4/6225/manifest.m3u8
 #EXTINF:-1 tvg-name="波多野结衣" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/World/岛国片.png" group-title="限制",岛国片
 p3p://173.208.176.178:31809/5fe6d96b000d95298cb35d8161902e91
 #EXTINF:-1 tvg-name="加勒比" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/World/岛国片.png" group-title="限制",岛国片
@@ -803,6 +805,8 @@ p3p://173.208.176.178:31809/5fe80214000d2ec8913a3189085b6434
 #EXTINF:-1 tvg-name="动漫" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/World/岛国片.png" group-title="限制",岛国片
 p3p://173.208.176.178:31809/5ff742d8000bbabbccce4cb0100a31ff
 
+#EXTINF:-1 tvg-name="麻豆" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/TVB/麻豆传媒.png" group-title="限制",国产台
+http://125.227.210.55:51359/VideoInput/play.ts
 #EXTINF:-1 tvg-name="彩虹K" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/TVB/麻豆传媒.png" group-title="限制",国产台
 p3p://173.208.176.178:31809/63fd56ec000b5f0d26d4fe1b07963493
 #EXTINF:-1 tvg-name="麻豆台湾" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/TVB/麻豆传媒.png" group-title="限制",国产台
@@ -843,9 +847,10 @@ p3p://173.208.176.178:31809/6403cc0d0000f97a400e5a9115f012f3
 #EXTINF:-1 tvg-name="欧美台" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/World/Porn.png" group-title="限制",欧美台
 p3p://173.208.176.178:31809/607e1f9f0004af8edb961118303e4935
 
+#EXTINF:-1 tvg-name="PlayBoy K" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/TVB/PlayBoy.png" group-title="限制",PlayBoy
+http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8
 #EXTINF:-1 tvg-name="PlayBoy KR" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/TVB/PlayBoy.png" group-title="限制",PlayBoy
 p3p://173.208.176.178:31809/646fa54000041fa7e554fbe50f3b3077
-
 #EXTINF:-1 tvg-name="PlayBoy PLUS" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/TVB/PlayBoy.png" group-title="限制",PlayBoy
 http://chencai80088.ottclub.xyz/iptv/LMV2ZNWTPQLRBE/6242/index.m3u
 #EXTINF:-1 tvg-name="Playboy" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/TVB/PlayBoy.png" group-title="限制",PlayBoy
