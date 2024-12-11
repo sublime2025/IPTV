@@ -861,3 +861,7 @@ http://cdn.adultiptv.net/lesbian.m3u8
 http://cdn.adultiptv.net/cuckold.m3u8
 #EXTINF:-1 tvg-name="欧美台" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/World/Porn.png" group-title="限制",欧美台
 http://88.212.7.11/live/test_erox_hd_hevc/playlist.m3u8
+#EXTINF:-1 tvg-name="欧美台" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/World/Porn.png" group-title="限制",欧美台
+http://88.212.7.11/live/test_desire_hd_hevc/playlist.m3u8
+#EXTINF:-1 tvg-name="欧美台" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/World/Porn.png" group-title="限制",欧美台
+http://88.212.7.11/live/test_dorcel_hd_hevc/playlist.m3u8
