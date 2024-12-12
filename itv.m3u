@@ -85,29 +85,29 @@ http://112.102.217.173:9003//hls/30/index.m3u8
 https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
 
 #EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/IPTV/湖南卫视.png" group-title="卫视",湖南卫视
-http://60.223.72.136:8005/rtp/226.0.2.143:9056
+http://115.221.91.210:7777/udp/233.50.200.190:5140
 #EXTINF:-1 tvg-name="湖北卫视" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/IPTV/湖北卫视.png" group-title="卫视",湖北卫视
-http://60.223.72.136:8005/rtp/226.0.2.150:9112
+http://115.221.91.210:7777/udp/233.50.200.147:5140
 #EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/IPTV/浙江卫视.png" group-title="卫视",浙江卫视
-http://60.223.72.136:8005/rtp/226.0.2.144:9064
+http://115.221.91.210:7777/udp/233.50.201.100:5140
 #EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/IPTV/江苏卫视.png" group-title="卫视",江苏卫视
-http://60.223.72.136:8005/rtp/226.0.2.176:9320
+http://115.221.91.210:7777/udp/233.50.200.144:5140
 #EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/IPTV/广东卫视.png" group-title="卫视",广东卫视
-http://60.223.72.136:8005/rtp/226.0.2.146:9080
+http://115.221.91.210:7777/udp/233.50.200.149:5140
 #EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/IPTV/深圳卫视.png" group-title="卫视",深圳卫视
-http://60.223.72.136:8005/rtp/226.0.2.147:9088
+http://115.221.91.210:7777/udp/233.50.200.188:5140
 #EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/IPTV/东方卫视.png" group-title="卫视",东方卫视
-http://60.223.72.136:8005/rtp/226.0.2.175:9312
+http://115.221.91.210:7777/udp/233.50.200.146:5140
 #EXTINF:-1 tvg-name="东南卫视" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/IPTV/东方卫视.png" group-title="卫视",东南卫视
-http://60.223.72.136:8005/rtp/226.0.2.40:8232
+http://115.221.91.210:7777/udp/233.50.201.146:5140
 #EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/IPTV/北京卫视.png" group-title="卫视",北京卫视
-http://60.223.72.136:8005/rtp/226.0.2.177:9328
+http://115.221.91.210:7777/udp/233.50.200.179:5140
 #EXTINF:-1 tvg-name="天津卫视" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/IPTV/天津卫视.png" group-title="卫视",天津卫视
-http://60.223.72.136:8005/rtp/226.0.2.148:9096
+http://115.221.91.210:7777/udp/233.50.200.104:5140
 #EXTINF:-1 tvg-name="江西卫视" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/IPTV/江西卫视.png" group-title="卫视",江西卫视
-http://60.223.72.136:8005/rtp/226.0.2.54:8344
+http://115.221.91.210:7777/udp/233.50.200.119:5140
 #EXTINF:-1 tvg-name="安徽卫视" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/IPTV/安徽卫视.png" group-title="卫视",安徽卫视
-http://60.223.72.136:8005/rtp/226.0.2.145:9072
+http://115.221.91.210:7777/udp/233.50.200.106:5140
 
 █████████████████████████████████████████████████████████████████████████████████████████████████████████
 
