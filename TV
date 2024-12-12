@@ -186,6 +186,162 @@ http://111.13.111.242/000000001000/3000000010000010833/index.m3u8?channel-id=Fif
 #EXTINF:-1 tvg-name="咪咕体育" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/咪咕视频.png" group-title="咪咕",UFC
 http://111.13.111.242/000000001000/3000000010000011297/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
 
+#EXTINF:-1,tvg-id="TNT" tvg-name="TNT" tvg-logo="https://epg.v1.mk/logo/TNT.png" group-title="沐辰「源」",TNT SPORTS 1
+https://tv.doube.eu.org/beesport?pid=1
+#EXTINF:-1,tvg-id="TNT" tvg-name="TNT" tvg-logo="https://epg.v1.mk/logo/TNT.png" group-title="沐辰「源」",TNT SPORTS 2
+https://tv.doube.eu.org/beesport?pid=2
+#EXTINF:-1,tvg-id="TNT" tvg-name="TNT" tvg-logo="https://epg.v1.mk/logo/TNT.png" group-title="沐辰「源」",TNT SPORTS 3
+https://tv.doube.eu.org/beesport?pid=3
+#EXTINF:-1,tvg-id="TNT" tvg-name="TNT" tvg-logo="https://epg.v1.mk/logo/TNT.png" group-title="沐辰「源」",TNT SPORTS 4
+https://tv.doube.eu.org/beesport?pid=4
+#EXTINF:-1,tvg-id="SKYSPORT" tvg-name="SKYSPORT" tvg-logo="https://epg.v1.mk/logo/SKYSPORT.png" group-title="沐辰「源」",SKY SPORTS FOOTBALL
+https://tv.doube.eu.org/beesport?pid=5
+#EXTINF:-1,tvg-id="SKYSPORT" tvg-name="SKYSPORT" tvg-logo="https://epg.v1.mk/logo/SKYSPORT.png" group-title="沐辰「源」",SKY SPORTS MAIN EVENT
+https://tv.doube.eu.org/beesport?pid=6
+#EXTINF:-1,tvg-id="SKYSPORT" tvg-name="SKYSPORT" tvg-logo="https://epg.v1.mk/logo/SKYSPORT.png" group-title="沐辰「源」",SKY SPORTS PREMIER LEAGUE
+https://tv.doube.eu.org/beesport?pid=7
+#EXTINF:-1,tvg-id="SKYSPORT" tvg-name="SKYSPORT" tvg-logo="https://epg.v1.mk/logo/SKYSPORT.png" group-title="沐辰「源」",SKY SPORTS ACTION
+https://tv.doube.eu.org/beesport?pid=8
+#EXTINF:-1,tvg-id="SKYSPORT" tvg-name="SKYSPORT" tvg-logo="https://epg.v1.mk/logo/SKYSPORT.png" group-title="沐辰「源」",SKY SPORTS MIX
+https://tv.doube.eu.org/beesport?pid=9
+#EXTINF:-1,tvg-id="SKYSPORT" tvg-name="SKYSPORT" tvg-logo="https://epg.v1.mk/logo/SKYSPORT.png" group-title="沐辰「源」",SKY SPORTS ARENA
+https://tv.doube.eu.org/beesport?pid=10
+#EXTINF:-1,tvg-id="SKYSPORT" tvg-name="SKYSPORT" tvg-logo="https://epg.v1.mk/logo/SKYSPORT.png" group-title="沐辰「源」",SKY SPORTS NEWS
+https://tv.doube.eu.org/beesport?pid=11
+#EXTINF:-1,tvg-id="SKYSPORT" tvg-name="SKYSPORT" tvg-logo="https://epg.v1.mk/logo/SKYSPORT.png" group-title="沐辰「源」",SKY SPORTS CRICKET
+https://tv.doube.eu.org/beesport?pid=12
+#EXTINF:-1,tvg-id="SKYSPORT" tvg-name="SKYSPORT" tvg-logo="https://epg.v1.mk/logo/SKYSPORT.png" group-title="沐辰「源」",Sky Sports Tennis
+https://tv.doube.eu.org/beesport?pid=13
+#EXTINF:-1,tvg-id="SKYSPORT" tvg-name="SKYSPORT" tvg-logo="https://epg.v1.mk/logo/SKYSPORT.png" group-title="沐辰「源」",SKY SPORTS F1
+https://tv.doube.eu.org/beesport?pid=14
+#EXTINF:-1,tvg-id="SKYSPORT" tvg-name="SKYSPORT" tvg-logo="https://epg.v1.mk/logo/SKYSPORT.png" group-title="沐辰「源」",SKY SPORTS GOLF
+https://tv.doube.eu.org/beesport?pid=15
+#EXTINF:-1,tvg-id="SKYSPORT" tvg-name="SKYSPORT" tvg-logo="https://epg.v1.mk/logo/SKYSPORT.png" group-title="沐辰「源」",SKY SPORTS RACING
+https://tv.doube.eu.org/beesport?pid=16
+#EXTINF:-1,tvg-id="BEINSPORTS1" tvg-name="BEINSPORTS1" tvg-logo="https://epg.v1.mk/logo/BEINSPORTS1.png" group-title="沐辰「源」",BEIN SPORTS USA
+https://tv.doube.eu.org/beesport?pid=17
+#EXTINF:-1,tvg-id="TENNISCHANNEL" tvg-name="TENNISCHANNEL" tvg-logo="https://epg.v1.mk/logo/TENNISCHANNEL.png" group-title="沐辰「源」",TENNIS CHANNEL
+https://tv.doube.eu.org/beesport?pid=18
+#EXTINF:-1,tvg-id="ANIMALPLANETHDWORLD" tvg-name="ANIMALPLANETHDWORLD" tvg-logo="https://epg.v1.mk/logo/ANIMALPLANETHDWORLD.png" group-title="沐辰「源」",LALIGA TV HD
+https://tv.doube.eu.org/beesport?pid=19
+#EXTINF:-1,tvg-id="hbo1" tvg-name="hbo1" tvg-logo="https://epg.v1.mk/logo/hbo1.png" group-title="沐辰「源」",HBO 1
+https://tv.doube.eu.org/beesport?pid=20
+#EXTINF:-1,tvg-id="HBO Family" tvg-name="HBO Family" tvg-logo="https://epg.v1.mk/logo/HBO Family.png" group-title="沐辰「源」",HBO 2
+https://tv.doube.eu.org/beesport?pid=21
+#EXTINF:-1,tvg-id="DISCOVERYCHANNEL" tvg-name="DISCOVERYCHANNEL" tvg-logo="https://epg.v1.mk/logo/DISCOVERYCHANNEL.png" group-title="沐辰「源」",Discovery Channel
+https://tv.doube.eu.org/beesport?pid=22
+#EXTINF:-1,tvg-id="DISCOVERYASIA" tvg-name="DISCOVERYASIA" tvg-logo="https://epg.v1.mk/logo/DISCOVERYASIA.png" group-title="沐辰「源」",Discovery Life
+https://tv.doube.eu.org/beesport?pid=23
+#EXTINF:-1,tvg-id="CINEMAX" tvg-name="CINEMAX" tvg-logo="https://epg.v1.mk/logo/CINEMAX.png" group-title="沐辰「源」",Cinemax West
+https://tv.doube.eu.org/beesport?pid=24
+#EXTINF:-1,tvg-id="NATIONALGEOGRAPHIC" tvg-name="NATIONALGEOGRAPHIC" tvg-logo="https://epg.v1.mk/logo/NATIONALGEOGRAPHIC.png" group-title="沐辰「源」",Great Movies
+https://tv.doube.eu.org/beesport?pid=25
+#EXTINF:-1,tvg-id="SKYNEWS" tvg-name="SKYNEWS" tvg-logo="https://epg.v1.mk/logo/SKYNEWS.png" group-title="沐辰「源」",Sky Cinema Comedy
+https://tv.doube.eu.org/beesport?pid=26
+#EXTINF:-1,tvg-id="SKYNEWS" tvg-name="SKYNEWS" tvg-logo="https://epg.v1.mk/logo/SKYNEWS.png" group-title="沐辰「源」",Sky Cinema Family
+https://tv.doube.eu.org/beesport?pid=27
+#EXTINF:-1,tvg-id="CartoonNetwork" tvg-name="CartoonNetwork" tvg-logo="https://epg.v1.mk/logo/CartoonNetwork.png" group-title="沐辰「源」",Cartoon Network
+https://tv.doube.eu.org/beesport?pid=28
+#EXTINF:-1,tvg-id="ABOMOVIESTHANGATHIRAI" tvg-name="ABOMOVIESTHANGATHIRAI" tvg-logo="https://epg.v1.mk/logo/ABOMOVIESTHANGATHIRAI.png" group-title="沐辰「源」",Virgin 2
+https://tv.doube.eu.org/beesport?pid=29
+#EXTINF:-1,tvg-id="ABOMOVIESTHANGATHIRAI" tvg-name="ABOMOVIESTHANGATHIRAI" tvg-logo="https://epg.v1.mk/logo/ABOMOVIESTHANGATHIRAI.png" group-title="沐辰「源」",Virgin 3
+https://tv.doube.eu.org/beesport?pid=30
+#EXTINF:-1,tvg-id="ABOMOVIESTHANGATHIRAI" tvg-name="ABOMOVIESTHANGATHIRAI" tvg-logo="https://epg.v1.mk/logo/ABOMOVIESTHANGATHIRAI.png" group-title="沐辰「源」",Virgin 1
+https://tv.doube.eu.org/beesport?pid=31
+#EXTINF:-1,tvg-id="DAZN1" tvg-name="DAZN1" tvg-logo="https://epg.v1.mk/logo/DAZN1.png" group-title="沐辰「源」",DAZN
+https://tv.doube.eu.org/beesport?pid=32
+#EXTINF:-1,tvg-id="BEINSPORTS1" tvg-name="BEINSPORTS1" tvg-logo="https://epg.v1.mk/logo/BEINSPORTS1.png" group-title="沐辰「源」",Bein Sports English 2
+https://tv.doube.eu.org/beesport?pid=33
+#EXTINF:-1,tvg-id="ASTROSUPERSPORT2" tvg-name="ASTROSUPERSPORT2" tvg-logo="https://epg.v1.mk/logo/ASTROSUPERSPORT2.png" group-title="沐辰「源」",SuperSport Premier League
+https://tv.doube.eu.org/beesport?pid=34
+#EXTINF:-1,tvg-id="ASTROSUPERSPORT2" tvg-name="ASTROSUPERSPORT2" tvg-logo="https://epg.v1.mk/logo/ASTROSUPERSPORT2.png" group-title="沐辰「源」",SuperSport LaLiga
+https://tv.doube.eu.org/beesport?pid=35
+#EXTINF:-1,tvg-id="ASTROSUPERSPORT2" tvg-name="ASTROSUPERSPORT2" tvg-logo="https://epg.v1.mk/logo/ASTROSUPERSPORT2.png" group-title="沐辰「源」",SuperSport Action
+https://tv.doube.eu.org/beesport?pid=36
+#EXTINF:-1,tvg-id="ASTROSUPERSPORT2" tvg-name="ASTROSUPERSPORT2" tvg-logo="https://epg.v1.mk/logo/ASTROSUPERSPORT2.png" group-title="沐辰「源」",SuperSport Blitz
+https://tv.doube.eu.org/beesport?pid=37
+#EXTINF:-1,tvg-id="ASTROSUPERSPORT2" tvg-name="ASTROSUPERSPORT2" tvg-logo="https://epg.v1.mk/logo/ASTROSUPERSPORT2.png" group-title="沐辰「源」",SuperSport Cricket
+https://tv.doube.eu.org/beesport?pid=38
+#EXTINF:-1,tvg-id="ASTROSUPERSPORT2" tvg-name="ASTROSUPERSPORT2" tvg-logo="https://epg.v1.mk/logo/ASTROSUPERSPORT2.png" group-title="沐辰「源」",SuperSport Football
+https://tv.doube.eu.org/beesport?pid=39
+#EXTINF:-1,tvg-id="ASTROSUPERSPORT2" tvg-name="ASTROSUPERSPORT2" tvg-logo="https://epg.v1.mk/logo/ASTROSUPERSPORT2.png" group-title="沐辰「源」",SuperSport Golf
+https://tv.doube.eu.org/beesport?pid=40
+#EXTINF:-1,tvg-id="ASTROSUPERSPORT2" tvg-name="ASTROSUPERSPORT2" tvg-logo="https://epg.v1.mk/logo/ASTROSUPERSPORT2.png" group-title="沐辰「源」",SuperSport Rugby
+https://tv.doube.eu.org/beesport?pid=41
+#EXTINF:-1,tvg-id="ASTROSUPERSPORT2" tvg-name="ASTROSUPERSPORT2" tvg-logo="https://epg.v1.mk/logo/ASTROSUPERSPORT2.png" group-title="沐辰「源」",SuperSport Tennis
+https://tv.doube.eu.org/beesport?pid=42
+#EXTINF:-1,tvg-id="ARABICRADIO&TVVARIETY" tvg-name="ARABICRADIO&TVVARIETY" tvg-logo="https://epg.v1.mk/logo/ARABICRADIO&TVVARIETY.png" group-title="沐辰「源」",Variety 1
+https://tv.doube.eu.org/beesport?pid=43
+#EXTINF:-1,tvg-id="ARABICRADIO&TVVARIETY" tvg-name="ARABICRADIO&TVVARIETY" tvg-logo="https://epg.v1.mk/logo/ARABICRADIO&TVVARIETY.png" group-title="沐辰「源」",Variety 2
+https://tv.doube.eu.org/beesport?pid=44
+#EXTINF:-1,tvg-id="ARABICRADIO&TVVARIETY" tvg-name="ARABICRADIO&TVVARIETY" tvg-logo="https://epg.v1.mk/logo/ARABICRADIO&TVVARIETY.png" group-title="沐辰「源」",Variety 3
+https://tv.doube.eu.org/beesport?pid=45
+#EXTINF:-1,tvg-id="ARABICRADIO&TVVARIETY" tvg-name="ARABICRADIO&TVVARIETY" tvg-logo="https://epg.v1.mk/logo/ARABICRADIO&TVVARIETY.png" group-title="沐辰「源」",Variety 4
+https://tv.doube.eu.org/beesport?pid=46
+#EXTINF:-1,tvg-id="EUROSPORT" tvg-name="EUROSPORT" tvg-logo="https://epg.v1.mk/logo/EUROSPORT.png" group-title="沐辰「源」",Eurosport 1
+https://tv.doube.eu.org/beesport?pid=47
+#EXTINF:-1,tvg-id="EUROSPORT" tvg-name="EUROSPORT" tvg-logo="https://epg.v1.mk/logo/EUROSPORT.png" group-title="沐辰「源」",Eurosport 2
+https://tv.doube.eu.org/beesport?pid=48
+#EXTINF:-1,tvg-id="NOW SPORTS PREMIER LEAGUE TV" tvg-name="NOW SPORTS PREMIER LEAGUE TV" tvg-logo="https://epg.v1.mk/logo/NOW SPORTS PREMIER LEAGUE TV.png" group-title="沐辰「源」",Premier Sports 1
+https://tv.doube.eu.org/beesport?pid=49
+#EXTINF:-1,tvg-id="NOW SPORTS PREMIER LEAGUE TV" tvg-name="NOW SPORTS PREMIER LEAGUE TV" tvg-logo="https://epg.v1.mk/logo/NOW SPORTS PREMIER LEAGUE TV.png" group-title="沐辰「源」",Premier Sports 2
+https://tv.doube.eu.org/beesport?pid=50
+#EXTINF:-1,tvg-id="GOLFCHANNEL" tvg-name="GOLFCHANNEL" tvg-logo="https://epg.v1.mk/logo/GOLFCHANNEL.png" group-title="沐辰「源」",Golf Channel
+https://tv.doube.eu.org/beesport?pid=51
+#EXTINF:-1,tvg-id="CMLP" tvg-name="CMLP" tvg-logo="https://epg.v1.mk/logo/CMLP.png" group-title="沐辰「源」",MLB Network
+https://tv.doube.eu.org/beesport?pid=52
+#EXTINF:-1,tvg-id="NBATV" tvg-name="NBATV" tvg-logo="https://epg.v1.mk/logo/NBATV.png" group-title="沐辰「源」",NBA TV
+https://tv.doube.eu.org/beesport?pid=53
+#EXTINF:-1,tvg-id="ASIANFOODNETWORK" tvg-name="ASIANFOODNETWORK" tvg-logo="https://epg.v1.mk/logo/ASIANFOODNETWORK.png" group-title="沐辰「源」",NFL Network
+https://tv.doube.eu.org/beesport?pid=54
+#EXTINF:-1,tvg-id="ASIANFOODNETWORK" tvg-name="ASIANFOODNETWORK" tvg-logo="https://epg.v1.mk/logo/ASIANFOODNETWORK.png" group-title="沐辰「源」",NFL REDZONE
+https://tv.doube.eu.org/beesport?pid=55
+#EXTINF:-1,tvg-id="ANHUI1" tvg-name="ANHUI1" tvg-logo="https://epg.v1.mk/logo/ANHUI1.png" group-title="沐辰「源」",NHL Network
+https://tv.doube.eu.org/beesport?pid=56
+#EXTINF:-1,tvg-id="WWE Network" tvg-name="WWE Network" tvg-logo="https://epg.v1.mk/logo/WWE Network.png" group-title="沐辰「源」",WWE
+https://tv.doube.eu.org/beesport?pid=57
+#EXTINF:-1,tvg-id="NATGEOWILD" tvg-name="NATGEOWILD" tvg-logo="https://epg.v1.mk/logo/NATGEOWILD.png" group-title="沐辰「源」",Willow Cricket
+https://tv.doube.eu.org/beesport?pid=58
+#EXTINF:-1,tvg-id="NATGEOWILD" tvg-name="NATGEOWILD" tvg-logo="https://epg.v1.mk/logo/NATGEOWILD.png" group-title="沐辰「源」",Willow Extra
+https://tv.doube.eu.org/beesport?pid=59
+#EXTINF:-1,tvg-id="154CINEMAWORLD" tvg-name="154CINEMAWORLD" tvg-logo="https://epg.v1.mk/logo/154CINEMAWORLD.png" group-title="沐辰「源」",World Fishing Network
+https://tv.doube.eu.org/beesport?pid=60
+#EXTINF:-1,tvg-id="ESPN" tvg-name="ESPN" tvg-logo="https://epg.v1.mk/logo/ESPN.png" group-title="沐辰「源」",ESPN
+https://tv.doube.eu.org/beesport?pid=61
+#EXTINF:-1,tvg-id="ESPNNEWS" tvg-name="ESPNNEWS" tvg-logo="https://epg.v1.mk/logo/ESPNNEWS.png" group-title="沐辰「源」",ESPN 2
+https://tv.doube.eu.org/beesport?pid=62
+#EXTINF:-1,tvg-id="ESPNNEWS" tvg-name="ESPNNEWS" tvg-logo="https://epg.v1.mk/logo/ESPNNEWS.png" group-title="沐辰「源」",ESPN News
+https://tv.doube.eu.org/beesport?pid=63
+#EXTINF:-1,tvg-id="ESPNNEWS" tvg-name="ESPNNEWS" tvg-logo="https://epg.v1.mk/logo/ESPNNEWS.png" group-title="沐辰「源」",ESPN U
+https://tv.doube.eu.org/beesport?pid=64
+#EXTINF:-1,tvg-id="ITV1" tvg-name="ITV1" tvg-logo="https://epg.v1.mk/logo/ITV1.png" group-title="沐辰「源」",ITV 1
+https://tv.doube.eu.org/beesport?pid=65
+#EXTINF:-1,tvg-id="ITV2" tvg-name="ITV2" tvg-logo="https://epg.v1.mk/logo/ITV2.png" group-title="沐辰「源」",ITV 2
+https://tv.doube.eu.org/beesport?pid=66
+#EXTINF:-1,tvg-id="CHUTTITV" tvg-name="CHUTTITV" tvg-logo="https://epg.v1.mk/logo/CHUTTITV.png" group-title="沐辰「源」",ITV 3
+https://tv.doube.eu.org/beesport?pid=67
+#EXTINF:-1,tvg-id="CHUTTITV" tvg-name="CHUTTITV" tvg-logo="https://epg.v1.mk/logo/CHUTTITV.png" group-title="沐辰「源」",ITV 4
+https://tv.doube.eu.org/beesport?pid=68
+#EXTINF:-1,tvg-id="CMUSIC" tvg-name="CMUSIC" tvg-logo="https://epg.v1.mk/logo/CMUSIC.png" group-title="沐辰「源」",MUTV
+https://tv.doube.eu.org/beesport?pid=69
+#EXTINF:-1,tvg-id="GOLFCHANNEL" tvg-name="GOLFCHANNEL" tvg-logo="https://epg.v1.mk/logo/GOLFCHANNEL.png" group-title="沐辰「源」",LFC TV
+https://tv.doube.eu.org/beesport?pid=70
+#EXTINF:-1,tvg-id="FOXNEWS" tvg-name="FOXNEWS" tvg-logo="https://epg.v1.mk/logo/FOXNEWS.png" group-title="沐辰「源」",FOX NEWS
+https://tv.doube.eu.org/beesport?pid=71
+#EXTINF:-1,tvg-id="8B5393046CE14443ACD0DE1B2080CDAA" tvg-name="8B5393046CE14443ACD0DE1B2080CDAA" tvg-logo="https://epg.v1.mk/logo/8B5393046CE14443ACD0DE1B2080CDAA.png" group-title="沐辰「源」",ACC Network
+https://tv.doube.eu.org/beesport?pid=72
+#EXTINF:-1,tvg-id="FIGHT SPORTS" tvg-name="FIGHT SPORTS" tvg-logo="https://epg.v1.mk/logo/FIGHT SPORTS.png" group-title="沐辰「源」",Fight Network
+https://tv.doube.eu.org/beesport?pid=73
+#EXTINF:-1,tvg-id="CBSSPORTS" tvg-name="CBSSPORTS" tvg-logo="https://epg.v1.mk/logo/CBSSPORTS.png" group-title="沐辰「源」",CBS Sports Network
+https://tv.doube.eu.org/beesport?pid=74
+#EXTINF:-1,tvg-id="cnbc" tvg-name="cnbc" tvg-logo="https://epg.v1.mk/logo/cnbc.png" group-title="沐辰「源」",CNBC
+https://tv.doube.eu.org/beesport?pid=75
+#EXTINF:-1,tvg-id="FOXSPORTS2" tvg-name="FOXSPORTS2" tvg-logo="https://epg.v1.mk/logo/FOXSPORTS2.png" group-title="沐辰「源」",Fox Sports 1
+https://tv.doube.eu.org/beesport?pid=76
+#EXTINF:-1,tvg-id="FoxSports2" tvg-name="FoxSports2" tvg-logo="https://epg.v1.mk/logo/FoxSports2.png" group-title="沐辰「源」",Fox Sports 2
+https://tv.doube.eu.org/beesport?pid=77
+
+
 █████████████████████████████████████████████████████████████████████████████████████████████████████████
 
 #EXTINF:-1 tvg-name="凤凰卫视" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/TVB/凤凰中文.png" group-title="港台",凤凰卫视
@@ -434,9 +590,9 @@ http://50.7.234.10:8278/Celestial/playlist.m3u8?tid=MB0B6153961161539611&ct=1995
 http://114.33.60.49:8554/http/61.219.99.20:8081/hls/74/816/ch55.m3u8
 
 #EXTINF:-1 tvg-name="龙华电影" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/TVB/龙华电影.png" group-title="影视",龙华电影
-http://litv.zapi.us.kg/?id=litv-longturn03
-#EXTINF:-1 tvg-name="龙华电影" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/TVB/龙华电影.png" group-title="影视",龙华电影
 http://aktv.top/AKTV/live/aktv/null-23/AKTV.m3u8
+#EXTINF:-1 tvg-name="龙华电影" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/TVB/龙华电影.png" group-title="影视",龙华电影
+http://litv.zapi.us.kg/?id=litv-longturn03
 
 #EXTINF:-1 tvg-name="龙华日韩" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/TVB/龙华日韩.png" group-title="影视",龙华日韩
 http://litv.zapi.us.kg/?id=litv-longturn11
@@ -448,9 +604,9 @@ http://litv.zapi.us.kg/?id=litv-longturn21
 #EXTINF:-1 tvg-name="龙华经典" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/TVB/龙华经典.png" group-title="影视",龙华经典
 http://aktv.top/AKTV/live/aktv/null-7/AKTV.m3u8
 
-#EXTINF:-1 tvg-name="龙华偶像" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/TVB/龙华经典.png" group-title="影视",龙华偶像
+#EXTINF:-1 tvg-name="龙华偶像" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/TVB/龙华偶像.png" group-title="影视",龙华偶像
 http://litv.zapi.us.kg/?id=litv-longturn12
-#EXTINF:-1 tvg-name="龙华卡通" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/TVB/龙华经典.png" group-title="影视",龙华卡通
+#EXTINF:-1 tvg-name="龙华卡通" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/TVB/龙华卡通.png" group-title="影视",龙华卡通
 http://litv.zapi.us.kg/?id=litv-longturn01
 
 #EXTINF:-1 tvg-name="千禧经典" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/TVB/千禧经典.png" group-title="影视",千禧经典
