@@ -590,9 +590,9 @@ http://50.7.234.10:8278/Celestial/playlist.m3u8?tid=MB0B6153961161539611&ct=1995
 http://114.33.60.49:8554/http/61.219.99.20:8081/hls/74/816/ch55.m3u8
 
 #EXTINF:-1 tvg-name="龙华电影" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/TVB/龙华电影.png" group-title="影视",龙华电影
-http://litv.zapi.us.kg/?id=litv-longturn03
-#EXTINF:-1 tvg-name="龙华电影" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/TVB/龙华电影.png" group-title="影视",龙华电影
 http://aktv.top/AKTV/live/aktv/null-23/AKTV.m3u8
+#EXTINF:-1 tvg-name="龙华电影" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/TVB/龙华电影.png" group-title="影视",龙华电影
+http://litv.zapi.us.kg/?id=litv-longturn03
 
 #EXTINF:-1 tvg-name="龙华日韩" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/TVB/龙华日韩.png" group-title="影视",龙华日韩
 http://litv.zapi.us.kg/?id=litv-longturn11
@@ -604,9 +604,9 @@ http://litv.zapi.us.kg/?id=litv-longturn21
 #EXTINF:-1 tvg-name="龙华经典" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/TVB/龙华经典.png" group-title="影视",龙华经典
 http://aktv.top/AKTV/live/aktv/null-7/AKTV.m3u8
 
-#EXTINF:-1 tvg-name="龙华偶像" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/TVB/龙华经典.png" group-title="影视",龙华偶像
+#EXTINF:-1 tvg-name="龙华偶像" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/TVB/龙华偶像.png" group-title="影视",龙华偶像
 http://litv.zapi.us.kg/?id=litv-longturn12
-#EXTINF:-1 tvg-name="龙华卡通" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/TVB/龙华经典.png" group-title="影视",龙华卡通
+#EXTINF:-1 tvg-name="龙华卡通" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/TVB/龙华卡通.png" group-title="影视",龙华卡通
 http://litv.zapi.us.kg/?id=litv-longturn01
 
 #EXTINF:-1 tvg-name="千禧经典" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/TVB/千禧经典.png" group-title="影视",千禧经典
