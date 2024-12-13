@@ -10,6 +10,7 @@
 |   ZWC    | http://kv.zwc365.com/tv.json                                 |
 |   CDN    | http://cdn.qiaoji8.com/tvbox.json                            |
 |   星辰   | https://fmbox.cc/                                            |
+|   龙伊   | [https://龙伊.top/](https://xn--qoqw77q.top/)                |
 |  喵影视  | http://meowtv.cn/tv                                          |
 | 福利视频 | https://git.acwing.com/abai/tv/-/raw/main/a18.json           |
 
@@ -26,7 +27,7 @@
 |    ZBDS     | https://live.zbds.top/tv/iptv6.m3u                           | IPV6 |
 |    ZBDS     | https://live.zbds.top/tv/iptv4.m3u                           | IPV4 |
 |    AKTV     | http://aktv.top/live.m3u                                     | IPV4 |
-|    MYTV     | https://www.mytvsuper.xyz                                    | IPV4 |
+|    MYTV     | https://www.mytvsuper.com.mp/                                | IPV4 |
 
 #### 空壳软件
 
