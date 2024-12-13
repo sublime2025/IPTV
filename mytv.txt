@@ -25,32 +25,6 @@ CCTV4美洲,https://api.livednow.org/migu/608807416?sign=gAAAAABnJcJqws7IJW3h6Bl
 陕西卫视,https://api.livednow.org/migu/738910838?sign=gAAAAABnJcJqOtVCdd8WAn4DUT3VSbQHyfe5YFbUoqjsj_bS5O0aue2z6CSXEwpR856Z7BWlzxU-e48aeBfTOpdvGCnMnnjR8JmShiQd8oXFM-hTre-JgsjlvAzznm1jDoaQZsP8S-DAbqZK_jtrsaKSodpssxZZqCQjAazFU9B7A5GIEqWa9YF3LDLXONSmsFB7J7d9UM0FZx-CpzgBS2AhX8uO40kd0A%3D%3D
 湖北卫视,https://api.livednow.org/migu/738906825?sign=gAAAAABnJcJqKQRd7CS3pk7T0oe-jdNPxgJMyiZoPVRnbmv_IbK9koQZf32EgjFFCiEXqL4IXCnWyIaEuCmqxVNsBOQTIfaHM11IVchAHo4fZfQDVy5O7WNEHwMhK7DKJ5KlnIetRjJM7Emho9soMEYdRhTfzufHG-iUjz7CegJ_e5AKCaTCCYDJttiaZciJOCbCaWjAIMfx_PmomLPvKyNinANdp0vlxg%3D%3D
 
-开心TV,#genre#
-CCTV1,http://kxrj.site:1333/86/mg.php?id=cctv1
-CCTV2,http://kxrj.site:1333/86/mg.php?id=cctv2
-CCTV3,http://kxrj.site:1333/86/mg.php?id=cctv3
-CCTV4,http://kxrj.site:1333/86/mg.php?id=cctv4
-CCTV5,http://kxrj.site:1333/86/mg.php?id=cctv5
-CCTV6,http://kxrj.site:1333/86/mg.php?id=cctv6
-CCTV7,http://kxrj.site:1333/86/mg.php?id=cctv7
-CCTV8,http://kxrj.site:1333/86/mg.php?id=cctv8
-CCTV9,http://kxrj.site:1333/86/mg.php?id=cctv9
-CCTV10,http://kxrj.site:1333/86/mg.php?id=cctv10
-CCTV11,http://kxrj.site:1333/86/mg.php?id=cctv11
-CCTV12,http://kxrj.site:1333/86/mg.php?id=cctv12
-CCTV13,http://kxrj.site:1333/86/mg.php?id=cctv13
-CCTV14,http://kxrj.site:1333/86/mg.php?id=cctv14
-CCTV15,http://kxrj.site:1333/86/mg.php?id=cctv15
-CCTV17,http://kxrj.site:1333/86/mg.php?id=cctv17
-CCTV5+,http://kxrj.site:1333/86/mg.php?id=cctv5p
-CCTV4欧洲,http://kxrj.site:1333/86/mg.php?id=cctv4o
-CCTV4美洲,http://kxrj.site:1333/86/mg.php?id=cctv4a
-东方卫视,http://kxrj.site:1333/86/mg.php?id=dfws
-湖北卫视,http://kxrj.site:1333/86/mg.php?id=hubws
-江苏卫视,http://kxrj.site:1333/86/mg.php?id=jsws
-广东卫视,http://kxrj.site:1333/86/mg.php?id=gdws
-海南卫视,http://kxrj.site:1333/86/mg.php?id=hinws
-
 组播,#genre#
 CCTV-01频道,http://112.102.217.173:9003//hls/13/index.m3u8
 CCTV-02频道,http://112.102.217.173:9003//hls/14/index.m3u8
@@ -709,65 +683,65 @@ ELEVEN2,rtmp://f13h.mine.nu/sat/tv741
 
 体育,#genre
 
-TNT Sport 1,https://live.hg16888.vip/beesport/TNT_Sports_1
-TNT Sport 2,https://live.hg16888.vip/beesport/TNT_Sports_2
-TNT Sport 3,https://live.hg16888.vip/beesport/TNT_Sports_3
-TNT Sport 4,https://live.hg16888.vip/beesport/TNT_Sports_4
-Sky Sports Football,https://live.hg16888.vip/beesport/Sky_Sports_Football_Live_TV
-Sky Sports Main Event,https://live.hg16888.vip/beesport/Sky_Sports_Main_Event
-Sky Sports Premier League,https://live.hg16888.vip/beesport/Sky_Sports_Premier_League
-Sky Sports Action,https://live.hg16888.vip/beesport/Sky_Sports_Action_Live_TV
-Sky Sports Mix,https://live.hg16888.vip/beesport/Sky_Sports_Mix_Live_TV
-Sky Sports Arena,https://live.hg16888.vip/beesport/Sky_Sports_Arena_Live_TV
-Sky Sports News,https://live.hg16888.vip/beesport/Sky_Sports_News_Live_TV
-Sky Sports Cricket,https://live.hg16888.vip/beesport/Sky_Sports_Cricket_Live_TV
-Sky Sports Tennis,https://live.hg16888.vip/beesport/Sky_Sports_Tennis
-Sky Sports F1,https://live.hg16888.vip/beesport/Sky_Sports_F1_Live_TV
-Sky Sports Golf,https://live.hg16888.vip/beesport/Sky_Sports_Golf_Live_TV
-Sky Sports Racing,https://live.hg16888.vip/beesport/Sky_Sports_Racing_Live_TV
-Tennis Channel,https://live.hg16888.vip/beesport/Tennis_Channel_Live_TV
-LaLiga TV,https://live.hg16888.vip/beesport/La_Liga_TV_Live_TV
-DAZN,https://live.hg16888.vip/beesport/DAZN_Live_TV
-Bein Sports USA,https://live.hg16888.vip/beesport/Bein_Sports_USA_Live_TV
-Bein Sports English 2,https://live.hg16888.vip/beesport/Bein_Sports_English_2_Live_TV
-SuperSport Premier League,https://live.hg16888.vip/beesport/SuperSport_Premier_League_Live_TV
-SuperSport LaLiga,https://live.hg16888.vip/beesport/SuperSport_LaLiga_Live_TV
-SuperSport Action,https://live.hg16888.vip/beesport/SuperSport_Action_Live_TV
-SuperSport Blitz,https://live.hg16888.vip/beesport/SuperSport_Blitz_Live_TV
-SuperSport Cricket,https://live.hg16888.vip/beesport/SuperSport_Cricket_Live_TV
-SuperSport Football,https://live.hg16888.vip/beesport/SuperSport_Football_Live_TV
-SuperSport Golf,https://live.hg16888.vip/beesport/SuperSport_Golf_Live_TV
-SuperSport Rugby,https://live.hg16888.vip/beesport/SuperSport_Rugby_Live_TV
-SuperSport Tennis,https://live.hg16888.vip/beesport/SuperSport_Tennis_Live_TV
-Variety 1,https://live.hg16888.vip/beesport/Variety_1_Live_TV
-Variety 2,https://live.hg16888.vip/beesport/Variety_2_Live_TV
-Variety 3,https://live.hg16888.vip/beesport/Variety_3_Live_TV
-Variety 4,https://live.hg16888.vip/beesport/Variety_4_Live_TV
-Eurosport 1,https://live.hg16888.vip/beesport/Eurosport_1_Live_TV
-Eurosport 2,https://live.hg16888.vip/beesport/Eurosport_2_Live_TV
-Premier Sports 1,https://live.hg16888.vip/beesport/Premier_Sports_1
-Premier Sports 2,https://live.hg16888.vip/beesport/Premier_Sports_2
-Golf Channel,https://live.hg16888.vip/beesport/Golf_Channel_Live_TV
-MLB Network,https://live.hg16888.vip/beesport/MLB_Network_Live_TV
-NBA TV,https://live.hg16888.vip/beesport/NBA_TV_Live_TV
-NFL Network,https://live.hg16888.vip/beesport/NFL_Network_Live_TV
-NFL Redzone,https://live.hg16888.vip/beesport/NFL_REDZONE_Live_TV
-NHL Network,https://live.hg16888.vip/beesport/NHL_Network_Live_TV
-WWE,https://live.hg16888.vip/beesport/WWE_Live_TV
-Willow Cricket,https://live.hg16888.vip/beesport/Willow_Cricket_Live_TV
-Willow Extra,https://live.hg16888.vip/beesport/Willow_Extra_Live_TV
-World Fishing Network,https://live.hg16888.vip/beesport/World_Fishing_Network_Live_TV
-Fight Network,https://live.hg16888.vip/beesport/Fight_Network_Live_TV
-ESPN,https://live.hg16888.vip/beesport/ESPN_Live_TV
-ESPN 2,https://live.hg16888.vip/beesport/ESPN_2_Live_TV
-ESPN News,https://live.hg16888.vip/beesport/ESPN_News_Live_TV
-ESPN U,https://live.hg16888.vip/beesport/ESPN_U_Live_TV
-MUTV,https://live.hg16888.vip/beesport/MUTV_Live_TV
-LFC TV,https://live.hg16888.vip/beesport/LFC_TV_Live_TV
-ACC Network,https://live.hg16888.vip/beesport/ACC_Network_Live_TV
-CBS Sports Network,https://live.hg16888.vip/beesport/CBS_Sports_Network_Live_TV
-Fox Sports 1,https://live.hg16888.vip/beesport/Fox_Sports_1_Live_TV
-Fox Sports 2,https://live.hg16888.vip/beesport/Fox_Sports_2_Live_TV
+TNT Sport 1,/beesport/TNT_Sports_1
+TNT Sport 2,/beesport/TNT_Sports_2
+TNT Sport 3,/beesport/TNT_Sports_3
+TNT Sport 4,/beesport/TNT_Sports_4
+Sky Sports Football,/beesport/Sky_Sports_Football_Live_TV
+Sky Sports Main Event,/beesport/Sky_Sports_Main_Event
+Sky Sports Premier League,/beesport/Sky_Sports_Premier_League
+Sky Sports Action,/beesport/Sky_Sports_Action_Live_TV
+Sky Sports Mix,/beesport/Sky_Sports_Mix_Live_TV
+Sky Sports Arena,/beesport/Sky_Sports_Arena_Live_TV
+Sky Sports News,/beesport/Sky_Sports_News_Live_TV
+Sky Sports Cricket,/beesport/Sky_Sports_Cricket_Live_TV
+Sky Sports Tennis,/beesport/Sky_Sports_Tennis
+Sky Sports F1,/beesport/Sky_Sports_F1_Live_TV
+Sky Sports Golf,/beesport/Sky_Sports_Golf_Live_TV
+Sky Sports Racing,/beesport/Sky_Sports_Racing_Live_TV
+Tennis Channel,/beesport/Tennis_Channel_Live_TV
+LaLiga TV,/beesport/La_Liga_TV_Live_TV
+DAZN,/beesport/DAZN_Live_TV
+Bein Sports USA,/beesport/Bein_Sports_USA_Live_TV
+Bein Sports English 2,/beesport/Bein_Sports_English_2_Live_TV
+SuperSport Premier League,/beesport/SuperSport_Premier_League_Live_TV
+SuperSport LaLiga,/beesport/SuperSport_LaLiga_Live_TV
+SuperSport Action,/beesport/SuperSport_Action_Live_TV
+SuperSport Blitz,/beesport/SuperSport_Blitz_Live_TV
+SuperSport Cricket,/beesport/SuperSport_Cricket_Live_TV
+SuperSport Football,/beesport/SuperSport_Football_Live_TV
+SuperSport Golf,/beesport/SuperSport_Golf_Live_TV
+SuperSport Rugby,/beesport/SuperSport_Rugby_Live_TV
+SuperSport Tennis,/beesport/SuperSport_Tennis_Live_TV
+Variety 1,/beesport/Variety_1_Live_TV
+Variety 2,/beesport/Variety_2_Live_TV
+Variety 3,/beesport/Variety_3_Live_TV
+Variety 4,/beesport/Variety_4_Live_TV
+Eurosport 1,/beesport/Eurosport_1_Live_TV
+Eurosport 2,/beesport/Eurosport_2_Live_TV
+Premier Sports 1,/beesport/Premier_Sports_1
+Premier Sports 2,/beesport/Premier_Sports_2
+Golf Channel,/beesport/Golf_Channel_Live_TV
+MLB Network,/beesport/MLB_Network_Live_TV
+NBA TV,/beesport/NBA_TV_Live_TV
+NFL Network,/beesport/NFL_Network_Live_TV
+NFL Redzone,/beesport/NFL_REDZONE_Live_TV
+NHL Network,/beesport/NHL_Network_Live_TV
+WWE,/beesport/WWE_Live_TV
+Willow Cricket,/beesport/Willow_Cricket_Live_TV
+Willow Extra,/beesport/Willow_Extra_Live_TV
+World Fishing Network,/beesport/World_Fishing_Network_Live_TV
+Fight Network,/beesport/Fight_Network_Live_TV
+ESPN,/beesport/ESPN_Live_TV
+ESPN 2,/beesport/ESPN_2_Live_TV
+ESPN News,/beesport/ESPN_News_Live_TV
+ESPN U,/beesport/ESPN_U_Live_TV
+MUTV,/beesport/MUTV_Live_TV
+LFC TV,/beesport/LFC_TV_Live_TV
+ACC Network,/beesport/ACC_Network_Live_TV
+CBS Sports Network,/beesport/CBS_Sports_Network_Live_TV
+Fox Sports 1,/beesport/Fox_Sports_1_Live_TV
+Fox Sports 2,/beesport/Fox_Sports_2_Live_TV
 
 咪咕体育,#genre#
 咪咕体育1,http://111.13.111.242/000000001000/3000000001000005308/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
@@ -882,24 +856,15 @@ Pornbox9,http://cord-cutter.net:8080/YT6bvC/100111/159963
 Miamitv,https://59ec5453559f0.streamlock.net/JennyForYou/smil:WEB3131/playlist.m3u8
 MiaMitv,https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexico/playlist.m3u8
 
-
 其它,#genre#
-
-凤凰中文,http://203.205.220.174:80/qctv.fengshows.cn/live/0701pcc72.m3u8
-凤凰资讯,http://203.205.220.174:80/qctv.fengshows.cn/live/0701pin72.m3u8
-凤凰香港,http://203.205.220.174:80/qctv.fengshows.cn/live/0701phk72.m3u8
 
 凤凰中文,https://stream1.freetv.fun/16bc0b847b4c0a5a1a8645fc01576a0a28d5d8667bad711c48e5d80d12d2d329.ctv
 凤凰资讯,https://stream1.freetv.fun/2a72335a63dd0749c5a32d1bf1b0c001a81a26cc81d7e94534791d36f2c87d7d.ctv
 
-凤凰资讯,http://146.56.153.245:20121/bysid/257
+凤凰中文,http://qctv.fengshows.cn/live/0701pcc72.flv?txSecret=b0efa140daa3cfd46fb6f42adf0b82cf&txTime=6749b353
+凤凰资讯,http://qctv.fengshows.cn/live/0701pin72.flv?txSecret=94bbfa53b6a82f6f3269f2be415c352b&txTime=6749b318
+凤凰香港,http://qctv.fengshows.cn/live/0701phk72.flv?txSecret=19a6224ff2b39715c212c60b14c8f508&txTime=6749b374
 
-鳳凰中文台,http://qctv.fengshows.cn/live/0701pcc72.flv?txSecret=b0efa140daa3cfd46fb6f42adf0b82cf&txTime=6749b353
-鳯凰資訊台,http://qctv.fengshows.cn/live/0701pin72.flv?txSecret=94bbfa53b6a82f6f3269f2be415c352b&txTime=6749b318
-鳳凰香港台,http://qctv.fengshows.cn/live/0701phk72.flv?txSecret=19a6224ff2b39715c212c60b14c8f508&txTime=6749b374
-鳳凰中文台,http://dispatch.fengshows.cn:8484/live/0701pcc72.flv?txSecret=b0efa140daa3cfd46fb6f42adf0b82cf&txTime=6749b353
-鳯凰資訊台,http://dispatch.fengshows.cn:8484/live/0701pin72.flv?txSecret=94bbfa53b6a82f6f3269f2be415c352b&txTime=6749b318
-鳳凰香港台,http://dispatch.fengshows.cn:8484/live/0701phk72.flv?txSecret=19a6224ff2b39715c212c60b14c8f508&txTime=6749b374
 翡翠台,http://cdn2.1689.us.kg/live/?id=gdfct
 翡翠台,http://cdn2.1689.us.kg/live/?id=gdfct
 翡翠台,http://cdn9.1689.us.kg/smt1.1.php?id=jade_twn
@@ -917,15 +882,6 @@ RTHK-35,https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream02/s
 第四台,https://rthkradio4-live.akamaized.net/hls/live/2040080/radio4/master.m3u8
 第五台,https://rthkradio5-live.akamaized.net/hls/live/2040081/radio5/master.m3u8
 
-千禧经典,http://205.185.123.236:8899/astro/qianxi/stream.m3u8
-星影台,http://205.185.123.236:8899/1/now/stream.m3u8
-爆谷台,http://205.185.123.236:8899/1/baogutai/stream.m3u8
-TVB生活台,http://205.185.123.236:8899/tvb/Finance/stream.m3u8
-Now爆谷,http://205.185.123.236:8899/1/baogutai/stream.m3u8
-Now星影,http://205.185.123.236:8899/1/now/stream.m3u8
-无线生活,http://205.185.123.236:8899/tvb/Finance/stream.m3u8
-星河台,http://205.185.123.236:8899/tvb/xinghe/stream.m3u8
-
 澳视澳门,http://grandprix2023.asuscomm.com:8891/bysid/91.m3u8
 澳视葡语,http://grandprix2023.asuscomm.com:8891/bysid/92.m3u8
 澳门资讯,http://grandprix2023.asuscomm.com:8891/bysid/94.m3u8
@@ -938,20 +894,13 @@ Now星影,http://205.185.123.236:8899/1/now/stream.m3u8
 香港_C+_,http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/03.m3u8
 
 重温经典,https://gdcucc.v1.mk/gdcucc/cwjd.m3u8
-Plus即时,http://libof.kesx.top/live/5658kwkojtz.m3u8
 番薯台,http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u8
 面包台,https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
-无线新闻,http://zsntlqj.xicp.net:8896/bysid/83.m3u8
-亚洲卫视,https://p2hs.vzan.com/slowlive/821481626725612417/live.m3u8
 Plus即时,https://vdm6-ali.wujiekeji1.com/live/h6-2.flv
 Plus即时,https://vdm6-hw.nbgdsygs.com/live/h6-2.flv
 星空卫视,http://122.224.58.42:85/tsfile/live/1024_1.m3u8?key=txiptv&playlive=1&authid=0
-点掌财经,https://wsvideo.aniu.tv/live/aniu/playlist.m3u8
 三立新闻,https://epg.pw/stream/6b49e3faa38adda85abab446f032dc1e686baa0760a9cfa66e2df8fd6fe3b445.m3u8
-中天综合,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8526/.m3u8
-东森新闻,http://211.72.65.236:8540/.m3u8
 环球电视,http://zb.xzxwhcb.com:9999/hls/world.m3u8
-中國環球,http://live.cgtn.com/500/prog_index.m3u8
 CNA新闻,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 HBtv老挝,http://hikvision.city:880/HBTV.m3u8
 半岛新闻,http://live-hls-web-aja.getaj.net/AJA/02.m3u8
@@ -964,10 +913,6 @@ HBtv老挝,http://hikvision.city:880/HBTV.m3u8
 
 耀才財經台,https://v3.mediacast.hk/webcast/bshdlive-pc/chunklist_w1736216878.m3u8
 耀才財經台,https://v3.mediacast.hk/webcast/bshdlive-pc/playlist.m3u8
-中国教育频道,http://mobilelive-timeshift.ysp.cctv.cn/timeshift/ysp/2022823801/timeshift.m3u8?delay=0&cdn=5202
-Ymg未来频道,http://l.cztvcloud.com/channels/lantian/SXyuhang3/720p.m3u8
-新视觉hd频道,http://120.76.248.139/live/bfgd/4200000249.m3u8
-重温经典频道,http://120.76.248.139/live/bfgd/4200000635.m3u8
-緯來體育,https://hls.szsummer.cn/live/446035/playlist.m3u8?k=32f9ec7c13e4b390289143a8e1b2a898&t=1840341130
+
 Sky Sport1, http://tv14s.xyz:8080/753468/894568/53704
 Sky Sport2 http://cord-cutter.net:8080/25464931/30585186/137720
