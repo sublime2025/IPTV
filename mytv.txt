@@ -780,6 +780,86 @@ Fox Sports 2,/beesport/Fox_Sports_2_Live_TV
 咪咕体育34,http://111.13.111.242/000000001000/3000000001000010129/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
 咪咕体育35,http://111.13.111.242/000000001000/3000000001000010948/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
 
+沐辰,#genre#
+TNT SPORTS 1,https://tv.doube.eu.org/beesport?pid=1
+TNT SPORTS 2,https://tv.doube.eu.org/beesport?pid=2
+TNT SPORTS 3,https://tv.doube.eu.org/beesport?pid=3
+TNT SPORTS 4,https://tv.doube.eu.org/beesport?pid=4
+SKY SPORTS FOOTBALL,https://tv.doube.eu.org/beesport?pid=5
+SKY SPORTS MAIN EVENT,https://tv.doube.eu.org/beesport?pid=6
+SKY SPORTS PREMIER LEAGUE,https://tv.doube.eu.org/beesport?pid=7
+SKY SPORTS ACTION,https://tv.doube.eu.org/beesport?pid=8
+SKY SPORTS MIX,https://tv.doube.eu.org/beesport?pid=9
+SKY SPORTS ARENA,https://tv.doube.eu.org/beesport?pid=10
+SKY SPORTS NEWS,https://tv.doube.eu.org/beesport?pid=11
+SKY SPORTS CRICKET,https://tv.doube.eu.org/beesport?pid=12
+Sky Sports Tennis,https://tv.doube.eu.org/beesport?pid=13
+SKY SPORTS F1,https://tv.doube.eu.org/beesport?pid=14
+SKY SPORTS GOLF,https://tv.doube.eu.org/beesport?pid=15
+SKY SPORTS RACING,https://tv.doube.eu.org/beesport?pid=16
+BEIN SPORTS USA,https://tv.doube.eu.org/beesport?pid=17
+TENNIS CHANNEL,https://tv.doube.eu.org/beesport?pid=18
+LALIGA TV HD,https://tv.doube.eu.org/beesport?pid=19
+HBO 1,https://tv.doube.eu.org/beesport?pid=20
+HBO 2,https://tv.doube.eu.org/beesport?pid=21
+Discovery Channel,https://tv.doube.eu.org/beesport?pid=22
+Discovery Life,https://tv.doube.eu.org/beesport?pid=23
+Cinemax West,https://tv.doube.eu.org/beesport?pid=24
+Great Movies,https://tv.doube.eu.org/beesport?pid=25
+Sky Cinema Comedy,https://tv.doube.eu.org/beesport?pid=26
+Sky Cinema Family,https://tv.doube.eu.org/beesport?pid=27
+Cartoon Network,https://tv.doube.eu.org/beesport?pid=28
+Virgin 2,https://tv.doube.eu.org/beesport?pid=29
+Virgin 3,https://tv.doube.eu.org/beesport?pid=30
+Virgin 1,https://tv.doube.eu.org/beesport?pid=31
+DAZN,https://tv.doube.eu.org/beesport?pid=32
+Bein Sports English 2,https://tv.doube.eu.org/beesport?pid=33
+SuperSport Premier League,https://tv.doube.eu.org/beesport?pid=34
+SuperSport LaLiga,https://tv.doube.eu.org/beesport?pid=35
+SuperSport Action,https://tv.doube.eu.org/beesport?pid=36
+SuperSport Blitz,https://tv.doube.eu.org/beesport?pid=37
+SuperSport Cricket,https://tv.doube.eu.org/beesport?pid=38
+SuperSport Football,https://tv.doube.eu.org/beesport?pid=39
+SuperSport Golf,https://tv.doube.eu.org/beesport?pid=40
+SuperSport Rugby,https://tv.doube.eu.org/beesport?pid=41
+SuperSport Tennis,https://tv.doube.eu.org/beesport?pid=42
+Variety 1,https://tv.doube.eu.org/beesport?pid=43
+Variety 2,https://tv.doube.eu.org/beesport?pid=44
+Variety 3,https://tv.doube.eu.org/beesport?pid=45
+Variety 4,https://tv.doube.eu.org/beesport?pid=46
+Eurosport 1,https://tv.doube.eu.org/beesport?pid=47
+Eurosport 2,https://tv.doube.eu.org/beesport?pid=48
+Premier Sports 1,https://tv.doube.eu.org/beesport?pid=49
+Premier Sports 2,https://tv.doube.eu.org/beesport?pid=50
+Golf Channel,https://tv.doube.eu.org/beesport?pid=51
+MLB Network,https://tv.doube.eu.org/beesport?pid=52
+NBA TV,https://tv.doube.eu.org/beesport?pid=53
+NFL Network,https://tv.doube.eu.org/beesport?pid=54
+NFL REDZONE,https://tv.doube.eu.org/beesport?pid=55
+NHL Network,https://tv.doube.eu.org/beesport?pid=56
+WWE,https://tv.doube.eu.org/beesport?pid=57
+Willow Cricket,https://tv.doube.eu.org/beesport?pid=58
+Willow Extra,https://tv.doube.eu.org/beesport?pid=59
+World Fishing Network,https://tv.doube.eu.org/beesport?pid=60
+ESPN,https://tv.doube.eu.org/beesport?pid=61
+ESPN 2,https://tv.doube.eu.org/beesport?pid=62
+ESPN News,https://tv.doube.eu.org/beesport?pid=63
+ESPN U,https://tv.doube.eu.org/beesport?pid=64
+ITV 1,https://tv.doube.eu.org/beesport?pid=65
+ITV 2,https://tv.doube.eu.org/beesport?pid=66
+ITV 3,https://tv.doube.eu.org/beesport?pid=67
+ITV 4,https://tv.doube.eu.org/beesport?pid=68
+MUTV,https://tv.doube.eu.org/beesport?pid=69
+LFC TV,https://tv.doube.eu.org/beesport?pid=70
+FOX NEWS,https://tv.doube.eu.org/beesport?pid=71
+ACC Network,https://tv.doube.eu.org/beesport?pid=72
+Fight Network,https://tv.doube.eu.org/beesport?pid=73
+CBS Sports Network,https://tv.doube.eu.org/beesport?pid=74
+CNBC,https://tv.doube.eu.org/beesport?pid=75
+Fox Sports 1,https://tv.doube.eu.org/beesport?pid=76
+Fox Sports 2,https://tv.doube.eu.org/beesport?pid=77
+
+
 台湾代理,#genre#
 CINEMAX,http://125.227.210.55:8151/VideoInput/play.ts
 Cnbc new,http://125.227.210.55:8152/VideoInput/play.ts
