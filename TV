@@ -214,6 +214,9 @@ http://218.76.32.193:9901/tsfile/live/1003_1.m3u8
 
 #EXTINF:-1 tvg-name="咪咕体育" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/咪咕视频.png" group-title="咪咕",咪咕体育
 http://111.13.111.242/000000001000/3000000001000005308/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
+#EXTINF:-1 tvg-name="五大联赛" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/咪咕视频.png" group-title="咪咕",五大联赛
+http://182.92.109.190:1668/72/72.php?id=wdlsjd
+
 #EXTINF:-1 tvg-name="咪咕体育" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/咪咕视频.png" group-title="咪咕",精品体育
 http://111.13.111.242/000000001000/3000000001000028638/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
 #EXTINF:-1 tvg-name="咪咕体育" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/咪咕视频.png" group-title="咪咕",超级体育
@@ -222,15 +225,13 @@ http://111.13.111.242/000000001000/3000000001000031494/index.m3u8?channel-id=Fif
 http://111.13.111.242/000000001000/3000000010000000097/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
 #EXTINF:-1 tvg-name="咪咕体育" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/咪咕视频.png" group-title="咪咕",智林体育
 http://209.141.58.162:4994/proxy?url=http%3A//209.141.58.162%3A5050/litv/4gtv-4gtv101
-#EXTINF:-1 tvg-name="咪咕体育" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/咪咕视频.png" group-title="咪咕",纬来体育
+#EXTINF:-1 tvg-name="纬来体育" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/咪咕视频.png" group-title="咪咕",纬来体育
 rtmp://f13h.mine.nu/sat/tv721
 
 #EXTINF:-1 tvg-name="魅力足球" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/咪咕视频.png" group-title="咪咕",魅力足球
 http://182.92.109.190:1668/72/72.php?id=mlzq
 #EXTINF:-1 tvg-name="劲爆体育" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/咪咕视频.png" group-title="咪咕",劲爆体育
 http://182.92.109.190:1668/72/72.php?id=jbty
-#EXTINF:-1 tvg-name="五大联赛" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/咪咕视频.png" group-title="咪咕",五大联赛
-http://182.92.109.190:1668/72/72.php?id=wdlsjd
 
 #EXTINF:-1 tvg-name="博斯网球" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/咪咕视频.png" group-title="咪咕",博斯网球
 http://litv.zapi.us.kg/?id=litv-longturn09
@@ -250,104 +251,20 @@ http://litv.zapi.us.kg/?id=litv-longturn06
 #EXTINF:-1 tvg-name="咪咕体育" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/咪咕视频.png" group-title="咪咕",TRA体育
 http://209.141.58.162:4994/proxy?url=http%3A//209.141.58.162%3A5050/litv/4gtv-4gtv077
 
-#EXTINF:-1 tvg-name="FOOTBALL" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/咪咕视频.png" group-title="咪咕",天空体育
-https://tv.doube.eu.org/beesport?pid=5
-#EXTINF:-1 tvg-name="MAIN EVENT" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/咪咕视频.png" group-title="咪咕",天空体育
-https://tv.doube.eu.org/beesport?pid=6
-#EXTINF:-1 tvg-name="PREMIER LEAGUE" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/咪咕视频.png" group-title="咪咕",天空体育
-https://tv.doube.eu.org/beesport?pid=7
-#EXTINF:-1 tvg-name="ACTION" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/咪咕视频.png" group-title="咪咕",天空体育
-https://tv.doube.eu.org/beesport?pid=8
-#EXTINF:-1 tvg-name="MIX" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/咪咕视频.png" group-title="咪咕",天空体育
-https://tv.doube.eu.org/beesport?pid=9
-#EXTINF:-1 tvg-name="ARENA" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/咪咕视频.png" group-title="咪咕",天空体育
-https://tv.doube.eu.org/beesport?pid=10
-#EXTINF:-1 tvg-name="NEWS" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/咪咕视频.png" group-title="咪咕",天空体育
-https://tv.doube.eu.org/beesport?pid=11
-#EXTINF:-1 tvg-name="CRICKET" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/咪咕视频.png" group-title="咪咕",天空体育
-https://tv.doube.eu.org/beesport?pid=12
-#EXTINF:-1 tvg-name="Tennis" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/咪咕视频.png" group-title="咪咕",天空体育
-https://tv.doube.eu.org/beesport?pid=13
-#EXTINF:-1 tvg-name="F1" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/咪咕视频.png" group-title="咪咕",天空体育
-https://tv.doube.eu.org/beesport?pid=14
-#EXTINF:-1 tvg-name="GOLF" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/咪咕视频.png" group-title="咪咕",天空体育
-https://tv.doube.eu.org/beesport?pid=15
-#EXTINF:-1 tvg-name="RACING" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/咪咕视频.png" group-title="咪咕",天空体育
-https://tv.doube.eu.org/beesport?pid=16
-
 #EXTINF:-1 tvg-name="咪咕体育" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/咪咕视频.png" group-title="咪咕",天空体育
 http://tv14s.xyz:8080/753468/894568/53704
 #EXTINF:-1 tvg-name="咪咕体育" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/咪咕视频.png" group-title="咪咕",天空体育
 http://cord-cutter.net:8080/25464931/30585186/137720
-
-#EXTINF:-1 tvg-name="Euro 1" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/咪咕视频.png" group-title="咪咕",Euro
-https://tv.doube.eu.org/beesport?pid=47
-#EXTINF:-1 tvg-name="Euro 2" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/咪咕视频.png" group-title="咪咕",Euro
-https://tv.doube.eu.org/beesport?pid=48
-
-#EXTINF:-1 tvg-name="Premier League" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/咪咕视频.png" group-title="咪咕",Super
-https://tv.doube.eu.org/beesport?pid=34
-#EXTINF:-1 tvg-name="LaLiga" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/咪咕视频.png" group-title="咪咕",Super
-https://tv.doube.eu.org/beesport?pid=35
-#EXTINF:-1 tvg-name="Action" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/咪咕视频.png" group-title="咪咕",Super
-https://tv.doube.eu.org/beesport?pid=36
-#EXTINF:-1 tvg-name="Blitz" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/咪咕视频.png" group-title="咪咕",Super
-https://tv.doube.eu.org/beesport?pid=37
-#EXTINF:-1 tvg-name="Cricket" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/咪咕视频.png" group-title="咪咕",Super
-https://tv.doube.eu.org/beesport?pid=38
-#EXTINF:-1 tvg-name="Football" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/咪咕视频.png" group-title="咪咕",Super
-https://tv.doube.eu.org/beesport?pid=39
-#EXTINF:-1 tvg-name="Golf" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/咪咕视频.png" group-title="咪咕",Super
-https://tv.doube.eu.org/beesport?pid=40
-#EXTINF:-1 tvg-name="Rugby" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/咪咕视频.png" group-title="咪咕",Super
-https://tv.doube.eu.org/beesport?pid=41
-#EXTINF:-1 tvg-name="Tennis" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/咪咕视频.png" group-title="咪咕",Super
-https://tv.doube.eu.org/beesport?pid=42
-
-#EXTINF:-1 tvg-name="Variety 1" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/咪咕视频.png" group-title="咪咕",Variety
-https://tv.doube.eu.org/beesport?pid=43
-#EXTINF:-1 tvg-name="Variety 2" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/咪咕视频.png" group-title="咪咕",Variety
-https://tv.doube.eu.org/beesport?pid=44
-#EXTINF:-1 tvg-name="Variety 3" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/咪咕视频.png" group-title="咪咕",Variety
-https://tv.doube.eu.org/beesport?pid=45
-#EXTINF:-1 tvg-name="Variety 4" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/咪咕视频.png" group-title="咪咕",Variety
-https://tv.doube.eu.org/beesport?pid=46
-
-#EXTINF:-1 tvg-name="Premier 1" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/咪咕视频.png" group-title="咪咕",Premier
-https://tv.doube.eu.org/beesport?pid=49
-#EXTINF:-1 tvg-name="Premier 2" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/咪咕视频.png" group-title="咪咕",Premier
-https://tv.doube.eu.org/beesport?pid=50
 
 #EXTINF:-1 tvg-name="咪咕体育" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/咪咕视频.png" group-title="咪咕",ELEVEN
 rtmp://f13h.mine.nu/sat/tv731
 #EXTINF:-1 tvg-name="咪咕体育" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/咪咕视频.png" group-title="咪咕",ELEVEN
 rtmp://f13h.mine.nu/sat/tv741
 
-#EXTINF:-1 tvg-name="WWE" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/咪咕视频.png" group-title="咪咕",WWE
-https://tv.doube.eu.org/beesport?pid=57
-
-#EXTINF:-1 tvg-name="NBA" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/咪咕视频.png" group-title="咪咕",NBA
-https://tv.doube.eu.org/beesport?pid=53
 #EXTINF:-1 tvg-name="NBA" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/咪咕视频.png" group-title="咪咕",NBA
 http://182.92.109.190:1668/72/72.php?id=nbajd
-
 #EXTINF:-1 tvg-name="CBA" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/咪咕视频.png" group-title="咪咕",CBA
 http://182.92.109.190:1668/72/72.php?id=cbajd
-
-#EXTINF:-1 tvg-name="TNT 1" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/咪咕视频.png" group-title="咪咕",TNT
-https://tv.doube.eu.org/beesport?pid=1
-#EXTINF:-1 tvg-name="TNT 2" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/咪咕视频.png" group-title="咪咕",TNT
-https://tv.doube.eu.org/beesport?pid=2
-#EXTINF:-1 tvg-name="TNT 3" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/咪咕视频.png" group-title="咪咕",TNT
-https://tv.doube.eu.org/beesport?pid=3
-#EXTINF:-1 tvg-name="TNT 4" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/咪咕视频.png" group-title="咪咕",TNT
-https://tv.doube.eu.org/beesport?pid=4
-
-#EXTINF:-1 tvg-name="Fox 1" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/咪咕视频.png" group-title="咪咕",Fox
-https://tv.doube.eu.org/beesport?pid=76
-#EXTINF:-1 tvg-name="Fox 2" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/咪咕视频.png" group-title="咪咕",Fox
-https://tv.doube.eu.org/beesport?pid=77
-
 #EXTINF:-1 tvg-name="UFC" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/咪咕视频.png" group-title="咪咕",UFC
 http://182.92.109.190:1668/72/72.php?id=ufcgdj
 
