@@ -222,11 +222,8 @@ http://182.92.109.190:1668/72/72.php?id=mlzq
 #EXTINF:-1 tvg-name="劲爆体育" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/咪咕视频.png" group-title="体育",劲爆体育
 http://182.92.109.190:1668/72/72.php?id=jbty
 #EXTINF:-1 tvg-name="咪咕体育" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/咪咕视频.png" group-title="体育",广东体育
-http://113.65.9.61:4014/udp/239.77.0.112:5146
-#EXTINF:-1 tvg-name="咪咕体育" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/咪咕视频.png" group-title="体育",广东体育
-http://171.110.42.2:8181/tsfile/live/1026_1.m3u8
-#EXTINF:-1 tvg-name="咪咕体育" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/咪咕视频.png" group-title="体育",智林体育
-http://209.141.58.162:4994/proxy?url=http%3A//209.141.58.162%3A5050/litv/4gtv-4gtv101
+http://171.104.198.50:8181/tsfile/live/1026_1.m3u8
+
 #EXTINF:-1 tvg-name="纬来体育" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/咪咕视频.png" group-title="体育",纬来体育
 http://114.33.60.49:8563/http/61.219.99.20:8081/hls/67/809/ch28.m3u8
 #EXTINF:-1 tvg-name="纬来体育" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/咪咕视频.png" group-title="体育",纬来体育
