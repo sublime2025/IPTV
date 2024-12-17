@@ -252,7 +252,7 @@ http://litv.zapi.us.kg/?id=litv-longturn05
 http://litv.zapi.us.kg/?id=litv-longturn06
 
 #EXTINF:-1 tvg-name="Trance Sport" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/咪咕视频.png" group-title="体育",TRA体育
-http://209.141.58.162:4994/proxy?url=http%3A//209.141.58.162%3A5050/litv/4gtv-4gtv077
+http://litv.zapi.us.kg/?id=4gtv-4gtv077
 
 #EXTINF:-1 tvg-name="Sky Sport 1" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/咪咕视频.png" group-title="体育",天空体育
 http://tv14s.xyz:8080/753468/894568/53704
@@ -311,7 +311,7 @@ http://php.jdshipin.com:8880/smt.php?id=Xinhe
 #EXTINF:-1 tvg-name="TVB星河" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/TVB/TVB星河.png" group-title="港台",星河台
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=xinghe
 
-#EXTINF:-1 tvg-name="TVBPlus" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/TVB/TVBPlus.png" group-title="港台",TVBPlus
+#EXTINF:-1 tvg-name="TVBPlus" tvg-logo="https://assets.livednow.com/logo/TVB-Plus.png" group-title="港台",TVBPlus
 http://aktv.top/AKTV/live/aktv/tvbplus/AKTV.m3u8
 #EXTINF:-1 tvg-name="TVBS" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/TVB/TVBS.png" group-title="港台",TVBS
 http://litv.zapi.us.kg/?id=4gtv-4gtv073
@@ -414,6 +414,9 @@ http://125.227.210.55:8165/VideoInput/play.ts
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 #EXTINF:-1 tvg-name="CNN" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/World/CNN.png" group-title="国际",美国新闻
 https://amg01448-samsungin-cnnnow-samsungin-4npqg.amagi.tv/playlist/amg01448-samsungin-cnnnow-samsungin/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Fox NEWS" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/World/CNN.png" group-title="国际",福克斯台
+https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-name="乌克兰台" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/IMG.png" group-title="国际",乌克兰台
 https://cdn.1tvcrimea.ru/1tvcrimea.m3u8
@@ -815,8 +818,6 @@ p3p://173.208.176.178:31809/5ff742d8000bbabbccce4cb0100a31ff
 #EXTINF:-1 tvg-name="JAPNHD" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/World/岛国片.png" group-title="限制",岛国片
 http://88b9da48.kazmazpaz.ru/iptv/2EA55L4SUE4RH4/6225/manifest.m3u8
 
-#EXTINF:-1 tvg-name="麻豆传媒" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/TVB/麻豆传媒.png" group-title="限制",国产台
-http://125.227.210.55:51359/VideoInput/play.ts
 #EXTINF:-1 tvg-name="彩虹K" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/TVB/麻豆传媒.png" group-title="限制",国产台
 p3p://173.208.176.178:31809/63fd56ec000b5f0d26d4fe1b07963493
 #EXTINF:-1 tvg-name="兔子先生" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/TVB/麻豆传媒.png" group-title="限制",国产台
@@ -835,6 +836,8 @@ p3p://173.208.176.178:31809/6135966100022f18a83512374f864fd8
 p3p://173.208.176.178:31809/5ff5420900039286c4fb220f4b133915
 #EXTINF:-1 tvg-name="PornTW" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/TVB/麻豆传媒.png" group-title="限制",国产台
 p3p://173.208.176.178:31809/5ff399460003af78be7fe8571735593d
+#EXTINF:-1 tvg-name="麻豆传媒" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/TVB/麻豆传媒.png" group-title="限制",国产台
+http://125.227.210.55:51359/VideoInput/play.ts
 
 #EXTINF:-1 tvg-name="惊艳台" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/TVB/惊艳台.png" group-title="限制",惊艳台
 p3p://173.208.176.178:31809/60626a1b00010e3e6f5a5a4f018e5ebe
