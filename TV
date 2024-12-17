@@ -311,7 +311,7 @@ http://php.jdshipin.com:8880/smt.php?id=Xinhe
 #EXTINF:-1 tvg-name="TVB星河" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/TVB/TVB星河.png" group-title="港台",星河台
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=xinghe
 
-#EXTINF:-1 tvg-name="TVBPlus" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/TVB/TVBPlus.png" group-title="港台",星河台
+#EXTINF:-1 tvg-name="TVBPlus" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/TVB/TVBPlus.png" group-title="港台",TVBPlus
 http://aktv.top/AKTV/live/aktv/tvbplus/AKTV.m3u8
 #EXTINF:-1 tvg-name="TVBS" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/TVB/TVBS.png" group-title="港台",TVBS
 http://litv.zapi.us.kg/?id=4gtv-4gtv073
@@ -404,16 +404,12 @@ https://n24-cdn-live.ntv.co.jp/ch01/index_high.m3u8
 http://aktv.top/AKTV/live/aktv3/nhkworldjapan/AKTV.m3u8
 
 #EXTINF:-1 tvg-name="BBC World" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/World/BBC.png" group-title="国际",美国国际
-http://38.96.178.201:80/live/BBCAmerica/index.m3u8
-#EXTINF:-1 tvg-name="BBC World" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/World/BBC.png" group-title="国际",美国国际
 https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8?v=1
 #EXTINF:-1 tvg-name="BBC World" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/World/BBC.png" group-title="国际",美国国际
 https://ythls.armelin.one/channel/UCelk6aHijZq-GJBBB9YpReA.m3u8?v=1
 #EXTINF:-1 tvg-name="BBC World" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/World/BBC.png" group-title="国际",美国国际
 http://125.227.210.55:8165/VideoInput/play.ts
 
-#EXTINF:-1 tvg-name="CNN" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/World/CNN.png" group-title="国际",美国新闻
-http://38.96.178.201:80/live/CNNHD/index.m3u8
 #EXTINF:-1 tvg-name="CNN" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/World/CNN.png" group-title="国际",美国新闻
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 #EXTINF:-1 tvg-name="CNN" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/World/CNN.png" group-title="国际",美国新闻
