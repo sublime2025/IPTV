@@ -126,34 +126,28 @@ http://kxrj.site:8690/php/mg9.php?id=cctv4a
 https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
 
 #EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/IPTV/湖南卫视.png" group-title="卫视",湖南卫视
-http://58.19.38.162:9901/tsfile/live/1016_1.m3u8
-#EXTINF:-1 tvg-name="湖北卫视" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/IPTV/湖北卫视.png" group-title="卫视",湖北卫视
-http://58.19.38.162:9901/tsfile/live/1015_1.m3u8
+http://124.116.183.146:9901/tsfile/live/0128_1.m3u8
 #EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/IPTV/浙江卫视.png" group-title="卫视",浙江卫视
-http://58.19.38.162:9901/tsfile/live/1020_1.m3u8
+http://124.116.183.146:9901/tsfile/live/0124_1.m3u8
 #EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/IPTV/江苏卫视.png" group-title="卫视",江苏卫视
-http://58.19.38.162:9901/tsfile/live/1019_1.m3u8
+http://124.116.183.146:9901/tsfile/live/0127_1.m3u8
 #EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/IPTV/广东卫视.png" group-title="卫视",广东卫视
-http://58.19.38.162:9901/tsfile/live/1022_1.m3u8
+http://124.116.183.146:9901/tsfile/live/0125_1.m3u8
 #EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/IPTV/深圳卫视.png" group-title="卫视",深圳卫视
-http://58.19.38.162:9901/tsfile/live/1023_1.m3u8
+http://124.116.183.146:9901/tsfile/live/0126_1.m3u8
 #EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/IPTV/东方卫视.png" group-title="卫视",东方卫视
-http://58.19.38.162:9901/tsfile/live/1018_1.m3u8
+http://123.166.61.70:8003/hls/22/index.m3u8
 #EXTINF:-1 tvg-name="东南卫视" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/IPTV/东南卫视.png" group-title="卫视",东南卫视
-http://58.19.38.162:9901/tsfile/live/1028_1.m3u8
-#EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/IPTV/北京卫视.png" group-title="卫视",北京卫视
-http://58.19.38.162:9901/tsfile/live/1017_1.m3u8
+http://112.101.78.50:9901/tsfile/live/0137_1.m3u8
 #EXTINF:-1 tvg-name="天津卫视" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/IPTV/天津卫视.png" group-title="卫视",天津卫视
-http://58.19.38.162:9901/tsfile/live/1024_1.m3u8
+http://124.116.183.146:9901/tsfile/live/0135_1.m3u8
 #EXTINF:-1 tvg-name="江西卫视" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/IPTV/江西卫视.png" group-title="卫视",江西卫视
-http://58.19.38.162:9901/tsfile/live/1029_1.m3u8
+,http://112.101.78.50:9901/tsfile/live/0138_1.m3u8
 #EXTINF:-1 tvg-name="安徽卫视" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/IPTV/安徽卫视.png" group-title="卫视",安徽卫视
-http://58.19.38.162:9901/tsfile/live/1021_1.m3u8
+http://124.116.183.146:9901/tsfile/live/0130_1.m3u8
 
 #EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/IPTV/湖南卫视.png" group-title="卫视",湖南卫视
 http://113.195.13.20:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 tvg-name="湖北卫视" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/IPTV/湖北卫视.png" group-title="卫视",湖北卫视
-http://113.195.13.20:9901/tsfile/live/1011_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/IPTV/浙江卫视.png" group-title="卫视",浙江卫视
 http://113.195.13.20:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/IPTV/江苏卫视.png" group-title="卫视",江苏卫视
@@ -166,8 +160,6 @@ http://113.195.13.20:9901/tsfile/live/1007_1.m3u8?key=txiptv&playlive=0&authid=0
 http://113.195.13.20:9901/tsfile/live/1003_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 tvg-name="东南卫视" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/IPTV/东南卫视.png" group-title="卫视",东南卫视
 http://113.195.13.20:9901/tsfile/live/1018_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/IPTV/北京卫视.png" group-title="卫视",北京卫视
-http://113.195.13.20:9901/tsfile/live/1004_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 tvg-name="天津卫视" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/IPTV/天津卫视.png" group-title="卫视",天津卫视
 http://113.195.13.20:9901/tsfile/live/1012_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 tvg-name="江西卫视" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/IPTV/江西卫视.png" group-title="卫视",江西卫视
@@ -201,6 +193,11 @@ http://114.33.60.49:8563/http/61.219.99.20:8081/hls/67/809/ch28.m3u8
 #EXTINF:-1 tvg-name="纬来体育" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/咪咕视频.png" group-title="体育",纬来体育
 rtmp://f13h.mine.nu/sat/tv721
 
+#EXTINF:-1 tvg-name="Sky Sport 1" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/咪咕视频.png" group-title="体育",天空体育
+http://tv14s.xyz:8080/753468/894568/53704
+#EXTINF:-1 tvg-name="Sky Sport 2" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/咪咕视频.png" group-title="体育",天空体育
+http://cord-cutter.net:8080/25464931/30585186/137720
+
 #EXTINF:-1 tvg-name="博斯网球" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/咪咕视频.png" group-title="体育",博斯网球
 http://litv.zapi.us.kg/?id=litv-longturn09
 #EXTINF:-1 tvg-name="博斯无线Ⅰ" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/咪咕视频.png" group-title="体育",博斯无线
@@ -216,23 +213,10 @@ http://litv.zapi.us.kg/?id=litv-longturn05
 #EXTINF:-1 tvg-name="博斯高球Ⅱ" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/咪咕视频.png" group-title="体育",博斯高球
 http://litv.zapi.us.kg/?id=litv-longturn06
 
-#EXTINF:-1 tvg-name="Trance Sport" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/咪咕视频.png" group-title="体育",TRA体育
-http://litv.zapi.us.kg/?id=4gtv-4gtv077
-
-#EXTINF:-1 tvg-name="Sky Sport 1" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/咪咕视频.png" group-title="体育",天空体育
-http://tv14s.xyz:8080/753468/894568/53704
-#EXTINF:-1 tvg-name="Sky Sport 2" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/咪咕视频.png" group-title="体育",天空体育
-http://cord-cutter.net:8080/25464931/30585186/137720
-
 #EXTINF:-1 tvg-name="ELEVEN 1" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/咪咕视频.png" group-title="体育",ELEVEN
 rtmp://f13h.mine.nu/sat/tv731
 #EXTINF:-1 tvg-name="ELEVEN 2" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/咪咕视频.png" group-title="体育",ELEVEN
 rtmp://f13h.mine.nu/sat/tv741
-
-#EXTINF:-1 tvg-name="NBA" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/咪咕视频.png" group-title="体育",NBA
-http://182.92.109.190:1668/72/72.php?id=nbajd
-#EXTINF:-1 tvg-name="CBA" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/咪咕视频.png" group-title="体育",CBA
-http://182.92.109.190:1668/72/72.php?id=cbajd
 
 █████████████████████████████████████████████████████████████████████████████████████████████████████████
 
