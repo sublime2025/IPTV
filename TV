@@ -308,6 +308,8 @@ http://aktv.top/AKTV/live/aktv3/nhkworldjapan/AKTV.m3u8
 #EXTINF:-1 tvg-name="BBC World" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/World/BBC.png" group-title="国际",美国国际
 https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8?v=1
 #EXTINF:-1 tvg-name="BBC World" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/World/BBC.png" group-title="国际",美国国际
+https://d3pxo1qcgzxtxs.cloudfront.net/10005/99951298/hls/playlist.m3u8?ads.xumo_channelId=99951298
+#EXTINF:-1 tvg-name="BBC World" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/World/BBC.png" group-title="国际",美国国际
 https://ythls.armelin.one/channel/UCelk6aHijZq-GJBBB9YpReA.m3u8?v=1
 #EXTINF:-1 tvg-name="BBC World" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/World/BBC.png" group-title="国际",美国国际
 http://125.227.210.55:8165/VideoInput/play.ts
