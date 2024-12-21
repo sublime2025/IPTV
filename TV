@@ -372,6 +372,9 @@ https://tv.mytvsuper.xyz/1/baogutai/baogu.m3u8
 #EXTINF:-1 tvg-name="now星影" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/now5.png” group-title="影视",now星影
 https://tv.mytvsuper.xyz/1/xingyingtai/xingying.m3u8
 
+#EXTINF:-1 tvg-name="cat电影" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/TVB/CAT电影.png" group-title="影视",cat电影
+http://209.141.58.162:4994/proxy?url=http%3A//209.141.58.162%3A5050/litv/4gtv-4gtv076
+
 #EXTINF:-1 tvg-name="amc电影" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/TVB/AMC电影.png" group-title="影视",amc电影
 http://61.221.215.25:8800/hls/43/index.m3u8
 #EXTINF:-1 tvg-name="HITs电影" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/TVB/HITs.png" group-title="影视",HITs电影
