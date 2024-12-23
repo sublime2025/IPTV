@@ -6,7 +6,6 @@
 |  盒子迷  | [https://盒子迷.top/禁止贩卖](https://xn--i8sz35d1yr.top/禁止贩卖) |
 |  摸鱼儿  | [http://我不是.摸鱼儿.com](http://xn--ihqu10cn4c.xn--v4q818bf34b.com/) |
 |   肥猫   | [http://肥猫.com/](https://xn--z7x900a.com/)                 |
-|   OK猫   | http://ok321.top/ok                                          |
 |   ZWC    | http://kv.zwc365.com/tv.json                                 |
 |   CDN    | http://cdn.qiaoji8.com/tvbox.json                            |
 |   星辰   | https://fmbox.cc/                                            |
