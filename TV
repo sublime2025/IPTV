@@ -239,6 +239,8 @@ http://aktv.top/AKTV/live/aktv/tvbplus/AKTV.m3u8
 
 #EXTINF:-1 tvg-name="TVBS新闻" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/TVB/TVBS新闻台.png" group-title="港台",TVBS新闻
 http://aktv.top/AKTV/live/aktv/tvbs-1/AKTV.m3u8
+#EXTINF:-1 tvg-name="ELTA娱乐" tvg-logo="https://assets.livednow.com/logo/ELTA娛樂.png" group-title="港台",ELTA娱乐
+https://iptv.vip-tptv.xyz/litv.php?id=4gtv-4gtv070
 
 #EXTINF:-1 tvg-name="娱乐新闻" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/TVB/娱乐新闻.png" group-title="港台",娱乐新闻
 http://aktv.top/AKTV/live/aktv/hk/AKTV.m3u8
@@ -251,6 +253,8 @@ http://aktv.top/AKTV/live/aktv/null-9/AKTV.m3u8
 
 #EXTINF:-1 tvg-name="中天新闻" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/TVB/中天新闻.png" group-title="港台",中天新闻
 http://aktv.top/AKTV/live/aktv/null-8/AKTV.m3u8
+#EXTINF:-1 tvg-name="tvN" tvg-logo="https://epg.v1.mk/logo/tvn.png" group-title="港台",tvN
+http://aktv.top/AKTV/live/aktv/tvn/AKTV.m3u8
 
 #EXTINF:-1 tvg-name="MBOTV" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/温馨提示.png" group-title="港台",MBOTV
 https://1816029567.rsc.cdn77.org/1816029567/index.m3u8
@@ -367,15 +371,21 @@ http://37.27.111.214:8080/live/28/hls.m3u8
 
 #EXTINF:-1 tvg-name="PopC电影" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/TVB/PopC.png" group-title="影视",PopC电影
 http://aktv.top/AKTV/live/aktv/popc/AKTV.m3u8
+#EXTINF:-1 tvg-name="AXN电影" tvg-logo="https://epg.v1.mk/logo/axn.png" group-title="影视",AXN电影
+http://aktv.top/AKTV/live/aktv2/axn/AKTV.m3u8
 #EXTINF:-1 tvg-name="RockAction" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/TVB/RockAction.png" group-title="影视",RockAction
 http://aktv.top/AKTV/live/aktv/rockaction/AKTV.m3u8
 
+#EXTINF:-1 tvg-name="东森电影" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/TVB/东森电影.png" group-title="影视",东森电影
+https://iptv.vip-tptv.xyz/tv.php?id=4
 #EXTINF:-1 tvg-name="东森电影" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/TVB/东森电影.png" group-title="影视",东森电影
 http://50.7.234.10:8278/ettvmovie/playlist.m3u8?tid=MDED1943740419437404&ct=19225&tsum=120834a4218c4b5c3bb19efb8116f859
 #EXTINF:-1 tvg-name="东森电影" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/TVB/东森电影.png" group-title="影视",东森电影
 http://198.16.100.90:8278/videolandmovie/playlist.m3u8?tid=ma2dac66da407&ct=18335&tsum=9a5a39559f64a71081ef9b3a85f2886c
 #EXTINF:-1 tvg-name="天映频道" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/TVB/天映频道.png" group-title="影视",天映频道
 http://50.7.234.10:8278/Celestial/playlist.m3u8?tid=MB0B6153961161539611&ct=19955&tsum=595ff8b4e51dcb87b06c193bdd260231
+#EXTINF:-1 tvg-name="天映频道" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/TVB/天映频道.png" group-title="影视",天映频道
+https://iptv.vip-tptv.xyz/tv.php?id=11
 
 #EXTINF:-1 tvg-name="靖天电影" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/TVB/靖天电影.png" group-title="影视",靖天电影
 http://aktv.top/AKTV/live/aktv/null-6/AKTV.m3u8
