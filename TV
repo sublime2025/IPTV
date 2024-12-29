@@ -183,9 +183,9 @@ http://183.3.134.56:9901/tsfile/live/0142_1.m3u8
 #EXTINF:-1 tvg-name="纬来体育" tvg-logo="https://ghgo.xyz/raw.githubusercontent.com/sublime2025/IPTV/main/img/Sport/纬来体育.png" group-title="体育",纬来体育
 rtmp://f13h.mine.nu/sat/tv721
 
-#EXTINF:-1 tvg-name="SkySportDarts" tvg-logo="https://ghgo.xyz/raw.githubusercontent.com/sublime2025/IPTV/main/img/Sport/Sky-Darts.png" group-title="体育",天空体育
+#EXTINF:-1 tvg-name="Sky-Darts" tvg-logo="https://ghgo.xyz/raw.githubusercontent.com/sublime2025/IPTV/main/img/Sport/Sky-Darts.png" group-title="体育",天空体育
 http://tv14s.xyz:8080/753468/894568/53704
-#EXTINF:-1 tvg-name="SkySportMainEvent" tvg-logo="https://ghgo.xyz/raw.githubusercontent.com/sublime2025/IPTV/main/img/Sport/Sky-MainEvent.png" group-title="体育",天空体育
+#EXTINF:-1 tvg-name="Sky-MainEvent" tvg-logo="https://ghgo.xyz/raw.githubusercontent.com/sublime2025/IPTV/main/img/Sport/Sky-MainEvent.png" group-title="体育",天空体育
 http://cord-cutter.net:8080/25464931/30585186/137720
 
 #EXTINF:-1 tvg-name="博斯运动1" tvg-logo="https://ghgo.xyz/raw.githubusercontent.com/sublime2025/IPTV/main/img/Sport/广东体育.png" group-title="体育",博斯运动
@@ -304,7 +304,7 @@ https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream04/streamPla
 
 █████████████████████████████████████████████████████████████████████████████████████████████████████████
 
-#EXTINF:-1 tvg-name="环球电视" tvg-logo="https://ghgo.xyz/raw.githubusercontent.com/sublime2025/IPTV/main/img/CCTV/环球电视台.png" group-title="国际",环球电视
+#EXTINF:-1 tvg-name="环球电视" tvg-logo="https://ghgo.xyz/raw.githubusercontent.com/sublime2025/IPTV/main/img/World/环球电视.png" group-title="国际",环球电视
 http://zb.xzxwhcb.com:9999/hls/world.m3u8
 
 #EXTINF:-1 tvg-name="CNA" tvg-logo="https://ghgo.xyz/raw.githubusercontent.com/sublime2025/IPTV/main/img/World/CNA.png" group-title="国际",亚洲新闻
