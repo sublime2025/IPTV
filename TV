@@ -195,9 +195,9 @@ http://tv14s.xyz:8080/753468/894568/53704
 #EXTINF:-1 tvg-name="SkySportMainEvent" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/咪咕视频.png" group-title="体育",天空体育
 http://cord-cutter.net:8080/25464931/30585186/137720
 
-#EXTINF:-1 tvg-name="博斯魅力" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/咪咕视频.png" group-title="体育",博斯魅力
+#EXTINF:-1 tvg-name="博斯魅力" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/TVB/博斯魅力.png" group-title="体育",博斯魅力
 http://50.7.234.10:8278/bosisport1_twn/playlist.m3u8?tid=MDAD4087844840878448&ct=19249&tsum=0a23fd28e83ff8205a515273a4c1b421
-#EXTINF:-1 tvg-name="博斯魅力" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/咪咕视频.png" group-title="体育",博斯魅力
+#EXTINF:-1 tvg-name="博斯魅力" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/TVB/博斯魅力.png" group-title="体育",博斯魅力
 http://50.7.234.10:8278/bosisport1_twn/playlist.m3u8?tid=MF6F6900999569009995&ct=19225&tsum=1d6e966a02c88867f2a3234f3a980b7d
 
 #EXTINF:-1 tvg-name="博斯网球" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/TVB/博斯网球.png" group-title="体育",博斯网球
