@@ -285,7 +285,7 @@ http://cdn9.1689.us.kg/smt1.1.php?id=Tvbjade
 http://61.221.215.25:8800/hls/9/index.m3u8
 #EXTINF:-1 tvg-name="TVBS" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/TVB/TVBS.png" group-title="港台",TVBS
 http://aktv.top/AKTV/live/aktv/tvbs/AKTV.m3u8
-#EXTINF:-1 tvg-name="TVBPlus" tvg-logo="https://assets.livednow.com/logo/TVB-Plus.png" group-title="港台",TVBPlus
+#EXTINF:-1 tvg-name="TVBPlus" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/TVB/TVB-Plus.png" group-title="港台",TVBPlus
 http://aktv.top/AKTV/live/aktv/tvbplus/AKTV.m3u8
 #EXTINF:-1 tvg-name="TVBS新闻" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/TVB/TVBS新闻台.png" group-title="港台",TVBS新闻
 http://aktv.top/AKTV/live/aktv/tvbs-1/AKTV.m3u8
@@ -306,10 +306,10 @@ http://50.7.234.10:8278/ettvnews/playlist.m3u8?tid=ME5E8863997888639978&ct=19193
 
 #EXTINF:-1 tvg-name="娱乐新闻" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/TVB/娱乐新闻.png" group-title="港台",娱乐新闻
 http://aktv.top/AKTV/live/aktv/hk/AKTV.m3u8
-#EXTINF:-1 tvg-name="ELTA娱乐" tvg-logo="https://assets.livednow.com/logo/ELTA娛樂.png" group-title="港台",ELTA娱乐
+#EXTINF:-1 tvg-name="ELTA娱乐" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/TVB/ELTA娱乐.png" group-title="港台",ELTA娱乐
 https://iptv.vip-tptv.xyz/litv.php?id=4gtv-4gtv070
 
-#EXTINF:-1 tvg-name="tvN" tvg-logo="https://epg.v1.mk/logo/tvn.png" group-title="港台",tvN
+#EXTINF:-1 tvg-name="tvN" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/TVB/tvN.png" group-title="港台",tvN
 http://aktv.top/AKTV/live/aktv/tvn/AKTV.m3u8
 
 #EXTINF:-1 tvg-name="MBOTV" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/温馨提示.png" group-title="港台",MBOTV
@@ -359,9 +359,9 @@ https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_35
 #EXTINF:-1 tvg-name="CNN" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/World/CNN.png" group-title="国际",美国新闻
 https://amg01448-samsungin-cnnnow-samsungin-4npqg.amagi.tv/playlist/amg01448-samsungin-cnnnow-samsungin/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Fox NEWS" tvg-logo="https://assets.livednow.com/logo/FOX-NEWS.png" group-title="国际",福克斯台
+#EXTINF:-1 tvg-name="Fox NEWS" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/World/FOX.png" group-title="国际",福克斯台
 https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-name="Fox NEWS" tvg-logo="https://assets.livednow.com/logo/FOX-NEWS.png" group-title="国际",福克斯台
+#EXTINF:-1 tvg-name="Fox NEWS" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/World/FOX.png" group-title="国际",福克斯台
 http://50.7.234.10:8278/foxnews_twn/playlist.m3u8?tid=MC6C3693629036936290&ct=19225&tsum=f5a714cff126a87d446c0613d9e80e14
 
 #EXTINF:-1 tvg-name="乌克兰台" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/IMG.png" group-title="国际",乌克兰台
@@ -413,11 +413,11 @@ http://50.7.234.10:8278/meiyamovie_twn/playlist.m3u8?tid=MC6C9419277694192776&ct
 
 #EXTINF:-1 tvg-name="now爆谷" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/TVB/now爆谷.png” group-title="影视",now爆谷
 http://aktv.top/AKTV/live/aktv2/now-1/AKTV.m3u8
-#EXTINF:-1 tvg-name="now星影" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/now5.png” group-title="影视",now星影
+#EXTINF:-1 tvg-name="now星影" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TVB/now星影.png” group-title="影视",now星影
 http://aktv.top/AKTV/live/aktv2/now/AKTV.m3u8
 #EXTINF:-1 tvg-name="now爆谷" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/TVB/now爆谷.png",group-title="影视",now爆谷
 https://tv.mytvsuper.xyz/1/baogutai/baogu.m3u8
-#EXTINF:-1 tvg-name="now星影" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/now5.png” group-title="影视",now星影
+#EXTINF:-1 tvg-name="now星影" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TVB/now星影.png” group-title="影视",now星影
 https://tv.mytvsuper.xyz/1/xingyingtai/xingying.m3u8
 
 #EXTINF:-1 tvg-name="cat电影" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/TVB/CAT电影.png" group-title="影视",cat电影
@@ -443,11 +443,11 @@ http://50.7.234.10:8278/fyi_twn/playlist.m3u8?tid=m99b80124e3b4&ct=18337&tsum=73
 
 #EXTINF:-1 tvg-name="PopC电影" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/TVB/PopC.png" group-title="影视",PopC电影
 http://aktv.top/AKTV/live/aktv/popc/AKTV.m3u8
-#EXTINF:-1 tvg-name="AXN电影" tvg-logo="https://epg.v1.mk/logo/axn.png" group-title="影视",AXN电影
+#EXTINF:-1 tvg-name="AXN电影" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/TVB/AXN.png" group-title="影视",AXN电影
 http://aktv.top/AKTV/live/aktv2/axn/AKTV.m3u8
 #EXTINF:-1 tvg-name="RockAction" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/TVB/RockAction.png" group-title="影视",RockAction
 http://aktv.top/AKTV/live/aktv/rockaction/AKTV.m3u8
-#EXTINF:-1 tvg-name="Cinemax" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/TVB/RockAction.png" group-title="影视",Cinemax
+#EXTINF:-1 tvg-name="Cinemax" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/TVB/Cinemax.png" group-title="影视",Cinemax
 http://50.7.234.10:8278/cinemax_twn/playlist.m3u8?tid=MFEF8256939882569398&ct=19225&tsum=b6faed73a920c75f873a0c8f511eeba2
 
 #EXTINF:-1 tvg-name="好莱坞" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/TVB/好莱坞.png" group-title="影视",好莱坞
