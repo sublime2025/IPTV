@@ -183,9 +183,9 @@ http://183.3.134.56:9901/tsfile/live/0142_1.m3u8
 #EXTINF:-1 tvg-name="纬来体育" tvg-logo="https://ghgo.xyz/raw.githubusercontent.com/sublime2025/IPTV/main/img/Sport/纬来体育.png" group-title="体育",纬来体育
 rtmp://f13h.mine.nu/sat/tv721
 
-#EXTINF:-1 tvg-name="SkySportDarts" tvg-logo="https://ghgo.xyz/raw.githubusercontent.com/sublime2025/IPTV/main/img/Sport/广东体育.png" group-title="体育",天空体育
+#EXTINF:-1 tvg-name="SkySportDarts" tvg-logo="https://ghgo.xyz/raw.githubusercontent.com/sublime2025/IPTV/main/img/Sport/Sky-Darts.png" group-title="体育",天空体育
 http://tv14s.xyz:8080/753468/894568/53704
-#EXTINF:-1 tvg-name="SkySportMainEvent" tvg-logo="https://ghgo.xyz/raw.githubusercontent.com/sublime2025/IPTV/main/img/Sport/广东体育.png" group-title="体育",天空体育
+#EXTINF:-1 tvg-name="SkySportMainEvent" tvg-logo="https://ghgo.xyz/raw.githubusercontent.com/sublime2025/IPTV/main/img/Sport/Sky-MainEvent.png" group-title="体育",天空体育
 http://cord-cutter.net:8080/25464931/30585186/137720
 
 #EXTINF:-1 tvg-name="博斯运动1" tvg-logo="https://ghgo.xyz/raw.githubusercontent.com/sublime2025/IPTV/main/img/Sport/广东体育.png" group-title="体育",博斯运动
@@ -270,7 +270,7 @@ http://61.221.215.25:8800/hls/9/index.m3u8
 http://aktv.top/AKTV/live/aktv/tvbs/AKTV.m3u8
 #EXTINF:-1 tvg-name="TVBPlus" tvg-logo="https://ghgo.xyz/raw.githubusercontent.com/sublime2025/IPTV/main/img/TVB/TVB-Plus.png" group-title="港台",TVBPlus
 http://aktv.top/AKTV/live/aktv/tvbplus/AKTV.m3u8
-#EXTINF:-1 tvg-name="TVBS新闻" tvg-logo="https://ghgo.xyz/raw.githubusercontent.com/sublime2025/IPTV/main/img/TVB/TVBS新闻台.png" group-title="港台",TVBS新闻
+#EXTINF:-1 tvg-name="TVBS新闻" tvg-logo="https://ghgo.xyz/raw.githubusercontent.com/sublime2025/IPTV/main/img/TVB/TVBS新闻.png" group-title="港台",TVBS新闻
 http://aktv.top/AKTV/live/aktv/tvbs-1/AKTV.m3u8
 
 #EXTINF:-1 tvg-name="东森新闻" tvg-logo="https://ghgo.xyz/raw.githubusercontent.com/sublime2025/IPTV/main/img/TVB/东森新闻.png" group-title="港台",东森新闻
@@ -358,9 +358,9 @@ https://dev-live.livetvstream.co.uk/LS-63503-4/chunklist_b1196000.m3u8
 
 #EXTINF:-1 tvg-name="泰国新闻" tvg-logo="https://ghgo.xyz/raw.githubusercontent.com/sublime2025/IPTV/main/img/World/NEWS1.png" group-title="国际",泰国新闻
 http://news1.live14.com/stream/news1_hi.m3u8
-#EXTINF:-1 tvg-name="半岛国际" tvg-logo="https://ghgo.xyz/raw.githubusercontent.com/sublime2025/IPTV/main/img/World/半岛国际新闻.png" group-title="国际",半岛国际
+#EXTINF:-1 tvg-name="半岛国际" tvg-logo="https://ghgo.xyz/raw.githubusercontent.com/sublime2025/IPTV/main/img/World/半岛新闻.png" group-title="国际",半岛国际
 http://live-hls-web-aje.getaj.net/AJE/01.m3u8
-#EXTINF:-1 tvg-name="半岛新闻" tvg-logo="https://ghgo.xyz/raw.githubusercontent.com/sublime2025/IPTV/main/img/World/半岛国际新闻.png" group-title="国际",半岛新闻
+#EXTINF:-1 tvg-name="半岛新闻" tvg-logo="https://ghgo.xyz/raw.githubusercontent.com/sublime2025/IPTV/main/img/World/半岛新闻.png" group-title="国际",半岛新闻
 http://live-hls-web-aja.getaj.net/AJA/02.m3u8
 
 #EXTINF:-1 tvg-name="RedBull" tvg-logo="https://ghgo.xyz/raw.githubusercontent.com/sublime2025/IPTV/main/img/World/红牛运动.png" group-title="国际",红牛运动
@@ -374,15 +374,15 @@ https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 
 █████████████████████████████████████████████████████████████████████████████████████████████████████████
 
-#EXTINF:-1 tvg-name="豆瓣TOP" tvg-logo="https://ghgo.xyz/raw.githubusercontent.com/sublime2025/IPTV/main/img/Moive/豆瓣TOP.png" group-title="影视",豆瓣TOP
+#EXTINF:-1 tvg-name="豆瓣TOP" tvg-logo="https://ghgo.xyz/raw.githubusercontent.com/sublime2025/IPTV/main/img/Movie/豆瓣TOP.png" group-title="影视",豆瓣TOP
 https://www.goodiptv.club/douyu/8770422
-#EXTINF:-1 tvg-name="豆瓣TOP" tvg-logo="https://ghgo.xyz/raw.githubusercontent.com/sublime2025/IPTV/main/img/Moive/豆瓣TOP.png" group-title="影视",豆瓣TOP
+#EXTINF:-1 tvg-name="豆瓣TOP" tvg-logo="https://ghgo.xyz/raw.githubusercontent.com/sublime2025/IPTV/main/img/Movie/豆瓣TOP.png" group-title="影视",豆瓣TOP
 http://huanqiuzhibo.cn/manifest/douyu.php?id=8770422
-#EXTINF:-1 tvg-name="豆瓣TOP" tvg-logo="https://ghgo.xyz/raw.githubusercontent.com/sublime2025/IPTV/main/img/Moive/豆瓣TOP.png" group-title="影视",豆瓣TOP
+#EXTINF:-1 tvg-name="豆瓣TOP" tvg-logo="https://ghgo.xyz/raw.githubusercontent.com/sublime2025/IPTV/main/img/Movie/豆瓣TOP.png" group-title="影视",豆瓣TOP
 http://zzy789.xyz/douyu1.php?id=8770422
-#EXTINF:-1 tvg-name="豆瓣TOP" tvg-logo="https://ghgo.xyz/raw.githubusercontent.com/sublime2025/IPTV/main/img/Moive/豆瓣TOP.png" group-title="影视",豆瓣TOP
+#EXTINF:-1 tvg-name="豆瓣TOP" tvg-logo="https://ghgo.xyz/raw.githubusercontent.com/sublime2025/IPTV/main/img/Movie/豆瓣TOP.png" group-title="影视",豆瓣TOP
 http://jiaojirentv.top/2020/dy.php?id=8770422
-#EXTINF:-1 tvg-name="豆瓣TOP" tvg-logo="https://ghgo.xyz/raw.githubusercontent.com/sublime2025/IPTV/main/img/Moive/豆瓣TOP.png" group-title="影视",豆瓣TOP
+#EXTINF:-1 tvg-name="豆瓣TOP" tvg-logo="https://ghgo.xyz/raw.githubusercontent.com/sublime2025/IPTV/main/img/Movie/豆瓣TOP.png" group-title="影视",豆瓣TOP
 http://43.136.119.99/douyu.php?id=8770422
 
 #EXTINF:-1 tvg-name="美亚电影港" tvg-logo="https://ghgo.xyz/raw.githubusercontent.com/sublime2025/IPTV/main/img/Movie/美亚电影.png" group-title="影视",美亚电影
@@ -396,11 +396,11 @@ http://50.7.234.10:8278/meiyamovie_twn/playlist.m3u8?tid=MC6C9419277694192776&ct
 
 #EXTINF:-1 tvg-name="Now爆谷" tvg-logo="https://ghgo.xyz/raw.githubusercontent.com/sublime2025/IPTV/main/img/Movie/Now爆谷.png” group-title="影视",Now爆谷
 http://aktv.top/AKTV/live/aktv2/now-1/AKTV.m3u8
-#EXTINF:-1 tvg-name="Now星影" tvg-logo="https://ghgo.xyz/raw.githubusercontent.com/wanglindl/TVlogo/main/img/Movie/Now星影.png” group-title="影视",Now星影
+#EXTINF:-1 tvg-name="Now星影" tvg-logo="https://ghgo.xyz/raw.githubusercontent.com/sublime2025/IPTV/main/img/Movie/Now星影.png” group-title="影视",Now星影
 http://aktv.top/AKTV/live/aktv2/now/AKTV.m3u8
 #EXTINF:-1 tvg-name="Now爆谷" tvg-logo="https://ghgo.xyz/raw.githubusercontent.com/sublime2025/IPTV/main/img/Movie/Now爆谷.png",group-title="影视",Now爆谷
 https://tv.mytvsuper.xyz/1/baogutai/baogu.m3u8
-#EXTINF:-1 tvg-name="Now星影" tvg-logo="https://ghgo.xyz/raw.githubusercontent.com/wanglindl/TVlogo/main/img/Movie/Now星影.png” group-title="影视",Now星影
+#EXTINF:-1 tvg-name="Now星影" tvg-logo="https://ghgo.xyz/raw.githubusercontent.com/sublime2025/IPTV/main/img/Movie/Now星影.png” group-title="影视",Now星影
 https://tv.mytvsuper.xyz/1/xingyingtai/xingying.m3u8
 
 #EXTINF:-1 tvg-name="cat电影" tvg-logo="https://ghgo.xyz/raw.githubusercontent.com/sublime2025/IPTV/main/img/Movie/CAT电影.png" group-title="影视",cat电影
@@ -426,7 +426,7 @@ http://50.7.234.10:8278/fyi_twn/playlist.m3u8?tid=m99b80124e3b4&ct=18337&tsum=73
 
 #EXTINF:-1 tvg-name="PopC电影" tvg-logo="https://ghgo.xyz/raw.githubusercontent.com/sublime2025/IPTV/main/img/Movie/PopC.png" group-title="影视",PopC电影
 http://aktv.top/AKTV/live/aktv/popc/AKTV.m3u8
-#EXTINF:-1 tvg-name="AXN电影" tvg-logo="https://ghgo.xyz/raw.githubusercontent.com/sublime2025/IPTV/main/img/Movie/AXN.png" group-title="影视",AXN电影
+#EXTINF:-1 tvg-name="AXN电影" tvg-logo="https://ghgo.xyz/raw.githubusercontent.com/sublime2025/IPTV/main/img/Movie/AXN电影.png" group-title="影视",AXN电影
 http://aktv.top/AKTV/live/aktv2/axn/AKTV.m3u8
 #EXTINF:-1 tvg-name="RockAction" tvg-logo="https://ghgo.xyz/raw.githubusercontent.com/sublime2025/IPTV/main/img/Movie/RockAction.png" group-title="影视",RockAction
 http://aktv.top/AKTV/live/aktv/rockaction/AKTV.m3u8
