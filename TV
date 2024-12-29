@@ -37,9 +37,9 @@ http://z.b.bkpcp.top/m.php?id=cctv15
 http://z.b.bkpcp.top/m.php?id=cctv16
 #EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/CCTV/CCTV5+.png" group-title="央视",CCTV5+
 http://z.b.bkpcp.top/m.php?id=cctv5p
-#EXTINF:-1 tvg-name="CCTV4欧洲" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/CCTV/CCTV4欧洲.png" group-title="央视",CCTV4欧洲
+#EXTINF:-1 tvg-name="CCTV4欧洲" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/CCTV/CCTV4o.png" group-title="央视",CCTV4欧洲
 http://z.b.bkpcp.top/m.php?id=cctv4o
-#EXTINF:-1 tvg-name="CCTV4美洲" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/CCTV/CCTV4美洲.png" group-title="央视",CCTV4美洲
+#EXTINF:-1 tvg-name="CCTV4美洲" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/CCTV/CCTV4a.png" group-title="央视",CCTV4美洲
 http://z.b.bkpcp.top/m.php?id=cctv4a
 
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/CCTV/CCTV1.png" group-title="央视",CCTV1
@@ -79,9 +79,9 @@ http://kxrj.site:12581/665/mg9.php?id=cctv17
 
 #EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/CCTV/CCTV5+.png" group-title="央视",CCTV5+
 http://kxrj.site:12581/665/mg9.php?id=cctv5p
-#EXTINF:-1 tvg-name="CCTV4欧洲" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/CCTV/CCTV4欧洲.png" group-title="央视",CCTV4欧洲
+#EXTINF:-1 tvg-name="CCTV4欧洲" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/CCTV/CCTV4o.png" group-title="央视",CCTV4欧洲
 http://kxrj.site:12581/665/mg9.php?id=cctv4o
-#EXTINF:-1 tvg-name="CCTV4美洲" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/CCTV/CCTV4美洲.png" group-title="央视",CCTV4美洲
+#EXTINF:-1 tvg-name="CCTV4美洲" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/CCTV/CCTV4a.png" group-title="央视",CCTV4美洲
 http://kxrj.site:12581/665/mg9.php?id=cctv4a
 
 █████████████████████████████████████████████████████████████████████████████████████████████████████████
@@ -187,47 +187,37 @@ http://14.212.185.71:9901/tsfile/live/1003_1.m3u8
 #EXTINF:-1 tvg-name="广东体育" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/咪咕视频.png" group-title="体育",广东体育
 http://183.3.134.56:9901/tsfile/live/0142_1.m3u8
 
-#EXTINF:-1 tvg-name="纬来体育" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/咪咕视频.png" group-title="体育",纬来体育
+#EXTINF:-1 tvg-name="纬来体育" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/TVB/纬来体育.png" group-title="体育",纬来体育
 rtmp://f13h.mine.nu/sat/tv721
 
-#EXTINF:-1 tvg-name="Sky Sport 1" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/咪咕视频.png" group-title="体育",天空体育
+#EXTINF:-1 tvg-name="SkySportDarts" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/咪咕视频.png" group-title="体育",天空体育
 http://tv14s.xyz:8080/753468/894568/53704
-#EXTINF:-1 tvg-name="Sky Sport 2" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/咪咕视频.png" group-title="体育",天空体育
+#EXTINF:-1 tvg-name="SkySportMainEvent" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/咪咕视频.png" group-title="体育",天空体育
 http://cord-cutter.net:8080/25464931/30585186/137720
-
-#EXTINF:-1 tvg-name="博斯网球" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/咪咕视频.png" group-title="体育",博斯网球
-https://zf.315600.xyz/proxy/http://tvb1.315600.xyz/litv/litv-longturn09
-#EXTINF:-1 tvg-name="博斯无线Ⅰ" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/咪咕视频.png" group-title="体育",博斯无线
-https://zf.315600.xyz/proxy/http://tvb1.315600.xyz/litv/litv-longturn10
-#EXTINF:-1 tvg-name="博斯无线Ⅱ" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/咪咕视频.png" group-title="体育",博斯无线
-https://zf.315600.xyz/proxy/http://tvb1.315600.xyz/litv/litv-longturn13
-#EXTINF:-1 tvg-name="博斯运动Ⅰ" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/咪咕视频.png" group-title="体育",博斯运动
-https://zf.315600.xyz/proxy/http://tvb1.315600.xyz/litv/litv-longturn07
-#EXTINF:-1 tvg-name="博斯运动Ⅱ" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/咪咕视频.png" group-title="体育",博斯运动
-https://zf.315600.xyz/proxy/http://tvb1.315600.xyz/litv/litv-longturn08
-#EXTINF:-1 tvg-name="博斯高球Ⅰ" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/咪咕视频.png" group-title="体育",博斯高球
-https://zf.315600.xyz/proxy/http://tvb1.315600.xyz/litv/litv-longturn05
-#EXTINF:-1 tvg-name="博斯高球Ⅱ" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/咪咕视频.png" group-title="体育",博斯高球
-https://zf.315600.xyz/proxy/http://tvb1.315600.xyz/litv/litv-longturn06
 
 #EXTINF:-1 tvg-name="博斯魅力" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/咪咕视频.png" group-title="体育",博斯魅力
 http://50.7.234.10:8278/bosisport1_twn/playlist.m3u8?tid=MDAD4087844840878448&ct=19249&tsum=0a23fd28e83ff8205a515273a4c1b421
 #EXTINF:-1 tvg-name="博斯魅力" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/咪咕视频.png" group-title="体育",博斯魅力
 http://50.7.234.10:8278/bosisport1_twn/playlist.m3u8?tid=MF6F6900999569009995&ct=19225&tsum=1d6e966a02c88867f2a3234f3a980b7d
-#EXTINF:-1 tvg-name="博斯无线Ⅱ" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/咪咕视频.png" group-title="体育",博斯无线
+
+#EXTINF:-1 tvg-name="博斯网球" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/TVB/博斯网球.png" group-title="体育",博斯网球
+https://zf.315600.xyz/proxy/http://tvb1.315600.xyz/litv/litv-longturn09
+#EXTINF:-1 tvg-name="博斯无线Ⅰ" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/TVB/博斯无线.png" group-title="体育",博斯无线
+https://zf.315600.xyz/proxy/http://tvb1.315600.xyz/litv/litv-longturn10
+#EXTINF:-1 tvg-name="博斯无线Ⅱ" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/TVB/博斯无线.png" group-title="体育",博斯无线
 https://zf.315600.xyz/proxy/http://tvb1.315600.xyz/litv/litv-longturn13
-#EXTINF:-1 tvg-name="博斯运动Ⅰ" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/咪咕视频.png" group-title="体育",博斯运动
+#EXTINF:-1 tvg-name="博斯运动Ⅰ" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/TVB/博斯运动.png" group-title="体育",博斯运动
 https://zf.315600.xyz/proxy/http://tvb1.315600.xyz/litv/litv-longturn07
-#EXTINF:-1 tvg-name="博斯运动Ⅱ" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/咪咕视频.png" group-title="体育",博斯运动
+#EXTINF:-1 tvg-name="博斯运动Ⅱ" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/TVB/博斯运动.png" group-title="体育",博斯运动
 https://zf.315600.xyz/proxy/http://tvb1.315600.xyz/litv/litv-longturn08
-#EXTINF:-1 tvg-name="博斯高球Ⅰ" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/咪咕视频.png" group-title="体育",博斯高球
+#EXTINF:-1 tvg-name="博斯高球Ⅰ" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/TVB/博斯高球.png" group-title="体育",博斯高球
 https://zf.315600.xyz/proxy/http://tvb1.315600.xyz/litv/litv-longturn05
-#EXTINF:-1 tvg-name="博斯高球Ⅱ" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/咪咕视频.png" group-title="体育",博斯高球
+#EXTINF:-1 tvg-name="博斯高球Ⅱ" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/TVB/博斯高球.png" group-title="体育",博斯高球
 https://zf.315600.xyz/proxy/http://tvb1.315600.xyz/litv/litv-longturn06
 
-#EXTINF:-1 tvg-name="ELTA体育" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/咪咕视频.png" group-title="体育",ELTA体育
+#EXTINF:-1 tvg-name="ELTA体育" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/TVB/ELTA体育.png" group-title="体育",ELTA体育
 http://50.7.234.10:8278/eltasport_twn/playlist.m3u8?tid=md3567b35401611916221&ct=17874&tsum=be2a069324faa7f0737ca0d396d43745
-#EXTINF:-1 tvg-name="ELTA体育" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/咪咕视频.png" group-title="体育",ELTA体育
+#EXTINF:-1 tvg-name="ELTA体育" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/TVB/ELTA体育.png" group-title="体育",ELTA体育
 http://50.7.234.10:8278/eltasport2_twn/playlist.m3u8?tid=MB2B3966739039667390&ct=19249&tsum=20bdbd3a22909e8d89aabe7a923c8c5b
 
 #EXTINF:-1 tvg-name="ELEVEN 1" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/咪咕视频.png" group-title="体育",ELEVEN
@@ -411,13 +401,13 @@ http://50.7.234.10:8278/meiyamovie_twn/playlist.m3u8?tid=MFDF2848449728484497&ct
 #EXTINF:-1 tvg-name="美亚电影台" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/TVB/美亚电影.png" group-title="影视",美亚电影
 http://50.7.234.10:8278/meiyamovie_twn/playlist.m3u8?tid=MC6C9419277694192776&ct=19234&tsum=43f9d2e13c7cbbce7e5c5ec94fa38750
 
-#EXTINF:-1 tvg-name="now爆谷" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/TVB/now爆谷.png” group-title="影视",now爆谷
+#EXTINF:-1 tvg-name="Now爆谷" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/TVB/Now爆谷.png” group-title="影视",Now爆谷
 http://aktv.top/AKTV/live/aktv2/now-1/AKTV.m3u8
-#EXTINF:-1 tvg-name="now星影" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TVB/now星影.png” group-title="影视",now星影
+#EXTINF:-1 tvg-name="Now星影" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TVB/Now星影.png” group-title="影视",Now星影
 http://aktv.top/AKTV/live/aktv2/now/AKTV.m3u8
-#EXTINF:-1 tvg-name="now爆谷" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/TVB/now爆谷.png",group-title="影视",now爆谷
+#EXTINF:-1 tvg-name="Now爆谷" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/TVB/Now爆谷.png",group-title="影视",Now爆谷
 https://tv.mytvsuper.xyz/1/baogutai/baogu.m3u8
-#EXTINF:-1 tvg-name="now星影" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TVB/now星影.png” group-title="影视",now星影
+#EXTINF:-1 tvg-name="Now星影" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TVB/Now星影.png” group-title="影视",Now星影
 https://tv.mytvsuper.xyz/1/xingyingtai/xingying.m3u8
 
 #EXTINF:-1 tvg-name="cat电影" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/TVB/CAT电影.png" group-title="影视",cat电影
@@ -432,13 +422,13 @@ https://zf.315600.xyz/proxy/http://tvb1.315600.xyz/litv/4gtv-4gtv017
 #EXTINF:-1 tvg-name="HITs电影" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/TVB/HITs.png" group-title="影视",HITs电影
 http://37.27.111.214:8080/live/28/hls.m3u8
 
-#EXTINF:-1 tvg-name="HBO电影" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/TVB/HITs.png" group-title="影视",HBO电影
+#EXTINF:-1 tvg-name="HBO电影" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/TVB/HBO-Signature.png" group-title="影视",HBO电影
 http://50.7.234.10:8278/hbosignature_twn/playlist.m3u8?tid=MD6D5767423357674233&ct=18392&tsum=995709f1100cf1b07964790160bfb4ee
-#EXTINF:-1 tvg-name="HBO电影" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/TVB/HITs.png" group-title="影视",HBO电影
+#EXTINF:-1 tvg-name="HBO电影" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/TVB/HBO.png" group-title="影视",HBO电影
 http://50.7.234.10:8278/hbohd_twn/playlist.m3u8?tid=m8d785f4e022616401837&ct=17877&tsum=56e767abfc65234db52b017576b00403
-#EXTINF:-1 tvg-name="HBO家庭" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/TVB/HITs.png" group-title="影视",HBO家庭
+#EXTINF:-1 tvg-name="HBO家庭" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/TVB/HBO-Family.png" group-title="影视",HBO家庭
 http://50.7.234.10:8278/fyi_twn/playlist.m3u8?tid=18186902&ct=17988&&tsum=7a21abab0a5912afb0ebc01db111e59f
-#EXTINF:-1 tvg-name="HBO家庭" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/TVB/HITs.png" group-title="影视",HBO家庭
+#EXTINF:-1 tvg-name="HBO家庭" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/TVB/HBO-Family.png" group-title="影视",HBO家庭
 http://50.7.234.10:8278/fyi_twn/playlist.m3u8?tid=m99b80124e3b4&ct=18337&tsum=73f6f540497de9a5615b9bd55bec8853
 
 #EXTINF:-1 tvg-name="PopC电影" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/TVB/PopC.png" group-title="影视",PopC电影
@@ -609,9 +599,9 @@ https://www.goodiptv.club/huya/11352960
 
 █████████████████████████████████████████████████████████████████████████████████████████████████████████
 
-#EXTINF:-1 tvg-name="CN卡通" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/TVB/爱放动漫.png" group-title="动漫",CN卡通
+#EXTINF:-1 tvg-name="CN卡通" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/TVB/CN卡通.png" group-title="动漫",CN卡通
 http://50.7.234.10:8278/momo1_twn/playlist.m3u8?ct=19225&tid=MA0A4898983648989836&tsum=bd109117d126916f203880b1f2063d5e
-#EXTINF:-1 tvg-name="CN卡通" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/TVB/爱放动漫.png" group-title="动漫",CN卡通
+#EXTINF:-1 tvg-name="CN卡通" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/TVB/CN卡通.png" group-title="动漫",CN卡通
 http://50.7.234.10:8278/momo1_twn/playlist.m3u8?tid=MA0A4898983648989836&ct=19225&tsum=bd109117d126916f203880b1f2063d5e
 
 #EXTINF:-1 tvg-name="爱放动漫" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/sublime2025/IPTV/main/img/TVB/爱放动漫.png" group-title="动漫",爱放动漫
