@@ -213,9 +213,9 @@ http://50.7.234.10:8278/eltasport_twn/playlist.m3u8?tid=md3567b35401611916221&ct
 #EXTINF:-1 tvg-name="ELTA体育" tvg-logo="https://ghgo.xyz/raw.githubusercontent.com/sublime2025/IPTV/main/img/Sport/ELTA体育.png" group-title="体育",ELTA体育
 http://50.7.234.10:8278/eltasport2_twn/playlist.m3u8?tid=MB2B3966739039667390&ct=19249&tsum=20bdbd3a22909e8d89aabe7a923c8c5b
 
-#EXTINF:-1 tvg-name="DAZN 1" tvg-logo="https://ghgo.xyz/raw.githubusercontent.com/sublime2025/IPTV/main/img/DAZN.png" group-title="体育",DAZN
+#EXTINF:-1 tvg-name="DAZN 1" tvg-logo="https://ghgo.xyz/raw.githubusercontent.com/sublime2025/IPTV/main/img/Sport/DAZN.png" group-title="体育",DAZN
 rtmp://f13h.mine.nu/sat/tv731
-#EXTINF:-1 tvg-name="DAZN 2" tvg-logo="https://ghgo.xyz/raw.githubusercontent.com/sublime2025/IPTV/main/img/DAZN.png" group-title="体育",DAZN
+#EXTINF:-1 tvg-name="DAZN 2" tvg-logo="https://ghgo.xyz/raw.githubusercontent.com/sublime2025/IPTV/main/img/Sport/DAZN.png" group-title="体育",DAZN
 rtmp://f13h.mine.nu/sat/tv741
 
 █████████████████████████████████████████████████████████████████████████████████████████████████████████
