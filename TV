@@ -4,6 +4,37 @@
 █████████████████████████████████████████████████████████████████████████████████████████████████████████
 
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://ghgo.xyz/raw.githubusercontent.com/sublime2025/IPTV/main/img/CCTV/CCTV1.png" group-title="央视",CCTV1
+http://itms4.sdlk.vip:6721/hls/200/index.m3u8
+#EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://ghgo.xyz/raw.githubusercontent.com/sublime2025/IPTV/main/img/CCTV/CCTV2.png" group-title="央视",CCTV2
+http://itms4.sdlk.vip:6721/hls/217/index.m3u8
+#EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://ghgo.xyz/raw.githubusercontent.com/sublime2025/IPTV/main/img/CCTV/CCTV3.png" group-title="央视",CCTV3
+http://z.b.bkpcp.top/m.php?id=cctv3
+#EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://ghgo.xyz/raw.githubusercontent.com/sublime2025/IPTV/main/img/CCTV/CCTV4.png" group-title="央视",CCTV4
+http://itms4.sdlk.vip:6721/hls/216/index.m3u8
+#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://ghgo.xyz/raw.githubusercontent.com/sublime2025/IPTV/main/img/CCTV/CCTV5.png" group-title="央视",CCTV5
+http://itms4.sdlk.vip:6721/hls/202/index.m3u8
+#EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://ghgo.xyz/raw.githubusercontent.com/sublime2025/IPTV/main/img/CCTV/CCTV6.png" group-title="央视",CCTV6
+http://itms4.sdlk.vip:6721/hls/203/index.m3u8
+#EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://ghgo.xyz/raw.githubusercontent.com/sublime2025/IPTV/main/img/CCTV/CCTV7.png" group-title="央视",CCTV7
+http://itms4.sdlk.vip:6721/hls/215/index.m3u8
+#EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://ghgo.xyz/raw.githubusercontent.com/sublime2025/IPTV/main/img/CCTV/CCTV8.png" group-title="央视",CCTV8
+http://itms4.sdlk.vip:6721/hls/204/index.m3u8
+#EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://ghgo.xyz/raw.githubusercontent.com/sublime2025/IPTV/main/img/CCTV/CCTV9.png" group-title="央视",CCTV9
+http://z.b.bkpcp.top/m.php?id=cctv9
+#EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://ghgo.xyz/raw.githubusercontent.com/sublime2025/IPTV/main/img/CCTV/CCTV10.png" group-title="央视",CCTV10
+http://itms4.sdlk.vip:6721/hls/213/index.m3u8
+#EXTINF:-1 tvg-name="CCTV11" tvg-logo="https://ghgo.xyz/raw.githubusercontent.com/sublime2025/IPTV/main/img/CCTV/CCTV11.png" group-title="央视",CCTV11
+http://itms4.sdlk.vip:6721/hls/205/index.m3u8
+#EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://ghgo.xyz/raw.githubusercontent.com/sublime2025/IPTV/main/img/CCTV/CCTV12.png" group-title="央视",CCTV12
+http://itms4.sdlk.vip:6721/hls/212/index.m3u8
+#EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://ghgo.xyz/raw.githubusercontent.com/sublime2025/IPTV/main/img/CCTV/CCTV13.png" group-title="央视",CCTV13
+http://itms4.sdlk.vip:6721/hls/206/index.m3u8
+#EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://ghgo.xyz/raw.githubusercontent.com/sublime2025/IPTV/main/img/CCTV/CCTV14.png" group-title="央视",CCTV14
+http://itms4.sdlk.vip:6721/hls/211/index.m3u8
+#EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://ghgo.xyz/raw.githubusercontent.com/sublime2025/IPTV/main/img/CCTV/CCTV15.png" group-title="央视",CCTV15
+http://itms4.sdlk.vip:6721/hls/207/index.m3u8
+
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://ghgo.xyz/raw.githubusercontent.com/sublime2025/IPTV/main/img/CCTV/CCTV1.png" group-title="央视",CCTV1
 http://z.b.bkpcp.top/m.php?id=cctv1
 #EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://ghgo.xyz/raw.githubusercontent.com/sublime2025/IPTV/main/img/CCTV/CCTV2.png" group-title="央视",CCTV2
 http://z.b.bkpcp.top/m.php?id=cctv2
@@ -88,6 +119,25 @@ http://kxrj.site:12581/665/mg9.php?id=cctv4a
 #EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://ghgo.xyz/raw.githubusercontent.com/sublime2025/IPTV/main/img/IPTV/浙江卫视.png" group-title="卫视",浙江卫视
 https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
 
+#EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://ghgo.xyz/raw.githubusercontent.com/sublime2025/IPTV/main/img/IPTV/湖南卫视.png" group-title="卫视",湖南卫视
+http://itms4.sdlk.vip:6721/hls/252/index.m3u8
+#EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://ghgo.xyz/raw.githubusercontent.com/sublime2025/IPTV/main/img/IPTV/浙江卫视.png" group-title="卫视",浙江卫视
+http://itms4.sdlk.vip:6721/hls/248/index.m3u8
+#EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://ghgo.xyz/raw.githubusercontent.com/sublime2025/IPTV/main/img/IPTV/江苏卫视.png" group-title="卫视",江苏卫视
+http://itms4.sdlk.vip:6721/hls/229/index.m3u8
+#EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://ghgo.xyz/raw.githubusercontent.com/sublime2025/IPTV/main/img/IPTV/东方卫视.png" group-title="卫视",东方卫视
+http://itms4.sdlk.vip:6721/hls/219/index.m3u8
+#EXTINF:-1 tvg-name="东南卫视" tvg-logo="https://ghgo.xyz/raw.githubusercontent.com/sublime2025/IPTV/main/img/IPTV/东南卫视.png" group-title="卫视",东南卫视
+http://itms4.sdlk.vip:6721/hls/220/index.m3u8
+#EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://ghgo.xyz/raw.githubusercontent.com/sublime2025/IPTV/main/img/IPTV/广东卫视.png" group-title="卫视",广东卫视
+http://itms4.sdlk.vip:6721/hls/222/index.m3u8
+#EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://ghgo.xyz/raw.githubusercontent.com/sublime2025/IPTV/main/img/IPTV/深圳卫视.png" group-title="卫视",深圳卫视
+http://itms4.sdlk.vip:6721/hls/242/index.m3u8
+#EXTINF:-1 tvg-name="天津卫视" tvg-logo="https://ghgo.xyz/raw.githubusercontent.com/sublime2025/IPTV/main/img/IPTV/天津卫视.png" group-title="卫视",天津卫视
+http://itms4.sdlk.vip:6721/hls/236/index.m3u8
+#EXTINF:-1 tvg-name="江西卫视" tvg-logo="https://ghgo.xyz/raw.githubusercontent.com/sublime2025/IPTV/main/img/IPTV/江西卫视.png" group-title="卫视",江西卫视
+http://itms4.sdlk.vip:6721/hls/230/index.m3u8
+
 #EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://ghgo.xyz/raw.githubusercontent.com/sublime2025/IPTV/main/img/IPTV/江苏卫视.png" group-title="卫视",江苏卫视
 http://z.b.bkpcp.top/m.php?id=jsws
 #EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://ghgo.xyz/raw.githubusercontent.com/sublime2025/IPTV/main/img/IPTV/广东卫视.png" group-title="卫视",广东卫视
@@ -138,25 +188,6 @@ https://tvbox.nat.netsite.cc:8043/proxy/240376980/240376980.m3u8
 https://tvbox.nat.netsite.cc:8043/proxy/203181175/203181175.m3u8
 #EXTINF:-1 tvg-name="安徽卫视" tvg-logo="https://ghgo.xyz/raw.githubusercontent.com/sublime2025/IPTV/main/img/IPTV/安徽卫视.png" group-title="卫视",安徽卫视
 https://tvbox.nat.netsite.cc:8043/proxy/149472807/149472807.m3u8
-
-#EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://ghgo.xyz/raw.githubusercontent.com/sublime2025/IPTV/main/img/IPTV/湖南卫视.png" group-title="卫视",湖南卫视
-http://itms4.sdlk.vip:6721/hls/252/index.m3u8
-#EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://ghgo.xyz/raw.githubusercontent.com/sublime2025/IPTV/main/img/IPTV/浙江卫视.png" group-title="卫视",浙江卫视
-http://itms4.sdlk.vip:6721/hls/248/index.m3u8
-#EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://ghgo.xyz/raw.githubusercontent.com/sublime2025/IPTV/main/img/IPTV/江苏卫视.png" group-title="卫视",江苏卫视
-http://itms4.sdlk.vip:6721/hls/229/index.m3u8
-#EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://ghgo.xyz/raw.githubusercontent.com/sublime2025/IPTV/main/img/IPTV/东方卫视.png" group-title="卫视",东方卫视
-http://itms4.sdlk.vip:6721/hls/219/index.m3u8
-#EXTINF:-1 tvg-name="东南卫视" tvg-logo="https://ghgo.xyz/raw.githubusercontent.com/sublime2025/IPTV/main/img/IPTV/东南卫视.png" group-title="卫视",东南卫视
-http://itms4.sdlk.vip:6721/hls/220/index.m3u8
-#EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://ghgo.xyz/raw.githubusercontent.com/sublime2025/IPTV/main/img/IPTV/广东卫视.png" group-title="卫视",广东卫视
-http://itms4.sdlk.vip:6721/hls/222/index.m3u8
-#EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://ghgo.xyz/raw.githubusercontent.com/sublime2025/IPTV/main/img/IPTV/深圳卫视.png" group-title="卫视",深圳卫视
-http://itms4.sdlk.vip:6721/hls/242/index.m3u8
-#EXTINF:-1 tvg-name="天津卫视" tvg-logo="https://ghgo.xyz/raw.githubusercontent.com/sublime2025/IPTV/main/img/IPTV/天津卫视.png" group-title="卫视",天津卫视
-http://itms4.sdlk.vip:6721/hls/236/index.m3u8
-#EXTINF:-1 tvg-name="江西卫视" tvg-logo="https://ghgo.xyz/raw.githubusercontent.com/sublime2025/IPTV/main/img/IPTV/江西卫视.png" group-title="卫视",江西卫视
-http://itms4.sdlk.vip:6721/hls/230/index.m3u8
 
 #EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://ghgo.xyz/raw.githubusercontent.com/sublime2025/IPTV/main/img/IPTV/东方卫视.png" group-title="卫视",东方卫视
 http://aktv.top/AKTV/live/aktv3/null/AKTV.m3u8
