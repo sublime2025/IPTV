@@ -31,10 +31,51 @@ http://114.66.63.89:35455/itv/1000000005000265012.m3u8?cdn=ystenlive
 http://114.66.63.89:35455/itv/1000000005000265013.m3u8?cdn=ystenlive
 #EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://ghgo.xyz/raw.githubusercontent.com/sublime2025/IPTV/main/img/CCTV/CCTV15.png" group-title="央视",CCTV15
 http://114.66.63.89:35455/itv/1000000005000265014.m3u8?cdn=ystenlive
-#EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://ghgo.xyz/raw.githubusercontent.com/sublime2025/IPTV/main/img/CCTV/CCTV5+.png" group-title="央视",CCTV5+
-http://114.66.63.89:35455/itv/1000000006000233002.m3u8?cdn=ystenlive
 #EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://ghgo.xyz/raw.githubusercontent.com/sublime2025/IPTV/main/img/CCTV/CCTV17.png" group-title="央视",CCTV17
 http://114.66.63.89:35455/itv/1000000005000265015.m3u8?cdn=ystenlive
+#EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://ghgo.xyz/raw.githubusercontent.com/sublime2025/IPTV/main/img/CCTV/CCTV5+.png" group-title="央视",CCTV5+
+http://114.66.63.89:35455/itv/1000000006000233002.m3u8?cdn=ystenlive
+
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://ghgo.xyz/raw.githubusercontent.com/sublime2025/IPTV/main/img/CCTV/CCTV1.png" group-title="央视",CCTV1
+CCTV1,http://kxrj.site:1258/69986/mg9.php?id=cctv1
+#EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://ghgo.xyz/raw.githubusercontent.com/sublime2025/IPTV/main/img/CCTV/CCTV2.png" group-title="央视",CCTV2
+CCTV1,http://kxrj.site:1258/69986/mg9.php?id=cctv2
+#EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://ghgo.xyz/raw.githubusercontent.com/sublime2025/IPTV/main/img/CCTV/CCTV3.png" group-title="央视",CCTV3
+CCTV1,http://kxrj.site:1258/69986/mg9.php?id=cctv3
+#EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://ghgo.xyz/raw.githubusercontent.com/sublime2025/IPTV/main/img/CCTV/CCTV4.png" group-title="央视",CCTV4
+CCTV1,http://kxrj.site:1258/69986/mg9.php?id=cctv4
+#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://ghgo.xyz/raw.githubusercontent.com/sublime2025/IPTV/main/img/CCTV/CCTV5.png" group-title="央视",CCTV5
+CCTV1,http://kxrj.site:1258/69986/mg9.php?id=cctv5
+#EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://ghgo.xyz/raw.githubusercontent.com/sublime2025/IPTV/main/img/CCTV/CCTV6.png" group-title="央视",CCTV6
+http://mobilelive-timeshift.ysp.cctv.cn/timeshift/ysp/2013693901/timeshift.m3u8?delay=0&cdn=5202
+#EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://ghgo.xyz/raw.githubusercontent.com/sublime2025/IPTV/main/img/CCTV/CCTV7.png" group-title="央视",CCTV7
+CCTV1,http://kxrj.site:1258/69986/mg9.php?id=cctv7
+#EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://ghgo.xyz/raw.githubusercontent.com/sublime2025/IPTV/main/img/CCTV/CCTV8.png" group-title="央视",CCTV8
+CCTV1,http://kxrj.site:1258/69986/mg9.php?id=cctv8
+#EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://ghgo.xyz/raw.githubusercontent.com/sublime2025/IPTV/main/img/CCTV/CCTV9.png" group-title="央视",CCTV9
+CCTV1,http://kxrj.site:1258/69986/mg9.php?id=cctv9
+#EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://ghgo.xyz/raw.githubusercontent.com/sublime2025/IPTV/main/img/CCTV/CCTV10.png" group-title="央视",CCTV10
+CCTV1,http://kxrj.site:1258/69986/mg9.php?id=cctv10
+#EXTINF:-1 tvg-name="CCTV11" tvg-logo="https://ghgo.xyz/raw.githubusercontent.com/sublime2025/IPTV/main/img/CCTV/CCTV11.png" group-title="央视",CCTV11
+CCTV1,http://kxrj.site:1258/69986/mg9.php?id=cctv11
+#EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://ghgo.xyz/raw.githubusercontent.com/sublime2025/IPTV/main/img/CCTV/CCTV12.png" group-title="央视",CCTV12
+CCTV1,http://kxrj.site:1258/69986/mg9.php?id=cctv12
+#EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://ghgo.xyz/raw.githubusercontent.com/sublime2025/IPTV/main/img/CCTV/CCTV13.png" group-title="央视",CCTV13
+CCTV1,http://kxrj.site:1258/69986/mg9.php?id=cctv13
+#EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://ghgo.xyz/raw.githubusercontent.com/sublime2025/IPTV/main/img/CCTV/CCTV14.png" group-title="央视",CCTV14
+CCTV1,http://kxrj.site:1258/69986/mg9.php?id=cctv14
+#EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://ghgo.xyz/raw.githubusercontent.com/sublime2025/IPTV/main/img/CCTV/CCTV15.png" group-title="央视",CCTV15
+CCTV1,http://kxrj.site:1258/69986/mg9.php?id=cctv15
+#EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://ghgo.xyz/raw.githubusercontent.com/sublime2025/IPTV/main/img/CCTV/CCTV16.png" group-title="央视",CCTV16
+CCTV1,http://kxrj.site:1258/69986/mg9.php?id=cctv16
+#EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://ghgo.xyz/raw.githubusercontent.com/sublime2025/IPTV/main/img/CCTV/CCTV17.png" group-title="央视",CCTV17
+CCTV1,http://kxrj.site:1258/69986/mg9.php?id=cctv17
+#EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://ghgo.xyz/raw.githubusercontent.com/sublime2025/IPTV/main/img/CCTV/CCTV5+.png" group-title="央视",CCTV5+
+CCTV1,http://kxrj.site:1258/69986/mg9.php?id=cctv5p
+#EXTINF:-1 tvg-name="CCTV4o" tvg-logo="https://ghgo.xyz/raw.githubusercontent.com/sublime2025/IPTV/main/img/CCTV/CCTV4o.png" group-title="央视",CCTV4o
+CCTV1,http://kxrj.site:1258/69986/mg9.php?id=cctv4o
+#EXTINF:-1 tvg-name="CCTV4a" tvg-logo="https://ghgo.xyz/raw.githubusercontent.com/sublime2025/IPTV/main/img/CCTV/CCTV4a.png" group-title="央视",CCTV4a
+CCTV1,http://kxrj.site:1258/69986/mg9.php?id=cctv4a
 
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://ghgo.xyz/raw.githubusercontent.com/sublime2025/IPTV/main/img/CCTV/CCTV1.png" group-title="央视",CCTV1
 http://itms4.sdlk.vip:6721/hls/200/index.m3u8
@@ -105,47 +146,6 @@ http://z.b.bkpcp.top/m.php?id=cctv5p
 http://z.b.bkpcp.top/m.php?id=cctv4o
 #EXTINF:-1 tvg-name="CCTV4a" tvg-logo="https://ghgo.xyz/raw.githubusercontent.com/sublime2025/IPTV/main/img/CCTV/CCTV4a.png" group-title="央视",CCTV4a
 http://z.b.bkpcp.top/m.php?id=cctv4a
-
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://ghgo.xyz/raw.githubusercontent.com/sublime2025/IPTV/main/img/CCTV/CCTV1.png" group-title="央视",CCTV1
-http://kxrj.site:12581/665/mg9.php?id=cctv1
-#EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://ghgo.xyz/raw.githubusercontent.com/sublime2025/IPTV/main/img/CCTV/CCTV2.png" group-title="央视",CCTV2
-http://kxrj.site:12581/665/mg9.php?id=cctv2
-#EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://ghgo.xyz/raw.githubusercontent.com/sublime2025/IPTV/main/img/CCTV/CCTV3.png" group-title="央视",CCTV3
-http://kxrj.site:12581/665/mg9.php?id=cctv3
-#EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://ghgo.xyz/raw.githubusercontent.com/sublime2025/IPTV/main/img/CCTV/CCTV4.png" group-title="央视",CCTV4
-http://kxrj.site:12581/665/mg9.php?id=cctv4
-#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://ghgo.xyz/raw.githubusercontent.com/sublime2025/IPTV/main/img/CCTV/CCTV5.png" group-title="央视",CCTV5
-http://kxrj.site:12581/665/mg9.php?id=cctv5
-#EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://ghgo.xyz/raw.githubusercontent.com/sublime2025/IPTV/main/img/CCTV/CCTV6.png" group-title="央视",CCTV6
-http://mobilelive-timeshift.ysp.cctv.cn/timeshift/ysp/2013693901/timeshift.m3u8?delay=0&cdn=5202
-#EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://ghgo.xyz/raw.githubusercontent.com/sublime2025/IPTV/main/img/CCTV/CCTV7.png" group-title="央视",CCTV7
-http://kxrj.site:12581/665/mg9.php?id=cctv7
-#EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://ghgo.xyz/raw.githubusercontent.com/sublime2025/IPTV/main/img/CCTV/CCTV8.png" group-title="央视",CCTV8
-http://kxrj.site:12581/665/mg9.php?id=cctv8
-#EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://ghgo.xyz/raw.githubusercontent.com/sublime2025/IPTV/main/img/CCTV/CCTV9.png" group-title="央视",CCTV9
-http://kxrj.site:12581/665/mg9.php?id=cctv9
-#EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://ghgo.xyz/raw.githubusercontent.com/sublime2025/IPTV/main/img/CCTV/CCTV10.png" group-title="央视",CCTV10
-http://kxrj.site:12581/665/mg9.php?id=cctv10
-#EXTINF:-1 tvg-name="CCTV11" tvg-logo="https://ghgo.xyz/raw.githubusercontent.com/sublime2025/IPTV/main/img/CCTV/CCTV11.png" group-title="央视",CCTV11
-http://kxrj.site:12581/665/mg9.php?id=cctv11
-#EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://ghgo.xyz/raw.githubusercontent.com/sublime2025/IPTV/main/img/CCTV/CCTV12.png" group-title="央视",CCTV12
-http://kxrj.site:12581/665/mg9.php?id=cctv12
-#EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://ghgo.xyz/raw.githubusercontent.com/sublime2025/IPTV/main/img/CCTV/CCTV13.png" group-title="央视",CCTV13
-http://kxrj.site:12581/665/mg9.php?id=cctv13
-#EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://ghgo.xyz/raw.githubusercontent.com/sublime2025/IPTV/main/img/CCTV/CCTV14.png" group-title="央视",CCTV14
-http://kxrj.site:12581/665/mg9.php?id=cctv14
-#EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://ghgo.xyz/raw.githubusercontent.com/sublime2025/IPTV/main/img/CCTV/CCTV15.png" group-title="央视",CCTV15
-http://kxrj.site:12581/665/mg9.php?id=cctv15
-#EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://ghgo.xyz/raw.githubusercontent.com/sublime2025/IPTV/main/img/CCTV/CCTV16.png" group-title="央视",CCTV16
-http://kxrj.site:12581/665/mg9.php?id=cctv16
-#EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://ghgo.xyz/raw.githubusercontent.com/sublime2025/IPTV/main/img/CCTV/CCTV17.png" group-title="央视",CCTV17
-http://kxrj.site:12581/665/mg9.php?id=cctv17
-#EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://ghgo.xyz/raw.githubusercontent.com/sublime2025/IPTV/main/img/CCTV/CCTV5+.png" group-title="央视",CCTV5+
-http://kxrj.site:12581/665/mg9.php?id=cctv5p
-#EXTINF:-1 tvg-name="CCTV4o" tvg-logo="https://ghgo.xyz/raw.githubusercontent.com/sublime2025/IPTV/main/img/CCTV/CCTV4o.png" group-title="央视",CCTV4o
-http://kxrj.site:12581/665/mg9.php?id=cctv4o
-#EXTINF:-1 tvg-name="CCTV4a" tvg-logo="https://ghgo.xyz/raw.githubusercontent.com/sublime2025/IPTV/main/img/CCTV/CCTV4a.png" group-title="央视",CCTV4a
-http://kxrj.site:12581/665/mg9.php?id=cctv4a
 
 █████████████████████████████████████████████████████████████████████████████████████████████████████████
 
@@ -227,14 +227,14 @@ http://aktv.top/AKTV/live/aktv3/null/AKTV.m3u8
 
 
 #EXTINF:-1 tvg-name="五大联赛" tvg-logo="https://ghgo.xyz/raw.githubusercontent.com/sublime2025/IPTV/main/img/咪咕视频.png" group-title="体育",五大联赛
-http://kxrj.site:12581/665/mg9.php?id=wdlsjd
+CCTV1,http://kxrj.site:1258/69986/mg9.php?id=wdlsjd
 
 #EXTINF:-1 tvg-name="魅力足球" tvg-logo="https://ghgo.xyz/raw.githubusercontent.com/sublime2025/IPTV/main/img/Sport/魅力足球.png" group-title="体育",魅力足球
 http://z.b.bkpcp.top/m.php?id=mlzq
 #EXTINF:-1 tvg-name="魅力足球" tvg-logo="https://ghgo.xyz/raw.githubusercontent.com/sublime2025/IPTV/main/img/Sport/魅力足球.png" group-title="体育",魅力足球
-http://kxrj.site:12581/665/mg9.php?id=mlzq
+CCTV1,http://kxrj.site:1258/69986/mg9.php?id=mlzq
 #EXTINF:-1 tvg-name="劲爆体育" tvg-logo="https://ghgo.xyz/raw.githubusercontent.com/sublime2025/IPTV/main/img/Sport/劲爆体育.png" group-title="体育",劲爆体育
-http://kxrj.site:12581/665/mg9.php?id=jbty
+CCTV1,http://kxrj.site:1258/69986/mg9.php?id=jbty
 #EXTINF:-1 tvg-name="劲爆体育" tvg-logo="https://ghgo.xyz/raw.githubusercontent.com/sublime2025/IPTV/main/img/Sport/劲爆体育.png" group-title="体育",劲爆体育
 http://z.b.bkpcp.top/m.php?id=jbty
 #EXTINF:-1 tvg-name="广东体育" tvg-logo="https://ghgo.xyz/raw.githubusercontent.com/sublime2025/IPTV/main/img/Sport/广东体育.png" group-title="体育",广东体育
