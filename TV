@@ -4,243 +4,213 @@
 █████████████████████████████████████████████████████████████████████████████████████████████████████████
 
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://ghgo.xyz/raw.githubusercontent.com/sublime2025/IPTV/main/img/CCTV/CCTV1.png" group-title="央视",CCTV1
-http://itms4.sdlk.vip:6721/hls/200/index.m3u8
+http://itms4.sdlk.vip:6721/hls/200/index.m3u8$itms
 #EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://ghgo.xyz/raw.githubusercontent.com/sublime2025/IPTV/main/img/CCTV/CCTV2.png" group-title="央视",CCTV2
-http://itms4.sdlk.vip:6721/hls/217/index.m3u8
+http://itms4.sdlk.vip:6721/hls/217/index.m3u8$itms
 #EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://ghgo.xyz/raw.githubusercontent.com/sublime2025/IPTV/main/img/CCTV/CCTV3.png" group-title="央视",CCTV3
-http://z.b.bkpcp.top/m.php?id=cctv3
+http://z.b.bkpcp.top/m.php?id=cctv3$zb
 #EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://ghgo.xyz/raw.githubusercontent.com/sublime2025/IPTV/main/img/CCTV/CCTV4.png" group-title="央视",CCTV4
-http://itms4.sdlk.vip:6721/hls/216/index.m3u8
+http://itms4.sdlk.vip:6721/hls/216/index.m3u8$itms
 #EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://ghgo.xyz/raw.githubusercontent.com/sublime2025/IPTV/main/img/CCTV/CCTV5.png" group-title="央视",CCTV5
-http://itms4.sdlk.vip:6721/hls/202/index.m3u8
+http://itms4.sdlk.vip:6721/hls/202/index.m3u8$itms
 #EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://ghgo.xyz/raw.githubusercontent.com/sublime2025/IPTV/main/img/CCTV/CCTV6.png" group-title="央视",CCTV6
-http://itms4.sdlk.vip:6721/hls/203/index.m3u8
+http://itms4.sdlk.vip:6721/hls/203/index.m3u8$itms
 #EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://ghgo.xyz/raw.githubusercontent.com/sublime2025/IPTV/main/img/CCTV/CCTV7.png" group-title="央视",CCTV7
-http://itms4.sdlk.vip:6721/hls/215/index.m3u8
+http://itms4.sdlk.vip:6721/hls/215/index.m3u8$itms
 #EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://ghgo.xyz/raw.githubusercontent.com/sublime2025/IPTV/main/img/CCTV/CCTV8.png" group-title="央视",CCTV8
-http://itms4.sdlk.vip:6721/hls/204/index.m3u8
+http://itms4.sdlk.vip:6721/hls/204/index.m3u8$itms
 #EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://ghgo.xyz/raw.githubusercontent.com/sublime2025/IPTV/main/img/CCTV/CCTV9.png" group-title="央视",CCTV9
-http://z.b.bkpcp.top/m.php?id=cctv9
+http://z.b.bkpcp.top/m.php?id=cctv9$zb
 #EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://ghgo.xyz/raw.githubusercontent.com/sublime2025/IPTV/main/img/CCTV/CCTV10.png" group-title="央视",CCTV10
-http://itms4.sdlk.vip:6721/hls/213/index.m3u8
+http://itms4.sdlk.vip:6721/hls/213/index.m3u8$itms
 #EXTINF:-1 tvg-name="CCTV11" tvg-logo="https://ghgo.xyz/raw.githubusercontent.com/sublime2025/IPTV/main/img/CCTV/CCTV11.png" group-title="央视",CCTV11
-http://itms4.sdlk.vip:6721/hls/205/index.m3u8
+http://itms4.sdlk.vip:6721/hls/205/index.m3u8$itms
 #EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://ghgo.xyz/raw.githubusercontent.com/sublime2025/IPTV/main/img/CCTV/CCTV12.png" group-title="央视",CCTV12
-http://itms4.sdlk.vip:6721/hls/212/index.m3u8
+http://itms4.sdlk.vip:6721/hls/212/index.m3u8$itms
 #EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://ghgo.xyz/raw.githubusercontent.com/sublime2025/IPTV/main/img/CCTV/CCTV13.png" group-title="央视",CCTV13
-http://itms4.sdlk.vip:6721/hls/206/index.m3u8
+http://itms4.sdlk.vip:6721/hls/206/index.m3u8$itms
 #EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://ghgo.xyz/raw.githubusercontent.com/sublime2025/IPTV/main/img/CCTV/CCTV14.png" group-title="央视",CCTV14
-http://itms4.sdlk.vip:6721/hls/211/index.m3u8
+http://itms4.sdlk.vip:6721/hls/211/index.m3u8$itms
 #EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://ghgo.xyz/raw.githubusercontent.com/sublime2025/IPTV/main/img/CCTV/CCTV15.png" group-title="央视",CCTV15
-http://itms4.sdlk.vip:6721/hls/207/index.m3u8
+http://itms4.sdlk.vip:6721/hls/207/index.m3u8$itms
 
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://ghgo.xyz/raw.githubusercontent.com/sublime2025/IPTV/main/img/CCTV/CCTV1.png" group-title="央视",CCTV1
-http://z.b.bkpcp.top/m.php?id=cctv1
+http://z.b.bkpcp.top/m.php?id=cctv1$zb
 #EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://ghgo.xyz/raw.githubusercontent.com/sublime2025/IPTV/main/img/CCTV/CCTV2.png" group-title="央视",CCTV2
-http://z.b.bkpcp.top/m.php?id=cctv2
+http://z.b.bkpcp.top/m.php?id=cctv2$zb
 #EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://ghgo.xyz/raw.githubusercontent.com/sublime2025/IPTV/main/img/CCTV/CCTV3.png" group-title="央视",CCTV3
-http://z.b.bkpcp.top/m.php?id=cctv3
+http://z.b.bkpcp.top/m.php?id=cctv3$zb
 #EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://ghgo.xyz/raw.githubusercontent.com/sublime2025/IPTV/main/img/CCTV/CCTV4.png" group-title="央视",CCTV4
-http://z.b.bkpcp.top/m.php?id=cctv4
+http://z.b.bkpcp.top/m.php?id=cctv4$zb
 #EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://ghgo.xyz/raw.githubusercontent.com/sublime2025/IPTV/main/img/CCTV/CCTV5.png" group-title="央视",CCTV5
-http://z.b.bkpcp.top/m.php?id=cctv5
+http://z.b.bkpcp.top/m.php?id=cctv5$zb
 #EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://ghgo.xyz/raw.githubusercontent.com/sublime2025/IPTV/main/img/CCTV/CCTV6.png" group-title="央视",CCTV6
-http://z.b.bkpcp.top/m.php?id=cctv6
+http://z.b.bkpcp.top/m.php?id=cctv6$zb
 #EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://ghgo.xyz/raw.githubusercontent.com/sublime2025/IPTV/main/img/CCTV/CCTV7.png" group-title="央视",CCTV7
-http://z.b.bkpcp.top/m.php?id=cctv7
+http://z.b.bkpcp.top/m.php?id=cctv7$zb
 #EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://ghgo.xyz/raw.githubusercontent.com/sublime2025/IPTV/main/img/CCTV/CCTV8.png" group-title="央视",CCTV8
-http://z.b.bkpcp.top/m.php?id=cctv8
+http://z.b.bkpcp.top/m.php?id=cctv8$zb
 #EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://ghgo.xyz/raw.githubusercontent.com/sublime2025/IPTV/main/img/CCTV/CCTV9.png" group-title="央视",CCTV9
-http://z.b.bkpcp.top/m.php?id=cctv9
+http://z.b.bkpcp.top/m.php?id=cctv9$zb
 #EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://ghgo.xyz/raw.githubusercontent.com/sublime2025/IPTV/main/img/CCTV/CCTV10.png" group-title="央视",CCTV10
-http://z.b.bkpcp.top/m.php?id=cctv10
+http://z.b.bkpcp.top/m.php?id=cctv10$zb
 #EXTINF:-1 tvg-name="CCTV11" tvg-logo="https://ghgo.xyz/raw.githubusercontent.com/sublime2025/IPTV/main/img/CCTV/CCTV11.png" group-title="央视",CCTV11
-http://z.b.bkpcp.top/m.php?id=cctv11
+http://z.b.bkpcp.top/m.php?id=cctv11$zb
 #EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://ghgo.xyz/raw.githubusercontent.com/sublime2025/IPTV/main/img/CCTV/CCTV12.png" group-title="央视",CCTV12
-http://z.b.bkpcp.top/m.php?id=cctv12
+http://z.b.bkpcp.top/m.php?id=cctv12$zb
 #EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://ghgo.xyz/raw.githubusercontent.com/sublime2025/IPTV/main/img/CCTV/CCTV13.png" group-title="央视",CCTV13
-http://z.b.bkpcp.top/m.php?id=cctv13
+http://z.b.bkpcp.top/m.php?id=cctv13$zb
 #EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://ghgo.xyz/raw.githubusercontent.com/sublime2025/IPTV/main/img/CCTV/CCTV14.png" group-title="央视",CCTV14
-http://z.b.bkpcp.top/m.php?id=cctv14
+http://z.b.bkpcp.top/m.php?id=cctv14$zb
 #EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://ghgo.xyz/raw.githubusercontent.com/sublime2025/IPTV/main/img/CCTV/CCTV15.png" group-title="央视",CCTV15
-http://z.b.bkpcp.top/m.php?id=cctv15
+http://z.b.bkpcp.top/m.php?id=cctv15$zb
 #EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://ghgo.xyz/raw.githubusercontent.com/sublime2025/IPTV/main/img/CCTV/CCTV16.png" group-title="央视",CCTV16
-http://z.b.bkpcp.top/m.php?id=cctv16
+http://z.b.bkpcp.top/m.php?id=cctv16$zb
 #EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://ghgo.xyz/raw.githubusercontent.com/sublime2025/IPTV/main/img/CCTV/CCTV5+.png" group-title="央视",CCTV5+
-http://z.b.bkpcp.top/m.php?id=cctv5p
+http://z.b.bkpcp.top/m.php?id=cctv5p$zb
 #EXTINF:-1 tvg-name="CCTV4o" tvg-logo="https://ghgo.xyz/raw.githubusercontent.com/sublime2025/IPTV/main/img/CCTV/CCTV4o.png" group-title="央视",CCTV4o
-http://z.b.bkpcp.top/m.php?id=cctv4o
+http://z.b.bkpcp.top/m.php?id=cctv4o$zb
 #EXTINF:-1 tvg-name="CCTV4a" tvg-logo="https://ghgo.xyz/raw.githubusercontent.com/sublime2025/IPTV/main/img/CCTV/CCTV4a.png" group-title="央视",CCTV4a
-http://z.b.bkpcp.top/m.php?id=cctv4a
+http://z.b.bkpcp.top/m.php?id=cctv4a$zb
 
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://ghgo.xyz/raw.githubusercontent.com/sublime2025/IPTV/main/img/CCTV/CCTV1.png" group-title="央视",CCTV1
-http://114.66.63.89:35455/itv/1000000005000265001.m3u8?cdn=ystenlive
+http://114.66.63.89:35455/itv/1000000005000265001.m3u8?cdn=ystenlive$itv
 #EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://ghgo.xyz/raw.githubusercontent.com/sublime2025/IPTV/main/img/CCTV/CCTV2.png" group-title="央视",CCTV2
-http://114.66.63.89:35455/itv/1000000001000023315.m3u8?cdn=ystenlive
+http://114.66.63.89:35455/itv/1000000001000023315.m3u8?cdn=ystenlive$itv
 #EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://ghgo.xyz/raw.githubusercontent.com/sublime2025/IPTV/main/img/CCTV/CCTV3.png" group-title="央视",CCTV3
-http://114.66.63.89:35455/itv/1000000005000265003.m3u8?cdn=ystenlive
+http://114.66.63.89:35455/itv/1000000005000265003.m3u8?cdn=ystenlive$itv
 #EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://ghgo.xyz/raw.githubusercontent.com/sublime2025/IPTV/main/img/CCTV/CCTV4.png" group-title="央视",CCTV4
-http://114.66.63.89:35455/itv/1000000005000265004.m3u8?cdn=ystenlive
+http://114.66.63.89:35455/itv/1000000005000265004.m3u8?cdn=ystenlive$itv
 #EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://ghgo.xyz/raw.githubusercontent.com/sublime2025/IPTV/main/img/CCTV/CCTV5.png" group-title="央视",CCTV5
-http://114.66.63.89:35455/itv/1000000005000265005.m3u8?cdn=ystenlive
+http://114.66.63.89:35455/itv/1000000005000265005.m3u8?cdn=ystenlive$itv
 #EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://ghgo.xyz/raw.githubusercontent.com/sublime2025/IPTV/main/img/CCTV/CCTV6.png" group-title="央视",CCTV6
-http://114.66.63.89:35455/itv/1000000005000265006.m3u8?cdn=ystenlive
+http://114.66.63.89:35455/itv/1000000005000265006.m3u8?cdn=ystenlive$itv
 #EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://ghgo.xyz/raw.githubusercontent.com/sublime2025/IPTV/main/img/CCTV/CCTV7.png" group-title="央视",CCTV7
-http://114.66.63.89:35455/itv/1000000005000265007.m3u8?cdn=ystenlive
+http://114.66.63.89:35455/itv/1000000005000265007.m3u8?cdn=ystenlive$itv
 #EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://ghgo.xyz/raw.githubusercontent.com/sublime2025/IPTV/main/img/CCTV/CCTV8.png" group-title="央视",CCTV8
-http://114.66.63.89:35455/itv/1000000005000265008.m3u8?cdn=ystenlive
+http://114.66.63.89:35455/itv/1000000005000265008.m3u8?cdn=ystenlive$itv
 #EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://ghgo.xyz/raw.githubusercontent.com/sublime2025/IPTV/main/img/CCTV/CCTV9.png" group-title="央视",CCTV9
-http://114.66.63.89:35455/itv/1000000005000265009.m3u8?cdn=ystenlive
+http://114.66.63.89:35455/itv/1000000005000265009.m3u8?cdn=ystenlive$itv
 #EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://ghgo.xyz/raw.githubusercontent.com/sublime2025/IPTV/main/img/CCTV/CCTV10.png" group-title="央视",CCTV10
-http://114.66.63.89:35455/itv/1000000005000265010.m3u8?cdn=ystenlive
+http://114.66.63.89:35455/itv/1000000005000265010.m3u8?cdn=ystenlive$itv
 #EXTINF:-1 tvg-name="CCTV11" tvg-logo="https://ghgo.xyz/raw.githubusercontent.com/sublime2025/IPTV/main/img/CCTV/CCTV11.png" group-title="央视",CCTV11
-http://114.66.63.89:35455/itv/1000000005000265011.m3u8?cdn=ystenlive
+http://114.66.63.89:35455/itv/1000000005000265011.m3u8?cdn=ystenlive$itv
 #EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://ghgo.xyz/raw.githubusercontent.com/sublime2025/IPTV/main/img/CCTV/CCTV12.png" group-title="央视",CCTV12
-http://114.66.63.89:35455/itv/1000000005000265012.m3u8?cdn=ystenlive
+http://114.66.63.89:35455/itv/1000000005000265012.m3u8?cdn=ystenlive$itv
 #EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://ghgo.xyz/raw.githubusercontent.com/sublime2025/IPTV/main/img/CCTV/CCTV14.png" group-title="央视",CCTV14
-http://114.66.63.89:35455/itv/1000000005000265013.m3u8?cdn=ystenlive
+http://114.66.63.89:35455/itv/1000000005000265013.m3u8?cdn=ystenlive$itv
 #EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://ghgo.xyz/raw.githubusercontent.com/sublime2025/IPTV/main/img/CCTV/CCTV15.png" group-title="央视",CCTV15
-http://114.66.63.89:35455/itv/1000000005000265014.m3u8?cdn=ystenlive
+http://114.66.63.89:35455/itv/1000000005000265014.m3u8?cdn=ystenlive$itv
 #EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://ghgo.xyz/raw.githubusercontent.com/sublime2025/IPTV/main/img/CCTV/CCTV17.png" group-title="央视",CCTV17
-http://114.66.63.89:35455/itv/1000000005000265015.m3u8?cdn=ystenlive
+http://114.66.63.89:35455/itv/1000000005000265015.m3u8?cdn=ystenlive$itv
 #EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://ghgo.xyz/raw.githubusercontent.com/sublime2025/IPTV/main/img/CCTV/CCTV5+.png" group-title="央视",CCTV5+
-http://114.66.63.89:35455/itv/1000000006000233002.m3u8?cdn=ystenlive
+http://114.66.63.89:35455/itv/1000000006000233002.m3u8?cdn=ystenlive$itv
 
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://ghgo.xyz/raw.githubusercontent.com/sublime2025/IPTV/main/img/CCTV/CCTV1.png" group-title="央视",CCTV1
-CCTV1,http://kxrj.site:1258/69986/mg9.php?id=cctv1
+CCTV1,http://kxrj.site:1258/69986/mg9.php?id=cctv1$kxrj
 #EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://ghgo.xyz/raw.githubusercontent.com/sublime2025/IPTV/main/img/CCTV/CCTV2.png" group-title="央视",CCTV2
-CCTV1,http://kxrj.site:1258/69986/mg9.php?id=cctv2
+CCTV1,http://kxrj.site:1258/69986/mg9.php?id=cctv2$kxrj
 #EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://ghgo.xyz/raw.githubusercontent.com/sublime2025/IPTV/main/img/CCTV/CCTV3.png" group-title="央视",CCTV3
-CCTV1,http://kxrj.site:1258/69986/mg9.php?id=cctv3
+CCTV1,http://kxrj.site:1258/69986/mg9.php?id=cctv3$kxrj
 #EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://ghgo.xyz/raw.githubusercontent.com/sublime2025/IPTV/main/img/CCTV/CCTV4.png" group-title="央视",CCTV4
-CCTV1,http://kxrj.site:1258/69986/mg9.php?id=cctv4
+CCTV1,http://kxrj.site:1258/69986/mg9.php?id=cctv4$kxrj
 #EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://ghgo.xyz/raw.githubusercontent.com/sublime2025/IPTV/main/img/CCTV/CCTV5.png" group-title="央视",CCTV5
-CCTV1,http://kxrj.site:1258/69986/mg9.php?id=cctv5
+CCTV1,http://kxrj.site:1258/69986/mg9.php?id=cctv5$kxrj
 #EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://ghgo.xyz/raw.githubusercontent.com/sublime2025/IPTV/main/img/CCTV/CCTV6.png" group-title="央视",CCTV6
-http://mobilelive-timeshift.ysp.cctv.cn/timeshift/ysp/2013693901/timeshift.m3u8?delay=0&cdn=5202
+http://mobilelive-timeshift.ysp.cctv.cn/timeshift/ysp/2013693901/timeshift.m3u8?delay=0&cdn=5202$kxrj
 #EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://ghgo.xyz/raw.githubusercontent.com/sublime2025/IPTV/main/img/CCTV/CCTV7.png" group-title="央视",CCTV7
-CCTV1,http://kxrj.site:1258/69986/mg9.php?id=cctv7
+CCTV1,http://kxrj.site:1258/69986/mg9.php?id=cctv7$kxrj
 #EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://ghgo.xyz/raw.githubusercontent.com/sublime2025/IPTV/main/img/CCTV/CCTV8.png" group-title="央视",CCTV8
-CCTV1,http://kxrj.site:1258/69986/mg9.php?id=cctv8
+CCTV1,http://kxrj.site:1258/69986/mg9.php?id=cctv8$kxrj
 #EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://ghgo.xyz/raw.githubusercontent.com/sublime2025/IPTV/main/img/CCTV/CCTV9.png" group-title="央视",CCTV9
-CCTV1,http://kxrj.site:1258/69986/mg9.php?id=cctv9
+CCTV1,http://kxrj.site:1258/69986/mg9.php?id=cctv9$kxrj
 #EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://ghgo.xyz/raw.githubusercontent.com/sublime2025/IPTV/main/img/CCTV/CCTV10.png" group-title="央视",CCTV10
-CCTV1,http://kxrj.site:1258/69986/mg9.php?id=cctv10
+CCTV1,http://kxrj.site:1258/69986/mg9.php?id=cctv10$kxrj
 #EXTINF:-1 tvg-name="CCTV11" tvg-logo="https://ghgo.xyz/raw.githubusercontent.com/sublime2025/IPTV/main/img/CCTV/CCTV11.png" group-title="央视",CCTV11
-CCTV1,http://kxrj.site:1258/69986/mg9.php?id=cctv11
+CCTV1,http://kxrj.site:1258/69986/mg9.php?id=cctv11$kxrj
 #EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://ghgo.xyz/raw.githubusercontent.com/sublime2025/IPTV/main/img/CCTV/CCTV12.png" group-title="央视",CCTV12
-CCTV1,http://kxrj.site:1258/69986/mg9.php?id=cctv12
+CCTV1,http://kxrj.site:1258/69986/mg9.php?id=cctv12$kxrj
 #EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://ghgo.xyz/raw.githubusercontent.com/sublime2025/IPTV/main/img/CCTV/CCTV13.png" group-title="央视",CCTV13
-CCTV1,http://kxrj.site:1258/69986/mg9.php?id=cctv13
+CCTV1,http://kxrj.site:1258/69986/mg9.php?id=cctv13$kxrj
 #EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://ghgo.xyz/raw.githubusercontent.com/sublime2025/IPTV/main/img/CCTV/CCTV14.png" group-title="央视",CCTV14
-CCTV1,http://kxrj.site:1258/69986/mg9.php?id=cctv14
+CCTV1,http://kxrj.site:1258/69986/mg9.php?id=cctv14$kxrj
 #EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://ghgo.xyz/raw.githubusercontent.com/sublime2025/IPTV/main/img/CCTV/CCTV15.png" group-title="央视",CCTV15
-CCTV1,http://kxrj.site:1258/69986/mg9.php?id=cctv15
+CCTV1,http://kxrj.site:1258/69986/mg9.php?id=cctv15$kxrj
 #EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://ghgo.xyz/raw.githubusercontent.com/sublime2025/IPTV/main/img/CCTV/CCTV16.png" group-title="央视",CCTV16
-CCTV1,http://kxrj.site:1258/69986/mg9.php?id=cctv16
+CCTV1,http://kxrj.site:1258/69986/mg9.php?id=cctv16$kxrj
 #EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://ghgo.xyz/raw.githubusercontent.com/sublime2025/IPTV/main/img/CCTV/CCTV17.png" group-title="央视",CCTV17
-CCTV1,http://kxrj.site:1258/69986/mg9.php?id=cctv17
+CCTV1,http://kxrj.site:1258/69986/mg9.php?id=cctv17$kxrj
 #EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://ghgo.xyz/raw.githubusercontent.com/sublime2025/IPTV/main/img/CCTV/CCTV5+.png" group-title="央视",CCTV5+
-CCTV1,http://kxrj.site:1258/69986/mg9.php?id=cctv5p
+CCTV1,http://kxrj.site:1258/69986/mg9.php?id=cctv5p$kxrj
 #EXTINF:-1 tvg-name="CCTV4o" tvg-logo="https://ghgo.xyz/raw.githubusercontent.com/sublime2025/IPTV/main/img/CCTV/CCTV4o.png" group-title="央视",CCTV4o
-CCTV1,http://kxrj.site:1258/69986/mg9.php?id=cctv4o
+CCTV1,http://kxrj.site:1258/69986/mg9.php?id=cctv4o$kxrj
 #EXTINF:-1 tvg-name="CCTV4a" tvg-logo="https://ghgo.xyz/raw.githubusercontent.com/sublime2025/IPTV/main/img/CCTV/CCTV4a.png" group-title="央视",CCTV4a
-CCTV1,http://kxrj.site:1258/69986/mg9.php?id=cctv4a
+CCTV1,http://kxrj.site:1258/69986/mg9.php?id=cctv4a$kxrj
 
 █████████████████████████████████████████████████████████████████████████████████████████████████████████
 
 #EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://ghgo.xyz/raw.githubusercontent.com/sublime2025/IPTV/main/img/IPTV/浙江卫视.png" group-title="卫视",浙江卫视
-https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
+https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8$ali
 
 #EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://ghgo.xyz/raw.githubusercontent.com/sublime2025/IPTV/main/img/IPTV/湖南卫视.png" group-title="卫视",湖南卫视
-http://itms4.sdlk.vip:6721/hls/252/index.m3u8
+http://itms4.sdlk.vip:6721/hls/252/index.m3u8$itms
 #EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://ghgo.xyz/raw.githubusercontent.com/sublime2025/IPTV/main/img/IPTV/浙江卫视.png" group-title="卫视",浙江卫视
-http://itms4.sdlk.vip:6721/hls/248/index.m3u8
+http://itms4.sdlk.vip:6721/hls/248/index.m3u8$itms
 #EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://ghgo.xyz/raw.githubusercontent.com/sublime2025/IPTV/main/img/IPTV/江苏卫视.png" group-title="卫视",江苏卫视
-http://itms4.sdlk.vip:6721/hls/229/index.m3u8
+http://itms4.sdlk.vip:6721/hls/229/index.m3u8$itms
 #EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://ghgo.xyz/raw.githubusercontent.com/sublime2025/IPTV/main/img/IPTV/东方卫视.png" group-title="卫视",东方卫视
-http://itms4.sdlk.vip:6721/hls/219/index.m3u8
+http://itms4.sdlk.vip:6721/hls/219/index.m3u8$itms
 #EXTINF:-1 tvg-name="东南卫视" tvg-logo="https://ghgo.xyz/raw.githubusercontent.com/sublime2025/IPTV/main/img/IPTV/东南卫视.png" group-title="卫视",东南卫视
-http://itms4.sdlk.vip:6721/hls/220/index.m3u8
+http://itms4.sdlk.vip:6721/hls/220/index.m3u8$itms
 #EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://ghgo.xyz/raw.githubusercontent.com/sublime2025/IPTV/main/img/IPTV/广东卫视.png" group-title="卫视",广东卫视
-http://itms4.sdlk.vip:6721/hls/222/index.m3u8
+http://itms4.sdlk.vip:6721/hls/222/index.m3u8$itms
 #EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://ghgo.xyz/raw.githubusercontent.com/sublime2025/IPTV/main/img/IPTV/深圳卫视.png" group-title="卫视",深圳卫视
-http://itms4.sdlk.vip:6721/hls/242/index.m3u8
+http://itms4.sdlk.vip:6721/hls/242/index.m3u8$itms
 #EXTINF:-1 tvg-name="天津卫视" tvg-logo="https://ghgo.xyz/raw.githubusercontent.com/sublime2025/IPTV/main/img/IPTV/天津卫视.png" group-title="卫视",天津卫视
-http://itms4.sdlk.vip:6721/hls/236/index.m3u8
+http://itms4.sdlk.vip:6721/hls/236/index.m3u8$itms
 #EXTINF:-1 tvg-name="江西卫视" tvg-logo="https://ghgo.xyz/raw.githubusercontent.com/sublime2025/IPTV/main/img/IPTV/江西卫视.png" group-title="卫视",江西卫视
-http://itms4.sdlk.vip:6721/hls/230/index.m3u8
+http://itms4.sdlk.vip:6721/hls/230/index.m3u8$itms
 
 #EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://ghgo.xyz/raw.githubusercontent.com/sublime2025/IPTV/main/img/IPTV/湖南卫视.png" group-title="卫视",湖南卫视
-http://114.66.63.89:35455/itv/1000000005000265024.m3u8?cdn=ystenlive
+http://114.66.63.89:35455/itv/1000000005000265024.m3u8?cdn=ystenlive$itv
 #EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://ghgo.xyz/raw.githubusercontent.com/sublime2025/IPTV/main/img/IPTV/浙江卫视.png" group-title="卫视",浙江卫视
-http://114.66.63.89:35455/itv/1000000005000265031.m3u8?cdn=ystenlive
+http://114.66.63.89:35455/itv/1000000005000265031.m3u8?cdn=ystenlive$itv
 #EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://ghgo.xyz/raw.githubusercontent.com/sublime2025/IPTV/main/img/IPTV/江苏卫视.png" group-title="卫视",江苏卫视
-http://114.66.63.89:35455/itv/1000000005000265030.m3u8?cdn=ystenlive
+http://114.66.63.89:35455/itv/1000000005000265030.m3u8?cdn=ystenlive$itv
 #EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://ghgo.xyz/raw.githubusercontent.com/sublime2025/IPTV/main/img/IPTV/东方卫视.png" group-title="卫视",东方卫视
-http://114.66.63.89:35455/itv/1000000005000265018.m3u8?cdn=ystenlive
+http://114.66.63.89:35455/itv/1000000005000265018.m3u8?cdn=ystenlive$itv
 #EXTINF:-1 tvg-name="东南卫视" tvg-logo="https://ghgo.xyz/raw.githubusercontent.com/sublime2025/IPTV/main/img/IPTV/东南卫视.png" group-title="卫视",东南卫视
-http://114.66.63.89:35455/itv/1000000005000265033.m3u8?cdn=ystenlive
+http://114.66.63.89:35455/itv/1000000005000265033.m3u8?cdn=ystenlive$itv
 #EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://ghgo.xyz/raw.githubusercontent.com/sublime2025/IPTV/main/img/IPTV/广东卫视.png" group-title="卫视",广东卫视
-http://114.66.63.89:35455/itv/1000000005000265034.m3u8?cdn=ystenlive
+http://114.66.63.89:35455/itv/1000000005000265034.m3u8?cdn=ystenlive$itv
 #EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://ghgo.xyz/raw.githubusercontent.com/sublime2025/IPTV/main/img/IPTV/深圳卫视.png" group-title="卫视",深圳卫视
-http://114.66.63.89:35455/itv/1000000005000265028.m3u8?cdn=ystenlive
+http://114.66.63.89:35455/itv/1000000005000265028.m3u8?cdn=ystenlive$itv
 #EXTINF:-1 tvg-name="天津卫视" tvg-logo="https://ghgo.xyz/raw.githubusercontent.com/sublime2025/IPTV/main/img/IPTV/天津卫视.png" group-title="卫视",天津卫视
-http://114.66.63.89:35455/itv/1000000005000265026.m3u8?cdn=ystenlive
+http://114.66.63.89:35455/itv/1000000005000265026.m3u8?cdn=ystenlive$itv
 #EXTINF:-1 tvg-name="江西卫视" tvg-logo="https://ghgo.xyz/raw.githubusercontent.com/sublime2025/IPTV/main/img/IPTV/江西卫视.png" group-title="卫视",江西卫视
-http://114.66.63.89:35455/itv/1000000005000265025.m3u8?cdn=ystenlive
+http://114.66.63.89:35455/itv/1000000005000265025.m3u8?cdn=ystenlive$itv
 
 #EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://ghgo.xyz/raw.githubusercontent.com/sublime2025/IPTV/main/img/IPTV/江苏卫视.png" group-title="卫视",江苏卫视
-http://z.b.bkpcp.top/m.php?id=jsws
+http://z.b.bkpcp.top/m.php?id=jsws$zb
 #EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://ghgo.xyz/raw.githubusercontent.com/sublime2025/IPTV/main/img/IPTV/广东卫视.png" group-title="卫视",广东卫视
-http://z.b.bkpcp.top/m.php?id=gdws
+http://z.b.bkpcp.top/m.php?id=gdws$zb
 #EXTINF:-1 tvg-name="江西卫视" tvg-logo="https://ghgo.xyz/raw.githubusercontent.com/sublime2025/IPTV/main/img/IPTV/江西卫视.png" group-title="卫视",江西卫视
-http://z.b.bkpcp.top/m.php?id=jxws
-
-#EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://ghgo.xyz/raw.githubusercontent.com/sublime2025/IPTV/main/img/IPTV/湖南卫视.png" group-title="卫视",湖南卫视
-https://tvbox.nat.netsite.cc:8043/proxy/480409838/480409838.m3u8
-#EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://ghgo.xyz/raw.githubusercontent.com/sublime2025/IPTV/main/img/IPTV/浙江卫视.png" group-title="卫视",浙江卫视
-https://tvbox.nat.netsite.cc:8043/proxy/2059640241/2059640241.m3u8
-#EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://ghgo.xyz/raw.githubusercontent.com/sublime2025/IPTV/main/img/IPTV/浙江卫视.png" group-title="卫视",浙江卫视
-https://tvbox.nat.netsite.cc:8043/proxy/257951448/257951448.m3u8
-#EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://ghgo.xyz/raw.githubusercontent.com/sublime2025/IPTV/main/img/IPTV/江苏卫视.png" group-title="卫视",江苏卫视
-https://tvbox.nat.netsite.cc:8043/proxy/256947203/256947203.m3u8
-#EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://ghgo.xyz/raw.githubusercontent.com/sublime2025/IPTV/main/img/IPTV/东方卫视.png" group-title="卫视",东方卫视
-https://tvbox.nat.netsite.cc:8043/proxy/694881013/694881013.m3u8
-#EXTINF:-1 tvg-name="东南卫视" tvg-logo="https://ghgo.xyz/raw.githubusercontent.com/sublime2025/IPTV/main/img/IPTV/东南卫视.png" group-title="卫视",东南卫视
-https://tvbox.nat.netsite.cc:8043/proxy/698479958/698479958.m3u8
-#EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://ghgo.xyz/raw.githubusercontent.com/sublime2025/IPTV/main/img/IPTV/广东卫视.png" group-title="卫视",广东卫视
-https://tvbox.nat.netsite.cc:8043/proxy/573869971/573869971.m3u8
-#EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://ghgo.xyz/raw.githubusercontent.com/sublime2025/IPTV/main/img/IPTV/深圳卫视.png" group-title="卫视",深圳卫视
-https://tvbox.nat.netsite.cc:8043/proxy/457534194/457534194.m3u8
-#EXTINF:-1 tvg-name="天津卫视" tvg-logo="https://ghgo.xyz/raw.githubusercontent.com/sublime2025/IPTV/main/img/IPTV/天津卫视.png" group-title="卫视",天津卫视
-https://tvbox.nat.netsite.cc:8043/proxy/240376980/240376980.m3u8
-#EXTINF:-1 tvg-name="江西卫视" tvg-logo="https://ghgo.xyz/raw.githubusercontent.com/sublime2025/IPTV/main/img/IPTV/江西卫视.png" group-title="卫视",江西卫视
-https://tvbox.nat.netsite.cc:8043/proxy/203181175/203181175.m3u8
-#EXTINF:-1 tvg-name="安徽卫视" tvg-logo="https://ghgo.xyz/raw.githubusercontent.com/sublime2025/IPTV/main/img/IPTV/安徽卫视.png" group-title="卫视",安徽卫视
-https://tvbox.nat.netsite.cc:8043/proxy/149472807/149472807.m3u8
+http://z.b.bkpcp.top/m.php?id=jxws$zb
 
 #EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://ghgo.xyz/raw.githubusercontent.com/sublime2025/IPTV/main/img/IPTV/东方卫视.png" group-title="卫视",东方卫视
-http://aktv.top/AKTV/live/aktv3/null/AKTV.m3u8
+http://aktv.top/AKTV/live/aktv3/null/AKTV.m3u8$AKTV
 
 █████████████████████████████████████████████████████████████████████████████████████████████████████████
 
-
-#EXTINF:-1 tvg-name="五大联赛" tvg-logo="https://ghgo.xyz/raw.githubusercontent.com/sublime2025/IPTV/main/img/咪咕视频.png" group-title="体育",五大联赛
-CCTV1,http://kxrj.site:1258/69986/mg9.php?id=wdlsjd
-
 #EXTINF:-1 tvg-name="魅力足球" tvg-logo="https://ghgo.xyz/raw.githubusercontent.com/sublime2025/IPTV/main/img/Sport/魅力足球.png" group-title="体育",魅力足球
-http://z.b.bkpcp.top/m.php?id=mlzq
-#EXTINF:-1 tvg-name="魅力足球" tvg-logo="https://ghgo.xyz/raw.githubusercontent.com/sublime2025/IPTV/main/img/Sport/魅力足球.png" group-title="体育",魅力足球
-CCTV1,http://kxrj.site:1258/69986/mg9.php?id=mlzq
+http://z.b.bkpcp.top/m.php?id=mlzq$zb
 #EXTINF:-1 tvg-name="劲爆体育" tvg-logo="https://ghgo.xyz/raw.githubusercontent.com/sublime2025/IPTV/main/img/Sport/劲爆体育.png" group-title="体育",劲爆体育
-CCTV1,http://kxrj.site:1258/69986/mg9.php?id=jbty
-#EXTINF:-1 tvg-name="劲爆体育" tvg-logo="https://ghgo.xyz/raw.githubusercontent.com/sublime2025/IPTV/main/img/Sport/劲爆体育.png" group-title="体育",劲爆体育
-http://z.b.bkpcp.top/m.php?id=jbty
-#EXTINF:-1 tvg-name="广东体育" tvg-logo="https://ghgo.xyz/raw.githubusercontent.com/sublime2025/IPTV/main/img/Sport/广东体育.png" group-title="体育",广东体育
-http://14.212.185.71:9901/tsfile/live/1003_1.m3u8
+http://z.b.bkpcp.top/m.php?id=jbty$zb
+
 #EXTINF:-1 tvg-name="广东体育" tvg-logo="https://ghgo.xyz/raw.githubusercontent.com/sublime2025/IPTV/main/img/Sport/广东体育.png" group-title="体育",广东体育
 http://183.3.134.56:9901/tsfile/live/0142_1.m3u8
+#EXTINF:-1 tvg-name="广东体育" tvg-logo="https://ghgo.xyz/raw.githubusercontent.com/sublime2025/IPTV/main/img/Sport/广东体育.png" group-title="体育",广东体育
+http://14.212.185.71:9901/tsfile/live/1003_1.m3u8
 
 #EXTINF:-1 tvg-name="纬来体育" tvg-logo="https://ghgo.xyz/raw.githubusercontent.com/sublime2025/IPTV/main/img/Sport/纬来体育.png" group-title="体育",纬来体育
 rtmp://f13h.mine.nu/sat/tv721
@@ -509,13 +479,13 @@ http://aktv.top/AKTV/live/aktv/null-22/AKTV.m3u8$AKTV
 http://aktv.top/AKTV/live/aktv/null-7/AKTV.m3u8$AKTV
 
 #EXTINF:-1 tvg-name="靖天电影" tvg-logo="https://ghgo.xyz/raw.githubusercontent.com/sublime2025/IPTV/main/img/Movie/靖天电影.png" group-title="影视",靖天电影
-http://47.239.245.207:5050/litv/4gtv-4gtv061
+http://47.239.245.207:5050/litv/4gtv-4gtv061$Proxy
 #EXTINF:-1 tvg-name="龙华电影" tvg-logo="https://ghgo.xyz/raw.githubusercontent.com/sublime2025/IPTV/main/img/Movie/龙华电影.png" group-title="影视",龙华电影
-http://47.239.245.207:5050/litv/litv-longturn03
+http://47.239.245.207:5050/litv/litv-longturn03$Proxy
 #EXTINF:-1 tvg-name="龙华日韩" tvg-logo="https://ghgo.xyz/raw.githubusercontent.com/sublime2025/IPTV/main/img/TVB/龙华日韩.png" group-title="影视",龙华日韩
-http://47.239.245.207:5050/litv/litv-longturn11
+http://47.239.245.207:5050/litv/litv-longturn11$Proxy
 #EXTINF:-1 tvg-name="龙华经典" tvg-logo="https://ghgo.xyz/raw.githubusercontent.com/sublime2025/IPTV/main/img/TVB/龙华经典.png" group-title="影视",龙华经典
-http://47.239.245.207:5050/litv/litv-longturn21
+http://47.239.245.207:5050/litv/litv-longturn21$Proxy
 
 #EXTINF:-1 tvg-name="Astr剧集" tvg-logo="https://ghgo.xyz/raw.githubusercontent.com/sublime2025/IPTV/main/img/TVB/Astro剧集.png" group-title="影视",Astr剧集
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=aod$JDSP
@@ -523,30 +493,30 @@ http://php.jdshipin.com:8880/TVOD/iptv.php?id=aod$JDSP
 http://php.jdshipin.com:8880/amlh.php$JDSP
 
 #EXTINF:-1 tvg-name="神乐影院" tvg-logo="https://ghgo.xyz/raw.githubusercontent.com/sublime2025/IPTV/main/img/斗鱼.png" group-title="影视",斗鱼轮播(左右)
-https://www.goodiptv.club/douyu/85894
+https://www.goodiptv.club/douyu/85894$Douyu
 #EXTINF:-1 tvg-name="可乐影视" tvg-logo="https://ghgo.xyz/raw.githubusercontent.com/sublime2025/IPTV/main/img/斗鱼.png" group-title="影视",斗鱼轮播(左右)
-https://www.goodiptv.club/douyu/20415
+https://www.goodiptv.club/douyu/20415$Douyu
 #EXTINF:-1 tvg-name="吃米滴虫" tvg-logo="https://ghgo.xyz/raw.githubusercontent.com/sublime2025/IPTV/main/img/斗鱼.png" group-title="影视",斗鱼轮播(左右)
-https://www.goodiptv.club/douyu/315457
+https://www.goodiptv.club/douyu/315457$Douyu
 #EXTINF:-1 tvg-name="花卷影院" tvg-logo="https://ghgo.xyz/raw.githubusercontent.com/sublime2025/IPTV/main/img/斗鱼.png" group-title="影视",斗鱼轮播(左右)
-https://www.goodiptv.club/douyu/52787
+https://www.goodiptv.club/douyu/52787$Douyu
 #EXTINF:-1 tvg-name="冰冰影厅" tvg-logo="https://ghgo.xyz/raw.githubusercontent.com/sublime2025/IPTV/main/img/斗鱼.png" group-title="影视",斗鱼轮播(左右)
-https://www.goodiptv.club/douyu/74374
+https://www.goodiptv.club/douyu/74374$Douyu
 #EXTINF:-1 tvg-name="贝爷影厅" tvg-logo="https://ghgo.xyz/raw.githubusercontent.com/sublime2025/IPTV/main/img/斗鱼.png" group-title="影视",斗鱼轮播(左右)
-https://www.goodiptv.club/douyu/252802
+https://www.goodiptv.club/douyu/252802$Douyu
 
 #EXTINF:-1 tvg-name="高分动作" tvg-logo="https://ghgo.xyz/raw.githubusercontent.com/sublime2025/IPTV/main/img/虎牙.png" group-title="影视",虎牙轮播(换台)
-https://www.goodiptv.club/huya/11352884
+https://www.goodiptv.club/huya/11352884$Huya
 #EXTINF:-1 tvg-name="动作电影" tvg-logo="https://ghgo.xyz/raw.githubusercontent.com/sublime2025/IPTV/main/img/虎牙.png" group-title="影视",虎牙轮播(换台)
-https://www.goodiptv.club/huya/11602077
+https://www.goodiptv.club/huya/11602077$Huya
 #EXTINF:-1 tvg-name="嫣然影厅" tvg-logo="https://ghgo.xyz/raw.githubusercontent.com/sublime2025/IPTV/main/img/虎牙.png" group-title="影视",虎牙轮播(换台)
-https://www.goodiptv.club/huya/11601977
+https://www.goodiptv.club/huya/11601977$Huya
 #EXTINF:-1 tvg-name="黑帮斗争" tvg-logo="https://ghgo.xyz/raw.githubusercontent.com/sublime2025/IPTV/main/img/虎牙.png" group-title="影视",虎牙轮播(换台)
-https://www.goodiptv.club/huya/11342419
+https://www.goodiptv.club/huya/11342419$Huya
 #EXTINF:-1 tvg-name="不挤影院" tvg-logo="https://ghgo.xyz/raw.githubusercontent.com/sublime2025/IPTV/main/img/虎牙.png" group-title="影视",虎牙轮播(换台)
-https://www.goodiptv.club/huya/11352897
+https://www.goodiptv.club/huya/11352897$Huya
 #EXTINF:-1 tvg-name="搞笑恐怖" tvg-logo="https://ghgo.xyz/raw.githubusercontent.com/sublime2025/IPTV/main/img/虎牙.png" group-title="影视",虎牙轮播(换台)
-https://www.goodiptv.club/huya/11601960
+https://www.goodiptv.club/huya/11601960$Huya
 
 #EXTINF:-1 tvg-name="周星驰" tvg-logo="https://ghgo.xyz/raw.githubusercontent.com/sublime2025/IPTV/main/img/虎牙.png" group-title="影视",星爷
 http://zby.xjqxz.top/live12/live.m3u8
@@ -753,128 +723,128 @@ https://ikcdn01.ikzybf.com/20240205/QBNgom4j/2000kb/hls/index.m3u8
 █████████████████████████████████████████████████████████████████████████████████████████████████████████
 
 #EXTINF:-1 tvg-name="松视1台" tvg-logo="https://ghgo.xyz/raw.githubusercontent.com/sublime2025/IPTV/main/img/Adult/松视1台.png" group-title="限制",松视台
-http://18.svi-studio.com:8880/live/584830114073/800309151021/5.m3u8
+http://18.svi-studio.com:8880/live/584830114073/800309151021/5.m3u8$18svi
 #EXTINF:-1 tvg-name="松视2台" tvg-logo="https://ghgo.xyz/raw.githubusercontent.com/sublime2025/IPTV/main/img/Adult/松视2台.png" group-title="限制",松视台
-http://18.svi-studio.com:8880/live/917952932058/953281067271/6.m3u8
+http://18.svi-studio.com:8880/live/917952932058/953281067271/6.m3u8$18svi
 #EXTINF:-1 tvg-name="松视3台" tvg-logo="https://ghgo.xyz/raw.githubusercontent.com/sublime2025/IPTV/main/img/Adult/松视3台.png" group-title="限制",松视台
-http://18.svi-studio.com:8880/live/271871095922/006886711863/20205.m3u8
+http://18.svi-studio.com:8880/live/271871095922/006886711863/20205.m3u8$18svi
 #EXTINF:-1 tvg-name="惊艳台" tvg-logo="https://ghgo.xyz/raw.githubusercontent.com/sublime2025/IPTV/main/img/Adult/惊艳台.png" group-title="限制",惊艳台
-http://18.svi-studio.com:8880/live/908957700097/132663288386/1.m3u8
+http://18.svi-studio.com:8880/live/908957700097/132663288386/1.m3u8$18svi
 #EXTINF:-1 tvg-name="惊艳台" tvg-logo="https://ghgo.xyz/raw.githubusercontent.com/sublime2025/IPTV/main/img/Adult/惊艳台.png" group-title="限制",惊艳台
-http://18.svi-studio.com:80/live/271871095922/006886711863/1.m3u8
+http://18.svi-studio.com:80/live/271871095922/006886711863/1.m3u8$18svi
 
 #EXTINF:-1 tvg-name="惊艳台" tvg-logo="https://ghgo.xyz/raw.githubusercontent.com/sublime2025/IPTV/main/img/Adult/惊艳台.png" group-title="限制",惊艳台
-http://125.227.210.55:8156/VideoInput/play.ts
+http://125.227.210.55:8156/VideoInput/play.ts$125
 #EXTINF:-1 tvg-name="香蕉台" tvg-logo="https://ghgo.xyz/raw.githubusercontent.com/sublime2025/IPTV/main/img/Adult/香蕉台.png" group-title="限制",香蕉台
-http://18.svi-studio.com:80/live/271871095922/006886711863/4.m3u8
+http://18.svi-studio.com:80/live/271871095922/006886711863/4.m3u8$18svi-1
 #EXTINF:-1 tvg-name="香蕉台" tvg-logo="https://ghgo.xyz/raw.githubusercontent.com/sublime2025/IPTV/main/img/Adult/香蕉台.png" group-title="限制",香蕉台
-http://18.svi-studio.com:8880/live/624372101145/418430465490/4.m3u8
+http://18.svi-studio.com:8880/live/624372101145/418430465490/4.m3u8$18svi-2
 #EXTINF:-1 tvg-name="香蕉台" tvg-logo="https://ghgo.xyz/raw.githubusercontent.com/sublime2025/IPTV/main/img/Adult/香蕉台.png" group-title="限制",香蕉台
-http://125.227.210.55:8159/VideoInput/play.ts
+http://125.227.210.55:8159/VideoInput/play.ts$125
 #EXTINF:-1 tvg-name="潘多拉" tvg-logo="https://ghgo.xyz/raw.githubusercontent.com/sublime2025/IPTV/main/img/Adult/潘多拉.png" group-title="限制",潘多拉
-http://18.svi-studio.com:80/live/271871095922/006886711863/3.m3u8
+http://18.svi-studio.com:80/live/271871095922/006886711863/3.m3u8$18svi
 
 #EXTINF:-1 tvg-name="松视2台" tvg-logo="https://ghgo.xyz/raw.githubusercontent.com/sublime2025/IPTV/main/img/Adult/松视2台.png" group-title="限制",松视台
-p3p://173.208.176.178:31809/60232b5f00007bc37850649979e379df
+p3p://173.208.176.178:31809/60232b5f00007bc37850649979e379df$173
 #EXTINF:-1 tvg-name="松视1台" tvg-logo="https://ghgo.xyz/raw.githubusercontent.com/sublime2025/IPTV/main/img/Adult/松视1台.png" group-title="限制",松视台
-p3p://173.208.176.178:31809/5fe445280008a40682a0367c343436bb
+p3p://173.208.176.178:31809/5fe445280008a40682a0367c343436bb$173
 #EXTINF:-1 tvg-name="彩虹e" tvg-logo="https://ghgo.xyz/raw.githubusercontent.com/sublime2025/IPTV/main/img/Adult/彩虹e.png" group-title="限制",彩虹台
-p3p://173.208.176.178:31809/6062716c0008efc86f76f0c44d55329f
+p3p://173.208.176.178:31809/6062716c0008efc86f76f0c44d55329f$173
 #EXTINF:-1 tvg-name="彩虹电影" tvg-logo="https://ghgo.xyz/raw.githubusercontent.com/sublime2025/IPTV/main/img/Adult/彩虹电影.png" group-title="限制",彩虹台
-p3p://173.208.176.178:31809/6253066c00049259f74b05224cf375e6
+p3p://173.208.176.178:31809/6253066c00049259f74b05224cf375e6$173
 
 #EXTINF:-1 tvg-name="澳视1台" tvg-logo="https://ghgo.xyz/raw.githubusercontent.com/sublime2025/IPTV/main/img/Adult/澳视.png" group-title="限制",澳视台
-http://125.227.210.55:8205/VideoInput/play.ts
+http://125.227.210.55:8205/VideoInput/play.ts$125
 #EXTINF:-1 tvg-name="澳视2台" tvg-logo="https://ghgo.xyz/raw.githubusercontent.com/sublime2025/IPTV/main/img/Adult/澳视.png" group-title="限制",澳视台
-http://125.227.210.55:8203/VideoInput/play.ts
+http://125.227.210.55:8203/VideoInput/play.ts$125
 #EXTINF:-1 tvg-name="澳视3台" tvg-logo="https://ghgo.xyz/raw.githubusercontent.com/sublime2025/IPTV/main/img/Adult/澳视.png" group-title="限制",澳视台
-http://125.227.210.55:8201/VideoInput/play.ts
+http://125.227.210.55:8201/VideoInput/play.ts$125
 
 #EXTINF:-1 tvg-name="波多野结衣" tvg-logo="https://ghgo.xyz/raw.githubusercontent.com/sublime2025/IPTV/main/img/Adult/岛国片.png" group-title="限制",岛国片
-p3p://173.208.176.178:31809/5fe6d96b000d95298cb35d8161902e91
+p3p://173.208.176.178:31809/5fe6d96b000d95298cb35d8161902e91$173-1
 #EXTINF:-1 tvg-name="一本道" tvg-logo="https://ghgo.xyz/raw.githubusercontent.com/sublime2025/IPTV/main/img/Adult/岛国片.png" group-title="限制",岛国片
-p3p://173.208.176.178:31809/5fe6d4d8000a01508ca17e596611121f
+p3p://173.208.176.178:31809/5fe6d4d8000a01508ca17e596611121f$173-2
 #EXTINF:-1 tvg-name="加勒比" tvg-logo="https://ghgo.xyz/raw.githubusercontent.com/sublime2025/IPTV/main/img/Adult/岛国片.png" group-title="限制",岛国片
-p3p://173.208.176.178:31809/5fe6d4c0000ea3178ca121c83d4b0a39
+p3p://173.208.176.178:31809/5fe6d4c0000ea3178ca121c83d4b0a39$173-3
 #EXTINF:-1 tvg-name="东京热" tvg-logo="https://ghgo.xyz/raw.githubusercontent.com/sublime2025/IPTV/main/img/Adult/岛国片.png" group-title="限制",岛国片
-p3p://173.208.176.178:31809/5fe6d4f10006c6ec8ca1df2d4bd07a2d
+p3p://173.208.176.178:31809/5fe6d4f10006c6ec8ca1df2d4bd07a2d$173-4
 #EXTINF:-1 tvg-name="HAV" tvg-logo="https://ghgo.xyz/raw.githubusercontent.com/sublime2025/IPTV/main/img/Adult/岛国片.png" group-title="限制",岛国片
-p3p://173.208.176.178:31809/5fe7fe14000bbbb1912a91354e4b5706
+p3p://173.208.176.178:31809/5fe7fe14000bbbb1912a91354e4b5706$173-5
 #EXTINF:-1 tvg-name="中文无码" tvg-logo="https://ghgo.xyz/raw.githubusercontent.com/sublime2025/IPTV/main/img/Adult/岛国片.png" group-title="限制",岛国片
-p3p://173.208.176.178:31809/5fed5578000e28fba6077f774fba6950
+p3p://173.208.176.178:31809/5fed5578000e28fba6077f774fba6950$173-6
 #EXTINF:-1 tvg-name="中文有码1" tvg-logo="https://ghgo.xyz/raw.githubusercontent.com/sublime2025/IPTV/main/img/Adult/岛国片.png" group-title="限制",岛国片
-p3p://173.208.176.178:31809/5fe790790005783d8f7e6a1d2f8774e6
+p3p://173.208.176.178:31809/5fe790790005783d8f7e6a1d2f8774e6$173-7
 #EXTINF:-1 tvg-name="中文有码2" tvg-logo="https://ghgo.xyz/raw.githubusercontent.com/sublime2025/IPTV/main/img/Adult/岛国片.png" group-title="限制",岛国片
-p3p://173.208.176.178:31809/5fea645500007b7e9a898b3d6ea244cf
+p3p://173.208.176.178:31809/5fea645500007b7e9a898b3d6ea244cf$173-8
 #EXTINF:-1 tvg-name="XXXAV" tvg-logo="https://ghgo.xyz/raw.githubusercontent.com/sublime2025/IPTV/main/img/Adult/岛国片.png" group-title="限制",岛国片
-p3p://173.208.176.178:31809/5fe80214000d2ec8913a3189085b6434
+p3p://173.208.176.178:31809/5fe80214000d2ec8913a3189085b6434$173-9
 #EXTINF:-1 tvg-name="动漫" tvg-logo="https://ghgo.xyz/raw.githubusercontent.com/sublime2025/IPTV/main/img/Adult/岛国片.png" group-title="限制",岛国片
-p3p://173.208.176.178:31809/5ff742d8000bbabbccce4cb0100a31ff
+p3p://173.208.176.178:31809/5ff742d8000bbabbccce4cb0100a31ff$173-10
 #EXTINF:-1 tvg-name="JAPNHD" tvg-logo="https://ghgo.xyz/raw.githubusercontent.com/sublime2025/IPTV/main/img/Adult/岛国片.png" group-title="限制",岛国片
 http://88b9da48.kazmazpaz.ru/iptv/2EA55L4SUE4RH4/6225/manifest.m3u8
 
 #EXTINF:-1 tvg-name="彩虹K" tvg-logo="https://ghgo.xyz/raw.githubusercontent.com/sublime2025/IPTV/main/img/Adult/麻豆传媒.png" group-title="限制",国产台
-p3p://173.208.176.178:31809/63fd56ec000b5f0d26d4fe1b07963493
+p3p://173.208.176.178:31809/63fd56ec000b5f0d26d4fe1b07963493$173-1
 #EXTINF:-1 tvg-name="兔子先生" tvg-logo="https://ghgo.xyz/raw.githubusercontent.com/sublime2025/IPTV/main/img/Adult/麻豆传媒.png" group-title="限制",国产台
-p3p://173.208.176.178:31809/5fef5ed40002a464adfc0be76180670f
+p3p://173.208.176.178:31809/5fef5ed40002a464adfc0be76180670f$173-2
 #EXTINF:-1 tvg-name="麻豆外番" tvg-logo="https://ghgo.xyz/raw.githubusercontent.com/sublime2025/IPTV/main/img/Adult/麻豆传媒.png" group-title="限制",国产台
-p3p://173.208.176.178:31809/5fee86ee0006ce80aab0b2811d842258
+p3p://173.208.176.178:31809/5fee86ee0006ce80aab0b2811d842258$173-3
 #EXTINF:-1 tvg-name="麻豆导演" tvg-logo="https://ghgo.xyz/raw.githubusercontent.com/sublime2025/IPTV/main/img/Adult/麻豆传媒.png" group-title="限制",国产台
-p3p://173.208.176.178:31809/5fee723900074e31aa5fcfa0561f1b95
+p3p://173.208.176.178:31809/5fee723900074e31aa5fcfa0561f1b95$173-4
 #EXTINF:-1 tvg-name="麻豆大番" tvg-logo="https://ghgo.xyz/raw.githubusercontent.com/sublime2025/IPTV/main/img/Adult/麻豆传媒.png" group-title="限制",国产台
-p3p://173.208.176.178:31809/5fee099a000e4a8da8c7244c6ff632e3
+p3p://173.208.176.178:31809/5fee099a000e4a8da8c7244c6ff632e3$173-5
 #EXTINF:-1 tvg-name="天美传媒" tvg-logo="https://ghgo.xyz/raw.githubusercontent.com/sublime2025/IPTV/main/img/Adult/麻豆传媒.png" group-title="限制",国产台
-p3p://173.208.176.178:31809/61bff85e00029535c4bd1c4f47fb5400
+p3p://173.208.176.178:31809/61bff85e00029535c4bd1c4f47fb5400$173-6
 #EXTINF:-1 tvg-name="精东影业" tvg-logo="https://ghgo.xyz/raw.githubusercontent.com/sublime2025/IPTV/main/img/Adult/麻豆传媒.png" group-title="限制",国产台
-p3p://173.208.176.178:31809/6135966100022f18a83512374f864fd8
+p3p://173.208.176.178:31809/6135966100022f18a83512374f864fd8$173-7
 #EXTINF:-1 tvg-name="果冻传媒" tvg-logo="https://ghgo.xyz/raw.githubusercontent.com/sublime2025/IPTV/main/img/Adult/麻豆传媒.png" group-title="限制",国产台
-p3p://173.208.176.178:31809/5ff5420900039286c4fb220f4b133915
+p3p://173.208.176.178:31809/5ff5420900039286c4fb220f4b133915$173-8
 #EXTINF:-1 tvg-name="PornTW" tvg-logo="https://ghgo.xyz/raw.githubusercontent.com/sublime2025/IPTV/main/img/Adult/麻豆传媒.png" group-title="限制",国产台
-p3p://173.208.176.178:31809/5ff399460003af78be7fe8571735593d
+p3p://173.208.176.178:31809/5ff399460003af78be7fe8571735593d$173-9
 #EXTINF:-1 tvg-name="麻豆传媒" tvg-logo="https://ghgo.xyz/raw.githubusercontent.com/sublime2025/IPTV/main/img/Adult/麻豆传媒.png" group-title="限制",国产台
-http://125.227.210.55:51359/VideoInput/play.ts
+http://125.227.210.55:51359/VideoInput/play.ts$125
 
 #EXTINF:-1 tvg-name="惊艳台" tvg-logo="https://ghgo.xyz/raw.githubusercontent.com/sublime2025/IPTV/main/img/Adult/惊艳台.png" group-title="限制",惊艳台
-p3p://173.208.176.178:31809/60626a1b00010e3e6f5a5a4f018e5ebe
+p3p://173.208.176.178:31809/60626a1b00010e3e6f5a5a4f018e5ebe$173
 #EXTINF:-1 tvg-name="潘多拉" tvg-logo="https://ghgo.xyz/raw.githubusercontent.com/sublime2025/IPTV/main/img/Adult/潘多拉.png" group-title="限制",潘多拉
-p3p://173.208.176.178:31809/5fe4450c000c918b829fca233c845311
+p3p://173.208.176.178:31809/5fe4450c000c918b829fca233c845311$173
 #EXTINF:-1 tvg-name="香蕉台" tvg-logo="https://ghgo.xyz/raw.githubusercontent.com/sublime2025/IPTV/main/img/Adult/香蕉台.png" group-title="限制",香蕉台
-p3p://173.208.176.178:31809/60626a760005067e6f5bbecb5816771e
+p3p://173.208.176.178:31809/60626a760005067e6f5bbecb5816771e$173
 
 #EXTINF:-1 tvg-name="极限电影" tvg-logo="https://ghgo.xyz/raw.githubusercontent.com/sublime2025/IPTV/main/img/Adult/极限电影.png" group-title="限制",极限台
-p3p://173.208.176.178:31809/6109e9bb0005fd87fd9ce5ea2c1f18d3
+p3p://173.208.176.178:31809/6109e9bb0005fd87fd9ce5ea2c1f18d3$173-1
 #EXTINF:-1 tvg-name="极限电影" tvg-logo="https://ghgo.xyz/raw.githubusercontent.com/sublime2025/IPTV/main/img/Adult/极限电影.png" group-title="限制",极限台
-p3p://173.208.176.178:31809/607e0dca0005cd6ddb506963435f6f5a
+p3p://173.208.176.178:31809/607e0dca0005cd6ddb506963435f6f5a$173-2
 #EXTINF:-1 tvg-name="经典三级" tvg-logo="https://ghgo.xyz/raw.githubusercontent.com/sublime2025/IPTV/main/img/Adult/极限电影.png" group-title="限制",极限台
-p3p://173.208.176.178:31809/62dac52e00087a70098570f12b7962e5
+p3p://173.208.176.178:31809/62dac52e00087a70098570f12b7962e5$173-3
 
 #EXTINF:-1 tvg-name="Naugthy" tvg-logo="https://ghgo.xyz/raw.githubusercontent.com/sublime2025/IPTV/main/img/Adult/Porn.png" group-title="限制",欧美台
-p3p://173.208.176.178:31809/6403cb9f0003a839400cad904b301253
+p3p://173.208.176.178:31809/6403cb9f0003a839400cad904b301253$173-1
 #EXTINF:-1 tvg-name="Blacked" tvg-logo="https://ghgo.xyz/raw.githubusercontent.com/sublime2025/IPTV/main/img/Adult/Porn.png" group-title="限制",欧美台
-p3p://173.208.176.178:31809/6403cc0d0000f97a400e5a9115f012f3
+p3p://173.208.176.178:31809/6403cc0d0000f97a400e5a9115f012f3$173-2
 #EXTINF:-1 tvg-name="X-Art" tvg-logo="https://ghgo.xyz/raw.githubusercontent.com/sublime2025/IPTV/main/img/Adult/Porn.png" group-title="限制",欧美台
-p3p://173.208.176.178:31809/607e1f9f0004af8edb961118303e4935
+p3p://173.208.176.178:31809/607e1f9f0004af8edb961118303e4935$173-3
 
 #EXTINF:-1 tvg-name="PlayBoy KR" tvg-logo="https://ghgo.xyz/raw.githubusercontent.com/sublime2025/IPTV/main/img/Adult/PlayBoy.png" group-title="限制",PlayBoy
-p3p://173.208.176.178:31809/646fa54000041fa7e554fbe50f3b3077
+p3p://173.208.176.178:31809/646fa54000041fa7e554fbe50f3b3077$173
 #EXTINF:-1 tvg-name="PlayBoy KR" tvg-logo="https://ghgo.xyz/raw.githubusercontent.com/sublime2025/IPTV/main/img/Adult/PlayBoy.png" group-title="限制",PlayBoy
-http://rhsbjv7k.tvclub.xyz/iptv/56E8HVDHBARKLQ/6242/index.m3u8
+http://rhsbjv7k.tvclub.xyz/iptv/56E8HVDHBARKLQ/6242/index.m3u8$iptv
 #EXTINF:-1 tvg-name="PlayBoy K" tvg-logo="https://ghgo.xyz/raw.githubusercontent.com/sublime2025/IPTV/main/img/Adult/PlayBoy.png" group-title="限制",PlayBoy
-http://rhsbjv7k.tvclub.xyz/iptv/56E8HVDHBARKLQ/6280/index.m3u8
+http://rhsbjv7k.tvclub.xyz/iptv/56E8HVDHBARKLQ/6280/index.m3u8$iptv
 #EXTINF:-1 tvg-name="PlayBoy K" tvg-logo="https://ghgo.xyz/raw.githubusercontent.com/sublime2025/IPTV/main/img/Adult/PlayBoy.png" group-title="限制",PlayBoy
-http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8
+http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8$190
 
 #EXTINF:-1 tvg-name="Sex Art" tvg-logo="https://ghgo.xyz/raw.githubusercontent.com/sublime2025/IPTV/main/img/Adult/Porn.png" group-title="限制",欧美台
-http://rhsbjv7k.tvclub.xyz/iptv/56E8HVDHBARKLQ/6253/index.m3u8
+http://rhsbjv7k.tvclub.xyz/iptv/56E8HVDHBARKLQ/6253/index.m3u8$iptv
 #EXTINF:-1 tvg-name="EROX" tvg-logo="https://ghgo.xyz/raw.githubusercontent.com/sublime2025/IPTV/main/img/Adult/Porn.png" group-title="限制",欧美台
-http://88.212.7.11/live/test_erox_hd_hevc/playlist.m3u8
+http://88.212.7.11/live/test_erox_hd_hevc/playlist.m3u8$88
 #EXTINF:-1 tvg-name="EROX" tvg-logo="https://ghgo.xyz/raw.githubusercontent.com/sublime2025/IPTV/main/img/Adult/Porn.png" group-title="限制",欧美台
-http://rhsbjv7k.tvclub.xyz/iptv/56E8HVDHBARKLQ/6296/index.m3u8
+http://rhsbjv7k.tvclub.xyz/iptv/56E8HVDHBARKLQ/6296/index.m3u8$iptv
 #EXTINF:-1 tvg-name="Desire" tvg-logo="https://ghgo.xyz/raw.githubusercontent.com/sublime2025/IPTV/main/img/Adult/Porn.png" group-title="限制",欧美台
-http://88.212.7.11/live/test_desire_hd_hevc/playlist.m3u8
+http://88.212.7.11/live/test_desire_hd_hevc/playlist.m3u8$88
 #EXTINF:-1 tvg-name="Dorcel" tvg-logo="https://ghgo.xyz/raw.githubusercontent.com/sublime2025/IPTV/main/img/Adult/Porn.png" group-title="限制",欧美台
-http://88.212.7.11/live/test_dorcel_hd_hevc/playlist.m3u8
+http://88.212.7.11/live/test_dorcel_hd_hevc/playlist.m3u8$88
 #EXTINF:-1 tvg-name="Dorcel" tvg-logo="https://ghgo.xyz/raw.githubusercontent.com/sublime2025/IPTV/main/img/Adult/Porn.png" group-title="限制",欧美台
-http://rhsbjv7k.tvclub.xyz/iptv/56E8HVDHBARKLQ/9344/index.m3u8
+http://rhsbjv7k.tvclub.xyz/iptv/56E8HVDHBARKLQ/9344/index.m3u8$iptv
 #EXTINF:-1 tvg-name="Dorcel Club" tvg-logo="https://ghgo.xyz/raw.githubusercontent.com/sublime2025/IPTV/main/img/Adult/Porn.png" group-title="限制",欧美台
-http://rhsbjv7k.tvclub.xyz/iptv/56E8HVDHBARKLQ/6197/index.m3u8
+http://rhsbjv7k.tvclub.xyz/iptv/56E8HVDHBARKLQ/6197/index.m3u8$iptv
