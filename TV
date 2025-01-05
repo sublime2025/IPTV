@@ -420,15 +420,15 @@ https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 █████████████████████████████████████████████████████████████████████████████████████████████████████████
 
 #EXTINF:-1 tvg-name="豆瓣TOP" tvg-logo="https://ghgo.xyz/raw.githubusercontent.com/sublime2025/IPTV/main/img/Movie/豆瓣TOP.png" group-title="影视",豆瓣TOP
-https://www.goodiptv.club/douyu/8770422
+https://www.goodiptv.club/douyu/8770422$Good
 #EXTINF:-1 tvg-name="豆瓣TOP" tvg-logo="https://ghgo.xyz/raw.githubusercontent.com/sublime2025/IPTV/main/img/Movie/豆瓣TOP.png" group-title="影视",豆瓣TOP
-http://huanqiuzhibo.cn/manifest/douyu.php?id=8770422
+http://huanqiuzhibo.cn/manifest/douyu.php?id=8770422$HQZB
 #EXTINF:-1 tvg-name="豆瓣TOP" tvg-logo="https://ghgo.xyz/raw.githubusercontent.com/sublime2025/IPTV/main/img/Movie/豆瓣TOP.png" group-title="影视",豆瓣TOP
-http://zzy789.xyz/douyu1.php?id=8770422
+http://zzy789.xyz/douyu1.php?id=8770422$ZZY
 #EXTINF:-1 tvg-name="豆瓣TOP" tvg-logo="https://ghgo.xyz/raw.githubusercontent.com/sublime2025/IPTV/main/img/Movie/豆瓣TOP.png" group-title="影视",豆瓣TOP
-http://jiaojirentv.top/2020/dy.php?id=8770422
+http://jiaojirentv.top/2020/dy.php?id=8770422$JJR
 #EXTINF:-1 tvg-name="豆瓣TOP" tvg-logo="https://ghgo.xyz/raw.githubusercontent.com/sublime2025/IPTV/main/img/Movie/豆瓣TOP.png" group-title="影视",豆瓣TOP
-http://43.136.119.99/douyu.php?id=8770422
+http://43.136.119.99/douyu.php?id=8770422$43
 
 #EXTINF:-1 tvg-name="美亚电影港" tvg-logo="https://ghgo.xyz/raw.githubusercontent.com/sublime2025/IPTV/main/img/Movie/美亚电影.png" group-title="影视",美亚电影
 http://aktv.top/AKTV/live/aktv/hk-1/AKTV.m3u8$AKTV
@@ -551,22 +551,22 @@ https://www.goodiptv.club/huya/11601960
 #EXTINF:-1 tvg-name="周星驰" tvg-logo="https://ghgo.xyz/raw.githubusercontent.com/sublime2025/IPTV/main/img/虎牙.png" group-title="影视",星爷
 http://zby.xjqxz.top/live12/live.m3u8
 #EXTINF:-1 tvg-name="周星驰" tvg-logo="https://ghgo.xyz/raw.githubusercontent.com/sublime2025/IPTV/main/img/虎牙.png" group-title="影视",星爷
-https://www.goodiptv.club/huya/11342412
+https://www.goodiptv.club/huya/11342412$Huya
 #EXTINF:-1 tvg-name="星爷粤" tvg-logo="https://ghgo.xyz/raw.githubusercontent.com/sublime2025/IPTV/main/img/虎牙.png" group-title="影视",星爷
-https://www.goodiptv.club/huya/11336587
+https://www.goodiptv.club/huya/11336587$Huya
 #EXTINF:-1 tvg-name="周星驰" tvg-logo="https://ghgo.xyz/raw.githubusercontent.com/sublime2025/IPTV/main/img/虎牙.png" group-title="影视",星爷
 https://aldirect.flv.huya.com/src/1394575534-1394575534-5989656310331736064-2789274524-10057-A-0-1.flv
 
 #EXTINF:-1 tvg-name="周润发" tvg-logo="https://ghgo.xyz/raw.githubusercontent.com/sublime2025/IPTV/main/img/虎牙.png" group-title="影视",发哥
-https://www.goodiptv.club/huya/11342387
+https://www.goodiptv.club/huya/11342387$Huya
 #EXTINF:-1 tvg-name="刘德华" tvg-logo="https://ghgo.xyz/raw.githubusercontent.com/sublime2025/IPTV/main/img/虎牙.png" group-title="影视",华仔
-https://www.goodiptv.club/huya/11342424
+https://www.goodiptv.club/huya/11342424$Huya
 #EXTINF:-1 tvg-name="成龙" tvg-logo="https://ghgo.xyz/raw.githubusercontent.com/sublime2025/IPTV/main/img/虎牙.png" group-title="影视",龙叔
-https://www.goodiptv.club/huya/11342386
+https://www.goodiptv.club/huya/11342386$Huya
 #EXTINF:-1 tvg-name="沈腾" tvg-logo="https://ghgo.xyz/raw.githubusercontent.com/sublime2025/IPTV/main/img/虎牙.png" group-title="影视",沈腾
-https://www.goodiptv.club/huya/11601968
+https://www.goodiptv.club/huya/11601968$Huya
 #EXTINF:-1 tvg-name="林正英" tvg-logo="https://ghgo.xyz/raw.githubusercontent.com/sublime2025/IPTV/main/img/虎牙.png" group-title="影视",英叔
-https://www.goodiptv.club/huya/11342421
+https://www.goodiptv.club/huya/11342421$Huya
 
 █████████████████████████████████████████████████████████████████████████████████████████████████████████
 
@@ -613,11 +613,11 @@ https://www.goodiptv.club/yy/21092633$YY
 #EXTINF:-1 tvg-name="天下第一" tvg-logo="https://ghgo.xyz/raw.githubusercontent.com/sublime2025/IPTV/main/img/IMG.png" group-title="剧集",天下第一
 http://lunbo.freetv.top/yy/1382736838$YY
 #EXTINF:-1 tvg-name="天龙八部" tvg-logo="https://ghgo.xyz/raw.githubusercontent.com/sublime2025/IPTV/main/img/IMG.png" group-title="剧集",天龙八部
-https://www.goodiptv.club/yy/1351814644
+https://www.goodiptv.club/yy/1351814644$YY
 #EXTINF:-1 tvg-name="笑傲江湖" tvg-logo="https://ghgo.xyz/raw.githubusercontent.com/sublime2025/IPTV/main/img/IMG.png" group-title="剧集",笑傲江湖
-https://www.goodiptv.club/yy/1354930909
+https://www.goodiptv.club/yy/1354930909$YY
 #EXTINF:-1 tvg-name="倚天屠龙记" tvg-logo="https://ghgo.xyz/raw.githubusercontent.com/sublime2025/IPTV/main/img/IMG.png" group-title="剧集",倚天屠龙记
-https://www.goodiptv.club/huya/11342403
+https://www.goodiptv.club/huya/11342403$Huya
 #EXTINF:-1 tvg-name="隋唐英雄传" tvg-logo="https://ghgo.xyz/raw.githubusercontent.com/sublime2025/IPTV/main/img/IMG.png" group-title="剧集",隋唐英雄传
 https://www.goodiptv.club/yy/1352475619$YY
 #EXTINF:-1 tvg-name="仙剑奇侠传Ⅰ" tvg-logo="https://ghgo.xyz/raw.githubusercontent.com/sublime2025/IPTV/main/img/IMG.png" group-title="剧集",仙剑奇侠传Ⅰ
