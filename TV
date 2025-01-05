@@ -761,46 +761,46 @@ http://125.227.210.55:8203/VideoInput/play.ts$125
 http://125.227.210.55:8201/VideoInput/play.ts$125
 
 #EXTINF:-1 tvg-name="波多野结衣" tvg-logo="https://ghgo.xyz/raw.githubusercontent.com/sublime2025/IPTV/main/img/Adult/岛国片.png" group-title="限制",岛国片
-p3p://173.208.176.178:31809/5fe6d96b000d95298cb35d8161902e91$173-1
+p3p://173.208.176.178:31809/5fe6d96b000d95298cb35d8161902e91$波多野结衣
 #EXTINF:-1 tvg-name="一本道" tvg-logo="https://ghgo.xyz/raw.githubusercontent.com/sublime2025/IPTV/main/img/Adult/岛国片.png" group-title="限制",岛国片
-p3p://173.208.176.178:31809/5fe6d4d8000a01508ca17e596611121f$173-2
+p3p://173.208.176.178:31809/5fe6d4d8000a01508ca17e596611121f$一本道
 #EXTINF:-1 tvg-name="加勒比" tvg-logo="https://ghgo.xyz/raw.githubusercontent.com/sublime2025/IPTV/main/img/Adult/岛国片.png" group-title="限制",岛国片
-p3p://173.208.176.178:31809/5fe6d4c0000ea3178ca121c83d4b0a39$173-3
+p3p://173.208.176.178:31809/5fe6d4c0000ea3178ca121c83d4b0a39$加勒比
 #EXTINF:-1 tvg-name="东京热" tvg-logo="https://ghgo.xyz/raw.githubusercontent.com/sublime2025/IPTV/main/img/Adult/岛国片.png" group-title="限制",岛国片
-p3p://173.208.176.178:31809/5fe6d4f10006c6ec8ca1df2d4bd07a2d$173-4
+p3p://173.208.176.178:31809/5fe6d4f10006c6ec8ca1df2d4bd07a2d$东京热
 #EXTINF:-1 tvg-name="HAV" tvg-logo="https://ghgo.xyz/raw.githubusercontent.com/sublime2025/IPTV/main/img/Adult/岛国片.png" group-title="限制",岛国片
-p3p://173.208.176.178:31809/5fe7fe14000bbbb1912a91354e4b5706$173-5
+p3p://173.208.176.178:31809/5fe7fe14000bbbb1912a91354e4b5706$HAV
 #EXTINF:-1 tvg-name="中文无码" tvg-logo="https://ghgo.xyz/raw.githubusercontent.com/sublime2025/IPTV/main/img/Adult/岛国片.png" group-title="限制",岛国片
-p3p://173.208.176.178:31809/5fed5578000e28fba6077f774fba6950$173-6
+p3p://173.208.176.178:31809/5fed5578000e28fba6077f774fba6950$中文无码
 #EXTINF:-1 tvg-name="中文有码1" tvg-logo="https://ghgo.xyz/raw.githubusercontent.com/sublime2025/IPTV/main/img/Adult/岛国片.png" group-title="限制",岛国片
-p3p://173.208.176.178:31809/5fe790790005783d8f7e6a1d2f8774e6$173-7
+p3p://173.208.176.178:31809/5fe790790005783d8f7e6a1d2f8774e6$中文有码1
 #EXTINF:-1 tvg-name="中文有码2" tvg-logo="https://ghgo.xyz/raw.githubusercontent.com/sublime2025/IPTV/main/img/Adult/岛国片.png" group-title="限制",岛国片
-p3p://173.208.176.178:31809/5fea645500007b7e9a898b3d6ea244cf$173-8
+p3p://173.208.176.178:31809/5fea645500007b7e9a898b3d6ea244cf$中文有码2
 #EXTINF:-1 tvg-name="XXXAV" tvg-logo="https://ghgo.xyz/raw.githubusercontent.com/sublime2025/IPTV/main/img/Adult/岛国片.png" group-title="限制",岛国片
-p3p://173.208.176.178:31809/5fe80214000d2ec8913a3189085b6434$173-9
+p3p://173.208.176.178:31809/5fe80214000d2ec8913a3189085b6434$XXXAV
 #EXTINF:-1 tvg-name="动漫" tvg-logo="https://ghgo.xyz/raw.githubusercontent.com/sublime2025/IPTV/main/img/Adult/岛国片.png" group-title="限制",岛国片
-p3p://173.208.176.178:31809/5ff742d8000bbabbccce4cb0100a31ff$173-10
+p3p://173.208.176.178:31809/5ff742d8000bbabbccce4cb0100a31ff$动漫
 #EXTINF:-1 tvg-name="JAPNHD" tvg-logo="https://ghgo.xyz/raw.githubusercontent.com/sublime2025/IPTV/main/img/Adult/岛国片.png" group-title="限制",岛国片
-http://88b9da48.kazmazpaz.ru/iptv/2EA55L4SUE4RH4/6225/manifest.m3u8
+http://88b9da48.kazmazpaz.ru/iptv/2EA55L4SUE4RH4/6225/manifest.m3u8$iptv
 
-#EXTINF:-1 tvg-name="彩虹K" tvg-logo="https://ghgo.xyz/raw.githubusercontent.com/sublime2025/IPTV/main/img/Adult/麻豆传媒.png" group-title="限制",国产台
-p3p://173.208.176.178:31809/63fd56ec000b5f0d26d4fe1b07963493$173-1
+#EXTINF:-1 tvg-name="麻豆大番" tvg-logo="https://ghgo.xyz/raw.githubusercontent.com/sublime2025/IPTV/main/img/Adult/麻豆传媒.png" group-title="限制",国产台
+p3p://173.208.176.178:31809/63fd56ec000b5f0d26d4fe1b07963493$麻豆大番
 #EXTINF:-1 tvg-name="兔子先生" tvg-logo="https://ghgo.xyz/raw.githubusercontent.com/sublime2025/IPTV/main/img/Adult/麻豆传媒.png" group-title="限制",国产台
-p3p://173.208.176.178:31809/5fef5ed40002a464adfc0be76180670f$173-2
+p3p://173.208.176.178:31809/5fef5ed40002a464adfc0be76180670f$兔子先生
 #EXTINF:-1 tvg-name="麻豆外番" tvg-logo="https://ghgo.xyz/raw.githubusercontent.com/sublime2025/IPTV/main/img/Adult/麻豆传媒.png" group-title="限制",国产台
-p3p://173.208.176.178:31809/5fee86ee0006ce80aab0b2811d842258$173-3
+p3p://173.208.176.178:31809/5fee86ee0006ce80aab0b2811d842258$杏吧传媒
 #EXTINF:-1 tvg-name="麻豆导演" tvg-logo="https://ghgo.xyz/raw.githubusercontent.com/sublime2025/IPTV/main/img/Adult/麻豆传媒.png" group-title="限制",国产台
 p3p://173.208.176.178:31809/5fee723900074e31aa5fcfa0561f1b95$173-4
 #EXTINF:-1 tvg-name="麻豆大番" tvg-logo="https://ghgo.xyz/raw.githubusercontent.com/sublime2025/IPTV/main/img/Adult/麻豆传媒.png" group-title="限制",国产台
-p3p://173.208.176.178:31809/5fee099a000e4a8da8c7244c6ff632e3$173-5
+p3p://173.208.176.178:31809/5fee099a000e4a8da8c7244c6ff632e3$麻豆大番
 #EXTINF:-1 tvg-name="天美传媒" tvg-logo="https://ghgo.xyz/raw.githubusercontent.com/sublime2025/IPTV/main/img/Adult/麻豆传媒.png" group-title="限制",国产台
-p3p://173.208.176.178:31809/61bff85e00029535c4bd1c4f47fb5400$173-6
+p3p://173.208.176.178:31809/61bff85e00029535c4bd1c4f47fb540$天美传媒
 #EXTINF:-1 tvg-name="精东影业" tvg-logo="https://ghgo.xyz/raw.githubusercontent.com/sublime2025/IPTV/main/img/Adult/麻豆传媒.png" group-title="限制",国产台
-p3p://173.208.176.178:31809/6135966100022f18a83512374f864fd8$173-7
+p3p://173.208.176.178:31809/6135966100022f18a83512374f864fd8$精东影业
 #EXTINF:-1 tvg-name="果冻传媒" tvg-logo="https://ghgo.xyz/raw.githubusercontent.com/sublime2025/IPTV/main/img/Adult/麻豆传媒.png" group-title="限制",国产台
-p3p://173.208.176.178:31809/5ff5420900039286c4fb220f4b133915$173-8
+p3p://173.208.176.178:31809/5ff5420900039286c4fb220f4b133915$果冻传媒
 #EXTINF:-1 tvg-name="PornTW" tvg-logo="https://ghgo.xyz/raw.githubusercontent.com/sublime2025/IPTV/main/img/Adult/麻豆传媒.png" group-title="限制",国产台
-p3p://173.208.176.178:31809/5ff399460003af78be7fe8571735593d$173-9
+p3p://173.208.176.178:31809/5ff399460003af78be7fe8571735593d$PornTW
 #EXTINF:-1 tvg-name="麻豆传媒" tvg-logo="https://ghgo.xyz/raw.githubusercontent.com/sublime2025/IPTV/main/img/Adult/麻豆传媒.png" group-title="限制",国产台
 http://125.227.210.55:51359/VideoInput/play.ts$125
 
