@@ -34,7 +34,7 @@
 | :-------: | ------------------------------------------------------------ | :-----: |
 |    OK     | https://github.com/FongMi/Release/tree/main/apk/release      | Android |
 |    FM     | https://github.com/FongMi/Release/tree/fongmi/apk/release    | Android |
-|   TVBOX   | https://github.com/o0HalfLife0o/TVBoxOSC/releases            | Android |
+|   TVBox   | https://github.com/o0HalfLife0o/TVBoxOSC/releases            | Android |
 | TiviMate  | https://tivimate.com/                                        | Android |
 |   APTV    | https://apps.apple.com/cn/app/aptv/id1630403500              |   iOS   |
 |   XPTV    | https://apps.apple.com/us/app/xptv/id6459409368              | 美区iOS |
