@@ -7,11 +7,10 @@
 |  摸鱼儿  | [http://我不是.摸鱼儿.com](http://xn--ihqu10cn4c.xn--v4q818bf34b.com/) |
 |   肥猫   | [http://肥猫.com/](https://xn--z7x900a.com/)                 |
 |   ZWC    | http://kv.zwc365.com/tv.json                                 |
-|   CDN    | http://cdn.qiaoji8.com/tvbox.json                            |
+|   巧记   | http://cdn.qiaoji8.com/tvbox.json                            |
 |   星辰   | https://fmbox.cc/                                            |
 |   龙伊   | [https://龙伊.top/](https://xn--qoqw77q.top/)                |
 |  喵影视  | http://meowtv.cn/tv                                          |
-|  多线路  | [url](https://raw.githubusercontent.com/xianyuyimu/TVBOX-/main/TVBox/一木多线路.json) |
 | 福利视频 | https://git.acwing.com/abai/tv/-/raw/main/a18.json           |
 
 #### 直播源
