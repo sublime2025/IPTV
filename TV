@@ -4,6 +4,45 @@
 █████████████████████████████████████████████████████████████████████████████████████████████████████████
 
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/sublime2025/IPTV/main/img/CCTV/CCTV1.png" group-title="央视",CCTV1
+https://feiyang.vip-tptv.xyz/migu/608807420.m3u8?migutoken=8ec8011566377aebd7bf991cf7d1afd775265b7a58473dae781c7b7ab69f8913da760f8e624ad3d4709af31dcdc7ad7489e9b82f253142c7b1c929a999952482b4463a60d2b54d1928c77b6b7a
+#EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/sublime2025/IPTV/main/img/CCTV/CCTV2.png" group-title="央视",CCTV2
+https://feiyang.vip-tptv.xyz/migu/631780532.m3u8?migutoken=eb3ae3e34296a9bd9fcba1ef83567c03e2e252ea6c30e11810c256f3332af6568aff30eedfe74e4adcf2a00b1c817535996ba9d7d362919b53b4779403860bf83514d0869f342e934ce8717aff
+#EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/sublime2025/IPTV/main/img/CCTV/CCTV3.png" group-title="央视",CCTV3
+https://feiyang.vip-tptv.xyz/migu/624878271.m3u8?migutoken=05cfc23d595904938b247e894c30f213276d319a90a31a8ddc80e6d911cab53da49e8304d6abae27eb923a6727e5764d221eddcbf570c4195850b96a60c8f069d46874f5617384417b56de5041
+#EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/sublime2025/IPTV/main/img/CCTV/CCTV4.png" group-title="央视",CCTV4
+https://feiyang.vip-tptv.xyz/migu/631780421.m3u8?migutoken=c2dad4284c120a6a18a6adcf874b14fb3575a956de80e10aa530bf241605810019f7dba9cc5ef958ebfad3e68c7154e12e8152e76c403815debe75be51bda06a9d98abffb24f76e452e2b676a0
+#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/sublime2025/IPTV/main/img/CCTV/CCTV5.png" group-title="央视",CCTV5
+https://feiyang.vip-tptv.xyz/migu/641886683.m3u8?migutoken=8996eee6e77bf5829fd283d9a5fd5acb9ba68add4c7cc7de75af07301e27215edfe6a7e5075df51cb1d73888c90a1439c2ae54263d97db0e8cc59517927dce20bfc1d1cc87f18e5ca88bdf58a5
+#EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/sublime2025/IPTV/main/img/CCTV/CCTV6.png" group-title="央视",CCTV6
+https://feiyang.vip-tptv.xyz/migu/624878396.m3u8?migutoken=0d093f6985ac0dfa32fdfb2d09a9ff166693ea1ac3352f8723ac1e35681665df6712d83c0a5b375d5df638742d1da48504dc9a7dec63f6c21c3d88d7f8298ac6f79bb17cdfe527c1b6a2356953
+#EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/sublime2025/IPTV/main/img/CCTV/CCTV7.png" group-title="央视",CCTV7
+https://feiyang.vip-tptv.xyz/migu/673168121.m3u8?migutoken=978ba662203f8c73cab9d2c09c62b4d9af7d412f3f4047e617ad506825d7787065b6a557bac9d1f667dd95599c2a4378db340eed67886b7d6725a2312d8fe2beed3e950a48c7c92eed37640dcd
+#EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/sublime2025/IPTV/main/img/CCTV/CCTV8.png" group-title="央视",CCTV8
+https://feiyang.vip-tptv.xyz/migu/624878356.m3u8?migutoken=5608257ed024bc9f705944fc837ef671e4b7b36e4fa243d83dabe3d76e8e8393079325774b6394ed266d8820076387179c9a2c074198b4a40297ca160ab71dc2520d5d098564695b23c7eb22f7
+#EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/sublime2025/IPTV/main/img/CCTV/CCTV9.png" group-title="央视",CCTV9
+https://feiyang.vip-tptv.xyz/migu/673168140.m3u8?migutoken=08109ed9483bb7495dc5e403d4d80251a751135412ac37507b19bcd7ec5656d63fbe75b3c13d82942f61c206c80c7a70c8699b0100c578369ca9bf5f1a3d5877376137b1bb962cb94633394693
+#EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/sublime2025/IPTV/main/img/CCTV/CCTV10.png" group-title="央视",CCTV10
+https://feiyang.vip-tptv.xyz/migu/624878405.m3u8?migutoken=eb569ecde900f703e1a0c7181f2956780cf58b83b6c31e4375bb3b4968b7cda453bc8089d37c8d9aa162c8c722a8ce3348de54ec75dfc764ac3e3000ce1287b3972785da56888a8e1e989fb037
+#EXTINF:-1 tvg-name="CCTV11" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/sublime2025/IPTV/main/img/CCTV/CCTV11.png" group-title="央视",CCTV11
+https://feiyang.vip-tptv.xyz/migu/667987558.m3u8?migutoken=ef2e3523497f4b01f72aeedff964abe2dc6a8aa731daee4317e2d5ff3f240fcad6f84d85e1dcfd18c968eab2f1b040bb258cb90a77b393c9bb2595495b30e0fb88a042fdac1db88680215c6549
+#EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/sublime2025/IPTV/main/img/CCTV/CCTV12.png" group-title="央视",CCTV12
+https://feiyang.vip-tptv.xyz/migu/673168185.m3u8?migutoken=6fd6269f4010a92b8bef10ab0c690980c39e2f3cbc6bed0b363132e0424a51620610f4ebb8e315cad1d439ab5e14b9c483baf5c2253005dcf68e0444c1d13bf1bba1cd4c0a0d925fed82fa41a6
+#EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/sublime2025/IPTV/main/img/CCTV/CCTV13.png" group-title="央视",CCTV13
+https://feiyang.vip-tptv.xyz/migu/608807423.m3u8?migutoken=dd567be14f0b2ac5ef59c86c0f7f0688248303890424dd3c3e81539394ab6d075c2d8e9548ee634fbb63253dfb77d9576f7cb04fb9a6d647bd6452f5fdb0b3e17f76102b64f159952df9a70bd3
+#EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/sublime2025/IPTV/main/img/CCTV/CCTV14.png" group-title="央视",CCTV14
+https://feiyang.vip-tptv.xyz/migu/624878440.m3u8?migutoken=3ce2c157f7d624666eb74bff759ece2745dff990ed9a10fa534714343546f1a72129d991022d2afa1849089e4f0c7329178994e1511fda088f110cefa3e7f67928bac58a8ae96422a004cd32d2
+#EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/sublime2025/IPTV/main/img/CCTV/CCTV15.png" group-title="央视",CCTV15
+https://feiyang.vip-tptv.xyz/migu/673168223.m3u8?migutoken=6a3bd54cebd3030cc460c6bbe44b1fe498ad728bff0f8a0509af39ebd84daf2585f12644686749c52fc64e5a228af9c107f590e78673ffa6439cccb83d4aead64f6087e48382b054042c9d2a94
+#EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/sublime2025/IPTV/main/img/CCTV/CCTV17.png" group-title="央视",CCTV17
+https://feiyang.vip-tptv.xyz/migu/673168256.m3u8?migutoken=52280c5b2f746770d8080cb7a707d7c4ea179577b52e8285fbe4652aa0c2400e8b526b7c0834dfbbac4e14b798c15e0042cae9413d3544583d8a8007a05671d85b97507efdcd62f0f0bcb94a5a
+#EXTINF:-1 tvg-name="CCTV4o" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/sublime2025/IPTV/main/img/CCTV/CCTV4o.png" group-title="央视",CCTV4o
+https://feiyang.vip-tptv.xyz/migu/608807419.m3u8?migutoken=c0fe24bcfb86439d927eb9573e22195a59af9949a3d04686f894985ea86d6463c20cdefb0a7f187f1edb0e90d5cb6416948013804a3619bf5c73f707a3de0bda228e00579e7d1de569649c8487
+#EXTINF:-1 tvg-name="CCTV4a" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/sublime2025/IPTV/main/img/CCTV/CCTV4a.png" group-title="央视",CCTV4a
+https://feiyang.vip-tptv.xyz/migu/608807416.m3u8?migutoken=b3be8e97b315848358e3253454c74c850461e42da0ebf25b9136051465f85e9fb1113cb73699fb9b8c677f38dcdd35f6635f10d25a02b30325cd7fae0724257c7d8cd33b484a8b0a9559eccd28
+#EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/sublime2025/IPTV/main/img/CCTV/CCTV5+.png" group-title="央视",CCTV5+
+https://feiyang.vip-tptv.xyz/migu/641886773.m3u8?migutoken=ed4eeb8e7d162ec287c018a9006dbdaa2ca060bb36ee4efdc5144f67d46126f838e51f5c25dc31363e480651cf27d7555afb1325db7bdb7ec58d36b932b2341fb616e717ba0ac78aca2e1c79d6
+
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/sublime2025/IPTV/main/img/CCTV/CCTV1.png" group-title="央视",CCTV1
 http://z.b.bkpcp.top/m.php?id=cctv1$zb
 #EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/sublime2025/IPTV/main/img/CCTV/CCTV2.png" group-title="央视",CCTV2
 http://z.b.bkpcp.top/m.php?id=cctv2$zb
