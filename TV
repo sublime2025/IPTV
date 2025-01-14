@@ -247,7 +247,6 @@ rtmp://f13h.mine.nu/sat/tv741
 
 █████████████████████████████████████████████████████████████████████████████████████████████████████████
 
-
 #EXTINF:-1 tvg-name="凤凰卫视" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/sublime2025/IPTV/main/img/TVB/凤凰中文.png" group-title="港台",凤凰卫视
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw$JDSP
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/sublime2025/IPTV/main/img/TVB/凤凰资讯.png" group-title="港台",凤凰资讯
@@ -477,30 +476,30 @@ http://php.jdshipin.com:8880/TVOD/iptv.php?id=aod$JDSP
 http://php.jdshipin.com:8880/amlh.php$JDSP
 
 #EXTINF:-1 tvg-name="神乐影院" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/sublime2025/IPTV/main/img/斗鱼.png" group-title="影视",斗鱼轮播(左右)
-http://diyp.112114.xyz/douyu/85894$Douyu
+http://diyp.112114.xyz/douyu/85894$神乐影院
 #EXTINF:-1 tvg-name="可乐影视" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/sublime2025/IPTV/main/img/斗鱼.png" group-title="影视",斗鱼轮播(左右)
-http://diyp.112114.xyz/douyu/20415$Douyu
+http://diyp.112114.xyz/douyu/20415$可乐影视
 #EXTINF:-1 tvg-name="吃米滴虫" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/sublime2025/IPTV/main/img/斗鱼.png" group-title="影视",斗鱼轮播(左右)
-http://diyp.112114.xyz/douyu/315457$Douyu
+http://diyp.112114.xyz/douyu/315457$吃米滴虫
 #EXTINF:-1 tvg-name="花卷影院" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/sublime2025/IPTV/main/img/斗鱼.png" group-title="影视",斗鱼轮播(左右)
-http://diyp.112114.xyz/douyu/52787$Douyu
+http://diyp.112114.xyz/douyu/52787$花卷影院
 #EXTINF:-1 tvg-name="冰冰影厅" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/sublime2025/IPTV/main/img/斗鱼.png" group-title="影视",斗鱼轮播(左右)
-http://diyp.112114.xyz/douyu/74374$Douyu
+http://diyp.112114.xyz/douyu/74374$冰冰影厅
 #EXTINF:-1 tvg-name="贝爷影厅" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/sublime2025/IPTV/main/img/斗鱼.png" group-title="影视",斗鱼轮播(左右)
-http://diyp.112114.xyz/douyu/252802$Douyu
+http://diyp.112114.xyz/douyu/252802$贝爷影厅
 
 #EXTINF:-1 tvg-name="高分动作" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/sublime2025/IPTV/main/img/虎牙.png" group-title="影视",虎牙轮播(换台)
-https://live.iill.top/huya/11352884$Huya
+https://live.iill.top/huya/11352884$高分动作
 #EXTINF:-1 tvg-name="动作电影" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/sublime2025/IPTV/main/img/虎牙.png" group-title="影视",虎牙轮播(换台)
-https://live.iill.top/huya/11602077$Huya
+https://live.iill.top/huya/11602077$动作电影
 #EXTINF:-1 tvg-name="嫣然影厅" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/sublime2025/IPTV/main/img/虎牙.png" group-title="影视",虎牙轮播(换台)
-https://live.iill.top/huya/11601977$Huya
+https://live.iill.top/huya/11601977$嫣然影厅
 #EXTINF:-1 tvg-name="黑帮斗争" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/sublime2025/IPTV/main/img/虎牙.png" group-title="影视",虎牙轮播(换台)
-https://live.iill.top/huya/11342419$Huya
+https://live.iill.top/huya/11342419$黑帮斗争
 #EXTINF:-1 tvg-name="不挤影院" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/sublime2025/IPTV/main/img/虎牙.png" group-title="影视",虎牙轮播(换台)
-https://live.iill.top/huya/11352897$Huya
+https://live.iill.top/huya/11352897$不挤影院
 #EXTINF:-1 tvg-name="搞笑恐怖" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/sublime2025/IPTV/main/img/虎牙.png" group-title="影视",虎牙轮播(换台)
-https://live.iill.top/huya/11601960$Huya
+https://live.iill.top/huya/11601960$搞笑恐怖
 
 #EXTINF:-1 tvg-name="周星驰" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/sublime2025/IPTV/main/img/虎牙.png" group-title="影视",星爷
 http://zby.xjqxz.top/live12/live.m3u8
@@ -716,17 +715,23 @@ http://18.svi-studio.com:8880/live/271871095922/006886711863/20205.m3u8$18svi
 http://18.svi-studio.com:8880/live/908957700097/132663288386/1.m3u8$18svi
 #EXTINF:-1 tvg-name="惊艳台" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/sublime2025/IPTV/main/img/Adult/惊艳台.png" group-title="限制",惊艳台
 http://18.svi-studio.com:80/live/271871095922/006886711863/1.m3u8$18svi
-
-#EXTINF:-1 tvg-name="惊艳台" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/sublime2025/IPTV/main/img/Adult/惊艳台.png" group-title="限制",惊艳台
-http://125.227.210.55:8156/VideoInput/play.ts$125
 #EXTINF:-1 tvg-name="香蕉台" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/sublime2025/IPTV/main/img/Adult/香蕉台.png" group-title="限制",香蕉台
 http://18.svi-studio.com:80/live/271871095922/006886711863/4.m3u8$18svi-1
 #EXTINF:-1 tvg-name="香蕉台" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/sublime2025/IPTV/main/img/Adult/香蕉台.png" group-title="限制",香蕉台
 http://18.svi-studio.com:8880/live/624372101145/418430465490/4.m3u8$18svi-2
-#EXTINF:-1 tvg-name="香蕉台" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/sublime2025/IPTV/main/img/Adult/香蕉台.png" group-title="限制",香蕉台
-http://125.227.210.55:8159/VideoInput/play.ts$125
 #EXTINF:-1 tvg-name="潘多拉" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/sublime2025/IPTV/main/img/Adult/潘多拉.png" group-title="限制",潘多拉
 http://18.svi-studio.com:80/live/271871095922/006886711863/3.m3u8$18svi
+
+#EXTINF:-1 tvg-name="惊艳台" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/sublime2025/IPTV/main/img/Adult/惊艳台.png" group-title="限制",惊艳台
+http://125.227.210.55:8156/VideoInput/play.ts$125
+#EXTINF:-1 tvg-name="香蕉台" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/sublime2025/IPTV/main/img/Adult/香蕉台.png" group-title="限制",香蕉台
+http://125.227.210.55:8159/VideoInput/play.ts$125
+#EXTINF:-1 tvg-name="澳视1台" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/sublime2025/IPTV/main/img/Adult/澳视.png" group-title="限制",澳视台
+http://125.227.210.55:8205/VideoInput/play.ts$125
+#EXTINF:-1 tvg-name="澳视2台" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/sublime2025/IPTV/main/img/Adult/澳视.png" group-title="限制",澳视台
+http://125.227.210.55:8203/VideoInput/play.ts$125
+#EXTINF:-1 tvg-name="澳视3台" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/sublime2025/IPTV/main/img/Adult/澳视.png" group-title="限制",澳视台
+http://125.227.210.55:8201/VideoInput/play.ts$125
 
 #EXTINF:-1 tvg-name="松视2台" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/sublime2025/IPTV/main/img/Adult/松视2台.png" group-title="限制",松视台
 p3p://173.208.176.178:31809/60232b5f00007bc37850649979e379df$173
@@ -736,13 +741,6 @@ p3p://173.208.176.178:31809/5fe445280008a40682a0367c343436bb$173
 p3p://173.208.176.178:31809/6062716c0008efc86f76f0c44d55329f$173
 #EXTINF:-1 tvg-name="彩虹电影" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/sublime2025/IPTV/main/img/Adult/彩虹电影.png" group-title="限制",彩虹台
 p3p://173.208.176.178:31809/6253066c00049259f74b05224cf375e6$173
-
-#EXTINF:-1 tvg-name="澳视1台" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/sublime2025/IPTV/main/img/Adult/澳视.png" group-title="限制",澳视台
-http://125.227.210.55:8205/VideoInput/play.ts$125
-#EXTINF:-1 tvg-name="澳视2台" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/sublime2025/IPTV/main/img/Adult/澳视.png" group-title="限制",澳视台
-http://125.227.210.55:8203/VideoInput/play.ts$125
-#EXTINF:-1 tvg-name="澳视3台" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/sublime2025/IPTV/main/img/Adult/澳视.png" group-title="限制",澳视台
-http://125.227.210.55:8201/VideoInput/play.ts$125
 
 #EXTINF:-1 tvg-name="波多野结衣" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/sublime2025/IPTV/main/img/Adult/岛国片.png" group-title="限制",岛国片
 p3p://173.208.176.178:31809/5fe6d96b000d95298cb35d8161902e91$波多野结衣
@@ -821,14 +819,14 @@ http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8$190
 #EXTINF:-1 tvg-name="Sex Art" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/sublime2025/IPTV/main/img/Adult/Porn.png" group-title="限制",欧美台
 http://rhsbjv7k.tvclub.xyz/iptv/56E8HVDHBARKLQ/6253/index.m3u8$iptv
 #EXTINF:-1 tvg-name="EROX" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/sublime2025/IPTV/main/img/Adult/Porn.png" group-title="限制",欧美台
-http://88.212.7.11/live/test_erox_hd_hevc/playlist.m3u8$88
-#EXTINF:-1 tvg-name="EROX" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/sublime2025/IPTV/main/img/Adult/Porn.png" group-title="限制",欧美台
 http://rhsbjv7k.tvclub.xyz/iptv/56E8HVDHBARKLQ/6296/index.m3u8$iptv
-#EXTINF:-1 tvg-name="Desire" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/sublime2025/IPTV/main/img/Adult/Porn.png" group-title="限制",欧美台
-http://88.212.7.11/live/test_desire_hd_hevc/playlist.m3u8$88
-#EXTINF:-1 tvg-name="Dorcel" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/sublime2025/IPTV/main/img/Adult/Porn.png" group-title="限制",欧美台
-http://88.212.7.11/live/test_dorcel_hd_hevc/playlist.m3u8$88
 #EXTINF:-1 tvg-name="Dorcel" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/sublime2025/IPTV/main/img/Adult/Porn.png" group-title="限制",欧美台
 http://rhsbjv7k.tvclub.xyz/iptv/56E8HVDHBARKLQ/9344/index.m3u8$iptv
 #EXTINF:-1 tvg-name="Dorcel Club" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/sublime2025/IPTV/main/img/Adult/Porn.png" group-title="限制",欧美台
 http://rhsbjv7k.tvclub.xyz/iptv/56E8HVDHBARKLQ/6197/index.m3u8$iptv
+#EXTINF:-1 tvg-name="EROX" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/sublime2025/IPTV/main/img/Adult/Porn.png" group-title="限制",欧美台
+http://88.212.7.11/live/test_erox_hd_hevc/playlist.m3u8$88
+#EXTINF:-1 tvg-name="Desire" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/sublime2025/IPTV/main/img/Adult/Porn.png" group-title="限制",欧美台
+http://88.212.7.11/live/test_desire_hd_hevc/playlist.m3u8$88
+#EXTINF:-1 tvg-name="Dorcel" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/sublime2025/IPTV/main/img/Adult/Porn.png" group-title="限制",欧美台
+http://88.212.7.11/live/test_dorcel_hd_hevc/playlist.m3u8$88
