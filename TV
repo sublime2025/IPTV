@@ -318,26 +318,21 @@ http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 http://aktv.top/AKTV/live/aktv/null/AKTV.m3u8$AKTV
 #EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/sublime2025/IPTV/main/img/TVB/翡翠台.png" group-title="港台",翡翠台
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct4$JDSP
-#EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/sublime2025/IPTV/main/img/TVB/翡翠台.png" group-title="港台",翡翠台
-http://cdn9.1689.us.kg/smt1.1.php?id=jade_twn
-#EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/sublime2025/IPTV/main/img/TVB/翡翠台.png" group-title="港台",翡翠台
-http://cdn9.1689.us.kg/smt1.1.php?id=Tvbjade
 
-#EXTINF:-1 tvg-name="TVBS" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/sublime2025/IPTV/main/img/TVB/TVBS.png" group-title="港台",TVBS
-http://61.221.215.25:8800/hls/9/index.m3u8
 #EXTINF:-1 tvg-name="TVBS" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/sublime2025/IPTV/main/img/TVB/TVBS.png" group-title="港台",TVBS
 http://aktv.top/AKTV/live/aktv/tvbs/AKTV.m3u8$AKTV
-#EXTINF:-1 tvg-name="TVBPlus" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/sublime2025/IPTV/main/img/TVB/TVB-Plus.png" group-title="港台",TVBPlus
-http://aktv.top/AKTV/live/aktv/tvbplus/AKTV.m3u8$AKTV
 #EXTINF:-1 tvg-name="TVBS新闻" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/sublime2025/IPTV/main/img/TVB/TVBS新闻.png" group-title="港台",TVBS新闻
 http://aktv.top/AKTV/live/aktv/tvbs-1/AKTV.m3u8$AKTV
-
 #EXTINF:-1 tvg-name="东森新闻" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/sublime2025/IPTV/main/img/TVB/东森新闻.png" group-title="港台",东森新闻
 http://aktv.top/AKTV/live/aktv2/null/AKTV.m3u8$AKTV
 #EXTINF:-1 tvg-name="寰宇新闻" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/sublime2025/IPTV/main/img/TVB/寰宇新闻.png" group-title="港台",寰宇新闻
 http://aktv.top/AKTV/live/aktv/null-9/AKTV.m3u8$AKTV
 #EXTINF:-1 tvg-name="中天新闻" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/sublime2025/IPTV/main/img/TVB/中天新闻.png" group-title="港台",中天新闻
 http://aktv.top/AKTV/live/aktv/null-8/AKTV.m3u8$AKTV
+#EXTINF:-1 tvg-name="娱乐新闻" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/sublime2025/IPTV/main/img/TVB/娱乐新闻.png" group-title="港台",娱乐新闻
+http://aktv.top/AKTV/live/aktv/hk/AKTV.m3u8$AKTV
+#EXTINF:-1 tvg-name="tvN" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/sublime2025/IPTV/main/img/TVB/tvN.png" group-title="港台",tvN
+http://aktv.top/AKTV/live/aktv/tvn/AKTV.m3u8$AKTV
 
 #EXTINF:-1 tvg-name="东森新闻" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/sublime2025/IPTV/main/img/TVB/东森新闻.png" group-title="港台",东森新闻
 http://50.7.234.10:8278/ettvnews/playlist.m3u8?tid=MD8D4407126144071261&ct=19344&tsum=c7212737de5e023823ea68610d709c14
@@ -346,13 +341,8 @@ http://50.7.234.10:8278/ettvnews/playlist.m3u8?tid=MD8D8672451386724513&ct=19234
 #EXTINF:-1 tvg-name="东森新闻" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/sublime2025/IPTV/main/img/TVB/东森新闻.png" group-title="港台",东森新闻
 http://50.7.234.10:8278/ettvnews/playlist.m3u8?tid=ME5E8863997888639978&ct=19193&tsum=6b0236441f10a7195fb35fe7997db68c
 
-#EXTINF:-1 tvg-name="娱乐新闻" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/sublime2025/IPTV/main/img/TVB/娱乐新闻.png" group-title="港台",娱乐新闻
-http://aktv.top/AKTV/live/aktv/hk/AKTV.m3u8$AKTV
-#EXTINF:-1 tvg-name="ELTA娱乐" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/sublime2025/IPTV/main/img/TVB/ELTA娱乐.png" group-title="港台",ELTA娱乐
-https://iptv.vip-tptv.xyz/litv.php?id=4gtv-4gtv070
-
-#EXTINF:-1 tvg-name="tvN" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/sublime2025/IPTV/main/img/TVB/tvN.png" group-title="港台",tvN
-http://aktv.top/AKTV/live/aktv/tvn/AKTV.m3u8$AKTV
+#EXTINF:-1 tvg-name="TVBS新闻" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/sublime2025/IPTV/main/img/TVB/TVBS新闻.png" group-title="港台",TVBS新闻
+http://61.221.215.25:8800/hls/9/index.m3u8
 
 #EXTINF:-1 tvg-name="MBOTV" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/sublime2025/IPTV/main/img/温馨提示.png" group-title="港台",MBOTV
 https://1816029567.rsc.cdn77.org/1816029567/index.m3u8
@@ -599,7 +589,7 @@ http://zby.xjqxz.top/lyb/live.m3u8
 #EXTINF:-1 tvg-name="寻秦记" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/sublime2025/IPTV/main/img/IMG.png" group-title="剧集",寻秦记
 http://lunbo.freetv.top/yy/1382851591
 #EXTINF:-1 tvg-name="封神榜" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/sublime2025/IPTV/main/img/虎牙.png" group-title="剧集",封神榜
-https://live.iill.top/huya/23749096
+https://live.iill.top/huya/28265277
 #EXTINF:-1 tvg-name="鹿鼎记" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/sublime2025/IPTV/main/img/虎牙.png" group-title="剧集",鹿鼎记
 https://live.iill.top/huya/23865080
 #EXTINF:-1 tvg-name="西游记Ⅰ" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/sublime2025/IPTV/main/img/IMG.png" group-title="剧集",西游记Ⅰ
