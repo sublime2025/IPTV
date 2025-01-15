@@ -516,17 +516,17 @@ http://php.jdshipin.com:8880/TVOD/iptv.php?id=aod$JDSP
 http://php.jdshipin.com:8880/amlh.php$JDSP
 
 #EXTINF:-1 tvg-name="神乐影院" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/sublime2025/IPTV/main/img/斗鱼.png" group-title="影视",斗鱼轮播(左右)
-http://diyp.112114.xyz/douyu/85894$神乐影院
+http://huanqiuzhibo.cn/manifest/douyu.php?id=85894$神乐影院
 #EXTINF:-1 tvg-name="可乐影视" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/sublime2025/IPTV/main/img/斗鱼.png" group-title="影视",斗鱼轮播(左右)
-http://diyp.112114.xyz/douyu/20415$可乐影视
+http://huanqiuzhibo.cn/manifest/douyu.php?id=20415$可乐影视
 #EXTINF:-1 tvg-name="吃米滴虫" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/sublime2025/IPTV/main/img/斗鱼.png" group-title="影视",斗鱼轮播(左右)
-http://diyp.112114.xyz/douyu/315457$吃米滴虫
+http://huanqiuzhibo.cn/manifest/douyu.php?id=315457$吃米滴虫
 #EXTINF:-1 tvg-name="花卷影院" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/sublime2025/IPTV/main/img/斗鱼.png" group-title="影视",斗鱼轮播(左右)
-http://diyp.112114.xyz/douyu/52787$花卷影院
+http://huanqiuzhibo.cn/manifest/douyu.php?id=52787$花卷影院
 #EXTINF:-1 tvg-name="冰冰影厅" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/sublime2025/IPTV/main/img/斗鱼.png" group-title="影视",斗鱼轮播(左右)
-http://diyp.112114.xyz/douyu/74374$冰冰影厅
+http://huanqiuzhibo.cn/manifest/douyu.php?id=74374$冰冰影厅
 #EXTINF:-1 tvg-name="贝爷影厅" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/sublime2025/IPTV/main/img/斗鱼.png" group-title="影视",斗鱼轮播(左右)
-http://diyp.112114.xyz/douyu/252802$贝爷影厅
+http://huanqiuzhibo.cn/manifest/douyu.php?id=252802$贝爷影厅
 
 #EXTINF:-1 tvg-name="高分动作" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/sublime2025/IPTV/main/img/虎牙.png" group-title="影视",虎牙轮播(换台)
 https://live.iill.top/huya/11352884$高分动作
@@ -650,7 +650,7 @@ http://47.239.245.207:5050/litv/litv-ftv15
 #EXTINF:-1 tvg-name="猫和老鼠" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/sublime2025/IPTV/main/img/猫和老鼠.png" group-title="动漫",猫和老鼠
 https://live.iill.top/huya/11352879
 #EXTINF:-1 tvg-name="爆笑虫子" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/sublime2025/IPTV/main/img/爆笑虫子.png" group-title="动漫",爆笑虫子
-http://diyp.112114.xyz/douyu/9942574
+http://huanqiuzhibo.cn/manifest/douyu.php?id=9942574
 
 #EXTINF:-1 tvg-name="七龙珠改" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/sublime2025/IPTV/main/img/孙悟空.png" group-title="动漫",七龙珠
 https://live.iill.top/huya/11601966
@@ -680,12 +680,12 @@ https://live.iill.top/huya/30080227
 #EXTINF:-1 tvg-name="名侦探柯南" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/sublime2025/IPTV/main/img/名侦探.png" group-title="动漫",名侦探柯南
 https://live.iill.top/huya/30080236
 #EXTINF:-1 tvg-name="柯南剧场" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/sublime2025/IPTV/main/img/柯南.png" group-title="动漫",柯南剧场
-http://diyp.112114.xyz/douyu/7620081
+http://huanqiuzhibo.cn/manifest/douyu.php?id=7620081
 
 #EXTINF:-1 tvg-name="轮播动漫" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/sublime2025/IPTV/main/img/卡通.png" group-title="动漫",轮播动漫
-http://diyp.112114.xyz/douyu/1174353
+http://huanqiuzhibo.cn/manifest/douyu.php?id=1174353
 #EXTINF:-1 tvg-name="轮播动漫" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/sublime2025/IPTV/main/img/卡通.png" group-title="动漫",轮播动漫
-http://diyp.112114.xyz/douyu/426517
+http://huanqiuzhibo.cn/manifest/douyu.php?id=426517
 
 █████████████████████████████████████████████████████████████████████████████████████████████████████████
 
