@@ -191,6 +191,24 @@ CCTV1,http://kxrj.site:1258/69986/mg9.php?id=cctv4a$kxrj
 #EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/sublime2025/IPTV/main/img/IPTV/浙江卫视.png" group-title="卫视",浙江卫视
 https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8$ali
 
+#EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/sublime2025/IPTV/main/img/IPTV/江苏卫视.png" group-title="卫视",江苏卫视
+https://feiyang.vip-tptv.xyz/migu/623899368.m3u8?migutoken=0b9c4c0d4a903a628c00d72b242d23a12af93f7727c7286fc55889b7191a05565cf81600cbbf622cde0137d03be89e1f5d9590c34cc4a049914539339940eddc9b5ab9a87875ad2d5542c72e0b
+#EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/sublime2025/IPTV/main/img/IPTV/东方卫视.png" group-title="卫视",东方卫视
+https://feiyang.vip-tptv.xyz/migu/651632648.m3u8?migutoken=3e34c7dd484eec9578e851bc52d1e7cfc7204570385c73e5fbde6bc90696cc7edc0e1ab0a990fa37e39465c24a9638a9979a87c6cc9dcc53fe43d9c65bff2070c18567551567f00aa52f451826
+#EXTINF:-1 tvg-name="东南卫视" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/sublime2025/IPTV/main/img/IPTV/东南卫视.png" group-title="卫视",东南卫视
+https://feiyang.vip-tptv.xyz/migu/849116810.m3u8?migutoken=307b6210d0328289f6d38402832c3bb4283206fedc87a53c326635be23c1c0e00d71d3fff2438ce13dbcd2a47d245c1784ae349368ccc5663bbb57d44d55cd8fb0f12710803298e6efb770e36c
+#EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/sublime2025/IPTV/main/img/IPTV/广东卫视.png" group-title="卫视",广东卫视
+https://feiyang.vip-tptv.xyz/migu/608831231.m3u8?migutoken=14d31aa69d30147d34bf35aa70804ada5991675367138865b70dfd8047a32ca2e34dee21db532c4cec28c6a4388271e120449cdc5f6c30827f7ac383ea73ff194a7b161a76b0b1904c040f8196
+#EXTINF:-1 tvg-name="江西卫视" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/sublime2025/IPTV/main/img/IPTV/江西卫视.png" group-title="卫视",江西卫视
+https://feiyang.vip-tptv.xyz/migu/783847495.m3u8?migutoken=6ed4c57f192040dc66ecf3c1ac9327f67109995b393e185faa4ad84d1d09ad8840c49a46ddd53abc4312c3984eb52dd30e84cb8834d866a5616e89d15f35eac5442de1314afd73fb4fc0a7ce3b
+
+#EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/sublime2025/IPTV/main/img/IPTV/江苏卫视.png" group-title="卫视",江苏卫视
+http://z.b.bkpcp.top/m.php?id=jsws$zb
+#EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/sublime2025/IPTV/main/img/IPTV/广东卫视.png" group-title="卫视",广东卫视
+http://z.b.bkpcp.top/m.php?id=gdws$zb
+#EXTINF:-1 tvg-name="江西卫视" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/sublime2025/IPTV/main/img/IPTV/江西卫视.png" group-title="卫视",江西卫视
+http://z.b.bkpcp.top/m.php?id=jxws$zb
+
 #EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/sublime2025/IPTV/main/img/IPTV/湖南卫视.png" group-title="卫视",湖南卫视
 http://itms4.sdlk.vip:6721/hls/252/index.m3u8$itms
 #EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/sublime2025/IPTV/main/img/IPTV/浙江卫视.png" group-title="卫视",浙江卫视
@@ -228,13 +246,6 @@ http://114.66.63.89:35455/itv/1000000005000265028.m3u8?cdn=ystenlive$itv
 http://114.66.63.89:35455/itv/1000000005000265026.m3u8?cdn=ystenlive$itv
 #EXTINF:-1 tvg-name="江西卫视" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/sublime2025/IPTV/main/img/IPTV/江西卫视.png" group-title="卫视",江西卫视
 http://114.66.63.89:35455/itv/1000000005000265025.m3u8?cdn=ystenlive$itv
-
-#EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/sublime2025/IPTV/main/img/IPTV/江苏卫视.png" group-title="卫视",江苏卫视
-http://z.b.bkpcp.top/m.php?id=jsws$zb
-#EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/sublime2025/IPTV/main/img/IPTV/广东卫视.png" group-title="卫视",广东卫视
-http://z.b.bkpcp.top/m.php?id=gdws$zb
-#EXTINF:-1 tvg-name="江西卫视" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/sublime2025/IPTV/main/img/IPTV/江西卫视.png" group-title="卫视",江西卫视
-http://z.b.bkpcp.top/m.php?id=jxws$zb
 
 #EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/sublime2025/IPTV/main/img/IPTV/东方卫视.png" group-title="卫视",东方卫视
 http://aktv.top/AKTV/live/aktv3/null/AKTV.m3u8$AKTV
@@ -555,8 +566,6 @@ http://182.40.120.171/test-txdwk.flv.huya.com/src/1394565192-1394565192-59896118
 http://182.40.120.195/test-txdwk.flv.huya.com/src/1394575547-1394575547-5989656366166310912-2789274550-10057-A-0-1.m3u8
 #EXTINF:-1 tvg-name="成龙" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/sublime2025/IPTV/main/img/虎牙.png" group-title="影视",龙叔
 http://182.40.120.195/test-txdwk.flv.huya.com/src/1394565191-1394565191-5989611887484993536-2789253838-10057-A-0-1.m3u8
-#EXTINF:-1 tvg-name="沈腾" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/sublime2025/IPTV/main/img/虎牙.png" group-title="影视",沈腾
-http://182.40.120.213/test-txdwk.flv.huya.com/src/1524418085-1524418085-6547325820505948160-3048959626-10057-A-0-1.m3u8
 #EXTINF:-1 tvg-name="林正英" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/sublime2025/IPTV/main/img/虎牙.png" group-title="影视",英叔
 http://182.40.120.171/test-txdwk.flv.huya.com/src/1394575543-1394575543-5989656348986441728-2789274542-10057-A-0-1.m3u8
 
@@ -573,11 +582,11 @@ https://live.iill.top/huya/11342421
 
 █████████████████████████████████████████████████████████████████████████████████████████████████████████
 
-#EXTINF:-1 tvg-name="陈翔六点半" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/sublime2025/IPTV/main/img/IMG.png" group-title="剧集",陈翔六点半
+#EXTINF:-1 tvg-name="陈翔六点半" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/sublime2025/IPTV/main/img/虎牙.png" group-title="剧集",陈翔六点半
 https://live.iill.top/huya/11274154
-#EXTINF:-1 tvg-name="爱情公寓" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/sublime2025/IPTV/main/img/IMG.png" group-title="剧集",爱情公寓
+#EXTINF:-1 tvg-name="爱情公寓" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/sublime2025/IPTV/main/img/虎牙.png" group-title="剧集",爱情公寓
 https://live.iill.top/huya/11336726
-#EXTINF:-1 tvg-name="万合天宜" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/sublime2025/IPTV/main/img/IMG.png" group-title="剧集",万合天宜
+#EXTINF:-1 tvg-name="万合天宜" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/sublime2025/IPTV/main/img/虎牙.png" group-title="剧集",万合天宜
 https://live.iill.top/huya/9220456
 #EXTINF:-1 tvg-name="大江大河" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/sublime2025/IPTV/main/img/IMG.png" group-title="剧集",大江大河
 http://lunbo.freetv.top/yy/1382736797
@@ -589,20 +598,20 @@ http://zby.xjqxz.top/lyb/live.m3u8
 
 #EXTINF:-1 tvg-name="寻秦记" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/sublime2025/IPTV/main/img/IMG.png" group-title="剧集",寻秦记
 http://lunbo.freetv.top/yy/1382851591
-#EXTINF:-1 tvg-name="封神榜" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/sublime2025/IPTV/main/img/IMG.png" group-title="剧集",封神榜
+#EXTINF:-1 tvg-name="封神榜" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/sublime2025/IPTV/main/img/虎牙.png" group-title="剧集",封神榜
 https://live.iill.top/huya/23749096
-#EXTINF:-1 tvg-name="鹿鼎记" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/sublime2025/IPTV/main/img/IMG.png" group-title="剧集",鹿鼎记
+#EXTINF:-1 tvg-name="鹿鼎记" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/sublime2025/IPTV/main/img/虎牙.png" group-title="剧集",鹿鼎记
 https://live.iill.top/huya/23865080
 #EXTINF:-1 tvg-name="西游记Ⅰ" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/sublime2025/IPTV/main/img/IMG.png" group-title="剧集",西游记Ⅰ
 http://lunbo.freetv.top/yy/1354936155
-#EXTINF:-1 tvg-name="西游记Ⅱ" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/sublime2025/IPTV/main/img/IMG.png" group-title="剧集",西游记Ⅱ
+#EXTINF:-1 tvg-name="西游记Ⅱ" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/sublime2025/IPTV/main/img/虎牙.png" group-title="剧集",西游记Ⅱ
 https://live.iill.top/huya/23735126
-#EXTINF:-1 tvg-name="新三国" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/sublime2025/IPTV/main/img/IMG.png" group-title="剧集",新三国
+#EXTINF:-1 tvg-name="新三国" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/sublime2025/IPTV/main/img/虎牙.png" group-title="剧集",新三国
 https://live.iill.top/huya/11352944
-#EXTINF:-1 tvg-name="新水浒" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/sublime2025/IPTV/main/img/IMG.png" group-title="剧集",新水浒
+#EXTINF:-1 tvg-name="新水浒" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/sublime2025/IPTV/main/img/虎牙.png" group-title="剧集",新水浒
 https://live.iill.top/huya/11342384
 
-#EXTINF:-1 tvg-name="少年张三丰" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/sublime2025/IPTV/main/img/IMG.png" group-title="剧集",少年张三丰
+#EXTINF:-1 tvg-name="少年张三丰" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/sublime2025/IPTV/main/img/虎牙.png" group-title="剧集",少年张三丰
 https://live.iill.top/huya/26355824
 #EXTINF:-1 tvg-name="少年包青天1" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/sublime2025/IPTV/main/img/IMG.png" group-title="剧集",少年包青天1
 http://lunbo.freetv.top/yy/1356043677
@@ -619,21 +628,21 @@ http://lunbo.freetv.top/yy/1382736838
 http://lunbo.freetv.top/yy/1351814644
 #EXTINF:-1 tvg-name="笑傲江湖" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/sublime2025/IPTV/main/img/IMG.png" group-title="剧集",笑傲江湖
 http://lunbo.freetv.top/yy/1354930909
-#EXTINF:-1 tvg-name="倚天屠龙记" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/sublime2025/IPTV/main/img/IMG.png" group-title="剧集",倚天屠龙记
+#EXTINF:-1 tvg-name="倚天屠龙记" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/sublime2025/IPTV/main/img/虎牙.png" group-title="剧集",倚天屠龙记
 https://live.iill.top/huya/11342403
 #EXTINF:-1 tvg-name="隋唐英雄传" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/sublime2025/IPTV/main/img/IMG.png" group-title="剧集",隋唐英雄传
 http://lunbo.freetv.top/yy/1352475619
 #EXTINF:-1 tvg-name="仙剑奇侠传Ⅰ" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/sublime2025/IPTV/main/img/IMG.png" group-title="剧集",仙剑奇侠传Ⅰ
 http://lunbo.freetv.top/yy/1382749903
-#EXTINF:-1 tvg-name="大唐双龙传" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/sublime2025/IPTV/main/img/IMG.png" group-title="剧集",大唐双龙传
+#EXTINF:-1 tvg-name="大唐双龙传" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/sublime2025/IPTV/main/img/虎牙.png" group-title="剧集",大唐双龙传
 https://live.iill.top/huya/23728674
-#EXTINF:-1 tvg-name="风云雄霸天下" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/sublime2025/IPTV/main/img/IMG.png" group-title="剧集",风云雄霸天下
+#EXTINF:-1 tvg-name="风云雄霸天下" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/sublime2025/IPTV/main/img/虎牙.png" group-title="剧集",风云雄霸天下
 https://live.iill.top/huya/21059612
 #EXTINF:-1 tvg-name="忠烈杨家将" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/sublime2025/IPTV/main/img/IMG.png" group-title="剧集",忠烈杨家将
 http://lunbo.freetv.top/yy/1382749909
 #EXTINF:-1 tvg-name="雪中悍刀行" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/sublime2025/IPTV/main/img/IMG.png" group-title="剧集",雪中悍刀行
 http://lunbo.freetv.top/yy/1382660835
-#EXTINF:-1 tvg-name="庆余年" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/sublime2025/IPTV/main/img/IMG.png" group-title="剧集",庆余年
+#EXTINF:-1 tvg-name="庆余年" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/sublime2025/IPTV/main/img/虎牙.png" group-title="剧集",庆余年
 https://live.iill.top/huya/11352960
 
 █████████████████████████████████████████████████████████████████████████████████████████████████████████
