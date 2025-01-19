@@ -214,9 +214,6 @@ https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream04/streamPla
 
 █████████████████████████████████████████████████████████████████████████████████████████████████████████
 
-#EXTINF:-1 tvg-name="环球电视" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/sublime2025/IPTV/main/img/World/环球电视.png" group-title="国际",环球电视
-http://zb.xzxwhcb.com:9999/hls/world.m3u8
-
 #EXTINF:-1 tvg-name="CNA" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/sublime2025/IPTV/main/img/World/CNA.png" group-title="国际",亚洲新闻
 http://aktv.top/AKTV/live/aktv3/null-3/AKTV.m3u8$AKTV
 #EXTINF:-1 tvg-name="CNA" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/sublime2025/IPTV/main/img/World/CNA.png" group-title="国际",亚洲新闻
@@ -301,11 +298,6 @@ http://php.jdshipin.com:8880/TVOD/iptv.php?id=meiya$JDSP
 http://50.7.234.10:8278/meiyamovie_twn/playlist.m3u8?tid=MFDF2848449728484497&ct=19211&tsum=f65f39620c24fee2e633c4727cc48727
 #EXTINF:-1 tvg-name="美亚电影台" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/sublime2025/IPTV/main/img/Movie/美亚电影.png" group-title="影视",美亚电影
 http://50.7.234.10:8278/meiyamovie_twn/playlist.m3u8?tid=MC6C9419277694192776&ct=19234&tsum=43f9d2e13c7cbbce7e5c5ec94fa38750
-
-#EXTINF:-1 tvg-name="cat电影" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/sublime2025/IPTV/main/img/Movie/CAT电影.png" group-title="影视",cat电影
-http://209.141.58.162:4994/proxy?url=http%3A//209.141.58.162%3A5050/litv/4gtv-4gtv076
-#EXTINF:-1 tvg-name="cat电影" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/sublime2025/IPTV/main/img/Movie/CAT电影.png" group-title="影视",cat电影
-http://47.239.245.207:5050/litv/4gtv-4gtv076
 
 #EXTINF:-1 tvg-name="amc电影" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/sublime2025/IPTV/main/img/Movie/AMC电影.png" group-title="影视",amc电影
 http://61.221.215.25:8800/hls/43/index.m3u8
@@ -475,10 +467,8 @@ http://lunbo.freetv.top/yy/1354930909
 https://live.iill.top/huya/11342403
 #EXTINF:-1 tvg-name="隋唐英雄传" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/sublime2025/IPTV/main/img/IMG.png" group-title="剧集",隋唐英雄传
 http://lunbo.freetv.top/yy/1352475619
-#EXTINF:-1 tvg-name="仙剑奇侠传Ⅰ" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/sublime2025/IPTV/main/img/IMG.png" group-title="剧集",仙剑奇侠传Ⅰ
+#EXTINF:-1 tvg-name="仙剑奇侠传" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/sublime2025/IPTV/main/img/IMG.png" group-title="剧集",仙剑奇侠传
 http://lunbo.freetv.top/yy/1382749903
-#EXTINF:-1 tvg-name="大唐双龙传" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/sublime2025/IPTV/main/img/虎牙.png" group-title="剧集",大唐双龙传
-https://live.iill.top/huya/23728674
 #EXTINF:-1 tvg-name="风云雄霸天下" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/sublime2025/IPTV/main/img/虎牙.png" group-title="剧集",风云雄霸天下
 https://live.iill.top/huya/21059612
 #EXTINF:-1 tvg-name="忠烈杨家将" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/sublime2025/IPTV/main/img/IMG.png" group-title="剧集",忠烈杨家将
