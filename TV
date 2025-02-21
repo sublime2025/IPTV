@@ -48,25 +48,27 @@ http://z.b.bkpcp.top/m.php?id=cctv4a$zb
 https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8$ali
 
 #EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://raw.gitmirror.com/sublime2025/IPTV/main/img/IPTV/湖南卫视.png" group-title="卫视",湖南卫视
-http://175.9.160.99:8989/udp/239.76.245.115:1234
+http://118.79.112.54:6000/rtp/226.0.2.143:9056
 #EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://raw.gitmirror.com/sublime2025/IPTV/main/img/IPTV/浙江卫视.png" group-title="卫视",浙江卫视
-http://175.9.160.99:8989/udp/239.76.246.182:1234
+http://118.79.112.54:6000/rtp/226.0.2.144:9064
 #EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://raw.gitmirror.com/sublime2025/IPTV/main/img/IPTV/江苏卫视.png" group-title="卫视",江苏卫视
-http://175.9.160.99:8989/udp/239.76.246.181:1234
+http://118.79.112.54:6000/rtp/226.0.2.176:9320
 #EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://raw.gitmirror.com/sublime2025/IPTV/main/img/IPTV/东方卫视.png" group-title="卫视",东方卫视
-http://175.9.160.99:8989/udp/239.76.246.186:1234
+http://118.79.112.54:6000/rtp/226.0.2.175:9312
 #EXTINF:-1 tvg-name="东南卫视" tvg-logo="https://raw.gitmirror.com/sublime2025/IPTV/main/img/IPTV/东南卫视.png" group-title="卫视",东南卫视
-http://175.9.160.99:8989/udp/239.76.245.190:1234
+http://118.79.112.54:6000/rtp/226.0.2.188:9416
 #EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://raw.gitmirror.com/sublime2025/IPTV/main/img/IPTV/广东卫视.png" group-title="卫视",广东卫视
-http://175.9.160.99:8989/udp/239.76.245.189:1234
+http://118.79.112.54:6000/rtp/226.0.2.146:9080
 #EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://raw.gitmirror.com/sublime2025/IPTV/main/img/IPTV/深圳卫视.png" group-title="卫视",深圳卫视
-http://175.9.160.99:8989/udp/239.76.246.188:1234
+http://118.79.112.54:6000/rtp/226.0.2.147:9088
+#EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://raw.gitmirror.com/sublime2025/IPTV/main/img/IPTV/北京卫视.png" group-title="卫视",北京卫视
+http://118.79.112.54:6000/rtp/226.0.2.177:9328
 #EXTINF:-1 tvg-name="天津卫视" tvg-logo="https://raw.gitmirror.com/sublime2025/IPTV/main/img/IPTV/天津卫视.png" group-title="卫视",天津卫视
-http://175.9.160.99:8989/udp/239.76.246.185:1234
+http://118.79.112.54:6000/rtp/226.0.2.148:9096
 #EXTINF:-1 tvg-name="安徽卫视" tvg-logo="https://raw.gitmirror.com/sublime2025/IPTV/main/img/IPTV/安徽卫视.png" group-title="卫视",安徽卫视
-http://175.9.160.99:8989/udp/239.76.245.196:1234
+http://118.79.112.54:6000/rtp/226.0.2.145:9072
 #EXTINF:-1 tvg-name="江西卫视" tvg-logo="https://raw.gitmirror.com/sublime2025/IPTV/main/img/IPTV/江西卫视.png" group-title="卫视",江西卫视
-http://175.9.160.99:8989/udp/239.76.245.225:1234
+http://118.79.112.54:6000/rtp/226.0.2.54:8344
 
 #EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://raw.gitmirror.com/sublime2025/IPTV/main/img/IPTV/江苏卫视.png" group-title="卫视",江苏卫视
 http://z.b.bkpcp.top/m.php?id=jsws$zb
