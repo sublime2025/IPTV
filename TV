@@ -4,7 +4,7 @@
 █████████████████████████████████████████████████████████████████████████████████████████████████████████
 
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.gitmirror.com/sublime2025/IPTV/main/img/CCTV/CCTV1.png" group-title="央视",CCTV1
-http://z.b.bkpcp.top/m.php?id=cctv1$zb
+http://180.126.140.242:4022/rtp/239.49.8.129:6000
 #EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://raw.gitmirror.com/sublime2025/IPTV/main/img/CCTV/CCTV2.png" group-title="央视",CCTV2
 http://z.b.bkpcp.top/m.php?id=cctv2$zb
 #EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://raw.gitmirror.com/sublime2025/IPTV/main/img/CCTV/CCTV3.png" group-title="央视",CCTV3
