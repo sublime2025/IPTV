@@ -4,9 +4,9 @@
 █████████████████████████████████████████████████████████████████████████████████████████████████████████
 
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.gitmirror.com/sublime2025/IPTV/main/img/CCTV/CCTV1.png" group-title="央视",CCTV1
-http://180.126.140.242:4022/rtp/239.49.8.129:6000
+http://106.42.108.14:2000/rtp/239.16.20.1:10010
 #EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://raw.gitmirror.com/sublime2025/IPTV/main/img/CCTV/CCTV2.png" group-title="央视",CCTV2
-http://180.126.140.242:4022/rtp/239.49.8.130:6000
+http://106.42.108.14:2000/rtp/239.16.20.2:10020
 #EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://raw.gitmirror.com/sublime2025/IPTV/main/img/CCTV/CCTV3.png" group-title="央视",CCTV3
 http://180.126.140.242:4022/rtp/239.49.9.31:6000
 #EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://raw.gitmirror.com/sublime2025/IPTV/main/img/CCTV/CCTV4.png" group-title="央视",CCTV4
