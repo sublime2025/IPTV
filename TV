@@ -130,18 +130,19 @@ rtmp://f13h.mine.nu/sat/tv741
 █████████████████████████████████████████████████████████████████████████████████████████████████████████
 
 #EXTINF:-1 tvg-name="CNA" tvg-logo="https://raw.gitmirror.com/sublime2025/IPTV/main/img/World/CNA.png" group-title="国际",亚洲新闻
-http://aktv.top/AKTV/live/aktv3/null-3/AKTV.m3u8$AKTV
-#EXTINF:-1 tvg-name="CNA" tvg-logo="https://raw.gitmirror.com/sublime2025/IPTV/main/img/World/CNA.png" group-title="国际",亚洲新闻
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+#EXTINF:-1 tvg-name="CNA" tvg-logo="https://raw.gitmirror.com/sublime2025/IPTV/main/img/World/CNA.png" group-title="国际",亚洲新闻
+http://aktv.top/AKTV/live/aktv3/null-3/AKTV.m3u8$AKTV
 
 #EXTINF:-1 tvg-name="DW" tvg-logo="https://raw.gitmirror.com/sublime2025/IPTV/main/img/World/DW.png" group-title="国际",德国新闻
-http://aktv.top/AKTV/live/aktv3/dw/AKTV.m3u8$AKTV
-#EXTINF:-1 tvg-name="DW" tvg-logo="https://raw.gitmirror.com/sublime2025/IPTV/main/img/World/DW.png" group-title="国际",德国新闻
 http://37.27.111.214:8080/live/46/hls.m3u8
-#EXTINF:-1 tvg-name="France24" tvg-logo="https://raw.gitmirror.com/sublime2025/IPTV/main/img/World/France24.png" group-title="国际",法国新闻
-http://aktv.top/AKTV/live/aktv3/france24/AKTV.m3u8$AKTV
+#EXTINF:-1 tvg-name="DW" tvg-logo="https://raw.gitmirror.com/sublime2025/IPTV/main/img/World/DW.png" group-title="国际",德国新闻
+http://aktv.top/AKTV/live/aktv3/dw/AKTV.m3u8$AKTV
+
 #EXTINF:-1 tvg-name="France24" tvg-logo="https://raw.gitmirror.com/sublime2025/IPTV/main/img/World/France24.png" group-title="国际",法国新闻
 http://50.7.234.10:8278/france24_twn/playlist.m3u8?tid=MD8D3999259739992597&ct=19225&tsum=f842be32f837e71c7df73d173c6705b1
+#EXTINF:-1 tvg-name="France24" tvg-logo="https://raw.gitmirror.com/sublime2025/IPTV/main/img/World/France24.png" group-title="国际",法国新闻
+http://aktv.top/AKTV/live/aktv3/france24/AKTV.m3u8$AKTV
 
 #EXTINF:-1 tvg-name="Japan 24h" tvg-logo="https://raw.gitmirror.com/sublime2025/IPTV/main/img/World/Japan24.png" group-title="国际",日本新闻
 https://n24-cdn-live.ntv.co.jp/ch01/index_high.m3u8
