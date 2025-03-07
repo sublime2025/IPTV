@@ -109,11 +109,6 @@ https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream04/streamPla
 #EXTINF:-1 tvg-name="CGTN" tvg-logo="https://raw.gitmirror.com/sublime2025/IPTV/main/img/TVB/RTHK34.png" group-title="港台",RTHK34
 https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream04/streamPlaylist.m3u8
 
-#EXTINF:-1 tvg-name="魅力足球" tvg-logo="https://raw.gitmirror.com/sublime2025/IPTV/main/img/Sport/魅力足球.png" group-title="港台",魅力足球
-http://z.b.bkpcp.top/m.php?id=mlzq$zb
-#EXTINF:-1 tvg-name="劲爆体育" tvg-logo="https://raw.gitmirror.com/sublime2025/IPTV/main/img/Sport/劲爆体育.png" group-title="港台",劲爆体育
-http://z.b.bkpcp.top/m.php?id=jbty$zb
-
 #EXTINF:-1 tvg-name="纬来体育" tvg-logo="https://raw.gitmirror.com/sublime2025/IPTV/main/img/Sport/纬来体育.png" group-title="港台",纬来体育
 rtmp://f13h.mine.nu/sat/tv721
 
