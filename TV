@@ -4,41 +4,41 @@
 █████████████████████████████████████████████████████████████████████████████████████████████████████████
 
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://ghproxy.cfd/raw.githubusercontent.com/sublime2025/IPTV/main/img/CCTV/CCTV1.png" group-title="央视",CCTV1
-http://60.223.72.7:8001/rtp/226.0.2.153:9136
+http://117.39.32.193:4022/rtp/239.112.205.59:5140
 #EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://ghproxy.cfd/raw.githubusercontent.com/sublime2025/IPTV/main/img/CCTV/CCTV2.png" group-title="央视",CCTV2
-http://60.223.72.7:8001/rtp/226.0.2.154:9144
+http://117.39.32.193:4022/rtp/239.112.205.78:5140
 #EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://ghproxy.cfd/raw.githubusercontent.com/sublime2025/IPTV/main/img/CCTV/CCTV3.png" group-title="央视",CCTV3
-http://60.223.72.7:8001/rtp/226.0.2.208:9576
+http://117.39.32.193:4022/rtp/239.112.205.221:5140
 #EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://ghproxy.cfd/raw.githubusercontent.com/sublime2025/IPTV/main/img/CCTV/CCTV4.png" group-title="央视",CCTV4
-http://60.223.72.7:8001/rtp/226.0.2.156:9160
+http://117.39.32.193:4022/rtp/239.112.205.202:5140
 #EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://ghproxy.cfd/raw.githubusercontent.com/sublime2025/IPTV/main/img/CCTV/CCTV5.png" group-title="央视",CCTV5
-http://60.223.72.7:8001/rtp/226.0.2.209:9584
+http://117.39.32.193:4022/rtp/239.112.205.222:5140
 #EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://ghproxy.cfd/raw.githubusercontent.com/sublime2025/IPTV/main/img/CCTV/CCTV6.png" group-title="央视",CCTV6
-http://60.223.72.7:8001/rtp/226.0.2.210:9592
+http://117.39.32.193:4022/rtp/239.112.205.223:5140
 #EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://ghproxy.cfd/raw.githubusercontent.com/sublime2025/IPTV/main/img/CCTV/CCTV7.png" group-title="央视",CCTV7
-http://60.223.72.7:8001/rtp/226.0.2.159:9184
+http://117.39.32.193:4022/rtp/239.112.205.83:5140
 #EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://ghproxy.cfd/raw.githubusercontent.com/sublime2025/IPTV/main/img/CCTV/CCTV8.png" group-title="央视",CCTV8
-http://60.223.72.7:8001/rtp/226.0.2.211:9600
+http://117.39.32.193:4022/rtp/239.112.205.224:5140
 #EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://ghproxy.cfd/raw.githubusercontent.com/sublime2025/IPTV/main/img/CCTV/CCTV9.png" group-title="央视",CCTV9
-http://60.223.72.7:8001/rtp/226.0.2.161:9200
+http://117.39.32.193:4022/rtp/239.112.205.85:5140
 #EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://ghproxy.cfd/raw.githubusercontent.com/sublime2025/IPTV/main/img/CCTV/CCTV10.png" group-title="央视",CCTV10
-http://60.223.72.7:8001/rtp/226.0.2.162:9208
+http://117.39.32.193:4022/rtp/239.112.205.86:5140
 #EXTINF:-1 tvg-name="CCTV11" tvg-logo="https://ghproxy.cfd/raw.githubusercontent.com/sublime2025/IPTV/main/img/CCTV/CCTV11.png" group-title="央视",CCTV11
-http://60.223.72.7:8001/rtp/226.0.2.28:8136
+http://117.39.32.193:4022/rtp/239.112.205.213:5140
 #EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://ghproxy.cfd/raw.githubusercontent.com/sublime2025/IPTV/main/img/CCTV/CCTV12.png" group-title="央视",CCTV12
-http://60.223.72.7:8001/rtp/226.0.2.164:9224
+http://117.39.32.193:4022/rtp/239.112.205.88:5140
 #EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://ghproxy.cfd/raw.githubusercontent.com/sublime2025/IPTV/main/img/CCTV/CCTV13.png" group-title="央视",CCTV13
 http://60.223.72.7:8001/rtp/226.0.2.165:9232
 #EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://ghproxy.cfd/raw.githubusercontent.com/sublime2025/IPTV/main/img/CCTV/CCTV14.png" group-title="央视",CCTV14
-http://60.223.72.7:8001/rtp/226.0.2.166:9240
+http://117.39.32.193:4022/rtp/239.112.205.91:5140
 #EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://ghproxy.cfd/raw.githubusercontent.com/sublime2025/IPTV/main/img/CCTV/CCTV15.png" group-title="央视",CCTV15
-http://60.223.72.107:8004/rtp/226.0.2.32:8168
+http://117.39.32.193:4022/rtp/239.112.205.214:5140
 #EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://ghproxy.cfd/raw.githubusercontent.com/sublime2025/IPTV/main/img/CCTV/CCTV16.png" group-title="央视",CCTV16
-http://60.223.72.7:8001/rtp/226.0.2.169:9264
+http://117.39.32.193:4022/rtp/239.111.205.134:5140
 #EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://ghproxy.cfd/raw.githubusercontent.com/sublime2025/IPTV/main/img/CCTV/CCTV17.png" group-title="央视",CCTV17
-http://60.223.72.7:8001/rtp/226.0.2.170:9272
+http://117.39.32.193:4022/rtp/239.112.205.211:5140
 #EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://ghproxy.cfd/raw.githubusercontent.com/sublime2025/IPTV/main/img/CCTV/CCTV5+.png" group-title="央视",CCTV5+
-http://60.223.72.7:8001/rtp/226.0.2.168:9256
+http://117.39.32.193:4022/rtp/239.111.205.13:5140
 #EXTINF:-1 tvg-name="CCTV4o" tvg-logo="https://ghproxy.cfd/raw.githubusercontent.com/sublime2025/IPTV/main/img/CCTV/CCTV4o.png" group-title="央视",CCTV4o
 http://z.b.bkpcp.top/m.php?id=cctv4o$zb
 #EXTINF:-1 tvg-name="CCTV4a" tvg-logo="https://ghproxy.cfd/raw.githubusercontent.com/sublime2025/IPTV/main/img/CCTV/CCTV4a.png" group-title="央视",CCTV4a
@@ -50,27 +50,27 @@ http://z.b.bkpcp.top/m.php?id=cctv4a$zb
 https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8$ali
 
 #EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://ghproxy.cfd/raw.githubusercontent.com/sublime2025/IPTV/main/img/IPTV/湖南卫视.png" group-title="卫视",湖南卫视
-http://60.223.72.7:8001/rtp/226.0.2.143:9056
+http://117.39.32.193:4022/rtp/239.112.205.62:5140
 #EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://ghproxy.cfd/raw.githubusercontent.com/sublime2025/IPTV/main/img/IPTV/浙江卫视.png" group-title="卫视",浙江卫视
-http://60.223.72.7:8001/rtp/226.0.2.144:9064
+http://117.39.32.193:4022/rtp/239.112.205.64:5140
 #EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://ghproxy.cfd/raw.githubusercontent.com/sublime2025/IPTV/main/img/IPTV/江苏卫视.png" group-title="卫视",江苏卫视
-http://60.223.72.7:8001/rtp/226.0.2.176:9320
+http://117.39.32.193:4022/rtp/239.112.205.63:5140
 #EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://ghproxy.cfd/raw.githubusercontent.com/sublime2025/IPTV/main/img/IPTV/东方卫视.png" group-title="卫视",东方卫视
-http://60.223.72.7:8001/rtp/226.0.2.175:9312
+http://117.39.32.193:4022/rtp/239.112.205.61:5140
 #EXTINF:-1 tvg-name="东南卫视" tvg-logo="https://ghproxy.cfd/raw.githubusercontent.com/sublime2025/IPTV/main/img/IPTV/东南卫视.png" group-title="卫视",东南卫视
-http://60.223.72.7:8001/rtp/226.0.2.188:9416
+http://117.39.32.193:4022/rtp/239.112.205.182:5140
 #EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://ghproxy.cfd/raw.githubusercontent.com/sublime2025/IPTV/main/img/IPTV/广东卫视.png" group-title="卫视",广东卫视
-http://60.223.72.7:8001/rtp/226.0.2.146:9080
+http://117.39.32.193:4022/rtp/239.112.205.66:5140
 #EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://ghproxy.cfd/raw.githubusercontent.com/sublime2025/IPTV/main/img/IPTV/深圳卫视.png" group-title="卫视",深圳卫视
-http://60.223.72.7:8001/rtp/226.0.2.147:9088
+http://117.39.32.193:4022/rtp/239.112.205.67:5140
 #EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://ghproxy.cfd/raw.githubusercontent.com/sublime2025/IPTV/main/img/IPTV/北京卫视.png" group-title="卫视",北京卫视
-http://60.223.72.7:8001/rtp/226.0.2.177:9328
+http://117.39.32.193:4022/rtp/239.112.205.65:5140
 #EXTINF:-1 tvg-name="天津卫视" tvg-logo="https://ghproxy.cfd/raw.githubusercontent.com/sublime2025/IPTV/main/img/IPTV/天津卫视.png" group-title="卫视",天津卫视
-http://60.223.72.7:8001/rtp/226.0.2.148:9096
+http://117.39.32.193:4022/rtp/239.112.205.74:5140
 #EXTINF:-1 tvg-name="安徽卫视" tvg-logo="https://ghproxy.cfd/raw.githubusercontent.com/sublime2025/IPTV/main/img/IPTV/安徽卫视.png" group-title="卫视",安徽卫视
-http://60.223.72.7:8001/rtp/226.0.2.145:9072
+http://117.39.32.193:4022/rtp/239.112.205.72:5140
 #EXTINF:-1 tvg-name="江西卫视" tvg-logo="https://ghproxy.cfd/raw.githubusercontent.com/sublime2025/IPTV/main/img/IPTV/江西卫视.png" group-title="卫视",江西卫视
-http://60.223.72.7:8001/rtp/226.0.2.54:8344
+http://117.39.32.193:4022/rtp/239.111.205.16:5140
 
 █████████████████████████████████████████████████████████████████████████████████████████████████████████
 
@@ -373,6 +373,11 @@ http://aktv_stream1.m16tv.cfd/stream/aktv3/nickelodeon/AKTV.m3u8
 http://aktv_stream1.m16tv.cfd/stream/tuntun/disneychannel/AKTV.m3u8
 #EXTINF:-1 tvg-name="Disney XD" tvg-logo="https://ghproxy.cfd/raw.githubusercontent.com/sublime2025/IPTV/main/img/TVB/Disney.png" group-title="动漫",Disney
 http://aktv_stream1.m16tv.cfd/stream/tuntun/disneyxd/AKTV.m3u8
+
+#EXTINF:-1 tvg-name="Nick" tvg-logo="https://ghproxy.cfd/raw.githubusercontent.com/sublime2025/IPTV/main/img/TVB/Nick.png" group-title="动漫",NickJr
+http://aktv_stream1.m16tv.cfd/stream/aktv3/nickjr/AKTV.m3u8
+#EXTINF:-1 tvg-name="Nick" tvg-logo="https://ghproxy.cfd/raw.githubusercontent.com/sublime2025/IPTV/main/img/TVB/Nick.png" group-title="动漫",NickJr
+http://aktv_stream1.m16tv.cfd/stream/aktv3/nickelodeon/AKTV.m3u8
 
 #EXTINF:-1 tvg-name="CN卡通" tvg-logo="https://ghproxy.cfd/raw.githubusercontent.com/sublime2025/IPTV/main/img/TVB/CN卡通.png" group-title="动漫",CN卡通
 http://50.7.234.10:8278/momo1_twn/playlist.m3u8?ct=19225&tid=MA0A4898983648989836&tsum=bd109117d126916f203880b1f2063d5e
