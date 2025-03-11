@@ -154,9 +154,9 @@ rtmp://f13h.mine.nu/sat/tv741
 █████████████████████████████████████████████████████████████████████████████████████████████████████████
 
 #EXTINF:-1 tvg-name="CNA" tvg-logo="https://raw.gitmirror.com/sublime2025/IPTV/main/img/World/CNA.png" group-title="国际",亚洲新闻
-https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-#EXTINF:-1 tvg-name="CNA" tvg-logo="https://raw.gitmirror.com/sublime2025/IPTV/main/img/World/CNA.png" group-title="国际",亚洲新闻
 http://aktv_stream1.m16tv.cfd/stream/aktv3/null-3/AKTV.m3u8$AKTV
+#EXTINF:-1 tvg-name="CNA" tvg-logo="https://raw.gitmirror.com/sublime2025/IPTV/main/img/World/CNA.png" group-title="国际",亚洲新闻
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 
 #EXTINF:-1 tvg-name="DW" tvg-logo="https://raw.gitmirror.com/sublime2025/IPTV/main/img/World/DW.png" group-title="国际",德国新闻
 http://aktv_stream1.m16tv.cfd/stream/aktv3/dw/AKTV.m3u8$AKTV
@@ -169,7 +169,7 @@ http://aktv_stream1.m16tv.cfd/stream/aktv3/france24/AKTV.m3u8$AKTV
 http://50.7.234.10:8278/france24_twn/playlist.m3u8?tid=MD8D3999259739992597&ct=19225&tsum=f842be32f837e71c7df73d173c6705b1
 
 #EXTINF:-1 tvg-name="Japan 24h" tvg-logo="https://raw.gitmirror.com/sublime2025/IPTV/main/img/World/Japan24.png" group-title="国际",日本新闻
-http://aktv_stream1.m16tv.cfd/stream/useradd1/ntvnews24/AKTV.m3u8
+http://aktv_stream1.m16tv.cfd/stream/useradd1/ntvnews24/AKTV.m3u8$AKTV
 #EXTINF:-1 tvg-name="Japan 24h" tvg-logo="https://raw.gitmirror.com/sublime2025/IPTV/main/img/World/Japan24.png" group-title="国际",日本新闻
 https://n24-cdn-live.ntv.co.jp/ch01/index_high.m3u8
 
@@ -224,34 +224,25 @@ https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 
 █████████████████████████████████████████████████████████████████████████████████████████████████████████
 
-#EXTINF:-1 tvg-name="豆瓣TOP" tvg-logo="https://raw.gitmirror.com/sublime2025/IPTV/main/img/Movie/豆瓣TOP.png" group-title="影视",豆瓣TOP
-http://huanqiuzhibo.cn/manifest/douyu.php?id=8770422$HQZB
-#EXTINF:-1 tvg-name="豆瓣TOP" tvg-logo="https://raw.gitmirror.com/sublime2025/IPTV/main/img/Movie/豆瓣TOP.png" group-title="影视",豆瓣TOP
-http://zzy789.xyz/douyu1.php?id=8770422$ZZY
-#EXTINF:-1 tvg-name="豆瓣TOP" tvg-logo="https://raw.gitmirror.com/sublime2025/IPTV/main/img/Movie/豆瓣TOP.png" group-title="影视",豆瓣TOP
-http://jiaojirentv.top/2020/dy.php?id=8770422$JJR
-#EXTINF:-1 tvg-name="豆瓣TOP" tvg-logo="https://raw.gitmirror.com/sublime2025/IPTV/main/img/Movie/豆瓣TOP.png" group-title="影视",豆瓣TOP
-http://43.136.119.99/douyu.php?id=8770422$43
-
 #EXTINF:-1 tvg-name="美亚电影台" tvg-logo="https://raw.gitmirror.com/sublime2025/IPTV/main/img/Movie/美亚电影.png" group-title="影视",美亚电影
 http://50.7.234.10:8278/meiyamovie_twn/playlist.m3u8?tid=MFDF2848449728484497&ct=19211&tsum=f65f39620c24fee2e633c4727cc48727
 #EXTINF:-1 tvg-name="美亚电影台" tvg-logo="https://raw.gitmirror.com/sublime2025/IPTV/main/img/Movie/美亚电影.png" group-title="影视",美亚电影
 http://50.7.234.10:8278/meiyamovie_twn/playlist.m3u8?tid=MC6C9419277694192776&ct=19234&tsum=43f9d2e13c7cbbce7e5c5ec94fa38750
+
 #EXTINF:-1 tvg-name="美亚电影港" tvg-logo="https://raw.gitmirror.com/sublime2025/IPTV/main/img/Movie/美亚电影.png" group-title="影视",美亚电影
 http://aktv_stream1.m16tv.cfd/stream/aktv/hk-1/AKTV.m3u8$AKTV
 #EXTINF:-1 tvg-name="美亚电影港" tvg-logo="https://raw.gitmirror.com/sublime2025/IPTV/main/img/Movie/美亚电影.png" group-title="影视",美亚电影
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=meiya$JDSP
 
 #EXTINF:-1 tvg-name="amc电影" tvg-logo="https://raw.gitmirror.com/sublime2025/IPTV/main/img/Movie/AMC电影.png" group-title="影视",amc电影
-http://61.221.215.25:8800/hls/43/index.m3u8
-#EXTINF:-1 tvg-name="amc电影" tvg-logo="https://raw.gitmirror.com/sublime2025/IPTV/main/img/Movie/AMC电影.png" group-title="影视",amc电影
 http://aktv_stream1.m16tv.cfd/stream/taiwan/amc/AKTV.m3u8$AKTV
 #EXTINF:-1 tvg-name="amc电影" tvg-logo="https://raw.gitmirror.com/sublime2025/IPTV/main/img/Movie/AMC电影.png" group-title="影视",amc电影
-http://47.239.245.207:5050/litv/4gtv-4gtv017
-#EXTINF:-1 tvg-name="HITs电影" tvg-logo="https://raw.gitmirror.com/sublime2025/IPTV/main/img/Movie/HITs.png" group-title="影视",HITs电影
-http://37.27.111.214:8080/live/28/hls.m3u8
+http://61.221.215.25:8800/hls/43/index.m3u8
+
 #EXTINF:-1 tvg-name="HITs电影" tvg-logo="https://raw.gitmirror.com/sublime2025/IPTV/main/img/Movie/HITs.png" group-title="影视",HITs电影
 http://aktv_stream1.m16tv.cfd/stream/taiwan/hits/AKTV.m3u8$AKTV
+#EXTINF:-1 tvg-name="HITs电影" tvg-logo="https://raw.gitmirror.com/sublime2025/IPTV/main/img/Movie/HITs.png" group-title="影视",HITs电影
+http://37.27.111.214:8080/live/28/hls.m3u8
 
 #EXTINF:-1 tvg-name="HBO电影" tvg-logo="https://raw.gitmirror.com/sublime2025/IPTV/main/img/Movie/HBO-Signature.png" group-title="影视",HBO电影
 http://50.7.234.10:8278/hbosignature_twn/playlist.m3u8?tid=MD6D5767423357674233&ct=18392&tsum=995709f1100cf1b07964790160bfb4ee
@@ -272,43 +263,26 @@ http://aktv_stream1.m16tv.cfd/stream/aktv/rockaction/AKTV.m3u8$AKTV
 http://50.7.234.10:8278/cinemax_twn/playlist.m3u8?tid=MFEF8256939882569398&ct=19225&tsum=b6faed73a920c75f873a0c8f511eeba2
 
 #EXTINF:-1 tvg-name="好莱坞" tvg-logo="https://raw.gitmirror.com/sublime2025/IPTV/main/img/Movie/好莱坞.png" group-title="影视",好莱坞
+http://50.7.234.10:8278/hollywoodmovies_twn/playlist.m3u8?tid=MFDF3993740539937405&ct=19234&tsum=9c77fd229b7086f14748debe0f6b4ae6
+#EXTINF:-1 tvg-name="好莱坞" tvg-logo="https://raw.gitmirror.com/sublime2025/IPTV/main/img/Movie/好莱坞.png" group-title="影视",好莱坞
 http://50.7.234.10:8278/hollywoodmovies_twn/playlist.m3u8?tid=MA8A4005638840056388&ct=18392&tsum=a1f1517d4ea64fd01267905f21d83859
 #EXTINF:-1 tvg-name="好莱坞" tvg-logo="https://raw.gitmirror.com/sublime2025/IPTV/main/img/Movie/好莱坞.png" group-title="影视",好莱坞
 http://50.7.234.10:8278/hollywoodmovies_twn/playlist.m3u8?tid=MF6F7143280071432800&ct=19211&tsum=c0bc00f05a03eb1bef16741e9fd9737e
-#EXTINF:-1 tvg-name="好莱坞" tvg-logo="https://raw.gitmirror.com/sublime2025/IPTV/main/img/Movie/好莱坞.png" group-title="影视",好莱坞
-http://50.7.234.10:8278/hollywoodmovies_twn/playlist.m3u8?tid=MFDF3993740539937405&ct=19234&tsum=9c77fd229b7086f14748debe0f6b4ae6
 
-#EXTINF:-1 tvg-name="东森电影" tvg-logo="https://raw.gitmirror.com/sublime2025/IPTV/main/img/Movie/东森电影.png" group-title="影视",东森电影
-https://iptv.vip-tptv.xyz/tv.php?id=4
-#EXTINF:-1 tvg-name="东森电影" tvg-logo="https://raw.gitmirror.com/sublime2025/IPTV/main/img/Movie/东森电影.png" group-title="影视",东森电影
-http://50.7.234.10:8278/ettvmovie/playlist.m3u8?tid=MDED1943740419437404&ct=19225&tsum=120834a4218c4b5c3bb19efb8116f859
 #EXTINF:-1 tvg-name="东森电影" tvg-logo="https://raw.gitmirror.com/sublime2025/IPTV/main/img/Movie/东森电影.png" group-title="影视",东森电影
 http://50.7.234.10:8278/ettvmovie/playlist.m3u8?tid=MECE7715898977158989&ct=19234&tsum=a663a2e65f2d50fefd2d6b096f9e3f02
-
 #EXTINF:-1 tvg-name="东森电影" tvg-logo="https://raw.gitmirror.com/sublime2025/IPTV/main/img/Movie/东森电影.png" group-title="影视",东森电影
-http://198.16.100.90:8278/videolandmovie/playlist.m3u8?tid=ma2dac66da407&ct=18335&tsum=9a5a39559f64a71081ef9b3a85f2886c
+http://50.7.234.10:8278/ettvmovie/playlist.m3u8?tid=MDED1943740419437404&ct=19225&tsum=120834a4218c4b5c3bb19efb8116f859
+
 #EXTINF:-1 tvg-name="天映频道" tvg-logo="https://raw.gitmirror.com/sublime2025/IPTV/main/img/Movie/天映频道.png" group-title="影视",天映频道
 http://50.7.234.10:8278/Celestial/playlist.m3u8?tid=MB0B6153961161539611&ct=19955&tsum=595ff8b4e51dcb87b06c193bdd260231
-#EXTINF:-1 tvg-name="天映频道" tvg-logo="https://raw.gitmirror.com/sublime2025/IPTV/main/img/Movie/天映频道.png" group-title="影视",天映频道
-https://iptv.vip-tptv.xyz/tv.php?id=11
 
-#EXTINF:-1 tvg-name="靖天电影" tvg-logo="https://raw.gitmirror.com/sublime2025/IPTV/main/img/Movie/靖天电影.png" group-title="影视",靖天电影
-http://aktv.space/AKTV/live/aktv/null-6/AKTV.m3u8$AKTV
 #EXTINF:-1 tvg-name="龙华电影" tvg-logo="https://raw.gitmirror.com/sublime2025/IPTV/main/img/Movie/龙华电影.png" group-title="影视",龙华电影
 http://aktv_stream1.m16tv.cfd/stream/taiwan/null-8/AKTV.m3u8$AKTV
 #EXTINF:-1 tvg-name="龙华日韩" tvg-logo="https://raw.gitmirror.com/sublime2025/IPTV/main/img/Movie/龙华日韩.png" group-title="影视",龙华日韩
 http://aktv_stream1.m16tv.cfd/stream/taiwan/null-7/AKTV.m3u8$AKTV
 #EXTINF:-1 tvg-name="龙华偶像" tvg-logo="https://raw.gitmirror.com/sublime2025/IPTV/main/img/Movie/龙华偶像.png" group-title="影视",龙华偶像
 http://aktv_stream1.m16tv.cfd/stream/taiwan/null-9/AKTV.m3u8$AKTV
-
-#EXTINF:-1 tvg-name="靖天电影" tvg-logo="https://raw.gitmirror.com/sublime2025/IPTV/main/img/Movie/靖天电影.png" group-title="影视",靖天电影
-http://47.239.245.207:5050/litv/4gtv-4gtv061$Proxy
-#EXTINF:-1 tvg-name="龙华电影" tvg-logo="https://raw.gitmirror.com/sublime2025/IPTV/main/img/Movie/龙华电影.png" group-title="影视",龙华电影
-http://47.239.245.207:5050/litv/litv-longturn03$Proxy
-#EXTINF:-1 tvg-name="龙华日韩" tvg-logo="https://raw.gitmirror.com/sublime2025/IPTV/main/img/TVB/龙华日韩.png" group-title="影视",龙华日韩
-http://47.239.245.207:5050/litv/litv-longturn11$Proxy
-#EXTINF:-1 tvg-name="龙华经典" tvg-logo="https://raw.gitmirror.com/sublime2025/IPTV/main/img/TVB/龙华经典.png" group-title="影视",龙华经典
-http://47.239.245.207:5050/litv/litv-longturn21$Proxy
 
 #EXTINF:-1 tvg-name="IQIYI剧集" tvg-logo="https://raw.gitmirror.com/sublime2025/IPTV/main/img/TVB/IQIYI剧集.png" group-title="影视",IQIYI剧集
 http://aktv_stream1.m16tv.cfd/stream/tuntun/fashiontv4k/AKTV.m3u8
@@ -317,35 +291,8 @@ http://php.jdshipin.com:8880/TVOD/iptv.php?id=aod$JDSP
 #EXTINF:-1 tvg-name="澳门莲花" tvg-logo="https://raw.gitmirror.com/sublime2025/IPTV/main/img/Movie/澳门莲花.png" group-title="影视",澳门莲花
 http://php.jdshipin.com:8880/amlh.php$JDSP
 
-#EXTINF:-1 tvg-name="神乐影院" tvg-logo="https://raw.gitmirror.com/sublime2025/IPTV/main/img/斗鱼.png" group-title="影视",斗鱼轮播(左右)
-http://huanqiuzhibo.cn/manifest/douyu.php?id=85894$神乐影院
-#EXTINF:-1 tvg-name="可乐影视" tvg-logo="https://raw.gitmirror.com/sublime2025/IPTV/main/img/斗鱼.png" group-title="影视",斗鱼轮播(左右)
-http://huanqiuzhibo.cn/manifest/douyu.php?id=20415$可乐影视
-#EXTINF:-1 tvg-name="吃米滴虫" tvg-logo="https://raw.gitmirror.com/sublime2025/IPTV/main/img/斗鱼.png" group-title="影视",斗鱼轮播(左右)
-http://huanqiuzhibo.cn/manifest/douyu.php?id=315457$吃米滴虫
-#EXTINF:-1 tvg-name="花卷影院" tvg-logo="https://raw.gitmirror.com/sublime2025/IPTV/main/img/斗鱼.png" group-title="影视",斗鱼轮播(左右)
-http://huanqiuzhibo.cn/manifest/douyu.php?id=52787$花卷影院
-#EXTINF:-1 tvg-name="冰冰影厅" tvg-logo="https://raw.gitmirror.com/sublime2025/IPTV/main/img/斗鱼.png" group-title="影视",斗鱼轮播(左右)
-http://huanqiuzhibo.cn/manifest/douyu.php?id=74374$冰冰影厅
-#EXTINF:-1 tvg-name="贝爷影厅" tvg-logo="https://raw.gitmirror.com/sublime2025/IPTV/main/img/斗鱼.png" group-title="影视",斗鱼轮播(左右)
-http://huanqiuzhibo.cn/manifest/douyu.php?id=252802$贝爷影厅
-
-#EXTINF:-1 tvg-name="高分动作" tvg-logo="https://raw.gitmirror.com/sublime2025/IPTV/main/img/虎牙.png" group-title="影视",虎牙轮播(换台)
-http://124.248.69.76:26781/huya/11352884$高分动作
-#EXTINF:-1 tvg-name="动作电影" tvg-logo="https://raw.gitmirror.com/sublime2025/IPTV/main/img/虎牙.png" group-title="影视",虎牙轮播(换台)
-http://124.248.69.76:26781/huya/11602077$动作电影
-#EXTINF:-1 tvg-name="嫣然影厅" tvg-logo="https://raw.gitmirror.com/sublime2025/IPTV/main/img/虎牙.png" group-title="影视",虎牙轮播(换台)
-http://124.248.69.76:26781/huya/11601977$嫣然影厅
-#EXTINF:-1 tvg-name="黑帮斗争" tvg-logo="https://raw.gitmirror.com/sublime2025/IPTV/main/img/虎牙.png" group-title="影视",虎牙轮播(换台)
-http://124.248.69.76:26781/huya/11342419$黑帮斗争
-#EXTINF:-1 tvg-name="不挤影院" tvg-logo="https://raw.gitmirror.com/sublime2025/IPTV/main/img/虎牙.png" group-title="影视",虎牙轮播(换台)
-http://124.248.69.76:26781/huya/11352897$不挤影院
-#EXTINF:-1 tvg-name="搞笑恐怖" tvg-logo="https://raw.gitmirror.com/sublime2025/IPTV/main/img/虎牙.png" group-title="影视",虎牙轮播(换台)
-http://124.248.69.76:26781/huya/11601960$搞笑恐怖
-
 #EXTINF:-1 tvg-name="周星驰" tvg-logo="https://raw.gitmirror.com/sublime2025/IPTV/main/img/虎牙.png" group-title="影视",星爷
-https://aldirect.flv.huya.com/src/1394575534-1394575534-5989656310331736064-2789274524-10057-A-0-1.flv
-
+http://124.248.69.76:26781/huya/11342412
 #EXTINF:-1 tvg-name="周润发" tvg-logo="https://raw.gitmirror.com/sublime2025/IPTV/main/img/虎牙.png" group-title="影视",发哥
 http://124.248.69.76:26781/huya/11342387
 #EXTINF:-1 tvg-name="刘德华" tvg-logo="https://raw.gitmirror.com/sublime2025/IPTV/main/img/虎牙.png" group-title="影视",华仔
@@ -431,11 +378,6 @@ http://aktv_stream1.m16tv.cfd/stream/tuntun/disneyxd/AKTV.m3u8
 http://50.7.234.10:8278/momo1_twn/playlist.m3u8?ct=19225&tid=MA0A4898983648989836&tsum=bd109117d126916f203880b1f2063d5e
 #EXTINF:-1 tvg-name="CN卡通" tvg-logo="https://raw.gitmirror.com/sublime2025/IPTV/main/img/TVB/CN卡通.png" group-title="动漫",CN卡通
 http://50.7.234.10:8278/momo1_twn/playlist.m3u8?tid=MA0A4898983648989836&ct=19225&tsum=bd109117d126916f203880b1f2063d5e
-
-#EXTINF:-1 tvg-name="爱放动漫" tvg-logo="https://raw.gitmirror.com/sublime2025/IPTV/main/img/TVB/爱放动漫.png" group-title="动漫",爱放动漫
-http://aktv.space/AKTV/live/aktv2/ifun/AKTV.m3u8$AKTV
-#EXTINF:-1 tvg-name="爱放动漫" tvg-logo="https://raw.gitmirror.com/sublime2025/IPTV/main/img/TVB/爱放动漫.png" group-title="动漫",爱放动漫
-http://47.239.245.207:5050/litv/litv-ftv15
 
 #EXTINF:-1 tvg-name="猫和老鼠" tvg-logo="https://raw.gitmirror.com/sublime2025/IPTV/main/img/猫和老鼠.png" group-title="动漫",猫和老鼠
 http://124.248.69.76:26781/huya/11352879
