@@ -153,7 +153,7 @@ rtmp://f13h.mine.nu/sat/tv741
 #EXTINF:-1 tvg-name="CNA" tvg-logo="https://raw.gitmirror.com/sublime2025/IPTV/main/img/World/CNA.png" group-title="国际",亚洲新闻
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 #EXTINF:-1 tvg-name="CNA" tvg-logo="https://raw.gitmirror.com/sublime2025/IPTV/main/img/World/CNA.png" group-title="国际",亚洲新闻
-http://aktv.space/AKTV/live/aktv3/null-3/AKTV.m3u8$AKTV
+http://aktv_stream1.m16tv.cfd/stream/aktv3/null-3/AKTV.m3u8$AKTV
 
 #EXTINF:-1 tvg-name="DW" tvg-logo="https://raw.gitmirror.com/sublime2025/IPTV/main/img/World/DW.png" group-title="国际",德国新闻
 http://aktv_stream1.m16tv.cfd/stream/aktv3/dw/AKTV.m3u8$AKTV
