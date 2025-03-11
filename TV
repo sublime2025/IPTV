@@ -90,7 +90,7 @@ http://zhibo.hkstv.tv/livestream/mutfysrq.flv
 http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 
 #EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://raw.gitmirror.com/sublime2025/IPTV/main/img/TVB/翡翠台.png" group-title="港台",翡翠台
-http://aktv_stream1.m16tv.cfd/stream/aktv/null/AKTV.m3u8
+http://aktv_stream1.m16tv.cfd/stream/aktv/null/AKTV.m3u8$AKTV
 #EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://raw.gitmirror.com/sublime2025/IPTV/main/img/TVB/翡翠台.png" group-title="港台",翡翠台
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct4$JDSP
 
@@ -107,8 +107,6 @@ http://50.7.234.10:8278/ettvnews/playlist.m3u8?tid=MD8D4407126144071261&ct=19344
 http://50.7.234.10:8278/ettvnews/playlist.m3u8?tid=MD8D8672451386724513&ct=19234&tsum=d08fdb1dd5078503ffd859a065bc9290
 #EXTINF:-1 tvg-name="东森新闻" tvg-logo="https://raw.gitmirror.com/sublime2025/IPTV/main/img/TVB/东森新闻.png" group-title="港台",东森新闻
 http://50.7.234.10:8278/ettvnews/playlist.m3u8?tid=ME5E8863997888639978&ct=19193&tsum=6b0236441f10a7195fb35fe7997db68c
-
-#EXTINF:-1 tvg-name="TVBS新闻" tvg-logo="https://raw.gitmirror.com/sublime2025/IPTV/main/img/TVB/TVBS新闻.png" group-title="港台",TVBS新闻
 
 #EXTINF:-1 tvg-name="TVBS新闻" tvg-logo="https://raw.gitmirror.com/sublime2025/IPTV/main/img/TVB/TVBS新闻.png" group-title="港台",TVBS新闻
 http://61.221.215.25:8800/hls/9/index.m3u8
@@ -141,7 +139,12 @@ http://50.7.234.10:8278/eltasport_twn/playlist.m3u8?tid=md3567b35401611916221&ct
 http://50.7.234.10:8278/eltasport2_twn/playlist.m3u8?tid=MB2B3966739039667390&ct=19249&tsum=20bdbd3a22909e8d89aabe7a923c8c5b
 
 #EXTINF:-1 tvg-name="NBA TV" tvg-logo="https://raw.gitmirror.com/sublime2025/IPTV/main/img/Sport/NBA.png" group-title="港台",NBA
-http://aktv_stream1.m16tv.cfd/stream/astro_a1/ch84/AKTV.m3u8
+http://aktv_stream1.m16tv.cfd/stream/astro_a1/ch84/AKTV.m3u8$AKTV
+
+#EXTINF:-1 tvg-name="MUTV" tvg-logo="https://raw.gitmirror.com/sublime2025/IPTV/main/img/Sport/MUTV.png" group-title="港台",MUTV
+http://aktv_stream1.m16tv.cfd/stream/astro_a1/ch87/AKTV.m3u8$AKTV
+#EXTINF:-1 tvg-name="Unifi" tvg-logo="https://raw.gitmirror.com/sublime2025/IPTV/main/img/Sport/Unifi.png" group-title="港台",Unifi
+http://aktv_stream1.m16tv.cfd/stream/astro_a1/ch88/AKTV.m3u8$AKTV
 
 #EXTINF:-1 tvg-name="DAZN 1" tvg-logo="https://raw.gitmirror.com/sublime2025/IPTV/main/img/Sport/DAZN.png" group-title="港台",DAZN
 rtmp://f13h.mine.nu/sat/tv731
@@ -235,16 +238,20 @@ http://50.7.234.10:8278/meiyamovie_twn/playlist.m3u8?tid=MFDF2848449728484497&ct
 #EXTINF:-1 tvg-name="美亚电影台" tvg-logo="https://raw.gitmirror.com/sublime2025/IPTV/main/img/Movie/美亚电影.png" group-title="影视",美亚电影
 http://50.7.234.10:8278/meiyamovie_twn/playlist.m3u8?tid=MC6C9419277694192776&ct=19234&tsum=43f9d2e13c7cbbce7e5c5ec94fa38750
 #EXTINF:-1 tvg-name="美亚电影港" tvg-logo="https://raw.gitmirror.com/sublime2025/IPTV/main/img/Movie/美亚电影.png" group-title="影视",美亚电影
-http://aktv.space/AKTV/live/aktv/hk-1/AKTV.m3u8$AKTV
+http://aktv_stream1.m16tv.cfd/stream/aktv/hk-1/AKTV.m3u8$AKTV
 #EXTINF:-1 tvg-name="美亚电影港" tvg-logo="https://raw.gitmirror.com/sublime2025/IPTV/main/img/Movie/美亚电影.png" group-title="影视",美亚电影
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=meiya$JDSP
 
 #EXTINF:-1 tvg-name="amc电影" tvg-logo="https://raw.gitmirror.com/sublime2025/IPTV/main/img/Movie/AMC电影.png" group-title="影视",amc电影
 http://61.221.215.25:8800/hls/43/index.m3u8
 #EXTINF:-1 tvg-name="amc电影" tvg-logo="https://raw.gitmirror.com/sublime2025/IPTV/main/img/Movie/AMC电影.png" group-title="影视",amc电影
+http://aktv_stream1.m16tv.cfd/stream/taiwan/amc/AKTV.m3u8$AKTV
+#EXTINF:-1 tvg-name="amc电影" tvg-logo="https://raw.gitmirror.com/sublime2025/IPTV/main/img/Movie/AMC电影.png" group-title="影视",amc电影
 http://47.239.245.207:5050/litv/4gtv-4gtv017
 #EXTINF:-1 tvg-name="HITs电影" tvg-logo="https://raw.gitmirror.com/sublime2025/IPTV/main/img/Movie/HITs.png" group-title="影视",HITs电影
 http://37.27.111.214:8080/live/28/hls.m3u8
+#EXTINF:-1 tvg-name="HITs电影" tvg-logo="https://raw.gitmirror.com/sublime2025/IPTV/main/img/Movie/HITs.png" group-title="影视",HITs电影
+http://aktv_stream1.m16tv.cfd/stream/taiwan/hits/AKTV.m3u8$AKTV
 
 #EXTINF:-1 tvg-name="HBO电影" tvg-logo="https://raw.gitmirror.com/sublime2025/IPTV/main/img/Movie/HBO-Signature.png" group-title="影视",HBO电影
 http://50.7.234.10:8278/hbosignature_twn/playlist.m3u8?tid=MD6D5767423357674233&ct=18392&tsum=995709f1100cf1b07964790160bfb4ee
