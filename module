@@ -3,45 +3,23 @@
 
 █████████████████████████████████████████████████████████████████████████████████████████████████████████
 
-#EXTINF:-1 tvg-name="CCTV1" 	tvg-logo="https://ghfast.top/raw.githubusercontent.com/sublime2025/IPTV/main/img/CCTV/CCTV1.png" 		group-title="央视",CCTV1
+#EXTINF:-1 tvg-name="CCTV1" 	tvg-logo="https://ghfast.top/raw.githubusercontent.com/sublime2025/IPTV/main/img/CCTV/CCTV1.png" 	group-title="央视",CCTV1
 			
-#EXTINF:-1 tvg-name="CCTV2" 	tvg-logo="https://ghfast.top/raw.githubusercontent.com/sublime2025/IPTV/main/img/CCTV/CCTV2.png" 		group-title="央视",CCTV2
+#EXTINF:-1 tvg-name="CCTV2" 	tvg-logo="https://ghfast.top/raw.githubusercontent.com/sublime2025/IPTV/main/img/CCTV/CCTV2.png" 	group-title="央视",CCTV2
 			
-#EXTINF:-1 tvg-name="CCTV3" 	tvg-logo="https://ghfast.top/raw.githubusercontent.com/sublime2025/IPTV/main/img/CCTV/CCTV3.png" 		group-title="央视",CCTV3
+#EXTINF:-1 tvg-name="CCTV3" 	tvg-logo="https://ghfast.top/raw.githubusercontent.com/sublime2025/IPTV/main/img/CCTV/CCTV3.png" 	group-title="央视",CCTV3
 			
-#EXTINF:-1 tvg-name="CCTV4" 	tvg-logo="https://ghfast.top/raw.githubusercontent.com/sublime2025/IPTV/main/img/CCTV/CCTV4.png" 		group-title="央视",CCTV4
+#EXTINF:-1 tvg-name="CCTV4" 	tvg-logo="https://ghfast.top/raw.githubusercontent.com/sublime2025/IPTV/main/img/CCTV/CCTV4.png" 	group-title="央视",CCTV4
 			
-#EXTINF:-1 tvg-name="CCTV5" 	tvg-logo="https://ghfast.top/raw.githubusercontent.com/sublime2025/IPTV/main/img/CCTV/CCTV5.png" 		group-title="央视",CCTV5
+#EXTINF:-1 tvg-name="CCTV5" 	tvg-logo="https://ghfast.top/raw.githubusercontent.com/sublime2025/IPTV/main/img/CCTV/CCTV5.png" 	group-title="央视",CCTV5
 			
-#EXTINF:-1 tvg-name="CCTV6" 	tvg-logo="https://ghfast.top/raw.githubusercontent.com/sublime2025/IPTV/main/img/CCTV/CCTV6.png" 		group-title="央视",CCTV6
+#EXTINF:-1 tvg-name="CCTV6" 	tvg-logo="https://ghfast.top/raw.githubusercontent.com/sublime2025/IPTV/main/img/CCTV/CCTV6.png" 	group-title="央视",CCTV6
 			
-#EXTINF:-1 tvg-name="CCTV7" 	tvg-logo="https://ghfast.top/raw.githubusercontent.com/sublime2025/IPTV/main/img/CCTV/CCTV7.png" 		group-title="央视",CCTV7
+#EXTINF:-1 tvg-name="CCTV7" 	tvg-logo="https://ghfast.top/raw.githubusercontent.com/sublime2025/IPTV/main/img/CCTV/CCTV7.png" 	group-title="央视",CCTV7
 			
-#EXTINF:-1 tvg-name="CCTV8" 	tvg-logo="https://ghfast.top/raw.githubusercontent.com/sublime2025/IPTV/main/img/CCTV/CCTV8.png" 		group-title="央视",CCTV8
+#EXTINF:-1 tvg-name="CCTV8" 	tvg-logo="https://ghfast.top/raw.githubusercontent.com/sublime2025/IPTV/main/img/CCTV/CCTV8.png" 	group-title="央视",CCTV8
 			
-#EXTINF:-1 tvg-name="CCTV9" 	tvg-logo="https://ghfast.top/raw.githubusercontent.com/sublime2025/IPTV/main/img/CCTV/CCTV9.png" 		group-title="央视",CCTV9
-
-#EXTINF:-1 tvg-name="CCTV10" 	tvg-logo="https://ghfast.top/raw.githubusercontent.com/sublime2025/IPTV/main/img/CCTV/CCTV10.png" 	group-title="央视",CCTV10
-		
-#EXTINF:-1 tvg-name="CCTV11" 	tvg-logo="https://ghfast.top/raw.githubusercontent.com/sublime2025/IPTV/main/img/CCTV/CCTV11.png" 	group-title="央视",CCTV11
-		
-#EXTINF:-1 tvg-name="CCTV12" 	tvg-logo="https://ghfast.top/raw.githubusercontent.com/sublime2025/IPTV/main/img/CCTV/CCTV12.png" 	group-title="央视",CCTV12
-		
-#EXTINF:-1 tvg-name="CCTV13" 	tvg-logo="https://ghfast.top/raw.githubusercontent.com/sublime2025/IPTV/main/img/CCTV/CCTV13.png" 	group-title="央视",CCTV13
-		
-#EXTINF:-1 tvg-name="CCTV14" 	tvg-logo="https://ghfast.top/raw.githubusercontent.com/sublime2025/IPTV/main/img/CCTV/CCTV14.png" 	group-title="央视",CCTV14
-		
-#EXTINF:-1 tvg-name="CCTV15" 	tvg-logo="https://ghfast.top/raw.githubusercontent.com/sublime2025/IPTV/main/img/CCTV/CCTV15.png" 	group-title="央视",CCTV15
-		
-#EXTINF:-1 tvg-name="CCTV16" 	tvg-logo="https://ghfast.top/raw.githubusercontent.com/sublime2025/IPTV/main/img/CCTV/CCTV16.png" 	group-title="央视",CCTV16
-		
-#EXTINF:-1 tvg-name="CCTV17" 	tvg-logo="https://ghfast.top/raw.githubusercontent.com/sublime2025/IPTV/main/img/CCTV/CCTV17.png" 	group-title="央视",CCTV17
-		
-#EXTINF:-1 tvg-name="CCTV5+"	 tvg-logo="https://ghfast.top/raw.githubusercontent.com/sublime2025/IPTV/main/img/CCTV/CCTV5+.png"	 group-title="央视",CCTV5+
-		
-#EXTINF:-1 tvg-name="CCTV4o" 	tvg-logo="https://ghfast.top/raw.githubusercontent.com/sublime2025/IPTV/main/img/CCTV/CCTV4o.png" 	group-title="央视",CCTV4o
-		
-#EXTINF:-1 tvg-name="CCTV4a" 	tvg-logo="https://ghfast.top/raw.githubusercontent.com/sublime2025/IPTV/main/img/CCTV/CCTV4a.png" 	group-title="央视",CCTV4a
+#EXTINF:-1 tvg-name="CCTV9" 	tvg-logo="https://ghfast.top/raw.githubusercontent.com/sublime2025/IPTV/main/img/CCTV/CCTV9.png" 	group-title="央视",CCTV9
 
 █████████████████████████████████████████████████████████████████████████████████████████████████████████
 
@@ -97,10 +75,6 @@
 
 #EXTINF:-1 tvg-name="ELTA体育" 		tvg-logo="https://ghfast.top/raw.githubusercontent.com/sublime2025/IPTV/main/img/Sport/ELTA体育.png" 	group-title="体育",ELTA体育
 
-#EXTINF:-1 tvg-name="DAZN 1" 		tvg-logo="https://ghfast.top/raw.githubusercontent.com/sublime2025/IPTV/main/img/Sport/DAZN.png" 		group-title="体育",DAZN
-
-#EXTINF:-1 tvg-name="DAZN 2" 		tvg-logo="https://ghfast.top/raw.githubusercontent.com/sublime2025/IPTV/main/img/Sport/DAZN.png" 		group-title="体育",DAZN
-
 #EXTINF:-1 tvg-name="Darts" 		tvg-logo="https://ghfast.top/raw.githubusercontent.com/sublime2025/IPTV/main/img/Sport/Sky-Darts.png" 	group-title="体育",天空体育
 
 #EXTINF:-1 tvg-name="MainEvent" 	tvg-logo="https://ghfast.top/raw.githubusercontent.com/sublime2025/IPTV/main/img/Sport/MainEvent.png" 	group-title="体育",天空体育
@@ -115,11 +89,9 @@
 
 #EXTINF:-1 tvg-name="香港卫视" 	tvg-logo="https://ghfast.top/raw.githubusercontent.com/sublime2025/IPTV/main/img/TVB/香港卫视.png" 	group-title="港台",香港卫视
 
-#EXTINF:-1 tvg-name="翡翠台" 	tvg-logo="https://ghfast.top/raw.githubusercontent.com/sublime2025/IPTV/main/img/TVB/翡翠台.png" 		group-title="港台",翡翠台
+#EXTINF:-1 tvg-name="翡翠台" 	tvg-logo="https://ghfast.top/raw.githubusercontent.com/sublime2025/IPTV/main/img/TVB/翡翠台.png" 	group-title="港台",翡翠台
 
 #EXTINF:-1 tvg-name="TVBS" 	tvg-logo="https://ghfast.top/raw.githubusercontent.com/sublime2025/IPTV/main/img/TVB/TVBS.png" 		group-title="港台",TVBS
-
-#EXTINF:-1 tvg-name="TVBPlus" 	tvg-logo="https://ghfast.top/raw.githubusercontent.com/sublime2025/IPTV/main/img/TVB/TVB-Plus.png" 	group-title="港台",TVBPlus
 
 #EXTINF:-1 tvg-name="TVBS新闻" 	tvg-logo="https://ghfast.top/raw.githubusercontent.com/sublime2025/IPTV/main/img/TVB/TVBS新闻.png" 	group-title="港台",TVBS新闻
 
@@ -131,31 +103,23 @@
 
 #EXTINF:-1 tvg-name="娱乐新闻" 	tvg-logo="https://ghfast.top/raw.githubusercontent.com/sublime2025/IPTV/main/img/TVB/娱乐新闻.png" 	group-title="港台",娱乐新闻
 
-#EXTINF:-1 tvg-name="ELTA娱乐" 	tvg-logo="https://ghfast.top/raw.githubusercontent.com/sublime2025/IPTV/main/img/TVB/ELTA娱乐.png" 	group-title="港台",ELTA娱乐
-
-#EXTINF:-1 tvg-name="tvN" 		tvg-logo="https://ghfast.top/raw.githubusercontent.com/sublime2025/IPTV/main/img/TVB/tvN.png" 		group-title="港台",tvN
-
-#EXTINF:-1 tvg-name="CCTV" 	tvg-logo="https://ghfast.top/raw.githubusercontent.com/sublime2025/IPTV/main/img/TVB/RTHK33.png" 		group-title="港台",RTHK33
-
-#EXTINF:-1 tvg-name="CGTN" 	tvg-logo="https://ghfast.top/raw.githubusercontent.com/sublime2025/IPTV/main/img/TVB/RTHK34.png" 		group-title="港台",RTHK34
-
 █████████████████████████████████████████████████████████████████████████████████████████████████████████
 
-#EXTINF:-1 tvg-name="CNA" 	tvg-logo="https://ghfast.top/raw.githubusercontent.com/sublime2025/IPTV/main/img/World/CNA.png" 		group-title="国际",亚洲新闻
+#EXTINF:-1 tvg-name="CNA" 	tvg-logo="https://ghfast.top/raw.githubusercontent.com/sublime2025/IPTV/main/img/World/CNA.png" 	group-title="国际",亚洲新闻
 
-#EXTINF:-1 tvg-name="DW" 		tvg-logo="https://ghfast.top/raw.githubusercontent.com/sublime2025/IPTV/main/img/World/DW.png" 		group-title="国际",德国新闻
+#EXTINF:-1 tvg-name="DW" 	tvg-logo="https://ghfast.top/raw.githubusercontent.com/sublime2025/IPTV/main/img/World/DW.png" 		group-title="国际",德国新闻
 
 #EXTINF:-1 tvg-name="France24" 	tvg-logo="https://ghfast.top/raw.githubusercontent.com/sublime2025/IPTV/main/img/World/France24.png" 	group-title="国际",法国新闻
 
 #EXTINF:-1 tvg-name="Japan24" 	tvg-logo="https://ghfast.top/raw.githubusercontent.com/sublime2025/IPTV/main/img/World/Japan24.png" 	group-title="国际",日本新闻
 
-#EXTINF:-1 tvg-name="NHK" 	tvg-logo="https://ghfast.top/raw.githubusercontent.com/sublime2025/IPTV/main/img/World/NHK.png" 		group-title="国际",日本国际
+#EXTINF:-1 tvg-name="NHK" 	tvg-logo="https://ghfast.top/raw.githubusercontent.com/sublime2025/IPTV/main/img/World/NHK.png" 	group-title="国际",日本国际
 
-#EXTINF:-1 tvg-name="BBC" 		tvg-logo="https://ghfast.top/raw.githubusercontent.com/sublime2025/IPTV/main/img/World/BBC.png" 		group-title="国际",美国国际
+#EXTINF:-1 tvg-name="BBC" 	tvg-logo="https://ghfast.top/raw.githubusercontent.com/sublime2025/IPTV/main/img/World/BBC.png" 	group-title="国际",美国国际
 
-#EXTINF:-1 tvg-name="CNN" 	tvg-logo="https://ghfast.top/raw.githubusercontent.com/sublime2025/IPTV/main/img/World/CNN.png" 		group-title="国际",美国新闻
+#EXTINF:-1 tvg-name="CNN" 	tvg-logo="https://ghfast.top/raw.githubusercontent.com/sublime2025/IPTV/main/img/World/CNN.png" 	group-title="国际",美国新闻
 
-#EXTINF:-1 tvg-name="FOX" 		tvg-logo="https://ghfast.top/raw.githubusercontent.com/sublime2025/IPTV/main/img/World/FOX.png" 		group-title="国际",福克斯台
+#EXTINF:-1 tvg-name="FOX" 	tvg-logo="https://ghfast.top/raw.githubusercontent.com/sublime2025/IPTV/main/img/World/FOX.png" 	group-title="国际",福克斯台
 
 #EXTINF:-1 tvg-name="RedBull" 	tvg-logo="https://ghfast.top/raw.githubusercontent.com/sublime2025/IPTV/main/img/World/红牛运动.png" 	group-title="国际",红牛运动
 
@@ -176,11 +140,11 @@
 	
 #EXTINF:-1 tvg-name="amc电影" 	tvg-logo="https://ghfast.top/raw.githubusercontent.com/sublime2025/IPTV/main/img/Movie/AMC电影.png" 	group-title="影视",amc电影
 	
-#EXTINF:-1 tvg-name="HITs电影" 	tvg-logo="https://ghfast.top/raw.githubusercontent.com/sublime2025/IPTV/main/img/Movie/HITs.png" 		group-title="影视",HITs电影
+#EXTINF:-1 tvg-name="HITs电影" 	tvg-logo="https://ghfast.top/raw.githubusercontent.com/sublime2025/IPTV/main/img/Movie/HITs.png" 	group-title="影视",HITs电影
 	
-#EXTINF:-1 tvg-name="HBO电影" 	tvg-logo="https://ghfast.top/raw.githubusercontent.com/sublime2025/IPTV/main/img/Movie/HBO.png" 		group-title="影视",HBO电影
+#EXTINF:-1 tvg-name="HBO电影" 	tvg-logo="https://ghfast.top/raw.githubusercontent.com/sublime2025/IPTV/main/img/Movie/HBO.png" 	group-title="影视",HBO电影
 	
-#EXTINF:-1 tvg-name="PopC电影" 	tvg-logo="https://ghfast.top/raw.githubusercontent.com/sublime2025/IPTV/main/img/Movie/PopC.png" 		group-title="影视",PopC电影
+#EXTINF:-1 tvg-name="PopC电影" 	tvg-logo="https://ghfast.top/raw.githubusercontent.com/sublime2025/IPTV/main/img/Movie/PopC.png" 	group-title="影视",PopC电影
 	
 #EXTINF:-1 tvg-name="AXN电影"	tvg-logo="https://ghfast.top/raw.githubusercontent.com/sublime2025/IPTV/main/img/Movie/AXN电影.png" 	group-title="影视",AXN电影
 
@@ -201,40 +165,36 @@
 #EXTINF:-1 tvg-name="澳门莲花" 	tvg-logo="https://ghfast.top/raw.githubusercontent.com/sublime2025/IPTV/main/img/Movie/澳门莲花.png" 	group-title="影视",澳门莲花
 
 █████████████████████████████████████████████████████████████████████████████████████████████████████████
+	
+#EXTINF:-1 tvg-name="猫和老鼠" 		tvg-logo="https://ghfast.top/raw.githubusercontent.com/sublime2025/IPTV/main/img/猫和老鼠.png" 	group-title="动漫",猫和老鼠
 
-#EXTINF:-1 tvg-name="CN卡通" 		tvg-logo="https://ghfast.top/raw.githubusercontent.com/sublime2025/IPTV/main/img/TVB/CN卡通.png" group-title="动漫",CN卡通
-	
-#EXTINF:-1 tvg-name="爱放动漫" 		tvg-logo="https://ghfast.top/raw.githubusercontent.com/sublime2025/IPTV/main/img/TVB/爱放动漫.png" group-title="动漫",爱放动漫
-	
-#EXTINF:-1 tvg-name="猫和老鼠" 		tvg-logo="https://ghfast.top/raw.githubusercontent.com/sublime2025/IPTV/main/img/猫和老鼠.png" group-title="动漫",猫和老鼠
-	
-#EXTINF:-1 tvg-name="爆笑虫子" 		tvg-logo="https://ghfast.top/raw.githubusercontent.com/sublime2025/IPTV/main/img/爆笑虫子.png" group-title="动漫",爆笑虫子
-	
-#EXTINF:-1 tvg-name="七龙珠改" 		tvg-logo="https://ghfast.top/raw.githubusercontent.com/sublime2025/IPTV/main/img/孙悟空.png" group-title="动漫",七龙珠
-	
-#EXTINF:-1 tvg-name="海贼王" 		tvg-logo="https://ghfast.top/raw.githubusercontent.com/sublime2025/IPTV/main/img/路飞.png" group-title="动漫",海贼王
-	
-#EXTINF:-1 tvg-name="火影忍者" 		tvg-logo="https://ghfast.top/raw.githubusercontent.com/sublime2025/IPTV/main/img/鸣人.png" group-title="动漫",火影忍者
-	
-#EXTINF:-1 tvg-name="灌篮高手" 		tvg-logo="https://ghfast.top/raw.githubusercontent.com/sublime2025/IPTV/main/img/樱木花道.png" group-title="动漫",灌篮高手
-	
-#EXTINF:-1 tvg-name="哆啦A梦" 		tvg-logo="https://ghfast.top/raw.githubusercontent.com/sublime2025/IPTV/main/img/机器猫.png" group-title="动漫",哆啦A梦
-	
-#EXTINF:-1 tvg-name="蜡笔小新" 		tvg-logo="https://ghfast.top/raw.githubusercontent.com/sublime2025/IPTV/main/img/蜡笔小新.png" group-title="动漫",蜡笔小新
-	
-#EXTINF:-1 tvg-name="海绵宝宝" 		tvg-logo="https://ghfast.top/raw.githubusercontent.com/sublime2025/IPTV/main/img/海绵宝宝.png" group-title="动漫",海绵宝宝
+#EXTINF:-1 tvg-name="爆笑虫子" 		tvg-logo="https://ghfast.top/raw.githubusercontent.com/sublime2025/IPTV/main/img/爆笑虫子.png" 	group-title="动漫",爆笑虫子
 
-#EXTINF:-1 tvg-name="中华小当家" 	tvg-logo="https://ghfast.top/raw.githubusercontent.com/sublime2025/IPTV/main/img/小当家.png" group-title="动漫",中华小当家
+#EXTINF:-1 tvg-name="七龙珠改" 		tvg-logo="https://ghfast.top/raw.githubusercontent.com/sublime2025/IPTV/main/img/孙悟空.png" 	group-title="动漫",七龙珠
 
-#EXTINF:-1 tvg-name="成龙历险记" 	tvg-logo="https://ghfast.top/raw.githubusercontent.com/sublime2025/IPTV/main/img/小玉.png" group-title="动漫",成龙历险记
+#EXTINF:-1 tvg-name="海贼王" 		tvg-logo="https://ghfast.top/raw.githubusercontent.com/sublime2025/IPTV/main/img/路飞.png" 	group-title="动漫",海贼王
 
-#EXTINF:-1 tvg-name="迪迦奥特曼" 	tvg-logo="https://ghfast.top/raw.githubusercontent.com/sublime2025/IPTV/main/img/奥特曼.png" group-title="动漫",迪迦奥特曼
+#EXTINF:-1 tvg-name="火影忍者" 		tvg-logo="https://ghfast.top/raw.githubusercontent.com/sublime2025/IPTV/main/img/鸣人.png" 	group-title="动漫",火影忍者
 
-#EXTINF:-1 tvg-name="名侦探柯南" 	tvg-logo="https://ghfast.top/raw.githubusercontent.com/sublime2025/IPTV/main/img/名侦探.png" group-title="动漫",名侦探柯南
+#EXTINF:-1 tvg-name="灌篮高手" 		tvg-logo="https://ghfast.top/raw.githubusercontent.com/sublime2025/IPTV/main/img/樱木花道.png" 	group-title="动漫",灌篮高手
 
-#EXTINF:-1 tvg-name="柯南剧场" 		tvg-logo="https://ghfast.top/raw.githubusercontent.com/sublime2025/IPTV/main/img/柯南.png" group-title="动漫",柯南剧场
+#EXTINF:-1 tvg-name="哆啦A梦" 		tvg-logo="https://ghfast.top/raw.githubusercontent.com/sublime2025/IPTV/main/img/机器猫.png" 	group-title="动漫",哆啦A梦
 
-#EXTINF:-1 tvg-name="轮播动漫" 		tvg-logo="https://ghfast.top/raw.githubusercontent.com/sublime2025/IPTV/main/img/卡通.png" group-title="动漫",轮播动漫
+#EXTINF:-1 tvg-name="蜡笔小新" 		tvg-logo="https://ghfast.top/raw.githubusercontent.com/sublime2025/IPTV/main/img/蜡笔小新.png" 	group-title="动漫",蜡笔小新
+
+#EXTINF:-1 tvg-name="海绵宝宝" 		tvg-logo="https://ghfast.top/raw.githubusercontent.com/sublime2025/IPTV/main/img/海绵宝宝.png" 	group-title="动漫",海绵宝宝
+
+#EXTINF:-1 tvg-name="中华小当家" 	tvg-logo="https://ghfast.top/raw.githubusercontent.com/sublime2025/IPTV/main/img/小当家.png" 	group-title="动漫",中华小当家
+
+#EXTINF:-1 tvg-name="成龙历险记" 	tvg-logo="https://ghfast.top/raw.githubusercontent.com/sublime2025/IPTV/main/img/小玉.png" 	group-title="动漫",成龙历险记
+
+#EXTINF:-1 tvg-name="迪迦奥特曼" 	tvg-logo="https://ghfast.top/raw.githubusercontent.com/sublime2025/IPTV/main/img/奥特曼.png" 	group-title="动漫",迪迦奥特曼
+
+#EXTINF:-1 tvg-name="名侦探柯南" 	tvg-logo="https://ghfast.top/raw.githubusercontent.com/sublime2025/IPTV/main/img/名侦探.png" 	group-title="动漫",名侦探柯南
+
+#EXTINF:-1 tvg-name="柯南剧场" 		tvg-logo="https://ghfast.top/raw.githubusercontent.com/sublime2025/IPTV/main/img/柯南.png" 	group-title="动漫",柯南剧场
+
+#EXTINF:-1 tvg-name="轮播动漫" 		tvg-logo="https://ghfast.top/raw.githubusercontent.com/sublime2025/IPTV/main/img/卡通.png" 	group-title="动漫",轮播动漫
 
 █████████████████████████████████████████████████████████████████████████████████████████████████████████
 
@@ -248,30 +208,30 @@
 
 #EXTINF:-1 tvg-name="松视3台" 	tvg-logo="https://ghfast.top/raw.githubusercontent.com/sublime2025/IPTV/main/img/Adult/松视3台.png" 	group-title="限制",松视3台
 
-#EXTINF:-1 tvg-name="彩虹e" 	tvg-logo="https://ghfast.top/raw.githubusercontent.com/sublime2025/IPTV/main/img/Adult/彩虹e.png" 		group-title="限制",彩虹e
+#EXTINF:-1 tvg-name="彩虹e" 	tvg-logo="https://ghfast.top/raw.githubusercontent.com/sublime2025/IPTV/main/img/Adult/彩虹e.png" 	group-title="限制",彩虹e
 
 #EXTINF:-1 tvg-name="彩虹电影" 	tvg-logo="https://ghfast.top/raw.githubusercontent.com/sublime2025/IPTV/main/img/Adult/彩虹电影.png" 	group-title="限制",彩虹电影
 
 #EXTINF:-1 tvg-name="彩虹K" 	tvg-logo="https://ghfast.top/raw.githubusercontent.com/sublime2025/IPTV/main/img/Adult/麻豆传媒.png" 	group-title="限制",彩虹K
 
-#EXTINF:-1 tvg-name="惊艳台" 	tvg-logo="https://ghfast.top/raw.githubusercontent.com/sublime2025/IPTV/main/img/Adult/惊艳台.png" 		group-title="限制",惊艳台
+#EXTINF:-1 tvg-name="惊艳台" 	tvg-logo="https://ghfast.top/raw.githubusercontent.com/sublime2025/IPTV/main/img/Adult/惊艳台.png" 	group-title="限制",惊艳台
 
-#EXTINF:-1 tvg-name="潘多拉" 	tvg-logo="https://ghfast.top/raw.githubusercontent.com/sublime2025/IPTV/main/img/Adult/潘多拉.png" 		group-title="限制",潘多拉
+#EXTINF:-1 tvg-name="潘多拉" 	tvg-logo="https://ghfast.top/raw.githubusercontent.com/sublime2025/IPTV/main/img/Adult/潘多拉.png" 	group-title="限制",潘多拉
 
-#EXTINF:-1 tvg-name="香蕉台" 	tvg-logo="https://ghfast.top/raw.githubusercontent.com/sublime2025/IPTV/main/img/Adult/香蕉台.png" 		group-title="限制",香蕉台
+#EXTINF:-1 tvg-name="香蕉台" 	tvg-logo="https://ghfast.top/raw.githubusercontent.com/sublime2025/IPTV/main/img/Adult/香蕉台.png" 	group-title="限制",香蕉台
 
-#EXTINF:-1 tvg-name="澳视1台" 	tvg-logo="https://ghfast.top/raw.githubusercontent.com/sublime2025/IPTV/main/img/Adult/澳视.png" 		group-title="限制",澳视1台
+#EXTINF:-1 tvg-name="澳视1台" 	tvg-logo="https://ghfast.top/raw.githubusercontent.com/sublime2025/IPTV/main/img/Adult/澳视.png" 	group-title="限制",澳视1台
 
-#EXTINF:-1 tvg-name="澳视2台" 	tvg-logo="https://ghfast.top/raw.githubusercontent.com/sublime2025/IPTV/main/img/Adult/澳视.png" 		group-title="限制",澳视2台
+#EXTINF:-1 tvg-name="澳视2台" 	tvg-logo="https://ghfast.top/raw.githubusercontent.com/sublime2025/IPTV/main/img/Adult/澳视.png" 	group-title="限制",澳视2台
 
-#EXTINF:-1 tvg-name="澳视3台" 	tvg-logo="https://ghfast.top/raw.githubusercontent.com/sublime2025/IPTV/main/img/Adult/澳视.png" 		group-title="限制",澳视3台
+#EXTINF:-1 tvg-name="澳视3台" 	tvg-logo="https://ghfast.top/raw.githubusercontent.com/sublime2025/IPTV/main/img/Adult/澳视.png" 	group-title="限制",澳视3台
 
 #EXTINF:-1 tvg-name="麻豆传媒" 	tvg-logo="https://ghfast.top/raw.githubusercontent.com/sublime2025/IPTV/main/img/Adult/麻豆传媒.png" 	group-title="限制",国产台
 
-#EXTINF:-1 tvg-name="JAPNHD" 	tvg-logo="https://ghfast.top/raw.githubusercontent.com/sublime2025/IPTV/main/img/Adult/岛国片.png" 		group-title="限制",岛国片
+#EXTINF:-1 tvg-name="JAPNHD" 	tvg-logo="https://ghfast.top/raw.githubusercontent.com/sublime2025/IPTV/main/img/Adult/岛国片.png" 	group-title="限制",岛国片
 
 #EXTINF:-1 tvg-name="极限电影" 	tvg-logo="https://ghfast.top/raw.githubusercontent.com/sublime2025/IPTV/main/img/Adult/极限电影.png" 	group-title="限制",极限台
 
-#EXTINF:-1 tvg-name="X-Art" 	tvg-logo="https://ghfast.top/raw.githubusercontent.com/sublime2025/IPTV/main/img/Adult/Porn.png" 		group-title="限制",欧美台
+#EXTINF:-1 tvg-name="X-Art" 	tvg-logo="https://ghfast.top/raw.githubusercontent.com/sublime2025/IPTV/main/img/Adult/Porn.png" 	group-title="限制",欧美台
 
 #EXTINF:-1 tvg-name="PlayBoy" 	tvg-logo="https://ghfast.top/raw.githubusercontent.com/sublime2025/IPTV/main/img/Adult/PlayBoy.png" 	group-title="限制",PlayBoy
