@@ -118,14 +118,15 @@ https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream04/streamPla
 #EXTINF:-1 tvg-name="CGTN" tvg-logo="https://ghproxy.cfd/raw.githubusercontent.com/sublime2025/IPTV/main/img/TVB/RTHK34.png" group-title="港台",RTHK34
 https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream04/streamPlaylist.m3u8
 
-#EXTINF:-1 tvg-name="Tennis" tvg-logo="https://ghproxy.cfd/raw.githubusercontent.com/sublime2025/IPTV/main/img/Sport/Tennis.png" group-title="港台",Tennis
-http://aktv-stream.m16tv.cfd/stream/useradd1/tennischannelus/AKTV.m3u8
 #EXTINF:-1 tvg-name="NBA TV" tvg-logo="https://ghproxy.cfd/raw.githubusercontent.com/sublime2025/IPTV/main/img/Sport/NBA.png" group-title="港台",NBA
 http://aktv-stream.m16tv.cfd/stream/astro_a1/ch84/AKTV.m3u8$AKTV
 #EXTINF:-1 tvg-name="MUTV" tvg-logo="https://ghproxy.cfd/raw.githubusercontent.com/sublime2025/IPTV/main/img/Sport/MUTV.png" group-title="港台",MUTV
 http://aktv-stream.m16tv.cfd/stream/astro_a1/ch87/AKTV.m3u8$AKTV
 #EXTINF:-1 tvg-name="Unifi" tvg-logo="https://ghproxy.cfd/raw.githubusercontent.com/sublime2025/IPTV/main/img/Sport/Unifi.png" group-title="港台",Unifi
 http://aktv-stream.m16tv.cfd/stream/astro_a1/ch88/AKTV.m3u8$AKTV
+#EXTINF:-1 tvg-name="Tennis" tvg-logo="https://ghproxy.cfd/raw.githubusercontent.com/sublime2025/IPTV/main/img/Sport/Tennis.png" group-title="港台",Tennis
+http://aktv-stream.m16tv.cfd/stream/useradd1/tennischannelus/AKTV.m3u8
+
 #EXTINF:-1 tvg-name="纬来体育" tvg-logo="https://ghproxy.cfd/raw.githubusercontent.com/sublime2025/IPTV/main/img/Sport/纬来体育.png" group-title="港台",纬来体育
 http://aktv-stream.m16tv.cfd/stream/tuntun/null/AKTV.m3u8$AKTV
 
