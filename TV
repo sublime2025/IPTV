@@ -95,6 +95,8 @@ http://aktv-stream.m16tv.cfd/stream/aktv/null/AKTV.m3u8$AKTV
 #EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://ghproxy.cfd/raw.githubusercontent.com/sublime2025/IPTV/main/img/TVB/翡翠台.png" group-title="港台",翡翠台
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct4$JDSP
 
+#EXTINF:-1 tvg-name="三立新闻" tvg-logo="https://ghproxy.cfd/raw.githubusercontent.com/sublime2025/IPTV/main/img/TVB/三立新闻.png" group-title="港台",寰宇新闻
+http://aktv-stream.m16tv.cfd/stream/taiwan/inews/AKTV.m3u8$AKTV
 #EXTINF:-1 tvg-name="寰宇新闻" tvg-logo="https://ghproxy.cfd/raw.githubusercontent.com/sublime2025/IPTV/main/img/TVB/寰宇新闻.png" group-title="港台",寰宇新闻
 http://aktv-stream.m16tv.cfd/stream/taiwan/null-14/AKTV.m3u8$AKTV
 #EXTINF:-1 tvg-name="东森新闻" tvg-logo="https://ghproxy.cfd/raw.githubusercontent.com/sublime2025/IPTV/main/img/TVB/东森新闻.png" group-title="港台",东森新闻
@@ -235,6 +237,9 @@ http://aktv-stream.m16tv.cfd/stream/aktv/hk-1/AKTV.m3u8$AKTV
 #EXTINF:-1 tvg-name="美亚电影港" tvg-logo="https://ghproxy.cfd/raw.githubusercontent.com/sublime2025/IPTV/main/img/Movie/美亚电影.png" group-title="影视",美亚电影
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=meiya$JDSP
 
+#EXTINF:-1 tvg-name="ViuTV" tvg-logo="https://ghproxy.cfd/raw.githubusercontent.com/sublime2025/IPTV/main/img/Movie/ViuTV.png" group-title="影视",ViuTV
+http://aktv-stream.m16tv.cfd/stream/useradd1/viutv/AKTV.m3u8
+
 #EXTINF:-1 tvg-name="amc电影" tvg-logo="https://ghproxy.cfd/raw.githubusercontent.com/sublime2025/IPTV/main/img/Movie/AMC电影.png" group-title="影视",amc电影
 http://aktv-stream.m16tv.cfd/stream/taiwan/amc/AKTV.m3u8$AKTV
 #EXTINF:-1 tvg-name="amc电影" tvg-logo="https://ghproxy.cfd/raw.githubusercontent.com/sublime2025/IPTV/main/img/Movie/AMC电影.png" group-title="影视",amc电影
@@ -275,6 +280,8 @@ http://50.7.234.10:8278/ettvmovie/playlist.m3u8?tid=MECE7715898977158989&ct=1923
 #EXTINF:-1 tvg-name="东森电影" tvg-logo="https://ghproxy.cfd/raw.githubusercontent.com/sublime2025/IPTV/main/img/Movie/东森电影.png" group-title="影视",东森电影
 http://50.7.234.10:8278/ettvmovie/playlist.m3u8?tid=MDED1943740419437404&ct=19225&tsum=120834a4218c4b5c3bb19efb8116f859
 
+#EXTINF:-1 tvg-name="天映频道" tvg-logo="https://ghproxy.cfd/raw.githubusercontent.com/sublime2025/IPTV/main/img/Movie/天映频道.png" group-title="影视",天映频道
+http://aktv-stream.m16tv.cfd/stream/astro_a1/celestialmovies/AKTV.m3u8$AKTV
 #EXTINF:-1 tvg-name="天映频道" tvg-logo="https://ghproxy.cfd/raw.githubusercontent.com/sublime2025/IPTV/main/img/Movie/天映频道.png" group-title="影视",天映频道
 http://50.7.234.10:8278/Celestial/playlist.m3u8?tid=MB0B6153961161539611&ct=19955&tsum=595ff8b4e51dcb87b06c193bdd260231
 
