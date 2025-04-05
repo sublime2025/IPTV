@@ -104,13 +104,6 @@ http://aktv-stream.m16tv.cfd/stream/aktv2/null/AKTV.m3u8$AKTV
 #EXTINF:-1 tvg-name="东森新闻" tvg-logo="https://ghproxy.cfd/raw.githubusercontent.com/sublime2025/IPTV/main/img/TVB/东森新闻.png" group-title="港台",东森新闻
 http://aktv-stream.m16tv.cfd/stream/taiwan/null-10/AKTV.m3u8$AKTV
 
-#EXTINF:-1 tvg-name="东森新闻" tvg-logo="https://ghproxy.cfd/raw.githubusercontent.com/sublime2025/IPTV/main/img/TVB/东森新闻.png" group-title="港台",东森新闻
-http://50.7.234.10:8278/ettvnews/playlist.m3u8?tid=MD8D4407126144071261&ct=19344&tsum=c7212737de5e023823ea68610d709c14
-#EXTINF:-1 tvg-name="东森新闻" tvg-logo="https://ghproxy.cfd/raw.githubusercontent.com/sublime2025/IPTV/main/img/TVB/东森新闻.png" group-title="港台",东森新闻
-http://50.7.234.10:8278/ettvnews/playlist.m3u8?tid=MD8D8672451386724513&ct=19234&tsum=d08fdb1dd5078503ffd859a065bc9290
-#EXTINF:-1 tvg-name="东森新闻" tvg-logo="https://ghproxy.cfd/raw.githubusercontent.com/sublime2025/IPTV/main/img/TVB/东森新闻.png" group-title="港台",东森新闻
-http://50.7.234.10:8278/ettvnews/playlist.m3u8?tid=ME5E8863997888639978&ct=19193&tsum=6b0236441f10a7195fb35fe7997db68c
-
 #EXTINF:-1 tvg-name="TVBS新闻" tvg-logo="https://ghproxy.cfd/raw.githubusercontent.com/sublime2025/IPTV/main/img/TVB/TVBS新闻.png" group-title="港台",TVBS新闻
 http://61.221.215.25:8800/hls/9/index.m3u8
 
@@ -372,20 +365,10 @@ http://124.248.69.76:26781/huya/11352960
 #EXTINF:-1 tvg-name="Animax HK" tvg-logo="https://ghproxy.cfd/raw.githubusercontent.com/sublime2025/IPTV/main/img/TVB/Animax.png" group-title="动漫",Animax
 http://aktv-stream.m16tv.cfd/stream/aktv3/animaxhk/AKTV.m3u8
 
-#EXTINF:-1 tvg-name="Disney" tvg-logo="https://ghproxy.cfd/raw.githubusercontent.com/sublime2025/IPTV/main/img/TVB/Disney.png" group-title="动漫",Disney
-http://aktv-stream.m16tv.cfd/stream/tuntun/disneychannel/AKTV.m3u8
-#EXTINF:-1 tvg-name="Disney XD" tvg-logo="https://ghproxy.cfd/raw.githubusercontent.com/sublime2025/IPTV/main/img/TVB/Disney.png" group-title="动漫",Disney
-http://aktv-stream.m16tv.cfd/stream/tuntun/disneyxd/AKTV.m3u8
-
 #EXTINF:-1 tvg-name="Nick" tvg-logo="https://ghproxy.cfd/raw.githubusercontent.com/sublime2025/IPTV/main/img/TVB/NickJr.png" group-title="动漫",NickJr
 http://aktv-stream.m16tv.cfd/stream/aktv3/nickjr/AKTV.m3u8
 #EXTINF:-1 tvg-name="Nick" tvg-logo="https://ghproxy.cfd/raw.githubusercontent.com/sublime2025/IPTV/main/img/TVB/NickJr.png" group-title="动漫",NickJr
 http://aktv-stream.m16tv.cfd/stream/aktv3/nickelodeon/AKTV.m3u8
-
-#EXTINF:-1 tvg-name="CN卡通" tvg-logo="https://ghproxy.cfd/raw.githubusercontent.com/sublime2025/IPTV/main/img/TVB/CN卡通.png" group-title="动漫",CN卡通
-http://50.7.234.10:8278/momo1_twn/playlist.m3u8?ct=19225&tid=MA0A4898983648989836&tsum=bd109117d126916f203880b1f2063d5e
-#EXTINF:-1 tvg-name="CN卡通" tvg-logo="https://ghproxy.cfd/raw.githubusercontent.com/sublime2025/IPTV/main/img/TVB/CN卡通.png" group-title="动漫",CN卡通
-http://50.7.234.10:8278/momo1_twn/playlist.m3u8?tid=MA0A4898983648989836&ct=19225&tsum=bd109117d126916f203880b1f2063d5e
 
 #EXTINF:-1 tvg-name="猫和老鼠" tvg-logo="https://ghproxy.cfd/raw.githubusercontent.com/sublime2025/IPTV/main/img/猫和老鼠.png" group-title="动漫",猫和老鼠
 http://124.248.69.76:26781/huya/11352879
