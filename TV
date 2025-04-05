@@ -100,7 +100,7 @@ http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct4$JDSP
 #EXTINF:-1 tvg-name="三立新闻" tvg-logo="https://ghproxy.cfd/raw.githubusercontent.com/sublime2025/IPTV/main/img/TVB/三立新闻.png" group-title="港台",三立新闻
 http://aktv-stream.m16tv.cfd/stream/taiwan/inews/AKTV.m3u8$AKTV
 #EXTINF:-1 tvg-name="寰宇新闻" tvg-logo="https://ghproxy.cfd/raw.githubusercontent.com/sublime2025/IPTV/main/img/TVB/寰宇新闻.png" group-title="港台",寰宇新闻
-http://aktv-stream.m16tv.cfd/stream/taiwan/null-14/AKTV.m3u8$AKTV
+http://aktv-stream.m16tv.cfd/stream/aktv/null-7/AKTV.m3u8$AKTV
 #EXTINF:-1 tvg-name="东森新闻" tvg-logo="https://ghproxy.cfd/raw.githubusercontent.com/sublime2025/IPTV/main/img/TVB/东森新闻.png" group-title="港台",东森新闻
 http://aktv-stream.m16tv.cfd/stream/aktv2/null/AKTV.m3u8$AKTV
 
@@ -118,8 +118,6 @@ https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream04/streamPla
 #EXTINF:-1 tvg-name="CGTN" tvg-logo="https://ghproxy.cfd/raw.githubusercontent.com/sublime2025/IPTV/main/img/TVB/RTHK34.png" group-title="港台",RTHK34
 https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream04/streamPlaylist.m3u8
 
-#EXTINF:-1 tvg-name="纬来体育" tvg-logo="https://ghproxy.cfd/raw.githubusercontent.com/sublime2025/IPTV/main/img/Sport/纬来体育.png" group-title="港台",纬来体育
-http://aktv-stream.m16tv.cfd/stream/tuntun/null/AKTV.m3u8$AKTV
 #EXTINF:-1 tvg-name="Tennis" tvg-logo="https://ghproxy.cfd/raw.githubusercontent.com/sublime2025/IPTV/main/img/Sport/Tennis.png" group-title="港台",Tennis
 http://aktv-stream.m16tv.cfd/stream/useradd1/tennischannelus/AKTV.m3u8
 #EXTINF:-1 tvg-name="NBA TV" tvg-logo="https://ghproxy.cfd/raw.githubusercontent.com/sublime2025/IPTV/main/img/Sport/NBA.png" group-title="港台",NBA
@@ -128,13 +126,8 @@ http://aktv-stream.m16tv.cfd/stream/astro_a1/ch84/AKTV.m3u8$AKTV
 http://aktv-stream.m16tv.cfd/stream/astro_a1/ch87/AKTV.m3u8$AKTV
 #EXTINF:-1 tvg-name="Unifi" tvg-logo="https://ghproxy.cfd/raw.githubusercontent.com/sublime2025/IPTV/main/img/Sport/Unifi.png" group-title="港台",Unifi
 http://aktv-stream.m16tv.cfd/stream/astro_a1/ch88/AKTV.m3u8$AKTV
-
 #EXTINF:-1 tvg-name="纬来体育" tvg-logo="https://ghproxy.cfd/raw.githubusercontent.com/sublime2025/IPTV/main/img/Sport/纬来体育.png" group-title="港台",纬来体育
-rtmp://f13h.mine.nu/sat/tv721
-#EXTINF:-1 tvg-name="DAZN 1" tvg-logo="https://ghproxy.cfd/raw.githubusercontent.com/sublime2025/IPTV/main/img/Sport/DAZN.png" group-title="港台",DAZN
-rtmp://f13h.mine.nu/sat/tv731
-#EXTINF:-1 tvg-name="DAZN 2" tvg-logo="https://ghproxy.cfd/raw.githubusercontent.com/sublime2025/IPTV/main/img/Sport/DAZN.png" group-title="港台",DAZN
-rtmp://f13h.mine.nu/sat/tv741
+http://aktv-stream.m16tv.cfd/stream/tuntun/null/AKTV.m3u8$AKTV
 
 █████████████████████████████████████████████████████████████████████████████████████████████████████████
 
