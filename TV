@@ -92,28 +92,27 @@ http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 
 #EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://ghproxy.cfd/raw.githubusercontent.com/sublime2025/IPTV/main/img/TVB/翡翠台.png" group-title="港台",翡翠台
 http://aktv-stream.m16tv.cfd/stream/aktv/null/AKTV.m3u8$AKTV
+#EXTINF:-1 tvg-name="翡翠4K" tvg-logo="https://ghproxy.cfd/raw.githubusercontent.com/sublime2025/IPTV/main/img/TVB/翡翠台.png" group-title="港台",翡翠台
+http://aktv-stream.m16tv.cfd/stream/aktv/4k/AKTV.m3u8$4K
 #EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://ghproxy.cfd/raw.githubusercontent.com/sublime2025/IPTV/main/img/TVB/翡翠台.png" group-title="港台",翡翠台
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct4$JDSP
 
-#EXTINF:-1 tvg-name="三立新闻" tvg-logo="https://ghproxy.cfd/raw.githubusercontent.com/sublime2025/IPTV/main/img/TVB/三立新闻.png" group-title="港台",寰宇新闻
+#EXTINF:-1 tvg-name="三立新闻" tvg-logo="https://ghproxy.cfd/raw.githubusercontent.com/sublime2025/IPTV/main/img/TVB/三立新闻.png" group-title="港台",三立新闻
 http://aktv-stream.m16tv.cfd/stream/taiwan/inews/AKTV.m3u8$AKTV
 #EXTINF:-1 tvg-name="寰宇新闻" tvg-logo="https://ghproxy.cfd/raw.githubusercontent.com/sublime2025/IPTV/main/img/TVB/寰宇新闻.png" group-title="港台",寰宇新闻
 http://aktv-stream.m16tv.cfd/stream/taiwan/null-14/AKTV.m3u8$AKTV
 #EXTINF:-1 tvg-name="东森新闻" tvg-logo="https://ghproxy.cfd/raw.githubusercontent.com/sublime2025/IPTV/main/img/TVB/东森新闻.png" group-title="港台",东森新闻
 http://aktv-stream.m16tv.cfd/stream/aktv2/null/AKTV.m3u8$AKTV
-#EXTINF:-1 tvg-name="东森新闻" tvg-logo="https://ghproxy.cfd/raw.githubusercontent.com/sublime2025/IPTV/main/img/TVB/东森新闻.png" group-title="港台",东森新闻
-http://aktv-stream.m16tv.cfd/stream/taiwan/null-10/AKTV.m3u8$AKTV
+
+#EXTINF:-1 tvg-name="娱乐新闻" tvg-logo="https://ghproxy.cfd/raw.githubusercontent.com/sublime2025/IPTV/main/img/TVB/娱乐新闻.png" group-title="港台",娱乐新闻
+http://aktv-stream.m16tv.cfd/stream/aktv/hk/AKTV.m3u8$AKTV
 
 #EXTINF:-1 tvg-name="TVBS新闻" tvg-logo="https://ghproxy.cfd/raw.githubusercontent.com/sublime2025/IPTV/main/img/TVB/TVBS新闻.png" group-title="港台",TVBS新闻
 http://61.221.215.25:8800/hls/9/index.m3u8
 
-#EXTINF:-1 tvg-name="娱乐新闻" tvg-logo="https://ghproxy.cfd/raw.githubusercontent.com/sublime2025/IPTV/main/img/TVB/娱乐新闻.png" group-title="港台",娱乐新闻
-http://aktv-stream.m16tv.cfd/stream/aktv/hk/AKTV.m3u8$AKTV
 #EXTINF:-1 tvg-name="tvN" tvg-logo="https://ghproxy.cfd/raw.githubusercontent.com/sublime2025/IPTV/main/img/TVB/tvN.png" group-title="港台",tvN
 http://aktv-stream.m16tv.cfd/stream/aktv/tvn/AKTV.m3u8$AKTV
 
-#EXTINF:-1 tvg-name="MBOTV" tvg-logo="https://ghproxy.cfd/raw.githubusercontent.com/sublime2025/IPTV/main/img/温馨提示.png" group-title="港台",MBOTV
-https://1816029567.rsc.cdn77.org/1816029567/index.m3u8
 #EXTINF:-1 tvg-name="CCTV" tvg-logo="https://ghproxy.cfd/raw.githubusercontent.com/sublime2025/IPTV/main/img/TVB/RTHK33.png" group-title="港台",RTHK33
 https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream04/streamPlaylist.m3u8
 #EXTINF:-1 tvg-name="CGTN" tvg-logo="https://ghproxy.cfd/raw.githubusercontent.com/sublime2025/IPTV/main/img/TVB/RTHK34.png" group-title="港台",RTHK34
@@ -121,27 +120,17 @@ https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream04/streamPla
 
 #EXTINF:-1 tvg-name="纬来体育" tvg-logo="https://ghproxy.cfd/raw.githubusercontent.com/sublime2025/IPTV/main/img/Sport/纬来体育.png" group-title="港台",纬来体育
 http://aktv-stream.m16tv.cfd/stream/tuntun/null/AKTV.m3u8$AKTV
-#EXTINF:-1 tvg-name="纬来体育" tvg-logo="https://ghproxy.cfd/raw.githubusercontent.com/sublime2025/IPTV/main/img/Sport/纬来体育.png" group-title="港台",纬来体育
-rtmp://f13h.mine.nu/sat/tv721
-
-#EXTINF:-1 tvg-name="Sky-Darts" tvg-logo="https://ghproxy.cfd/raw.githubusercontent.com/sublime2025/IPTV/main/img/Sport/Sky-Darts.png" group-title="港台",天空体育
-http://tv14s.xyz:8080/753468/894568/53704
-#EXTINF:-1 tvg-name="Sky-MainEvent" tvg-logo="https://ghproxy.cfd/raw.githubusercontent.com/sublime2025/IPTV/main/img/Sport/Sky-MainEvent.png" group-title="港台",天空体育
-http://cord-cutter.net:8080/25464931/30585186/137720
-
-#EXTINF:-1 tvg-name="ELTA体育" tvg-logo="https://ghproxy.cfd/raw.githubusercontent.com/sublime2025/IPTV/main/img/Sport/ELTA体育.png" group-title="港台",ELTA体育
-http://50.7.234.10:8278/eltasport_twn/playlist.m3u8?tid=md3567b35401611916221&ct=17874&tsum=be2a069324faa7f0737ca0d396d43745
-#EXTINF:-1 tvg-name="ELTA体育" tvg-logo="https://ghproxy.cfd/raw.githubusercontent.com/sublime2025/IPTV/main/img/Sport/ELTA体育.png" group-title="港台",ELTA体育
-http://50.7.234.10:8278/eltasport2_twn/playlist.m3u8?tid=MB2B3966739039667390&ct=19249&tsum=20bdbd3a22909e8d89aabe7a923c8c5b
-
+#EXTINF:-1 tvg-name="Tennis" tvg-logo="https://ghproxy.cfd/raw.githubusercontent.com/sublime2025/IPTV/main/img/Sport/Tennis.png" group-title="港台",Tennis
+http://aktv-stream.m16tv.cfd/stream/useradd1/tennischannelus/AKTV.m3u8
 #EXTINF:-1 tvg-name="NBA TV" tvg-logo="https://ghproxy.cfd/raw.githubusercontent.com/sublime2025/IPTV/main/img/Sport/NBA.png" group-title="港台",NBA
 http://aktv-stream.m16tv.cfd/stream/astro_a1/ch84/AKTV.m3u8$AKTV
-
 #EXTINF:-1 tvg-name="MUTV" tvg-logo="https://ghproxy.cfd/raw.githubusercontent.com/sublime2025/IPTV/main/img/Sport/MUTV.png" group-title="港台",MUTV
 http://aktv-stream.m16tv.cfd/stream/astro_a1/ch87/AKTV.m3u8$AKTV
 #EXTINF:-1 tvg-name="Unifi" tvg-logo="https://ghproxy.cfd/raw.githubusercontent.com/sublime2025/IPTV/main/img/Sport/Unifi.png" group-title="港台",Unifi
 http://aktv-stream.m16tv.cfd/stream/astro_a1/ch88/AKTV.m3u8$AKTV
 
+#EXTINF:-1 tvg-name="纬来体育" tvg-logo="https://ghproxy.cfd/raw.githubusercontent.com/sublime2025/IPTV/main/img/Sport/纬来体育.png" group-title="港台",纬来体育
+rtmp://f13h.mine.nu/sat/tv721
 #EXTINF:-1 tvg-name="DAZN 1" tvg-logo="https://ghproxy.cfd/raw.githubusercontent.com/sublime2025/IPTV/main/img/Sport/DAZN.png" group-title="港台",DAZN
 rtmp://f13h.mine.nu/sat/tv731
 #EXTINF:-1 tvg-name="DAZN 2" tvg-logo="https://ghproxy.cfd/raw.githubusercontent.com/sublime2025/IPTV/main/img/Sport/DAZN.png" group-title="港台",DAZN
