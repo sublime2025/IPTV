@@ -112,7 +112,7 @@ http://61.221.215.25:8800/hls/9/index.m3u8
 
 #EXTINF:-1 tvg-name="tvN" tvg-logo="https://ghproxy.cfd/raw.githubusercontent.com/sublime2025/IPTV/main/img/TVB/tvN.png" group-title="港台",tvN
 http://aktv-stream.m16tv.cfd/stream/aktv/tvn/AKTV.m3u8$AKTV
-#EXTINF:-1 tvg-name="ViuTV" tvg-logo="https://ghproxy.cfd/raw.githubusercontent.com/sublime2025/IPTV/main/img/TVB/ViuTV.png" group-title="影视",ViuTV
+#EXTINF:-1 tvg-name="ViuTV" tvg-logo="https://ghproxy.cfd/raw.githubusercontent.com/sublime2025/IPTV/main/img/TVB/ViuTV.png" group-title="港台",ViuTV
 http://aktv-stream.m16tv.cfd/stream/useradd1/viutv/AKTV.m3u8
 
 #EXTINF:-1 tvg-name="CCTV" tvg-logo="https://ghproxy.cfd/raw.githubusercontent.com/sublime2025/IPTV/main/img/TVB/RTHK33.png" group-title="港台",RTHK33
@@ -170,27 +170,6 @@ http://125.227.210.55:8165/VideoInput/play.ts
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 #EXTINF:-1 tvg-name="CNN" tvg-logo="https://ghproxy.cfd/raw.githubusercontent.com/sublime2025/IPTV/main/img/World/CNN.png" group-title="国际",美国新闻
 https://amg01448-samsungin-cnnnow-samsungin-4npqg.amagi.tv/playlist/amg01448-samsungin-cnnnow-samsungin/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Fox NEWS" tvg-logo="https://ghproxy.cfd/raw.githubusercontent.com/sublime2025/IPTV/main/img/World/FOX.png" group-title="国际",福克斯台
-https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-name="Fox NEWS" tvg-logo="https://ghproxy.cfd/raw.githubusercontent.com/sublime2025/IPTV/main/img/World/FOX.png" group-title="国际",福克斯台
-http://50.7.234.10:8278/foxnews_twn/playlist.m3u8?tid=MC6C3693629036936290&ct=19225&tsum=f5a714cff126a87d446c0613d9e80e14
-
-#EXTINF:-1 tvg-name="乌克兰台" tvg-logo="https://ghproxy.cfd/raw.githubusercontent.com/sublime2025/IPTV/main/img/IMG.png" group-title="国际",乌克兰台
-https://cdn.1tvcrimea.ru/1tvcrimea.m3u8
-#EXTINF:-1 tvg-name="伊拉克台" tvg-logo="https://ghproxy.cfd/raw.githubusercontent.com/sublime2025/IPTV/main/img/IMG.png" group-title="国际",伊拉克台
-http://ns8.indexforce.com:1935/home/mystream/playlist.m3u8
-#EXTINF:-1 tvg-name="IonianChannel" tvg-logo="https://ghproxy.cfd/raw.githubusercontent.com/sublime2025/IPTV/main/img/IMG.png" group-title="国际",希腊台
-http://stream.ioniantv.gr:8081/ionian/live/playlist.m3u8
-#EXTINF:-1 tvg-name="Iran News" tvg-logo="https://ghproxy.cfd/raw.githubusercontent.com/sublime2025/IPTV/main/img/IMG.png" group-title="国际",伊朗新闻
-https://dev-live.livetvstream.co.uk/LS-63503-4/chunklist_b1196000.m3u8
-
-#EXTINF:-1 tvg-name="泰国新闻" tvg-logo="https://ghproxy.cfd/raw.githubusercontent.com/sublime2025/IPTV/main/img/World/NEWS1.png" group-title="国际",泰国新闻
-http://news1.live14.com/stream/news1_hi.m3u8
-#EXTINF:-1 tvg-name="半岛国际" tvg-logo="https://ghproxy.cfd/raw.githubusercontent.com/sublime2025/IPTV/main/img/World/半岛新闻.png" group-title="国际",半岛国际
-http://live-hls-web-aje.getaj.net/AJE/01.m3u8
-#EXTINF:-1 tvg-name="半岛新闻" tvg-logo="https://ghproxy.cfd/raw.githubusercontent.com/sublime2025/IPTV/main/img/World/半岛新闻.png" group-title="国际",半岛新闻
-http://live-hls-web-aja.getaj.net/AJA/02.m3u8
 
 #EXTINF:-1 tvg-name="RedBull" tvg-logo="https://ghproxy.cfd/raw.githubusercontent.com/sublime2025/IPTV/main/img/World/红牛运动.png" group-title="国际",红牛运动
 http://aktv-stream.m16tv.cfd/stream/tuntun/redbullsports/AKTV.m3u8$AKTV
@@ -335,10 +314,6 @@ http://lunbo.freetv.top/yy/1352475619
 http://lunbo.freetv.top/yy/1382749903
 #EXTINF:-1 tvg-name="风云雄霸天下" tvg-logo="https://ghproxy.cfd/raw.githubusercontent.com/sublime2025/IPTV/main/img/虎牙.png" group-title="剧集",风云雄霸天下
 http://124.248.69.76:26781/huya/21059612
-#EXTINF:-1 tvg-name="忠烈杨家将" tvg-logo="https://ghproxy.cfd/raw.githubusercontent.com/sublime2025/IPTV/main/img/IMG.png" group-title="剧集",忠烈杨家将
-http://lunbo.freetv.top/yy/1382749909
-#EXTINF:-1 tvg-name="雪中悍刀行" tvg-logo="https://ghproxy.cfd/raw.githubusercontent.com/sublime2025/IPTV/main/img/IMG.png" group-title="剧集",雪中悍刀行
-http://lunbo.freetv.top/yy/1382660835
 #EXTINF:-1 tvg-name="庆余年" tvg-logo="https://ghproxy.cfd/raw.githubusercontent.com/sublime2025/IPTV/main/img/虎牙.png" group-title="剧集",庆余年
 http://124.248.69.76:26781/huya/11352960
 
@@ -375,8 +350,6 @@ http://124.248.69.76:26781/huya/11352919
 
 #EXTINF:-1 tvg-name="厨神小当家" tvg-logo="https://ghproxy.cfd/raw.githubusercontent.com/sublime2025/IPTV/main/img/小当家.png" group-title="动漫",厨神小当家
 http://124.248.69.76:26781/huya/24257300
-#EXTINF:-1 tvg-name="中华小当家" tvg-logo="https://ghproxy.cfd/raw.githubusercontent.com/sublime2025/IPTV/main/img/小当家.png" group-title="动漫",厨神小当家
-http://61.221.215.25:8800/hls/40/index.m3u8
 #EXTINF:-1 tvg-name="成龙历险记" tvg-logo="https://ghproxy.cfd/raw.githubusercontent.com/sublime2025/IPTV/main/img/小玉.png" group-title="动漫",成龙历险记
 http://124.248.69.76:26781/huya/11352946
 
@@ -384,13 +357,6 @@ http://124.248.69.76:26781/huya/11352946
 http://124.248.69.76:26781/huya/30080227
 #EXTINF:-1 tvg-name="名侦探柯南" tvg-logo="https://ghproxy.cfd/raw.githubusercontent.com/sublime2025/IPTV/main/img/名侦探.png" group-title="动漫",名侦探柯南
 http://124.248.69.76:26781/huya/30080236
-#EXTINF:-1 tvg-name="柯南剧场" tvg-logo="https://ghproxy.cfd/raw.githubusercontent.com/sublime2025/IPTV/main/img/柯南.png" group-title="动漫",柯南剧场
-http://huanqiuzhibo.cn/manifest/douyu.php?id=7620081
-
-#EXTINF:-1 tvg-name="轮播动漫" tvg-logo="https://ghproxy.cfd/raw.githubusercontent.com/sublime2025/IPTV/main/img/卡通.png" group-title="动漫",轮播动漫
-http://huanqiuzhibo.cn/manifest/douyu.php?id=1174353
-#EXTINF:-1 tvg-name="轮播动漫" tvg-logo="https://ghproxy.cfd/raw.githubusercontent.com/sublime2025/IPTV/main/img/卡通.png" group-title="动漫",轮播动漫
-http://huanqiuzhibo.cn/manifest/douyu.php?id=426517
 
 █████████████████████████████████████████████████████████████████████████████████████████████████████████
 
