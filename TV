@@ -120,6 +120,59 @@ https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream04/streamPla
 #EXTINF:-1 tvg-name="CGTN" tvg-logo="https://ghproxy.cfd/raw.githubusercontent.com/sublime2025/IPTV/main/img/TVB/RTHK34.png" group-title="港台",RTHK34
 https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream04/streamPlaylist.m3u8
 
+#EXTINF:-1 tvg-name="纬来体育" tvg-logo="https://ghproxy.cfd/raw.githubusercontent.com/sublime2025/IPTV/main/img/Sport/纬来体育.png" group-title="港台",纬来体育
+http://aktv-stream.m16tv.cfd/stream/test/null/AKTV.m3u8$AKTV
+
+█████████████████████████████████████████████████████████████████████████████████████████████████████████
+
+#EXTINF:-1 tvg-name="CNA" tvg-logo="https://ghproxy.cfd/raw.githubusercontent.com/sublime2025/IPTV/main/img/World/CNA.png" group-title="其它",CNA
+http://aktv-stream.m16tv.cfd/stream/aktv3/null-3/AKTV.m3u8$AKTV
+#EXTINF:-1 tvg-name="CNA" tvg-logo="https://ghproxy.cfd/raw.githubusercontent.com/sublime2025/IPTV/main/img/World/CNA.png" group-title="其它",CNA
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+
+#EXTINF:-1 tvg-name="DW" tvg-logo="https://ghproxy.cfd/raw.githubusercontent.com/sublime2025/IPTV/main/img/World/DW.png" group-title="其它",DW
+http://aktv-stream.m16tv.cfd/stream/aktv3/dw/AKTV.m3u8$AKTV
+#EXTINF:-1 tvg-name="DW" tvg-logo="https://ghproxy.cfd/raw.githubusercontent.com/sublime2025/IPTV/main/img/World/DW.png" group-title="其它",DW
+http://37.27.111.214:8080/live/46/hls.m3u8
+
+#EXTINF:-1 tvg-name="France24" tvg-logo="https://ghproxy.cfd/raw.githubusercontent.com/sublime2025/IPTV/main/img/World/France24.png" group-title="其它",France24
+http://aktv-stream.m16tv.cfd/stream/aktv3/france24/AKTV.m3u8$AKTV
+#EXTINF:-1 tvg-name="France24" tvg-logo="https://ghproxy.cfd/raw.githubusercontent.com/sublime2025/IPTV/main/img/World/France24.png" group-title="其它",France24
+http://50.7.234.10:8278/france24_twn/playlist.m3u8?tid=MD8D3999259739992597&ct=19225&tsum=f842be32f837e71c7df73d173c6705b1
+
+#EXTINF:-1 tvg-name="Japan 24h" tvg-logo="https://ghproxy.cfd/raw.githubusercontent.com/sublime2025/IPTV/main/img/World/Japan24.png" group-title="其它",NTVNews24
+http://aktv-stream.m16tv.cfd/stream/useradd1/ntvnews24/AKTV.m3u8$AKTV
+#EXTINF:-1 tvg-name="Japan 24h" tvg-logo="https://ghproxy.cfd/raw.githubusercontent.com/sublime2025/IPTV/main/img/World/Japan24.png" group-title="其它",NTVNews24
+https://n24-cdn-live.ntv.co.jp/ch01/index_high.m3u8
+
+#EXTINF:-1 tvg-name="NHK World" tvg-logo="https://ghproxy.cfd/raw.githubusercontent.com/sublime2025/IPTV/main/img/World/NHK.png" group-title="其它",NHK
+http://aktv-stream.m16tv.cfd/stream/aktv3/nhkworldjapan/AKTV.m3u8
+
+#EXTINF:-1 tvg-name="BBC World" tvg-logo="https://ghproxy.cfd/raw.githubusercontent.com/sublime2025/IPTV/main/img/World/BBC.png" group-title="其它",BBC
+http://50.7.234.10:8278/bbcnews_twn/playlist.m3u8?tid=ME2E9411781394117813&ct=19225&tsum=ffaa2caa60183eec89d730ed80b336d1
+#EXTINF:-1 tvg-name="BBC World" tvg-logo="https://ghproxy.cfd/raw.githubusercontent.com/sublime2025/IPTV/main/img/World/BBC.png" group-title="其它",BBC
+https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8?v=1
+#EXTINF:-1 tvg-name="BBC World" tvg-logo="https://ghproxy.cfd/raw.githubusercontent.com/sublime2025/IPTV/main/img/World/BBC.png" group-title="其它",BBC
+https://d3pxo1qcgzxtxs.cloudfront.net/10005/99951298/hls/playlist.m3u8?ads.xumo_channelId=99951298
+#EXTINF:-1 tvg-name="BBC World" tvg-logo="https://ghproxy.cfd/raw.githubusercontent.com/sublime2025/IPTV/main/img/World/BBC.png" group-title="其它",BBC
+http://125.227.210.55:8165/VideoInput/play.ts
+
+#EXTINF:-1 tvg-name="CNN" tvg-logo="https://ghproxy.cfd/raw.githubusercontent.com/sublime2025/IPTV/main/img/World/CNN.png" group-title="其它",CNN
+https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
+#EXTINF:-1 tvg-name="CNN" tvg-logo="https://ghproxy.cfd/raw.githubusercontent.com/sublime2025/IPTV/main/img/World/CNN.png" group-title="其它",CNN
+https://amg01448-samsungin-cnnnow-samsungin-4npqg.amagi.tv/playlist/amg01448-samsungin-cnnnow-samsungin/playlist.m3u8
+
+#EXTINF:-1 tvg-name="RedBull" tvg-logo="https://ghproxy.cfd/raw.githubusercontent.com/sublime2025/IPTV/main/img/World/红牛运动.png" group-title="其它",RedBull
+http://aktv-stream.m16tv.cfd/stream/tuntun/redbullsports/AKTV.m3u8$AKTV
+#EXTINF:-1 tvg-name="RedBull" tvg-logo="https://ghproxy.cfd/raw.githubusercontent.com/sublime2025/IPTV/main/img/World/红牛运动.png" group-title="其它",RedBull
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
+#EXTINF:-1 tvg-name="RedBull" tvg-logo="https://ghproxy.cfd/raw.githubusercontent.com/sublime2025/IPTV/main/img/World/红牛运动.png" group-title="其它",RedBull
+http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_928.m3u8
+#EXTINF:-1 tvg-name="Animal Planet" tvg-logo="https://ghproxy.cfd/raw.githubusercontent.com/sublime2025/IPTV/main/img/World/动物星球.png" group-title="其它",Animal
+http://61.221.215.25:8800/hls/57/index.m3u8
+#EXTINF:-1 tvg-name="Love Nature" tvg-logo="https://ghproxy.cfd/raw.githubusercontent.com/sublime2025/IPTV/main/img/World/动物星球.png" group-title="其它",Nature
+https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
+
 #EXTINF:-1 tvg-name="NBA TV" tvg-logo="https://ghproxy.cfd/raw.githubusercontent.com/sublime2025/IPTV/main/img/Sport/NBA.png" group-title="港台",NBA
 http://aktv-stream.m16tv.cfd/stream/astro_a1/ch84/AKTV.m3u8$AKTV
 #EXTINF:-1 tvg-name="MUTV" tvg-logo="https://ghproxy.cfd/raw.githubusercontent.com/sublime2025/IPTV/main/img/Sport/MUTV.png" group-title="港台",MUTV
@@ -128,59 +181,6 @@ http://aktv-stream.m16tv.cfd/stream/astro_a1/ch87/AKTV.m3u8$AKTV
 http://aktv-stream.m16tv.cfd/stream/astro_a1/ch88/AKTV.m3u8$AKTV
 #EXTINF:-1 tvg-name="Tennis" tvg-logo="https://ghproxy.cfd/raw.githubusercontent.com/sublime2025/IPTV/main/img/Sport/Tennis.png" group-title="港台",Tennis
 http://aktv-stream.m16tv.cfd/stream/useradd1/tennischannelus/AKTV.m3u8
-
-#EXTINF:-1 tvg-name="纬来体育" tvg-logo="https://ghproxy.cfd/raw.githubusercontent.com/sublime2025/IPTV/main/img/Sport/纬来体育.png" group-title="港台",纬来体育
-http://aktv-stream.m16tv.cfd/stream/test/null/AKTV.m3u8$AKTV
-
-█████████████████████████████████████████████████████████████████████████████████████████████████████████
-
-#EXTINF:-1 tvg-name="CNA" tvg-logo="https://ghproxy.cfd/raw.githubusercontent.com/sublime2025/IPTV/main/img/World/CNA.png" group-title="国际",亚洲新闻
-http://aktv-stream.m16tv.cfd/stream/aktv3/null-3/AKTV.m3u8$AKTV
-#EXTINF:-1 tvg-name="CNA" tvg-logo="https://ghproxy.cfd/raw.githubusercontent.com/sublime2025/IPTV/main/img/World/CNA.png" group-title="国际",亚洲新闻
-https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-
-#EXTINF:-1 tvg-name="DW" tvg-logo="https://ghproxy.cfd/raw.githubusercontent.com/sublime2025/IPTV/main/img/World/DW.png" group-title="国际",德国新闻
-http://aktv-stream.m16tv.cfd/stream/aktv3/dw/AKTV.m3u8$AKTV
-#EXTINF:-1 tvg-name="DW" tvg-logo="https://ghproxy.cfd/raw.githubusercontent.com/sublime2025/IPTV/main/img/World/DW.png" group-title="国际",德国新闻
-http://37.27.111.214:8080/live/46/hls.m3u8
-
-#EXTINF:-1 tvg-name="France24" tvg-logo="https://ghproxy.cfd/raw.githubusercontent.com/sublime2025/IPTV/main/img/World/France24.png" group-title="国际",法国新闻
-http://aktv-stream.m16tv.cfd/stream/aktv3/france24/AKTV.m3u8$AKTV
-#EXTINF:-1 tvg-name="France24" tvg-logo="https://ghproxy.cfd/raw.githubusercontent.com/sublime2025/IPTV/main/img/World/France24.png" group-title="国际",法国新闻
-http://50.7.234.10:8278/france24_twn/playlist.m3u8?tid=MD8D3999259739992597&ct=19225&tsum=f842be32f837e71c7df73d173c6705b1
-
-#EXTINF:-1 tvg-name="Japan 24h" tvg-logo="https://ghproxy.cfd/raw.githubusercontent.com/sublime2025/IPTV/main/img/World/Japan24.png" group-title="国际",日本新闻
-http://aktv-stream.m16tv.cfd/stream/useradd1/ntvnews24/AKTV.m3u8$AKTV
-#EXTINF:-1 tvg-name="Japan 24h" tvg-logo="https://ghproxy.cfd/raw.githubusercontent.com/sublime2025/IPTV/main/img/World/Japan24.png" group-title="国际",日本新闻
-https://n24-cdn-live.ntv.co.jp/ch01/index_high.m3u8
-
-#EXTINF:-1 tvg-name="NHK World" tvg-logo="https://ghproxy.cfd/raw.githubusercontent.com/sublime2025/IPTV/main/img/World/NHK.png" group-title="国际",日本国际
-http://aktv-stream.m16tv.cfd/stream/aktv3/nhkworldjapan/AKTV.m3u8
-
-#EXTINF:-1 tvg-name="BBC World" tvg-logo="https://ghproxy.cfd/raw.githubusercontent.com/sublime2025/IPTV/main/img/World/BBC.png" group-title="国际",美国国际
-http://50.7.234.10:8278/bbcnews_twn/playlist.m3u8?tid=ME2E9411781394117813&ct=19225&tsum=ffaa2caa60183eec89d730ed80b336d1
-#EXTINF:-1 tvg-name="BBC World" tvg-logo="https://ghproxy.cfd/raw.githubusercontent.com/sublime2025/IPTV/main/img/World/BBC.png" group-title="国际",美国国际
-https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8?v=1
-#EXTINF:-1 tvg-name="BBC World" tvg-logo="https://ghproxy.cfd/raw.githubusercontent.com/sublime2025/IPTV/main/img/World/BBC.png" group-title="国际",美国国际
-https://d3pxo1qcgzxtxs.cloudfront.net/10005/99951298/hls/playlist.m3u8?ads.xumo_channelId=99951298
-#EXTINF:-1 tvg-name="BBC World" tvg-logo="https://ghproxy.cfd/raw.githubusercontent.com/sublime2025/IPTV/main/img/World/BBC.png" group-title="国际",美国国际
-http://125.227.210.55:8165/VideoInput/play.ts
-
-#EXTINF:-1 tvg-name="CNN" tvg-logo="https://ghproxy.cfd/raw.githubusercontent.com/sublime2025/IPTV/main/img/World/CNN.png" group-title="国际",美国新闻
-https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
-#EXTINF:-1 tvg-name="CNN" tvg-logo="https://ghproxy.cfd/raw.githubusercontent.com/sublime2025/IPTV/main/img/World/CNN.png" group-title="国际",美国新闻
-https://amg01448-samsungin-cnnnow-samsungin-4npqg.amagi.tv/playlist/amg01448-samsungin-cnnnow-samsungin/playlist.m3u8
-
-#EXTINF:-1 tvg-name="RedBull" tvg-logo="https://ghproxy.cfd/raw.githubusercontent.com/sublime2025/IPTV/main/img/World/红牛运动.png" group-title="国际",红牛运动
-http://aktv-stream.m16tv.cfd/stream/tuntun/redbullsports/AKTV.m3u8$AKTV
-#EXTINF:-1 tvg-name="RedBull" tvg-logo="https://ghproxy.cfd/raw.githubusercontent.com/sublime2025/IPTV/main/img/World/红牛运动.png" group-title="国际",红牛运动
-https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
-#EXTINF:-1 tvg-name="RedBull" tvg-logo="https://ghproxy.cfd/raw.githubusercontent.com/sublime2025/IPTV/main/img/World/红牛运动.png" group-title="国际",红牛运动
-http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_928.m3u8
-#EXTINF:-1 tvg-name="Animal Planet" tvg-logo="https://ghproxy.cfd/raw.githubusercontent.com/sublime2025/IPTV/main/img/World/动物星球.png" group-title="国际",动物频道
-http://61.221.215.25:8800/hls/57/index.m3u8
-#EXTINF:-1 tvg-name="Love Nature" tvg-logo="https://ghproxy.cfd/raw.githubusercontent.com/sublime2025/IPTV/main/img/World/动物星球.png" group-title="国际",动物频道
-https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 
 █████████████████████████████████████████████████████████████████████████████████████████████████████████
 
@@ -298,8 +298,6 @@ http://lunbo.freetv.top/yy/38498680
 #EXTINF:-1 tvg-name="少年包青天3" tvg-logo="https://ghproxy.cfd/raw.githubusercontent.com/sublime2025/IPTV/main/img/IMG.png" group-title="剧集",少年包青天3
 http://lunbo.freetv.top/yy/1382851540
 
-#EXTINF:-1 tvg-name="武林外传" tvg-logo="https://ghproxy.cfd/raw.githubusercontent.com/sublime2025/IPTV/main/img/IMG.png" group-title="剧集",武林外传
-http://lunbo.freetv.top/yy/21092633
 #EXTINF:-1 tvg-name="天下第一" tvg-logo="https://ghproxy.cfd/raw.githubusercontent.com/sublime2025/IPTV/main/img/IMG.png" group-title="剧集",天下第一
 http://lunbo.freetv.top/yy/1382736838
 #EXTINF:-1 tvg-name="天龙八部" tvg-logo="https://ghproxy.cfd/raw.githubusercontent.com/sublime2025/IPTV/main/img/IMG.png" group-title="剧集",天龙八部
@@ -420,8 +418,6 @@ https://txmov2.a.kwimgs.com/bs3/video-hls/5224457109297710655_hlshd15.m3u8
 https://txmov2.a.kwimgs.com/bs3/video-hls/5251197255879398624_hlshd15.m3u8
 #EXTINF:-1 tvg-name="2024" tvg-logo="https://ghproxy.cfd/raw.githubusercontent.com/sublime2025/IPTV/main/img/春晚.png" group-title="春晚",2024
 https://p2.bdstatic.com/rtmp.liveshow.lss-user.baidubce.com/live/stream_bduid_6488563992_8982723413/merged_1707497046297_88536_25144_41936.m3u8
-#EXTINF:-1 tvg-name="2024" tvg-logo="https://ghproxy.cfd/raw.githubusercontent.com/sublime2025/IPTV/main/img/春晚.png" group-title="春晚",2024
-https://ikcdn01.ikzybf.com/20240205/QBNgom4j/2000kb/hls/index.m3u8
 #EXTINF:-1 tvg-name="2025" tvg-logo="https://ghproxy.cfd/raw.githubusercontent.com/sublime2025/IPTV/main/img/春晚.png" group-title="春晚",2025
 https://res.cctvnews.cctv.com/video/3005/record/cctv/merge1/133396667284143308839013005/8fbd6180bdef4da19f6155cf6b4652e1-4.m3u8
 
