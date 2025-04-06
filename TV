@@ -171,6 +171,8 @@ http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_928.m3u8
 #EXTINF:-1 tvg-name="Animal Planet" tvg-logo="https://ghproxy.cfd/raw.githubusercontent.com/sublime2025/IPTV/main/img/World/动物星球.png" group-title="其它",Animal
 http://61.221.215.25:8800/hls/57/index.m3u8
 #EXTINF:-1 tvg-name="Love Nature" tvg-logo="https://ghproxy.cfd/raw.githubusercontent.com/sublime2025/IPTV/main/img/World/动物星球.png" group-title="其它",Nature
+http://aktv-stream.m16tv.cfd/stream/aktv2/lovenaturehd/AKTV.m3u8
+#EXTINF:-1 tvg-name="Love Nature" tvg-logo="https://ghproxy.cfd/raw.githubusercontent.com/sublime2025/IPTV/main/img/World/动物星球.png" group-title="其它",Nature
 https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 
 #EXTINF:-1 tvg-name="NBA TV" tvg-logo="https://ghproxy.cfd/raw.githubusercontent.com/sublime2025/IPTV/main/img/Sport/NBA.png" group-title="其它",NBA
@@ -193,25 +195,6 @@ http://php.jdshipin.com:8880/TVOD/iptv.php?id=meiya$JDSP
 http://50.7.234.10:8278/meiyamovie_twn/playlist.m3u8?tid=MFDF2848449728484497&ct=19211&tsum=f65f39620c24fee2e633c4727cc48727
 #EXTINF:-1 tvg-name="美亚电影台" tvg-logo="https://ghproxy.cfd/raw.githubusercontent.com/sublime2025/IPTV/main/img/Movie/美亚电影.png" group-title="影视",美亚电影
 http://50.7.234.10:8278/meiyamovie_twn/playlist.m3u8?tid=MC6C9419277694192776&ct=19234&tsum=43f9d2e13c7cbbce7e5c5ec94fa38750
-
-#EXTINF:-1 tvg-name="amc电影" tvg-logo="https://ghproxy.cfd/raw.githubusercontent.com/sublime2025/IPTV/main/img/Movie/AMC电影.png" group-title="影视",amc电影
-http://aktv-stream.m16tv.cfd/stream/taiwan/amc/AKTV.m3u8$AKTV
-#EXTINF:-1 tvg-name="amc电影" tvg-logo="https://ghproxy.cfd/raw.githubusercontent.com/sublime2025/IPTV/main/img/Movie/AMC电影.png" group-title="影视",amc电影
-http://61.221.215.25:8800/hls/43/index.m3u8
-
-#EXTINF:-1 tvg-name="HITs电影" tvg-logo="https://ghproxy.cfd/raw.githubusercontent.com/sublime2025/IPTV/main/img/Movie/HITs.png" group-title="影视",HITs电影
-http://aktv-stream.m16tv.cfd/stream/taiwan/hits/AKTV.m3u8$AKTV
-#EXTINF:-1 tvg-name="HITs电影" tvg-logo="https://ghproxy.cfd/raw.githubusercontent.com/sublime2025/IPTV/main/img/Movie/HITs.png" group-title="影视",HITs电影
-http://37.27.111.214:8080/live/28/hls.m3u8
-
-#EXTINF:-1 tvg-name="HBO电影" tvg-logo="https://ghproxy.cfd/raw.githubusercontent.com/sublime2025/IPTV/main/img/Movie/HBO-Signature.png" group-title="影视",HBO电影
-http://50.7.234.10:8278/hbosignature_twn/playlist.m3u8?tid=MD6D5767423357674233&ct=18392&tsum=995709f1100cf1b07964790160bfb4ee
-#EXTINF:-1 tvg-name="HBO电影" tvg-logo="https://ghproxy.cfd/raw.githubusercontent.com/sublime2025/IPTV/main/img/Movie/HBO.png" group-title="影视",HBO电影
-http://50.7.234.10:8278/hbohd_twn/playlist.m3u8?tid=m8d785f4e022616401837&ct=17877&tsum=56e767abfc65234db52b017576b00403
-#EXTINF:-1 tvg-name="HBO家庭" tvg-logo="https://ghproxy.cfd/raw.githubusercontent.com/sublime2025/IPTV/main/img/Movie/HBO-Family.png" group-title="影视",HBO家庭
-http://50.7.234.10:8278/fyi_twn/playlist.m3u8?tid=18186902&ct=17988&&tsum=7a21abab0a5912afb0ebc01db111e59f
-#EXTINF:-1 tvg-name="HBO家庭" tvg-logo="https://ghproxy.cfd/raw.githubusercontent.com/sublime2025/IPTV/main/img/Movie/HBO-Family.png" group-title="影视",HBO家庭
-http://50.7.234.10:8278/fyi_twn/playlist.m3u8?tid=m99b80124e3b4&ct=18337&tsum=73f6f540497de9a5615b9bd55bec8853
 
 #EXTINF:-1 tvg-name="PopC电影" tvg-logo="https://ghproxy.cfd/raw.githubusercontent.com/sublime2025/IPTV/main/img/Movie/PopC.png" group-title="影视",PopC电影
 http://aktv-stream.m16tv.cfd/stream/tuntun/popc/AKTV.m3u8$AKTV
