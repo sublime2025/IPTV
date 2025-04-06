@@ -46,25 +46,25 @@ http://goo.bkpcp.top/mg/cctv5p
 https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8$ali
 
 #EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://ghproxy.cfd/raw.githubusercontent.com/sublime2025/IPTV/main/img/IPTV/湖南卫视.png" group-title="卫视",湖南卫视
-http://150.138.8.143/00/SNM/CHANNEL00000324/index.m3u8
+http://113.117.50.217:2024/hls/60/index.m3u8
 #EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://ghproxy.cfd/raw.githubusercontent.com/sublime2025/IPTV/main/img/IPTV/浙江卫视.png" group-title="卫视",浙江卫视
-http://150.138.8.143/00/SNM/CHANNEL00000305/index.m3u8
+http://113.117.50.217:2024/hls/61/index.m3u8
 #EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://ghproxy.cfd/raw.githubusercontent.com/sublime2025/IPTV/main/img/IPTV/江苏卫视.png" group-title="卫视",江苏卫视
-http://150.138.8.143/00/SNM/CHANNEL00000304/index.m3u8
+http://113.117.50.217:2024/hls/67/index.m3u8
 #EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://ghproxy.cfd/raw.githubusercontent.com/sublime2025/IPTV/main/img/IPTV/东方卫视.png" group-title="卫视",东方卫视
-http://150.138.8.143/00/SNM/CHANNEL00000309/index.m3u8
+http://113.117.50.217:2024/hls/68/index.m3u8
 #EXTINF:-1 tvg-name="东南卫视" tvg-logo="https://ghproxy.cfd/raw.githubusercontent.com/sublime2025/IPTV/main/img/IPTV/东南卫视.png" group-title="卫视",东南卫视
 http://150.138.8.143/00/SNM/CHANNEL00000310/index.m3u8
 #EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://ghproxy.cfd/raw.githubusercontent.com/sublime2025/IPTV/main/img/IPTV/广东卫视.png" group-title="卫视",广东卫视
-http://150.138.8.143/00/SNM/CHANNEL00000307/index.m3u8
+http://113.117.50.217:2024/hls/58/index.m3u8
 #EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://ghproxy.cfd/raw.githubusercontent.com/sublime2025/IPTV/main/img/IPTV/深圳卫视.png" group-title="卫视",深圳卫视
-http://150.138.8.143/00/SNM/CHANNEL00000308/index.m3u8
+http://113.117.50.217:2024/hls/74/index.m3u8
 #EXTINF:-1 tvg-name="天津卫视" tvg-logo="https://ghproxy.cfd/raw.githubusercontent.com/sublime2025/IPTV/main/img/IPTV/天津卫视.png" group-title="卫视",天津卫视
-http://150.138.8.143/00/SNM/CHANNEL00000327/index.m3u8
+http://113.117.50.217:2024/hls/71/index.m3u8
 #EXTINF:-1 tvg-name="安徽卫视" tvg-logo="https://ghproxy.cfd/raw.githubusercontent.com/sublime2025/IPTV/main/img/IPTV/安徽卫视.png" group-title="卫视",安徽卫视
-http://150.138.8.143/00/SNM/CHANNEL00000328/index.m3u8
+http://113.117.50.217:2024/hls/69/index.m3u8
 #EXTINF:-1 tvg-name="江西卫视" tvg-logo="https://ghproxy.cfd/raw.githubusercontent.com/sublime2025/IPTV/main/img/IPTV/江西卫视.png" group-title="卫视",江西卫视
-http://150.138.8.143/00/SNM/CHANNEL00000335/index.m3u8
+http://113.117.50.217:2024/hls/73/index.m3u8
 
 #EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://ghproxy.cfd/raw.githubusercontent.com/sublime2025/IPTV/main/img/IPTV/江苏卫视.png" group-title="卫视",江苏卫视
 http://z.b.bkpcp.top/m.php?id=jsws
@@ -112,6 +112,8 @@ http://61.221.215.25:8800/hls/9/index.m3u8
 
 #EXTINF:-1 tvg-name="tvN" tvg-logo="https://ghproxy.cfd/raw.githubusercontent.com/sublime2025/IPTV/main/img/TVB/tvN.png" group-title="港台",tvN
 http://aktv-stream.m16tv.cfd/stream/aktv/tvn/AKTV.m3u8$AKTV
+#EXTINF:-1 tvg-name="ViuTV" tvg-logo="https://ghproxy.cfd/raw.githubusercontent.com/sublime2025/IPTV/main/img/Movie/ViuTV.png" group-title="影视",ViuTV
+http://aktv-stream.m16tv.cfd/stream/useradd1/viutv/AKTV.m3u8
 
 #EXTINF:-1 tvg-name="CCTV" tvg-logo="https://ghproxy.cfd/raw.githubusercontent.com/sublime2025/IPTV/main/img/TVB/RTHK33.png" group-title="港台",RTHK33
 https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream04/streamPlaylist.m3u8
@@ -203,18 +205,15 @@ https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 
 █████████████████████████████████████████████████████████████████████████████████████████████████████████
 
-#EXTINF:-1 tvg-name="美亚电影台" tvg-logo="https://ghproxy.cfd/raw.githubusercontent.com/sublime2025/IPTV/main/img/Movie/美亚电影.png" group-title="影视",美亚电影
-http://50.7.234.10:8278/meiyamovie_twn/playlist.m3u8?tid=MFDF2848449728484497&ct=19211&tsum=f65f39620c24fee2e633c4727cc48727
-#EXTINF:-1 tvg-name="美亚电影台" tvg-logo="https://ghproxy.cfd/raw.githubusercontent.com/sublime2025/IPTV/main/img/Movie/美亚电影.png" group-title="影视",美亚电影
-http://50.7.234.10:8278/meiyamovie_twn/playlist.m3u8?tid=MC6C9419277694192776&ct=19234&tsum=43f9d2e13c7cbbce7e5c5ec94fa38750
-
 #EXTINF:-1 tvg-name="美亚电影港" tvg-logo="https://ghproxy.cfd/raw.githubusercontent.com/sublime2025/IPTV/main/img/Movie/美亚电影.png" group-title="影视",美亚电影
 http://aktv-stream.m16tv.cfd/stream/aktv/hk-1/AKTV.m3u8$AKTV
 #EXTINF:-1 tvg-name="美亚电影港" tvg-logo="https://ghproxy.cfd/raw.githubusercontent.com/sublime2025/IPTV/main/img/Movie/美亚电影.png" group-title="影视",美亚电影
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=meiya$JDSP
 
-#EXTINF:-1 tvg-name="ViuTV" tvg-logo="https://ghproxy.cfd/raw.githubusercontent.com/sublime2025/IPTV/main/img/Movie/ViuTV.png" group-title="影视",ViuTV
-http://aktv-stream.m16tv.cfd/stream/useradd1/viutv/AKTV.m3u8
+#EXTINF:-1 tvg-name="美亚电影台" tvg-logo="https://ghproxy.cfd/raw.githubusercontent.com/sublime2025/IPTV/main/img/Movie/美亚电影.png" group-title="影视",美亚电影
+http://50.7.234.10:8278/meiyamovie_twn/playlist.m3u8?tid=MFDF2848449728484497&ct=19211&tsum=f65f39620c24fee2e633c4727cc48727
+#EXTINF:-1 tvg-name="美亚电影台" tvg-logo="https://ghproxy.cfd/raw.githubusercontent.com/sublime2025/IPTV/main/img/Movie/美亚电影.png" group-title="影视",美亚电影
+http://50.7.234.10:8278/meiyamovie_twn/playlist.m3u8?tid=MC6C9419277694192776&ct=19234&tsum=43f9d2e13c7cbbce7e5c5ec94fa38750
 
 #EXTINF:-1 tvg-name="amc电影" tvg-logo="https://ghproxy.cfd/raw.githubusercontent.com/sublime2025/IPTV/main/img/Movie/AMC电影.png" group-title="影视",amc电影
 http://aktv-stream.m16tv.cfd/stream/taiwan/amc/AKTV.m3u8$AKTV
