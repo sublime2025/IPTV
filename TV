@@ -112,7 +112,7 @@ http://61.221.215.25:8800/hls/9/index.m3u8
 
 #EXTINF:-1 tvg-name="tvN" tvg-logo="https://ghproxy.cfd/raw.githubusercontent.com/sublime2025/IPTV/main/img/TVB/tvN.png" group-title="港台",tvN
 http://aktv-stream.m16tv.cfd/stream/aktv/tvn/AKTV.m3u8$AKTV
-#EXTINF:-1 tvg-name="ViuTV" tvg-logo="https://ghproxy.cfd/raw.githubusercontent.com/sublime2025/IPTV/main/img/Movie/ViuTV.png" group-title="影视",ViuTV
+#EXTINF:-1 tvg-name="ViuTV" tvg-logo="https://ghproxy.cfd/raw.githubusercontent.com/sublime2025/IPTV/main/img/TVB/ViuTV.png" group-title="影视",ViuTV
 http://aktv-stream.m16tv.cfd/stream/useradd1/viutv/AKTV.m3u8
 
 #EXTINF:-1 tvg-name="CCTV" tvg-logo="https://ghproxy.cfd/raw.githubusercontent.com/sublime2025/IPTV/main/img/TVB/RTHK33.png" group-title="港台",RTHK33
@@ -347,9 +347,9 @@ http://124.248.69.76:26781/huya/11352960
 #EXTINF:-1 tvg-name="Animax HK" tvg-logo="https://ghproxy.cfd/raw.githubusercontent.com/sublime2025/IPTV/main/img/TVB/Animax.png" group-title="动漫",Animax
 http://aktv-stream.m16tv.cfd/stream/aktv3/animaxhk/AKTV.m3u8
 
-#EXTINF:-1 tvg-name="Nick" tvg-logo="https://ghproxy.cfd/raw.githubusercontent.com/sublime2025/IPTV/main/img/TVB/NickJr.png" group-title="动漫",NickJr
+#EXTINF:-1 tvg-name="Nick JR" tvg-logo="https://ghproxy.cfd/raw.githubusercontent.com/sublime2025/IPTV/main/img/TVB/NickJr.png" group-title="动漫",NickJr
 http://aktv-stream.m16tv.cfd/stream/aktv3/nickjr/AKTV.m3u8
-#EXTINF:-1 tvg-name="Nick" tvg-logo="https://ghproxy.cfd/raw.githubusercontent.com/sublime2025/IPTV/main/img/TVB/NickJr.png" group-title="动漫",NickJr
+#EXTINF:-1 tvg-name="Nickelodeon" tvg-logo="https://ghproxy.cfd/raw.githubusercontent.com/sublime2025/IPTV/main/img/TVB/NickJr.png" group-title="动漫",NickJr
 http://aktv-stream.m16tv.cfd/stream/aktv3/nickelodeon/AKTV.m3u8
 
 #EXTINF:-1 tvg-name="猫和老鼠" tvg-logo="https://ghproxy.cfd/raw.githubusercontent.com/sublime2025/IPTV/main/img/猫和老鼠.png" group-title="动漫",猫和老鼠
