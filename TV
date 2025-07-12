@@ -42,29 +42,26 @@ http://z.b.bkpcp.top/m.php?id=cctv5p
 
 █████████████████████████████████████████████████████████████████████████████████████████████████████████
 
-#EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://ghproxy.cfd/raw.githubusercontent.com/sublime2025/IPTV/main/img/IPTV/浙江卫视.png" group-title="卫视",浙江卫视
-https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8$ali
-
 #EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://ghproxy.cfd/raw.githubusercontent.com/sublime2025/IPTV/main/img/IPTV/湖南卫视.png" group-title="卫视",湖南卫视
-http://api.mytv666.top/api/qwt.php?t=卫视频道&id=湖南卫视
+http://221.232.196.22:38088/nptv/hunan.m3u8
 #EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://ghproxy.cfd/raw.githubusercontent.com/sublime2025/IPTV/main/img/IPTV/浙江卫视.png" group-title="卫视",浙江卫视
-http://api.mytv666.top/api/qwt.php?t=卫视频道&id=浙江卫视
+http://117.43.156.34:54321/nptv/zhejiang.m3u8
 #EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://ghproxy.cfd/raw.githubusercontent.com/sublime2025/IPTV/main/img/IPTV/江苏卫视.png" group-title="卫视",江苏卫视
-http://api.mytv666.top/api/qwt.php?t=卫视频道&id=江苏卫视
+http://117.43.156.34:54321/nptv/jiangsu.m3u8
 #EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://ghproxy.cfd/raw.githubusercontent.com/sublime2025/IPTV/main/img/IPTV/东方卫视.png" group-title="卫视",东方卫视
-http://api.mytv666.top/api/qwt.php?t=卫视频道&id=东方卫视
+http://221.232.196.22:38088/nptv/dongfang.m3u8
 #EXTINF:-1 tvg-name="东南卫视" tvg-logo="https://ghproxy.cfd/raw.githubusercontent.com/sublime2025/IPTV/main/img/IPTV/东南卫视.png" group-title="卫视",东南卫视
-http://api.mytv666.top/api/qwt.php?t=卫视频道&id=东南卫视
+http://221.232.196.22:38088/nptv/dongnan.m3u8
 #EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://ghproxy.cfd/raw.githubusercontent.com/sublime2025/IPTV/main/img/IPTV/广东卫视.png" group-title="卫视",广东卫视
-http://api.mytv666.top/api/qwt.php?t=卫视频道&id=广东卫视
+http://221.232.196.22:38088/mgtv/608831231.m3u8
 #EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://ghproxy.cfd/raw.githubusercontent.com/sublime2025/IPTV/main/img/IPTV/深圳卫视.png" group-title="卫视",深圳卫视
-http://api.mytv666.top/api/qwt.php?t=卫视频道&id=深圳卫视
+http://117.43.156.34:54321/nptv/shenzheng.m3u8
 #EXTINF:-1 tvg-name="天津卫视" tvg-logo="https://ghproxy.cfd/raw.githubusercontent.com/sublime2025/IPTV/main/img/IPTV/天津卫视.png" group-title="卫视",天津卫视
-http://api.mytv666.top/api/qwt.php?t=卫视频道&id=天津卫视
+http://117.43.156.34:54321/nptv/tianjing.m3u8
 #EXTINF:-1 tvg-name="安徽卫视" tvg-logo="https://ghproxy.cfd/raw.githubusercontent.com/sublime2025/IPTV/main/img/IPTV/安徽卫视.png" group-title="卫视",安徽卫视
-http://api.mytv666.top/api/qwt.php?t=卫视频道&id=安徽卫视
+http://117.43.156.34:54321/nptv/anhui.m3u8
 #EXTINF:-1 tvg-name="江西卫视" tvg-logo="https://ghproxy.cfd/raw.githubusercontent.com/sublime2025/IPTV/main/img/IPTV/江西卫视.png" group-title="卫视",江西卫视
-http://api.mytv666.top/api/qwt.php?t=卫视频道&id=江西卫视
+http://221.232.196.22:38088/nptv/jiangxi.m3u8
 
 #EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://ghproxy.cfd/raw.githubusercontent.com/sublime2025/IPTV/main/img/IPTV/江苏卫视.png" group-title="卫视",江苏卫视
 http://z.b.bkpcp.top/m.php?id=jsws
