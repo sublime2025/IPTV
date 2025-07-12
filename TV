@@ -73,7 +73,7 @@ http://z.b.bkpcp.top/m.php?id=jxws
 █████████████████████████████████████████████████████████████████████████████████████████████████████████
 
 #EXTINF:-1 tvg-name="纬来体育" tvg-logo="https://ghproxy.cfd/raw.githubusercontent.com/sublime2025/IPTV/main/img/Sport/纬来体育.png" group-title="港台",纬来体育
-https://s1.m16tv.cfd/aktv2/CH-0/AKTV.m3u8$AKTV
+http://s1.m16tv.cfd/aktv2/CH-0/AKTV.m3u8$AKTV
 
 #EXTINF:-1 tvg-name="凤凰卫视" tvg-logo="https://ghproxy.cfd/raw.githubusercontent.com/sublime2025/IPTV/main/img/TVB/凤凰中文.png" group-title="港台",凤凰卫视
 http://s1.m16tv.cfd/aktv/CH-3/AKTV.m3u8$AKTV
@@ -123,7 +123,7 @@ https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream04/streamPla
 █████████████████████████████████████████████████████████████████████████████████████████████████████████
 
 #EXTINF:-1 tvg-name="CNA" tvg-logo="https://ghproxy.cfd/raw.githubusercontent.com/sublime2025/IPTV/main/img/World/CNA.png" group-title="其它",CNA
-https://s1.m16tv.cfd/aktv3/cna/AKTV.m3u8$AKTV
+http://s1.m16tv.cfd/aktv3/cna/AKTV.m3u8$AKTV
 #EXTINF:-1 tvg-name="CNA" tvg-logo="https://ghproxy.cfd/raw.githubusercontent.com/sublime2025/IPTV/main/img/World/CNA.png" group-title="其它",CNA
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 
