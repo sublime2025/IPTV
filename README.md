@@ -2,10 +2,10 @@
 
 |   名称   | 地址                                                         |
 | :------: | ------------------------------------------------------------ |
-|  饭太硬  | [http://www.饭太硬.com/tv](http://www.xn--sss604efuw.com/tv) |
-|  盒子迷  | [https://盒子迷.top/禁止贩卖](https://xn--i8sz35d1yr.top/禁止贩卖) |
-|  摸鱼儿  | [http://我不是.摸鱼儿.com](http://xn--ihqu10cn4c.xn--v4q818bf34b.com/) |
-|   肥猫   | [http://肥猫.com/](https://xn--z7x900a.com/)                 |
+|  饭太硬  | [http://www.饭太硬.net/tv](http://www.饭太硬.net/tv) |
+|  盒子迷  | [https://盒子迷.top/禁止贩卖](https://盒子迷.top/禁止贩卖) |
+|  摸鱼儿  | [http://我不是.摸鱼儿.com](http://我不是.摸鱼儿.com) |
+|   肥猫   | [http://ceshi.肥猫.com/PandaQ](http://ceshi.肥猫.com/PandaQ)                 |
 |   ZWC    | http://kv.zwc365.com/tv.json                                 |
 |   巧记   | http://cdn.qiaoji8.com/tvbox.json                            |
 |   星辰   | https://fmbox.cc/                                            |
@@ -25,8 +25,7 @@
 |  YanG-1989  | https://tv.iill.top/m3u/Gather                               | IPV4 |
 |    ZBDS     | https://live.zbds.top/tv/iptv6.m3u                           | IPV6 |
 |    ZBDS     | https://live.zbds.top/tv/iptv4.m3u                           | IPV4 |
-|    AKTV     | http://aktv.top/live.m3u                                     | IPV4 |
-|    MYTV     | https://www.mytvsuper.com.mp/                                | IPV4 |
+|    AKTV     | https://aktv.space/live.m3u                                     | IPV4 |
 
 #### 空壳软件
 
@@ -48,8 +47,8 @@
 
 |                           直播软件                           |                           转换工具                           |                      节目图标                       |                          直播源搜索                          |               GitHub加速               |                          其它类                          |
 | :----------------------------------------------------------: | :----------------------------------------------------------: | :-------------------------------------------------: | :----------------------------------------------------------: | :------------------------------------: | :------------------------------------------------------: |
-|    [MyTV](https://github.com/lizongying/my-tv-0/releases)    |      [直接转换](https://guihet.com/convert-m3u-js.html)      | [EPG图标库](https://assets.livednow.com/guide.html) |              [组播源搜索](http://tonkiang.us/?)              |  [GitHub加速](https://gh-proxy.com/)   | [直播源检测](https://github.com/zhimin-dev/iptv-checker) |
-|   [OurTV](https://github.com/andandroidor/ourtv/releases)    |             [文件转换](https://zbds.top/tools/)              |           [EPG节目单](https://e.erw.cc/)            |     [组播源搜索](http://www.foodieguide.com/iptvsearch)      | [GitHub加速](https://git.mxg.pub/) |            [IPV6联通性](https://testipv6.cn/)            |
+|    [MyTV](https://github.com/lizongying/my-tv-0/releases)    |      [直接转换](https://www.judy.xx.kg/lives.php)      | [EPG图标库](https://assets.livednow.com/guide.html) |              [组播源搜索](http://tonkiang.us/?)              |  [GitHub加速](https://gh-proxy.com/)   | [直播源检测](https://github.com/zhimin-dev/iptv-checker) |
+|   ~[OurTV](https://github.com/andandroidor/ourtv/releases)~    |             [文件转换](https://zbds.top/tools/)              |           [EPG节目单](https://e.erw.cc/)            |     [组播源搜索](http://www.foodieguide.com/iptvsearch)      | [GitHub加速](https://git.mxg.pub/) |            [IPV6联通性](https://testipv6.cn/)            |
 | [WebViewTV](https://github.com/hxh19950701/WebViewTvLive/releases) |               [综合转换](https://tools.v1.mk/)               |       [EPG节目单](http://epg.51zmt.top:8000)        |          [官方直播源](https://iptv-org.github.io/)           | [GitHub加速](https://xiake.pro/)  |          [体育直播](http://www.qiumi1314.com/)           |
 | [CCTVViewer](https://github.com/Eanya-Tonic/CCTV_Viewer/releases) | [本地离线转换](https://github.com/sublime2025/IPTV/blob/main/html) |     [全球节目单](https://epg.pw/xmltv/epg.xml)      | [全球测试源](https://epg.pw/test_channel_page.html?lang=zh-hans) |   [Github加速](https://ghfast.top/)    |               [Pastebin](https://shz.al/)                |
 
