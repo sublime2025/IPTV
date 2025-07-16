@@ -209,15 +209,6 @@ http://s1.an94tv.cfd/aktv/lovenaturehd/AKTV.m3u8
 #EXTINF:-1 tvg-name="Love Nature" tvg-logo="https://ghproxy.cfd/raw.githubusercontent.com/sublime2025/IPTV/main/img/World/动物星球.png" group-title="其它",Nature
 https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 
-#EXTINF:-1 tvg-name="NBA TV" tvg-logo="https://ghproxy.cfd/raw.githubusercontent.com/sublime2025/IPTV/main/img/Sport/NBA.png" group-title="其它",NBA
-http://aktv-stream.m16tv.cfd/stream/astro_a1/ch84/AKTV.m3u8$AKTV
-#EXTINF:-1 tvg-name="MUTV" tvg-logo="https://ghproxy.cfd/raw.githubusercontent.com/sublime2025/IPTV/main/img/Sport/MUTV.png" group-title="其它",MUTV
-http://aktv-stream.m16tv.cfd/stream/astro_a1/ch87/AKTV.m3u8$AKTV
-#EXTINF:-1 tvg-name="Unifi" tvg-logo="https://ghproxy.cfd/raw.githubusercontent.com/sublime2025/IPTV/main/img/Sport/Unifi.png" group-title="其它",Unifi
-http://aktv-stream.m16tv.cfd/stream/astro_a1/ch88/AKTV.m3u8$AKTV
-#EXTINF:-1 tvg-name="Tennis" tvg-logo="https://ghproxy.cfd/raw.githubusercontent.com/sublime2025/IPTV/main/img/Sport/Tennis.png" group-title="其它",Tennis
-http://aktv-stream.m16tv.cfd/stream/useradd1/tennischannelus/AKTV.m3u8
-
 █████████████████████████████████████████████████████████████████████████████████████████████████████████
 
 #EXTINF:-1 tvg-name="美亚电影港" tvg-logo="https://ghproxy.cfd/raw.githubusercontent.com/sublime2025/IPTV/main/img/Movie/美亚电影.png" group-title="影视",美亚电影
@@ -236,22 +227,12 @@ http://s1.an94tv.cfd/aktv/popc/AKTV.m3u8$AKTV
 http://s1.an94tv.cfd/aktv/axn/AKTV.m3u8$AKTV
 #EXTINF:-1 tvg-name="RockAction" tvg-logo="https://ghproxy.cfd/raw.githubusercontent.com/sublime2025/IPTV/main/img/Movie/RockAction.png" group-title="影视",RockAction
 http://s1.an94tv.cfd/aktv/rockaction/AKTV.m3u8$AKTV
-#EXTINF:-1 tvg-name="Cinemax" tvg-logo="https://ghproxy.cfd/raw.githubusercontent.com/sublime2025/IPTV/main/img/Movie/Cinemax.png" group-title="影视",Cinemax
-http://50.7.234.10:8278/cinemax_twn/playlist.m3u8?tid=MFEF8256939882569398&ct=19225&tsum=b6faed73a920c75f873a0c8f511eeba2
 
 #EXTINF:-1 tvg-name="好莱坞" tvg-logo="https://ghproxy.cfd/raw.githubusercontent.com/sublime2025/IPTV/main/img/Movie/好莱坞.png" group-title="影视",好莱坞
-http://50.7.234.10:8278/hollywoodmovies_twn/playlist.m3u8?tid=MFDF3993740539937405&ct=19234&tsum=9c77fd229b7086f14748debe0f6b4ae6
-#EXTINF:-1 tvg-name="好莱坞" tvg-logo="https://ghproxy.cfd/raw.githubusercontent.com/sublime2025/IPTV/main/img/Movie/好莱坞.png" group-title="影视",好莱坞
-http://50.7.234.10:8278/hollywoodmovies_twn/playlist.m3u8?tid=MA8A4005638840056388&ct=18392&tsum=a1f1517d4ea64fd01267905f21d83859
-#EXTINF:-1 tvg-name="好莱坞" tvg-logo="https://ghproxy.cfd/raw.githubusercontent.com/sublime2025/IPTV/main/img/Movie/好莱坞.png" group-title="影视",好莱坞
-http://50.7.234.10:8278/hollywoodmovies_twn/playlist.m3u8?tid=MF6F7143280071432800&ct=19211&tsum=c0bc00f05a03eb1bef16741e9fd9737e
+http://s1.an94tv.cfd/aktv2/CH-1/AKTV.m3u8
 
 #EXTINF:-1 tvg-name="东森电影" tvg-logo="https://ghproxy.cfd/raw.githubusercontent.com/sublime2025/IPTV/main/img/Movie/东森电影.png" group-title="影视",东森电影
 https://s1.m16tv.cfd/aktv2/CH-1/AKTV.m3u8
-#EXTINF:-1 tvg-name="东森电影" tvg-logo="https://ghproxy.cfd/raw.githubusercontent.com/sublime2025/IPTV/main/img/Movie/东森电影.png" group-title="影视",东森电影
-http://50.7.234.10:8278/ettvmovie/playlist.m3u8?tid=MECE7715898977158989&ct=19234&tsum=a663a2e65f2d50fefd2d6b096f9e3f02
-#EXTINF:-1 tvg-name="东森电影" tvg-logo="https://ghproxy.cfd/raw.githubusercontent.com/sublime2025/IPTV/main/img/Movie/东森电影.png" group-title="影视",东森电影
-http://50.7.234.10:8278/ettvmovie/playlist.m3u8?tid=MDED1943740419437404&ct=19225&tsum=120834a4218c4b5c3bb19efb8116f859
 
 #EXTINF:-1 tvg-name="天映频道" tvg-logo="https://ghproxy.cfd/raw.githubusercontent.com/sublime2025/IPTV/main/img/Movie/天映频道.png" group-title="影视",天映频道
 http://s1.an94tv.cfd/aktv2/CH-3/AKTV.m3u8$AKTV
@@ -264,13 +245,6 @@ http://aktv-stream.m16tv.cfd/stream/taiwan/null-8/AKTV.m3u8$AKTV
 http://s1.an94tv.cfd/taiwan/CH-5/AKTV.m3u8
 #EXTINF:-1 tvg-name="龙华偶像" tvg-logo="https://ghproxy.cfd/raw.githubusercontent.com/sublime2025/IPTV/main/img/TVB/龙华偶像.png" group-title="影视",龙华偶像
 http://aktv-stream.m16tv.cfd/stream/taiwan/null-9/AKTV.m3u8$AKTV
-
-#EXTINF:-1 tvg-name="IQIYI剧集" tvg-logo="https://ghproxy.cfd/raw.githubusercontent.com/sublime2025/IPTV/main/img/TVB/IQIYI剧集.png" group-title="影视",IQIYI剧集
-http://aktv-stream.m16tv.cfd/stream/tuntun/fashiontv4k/AKTV.m3u8
-#EXTINF:-1 tvg-name="Astr剧集" tvg-logo="https://ghproxy.cfd/raw.githubusercontent.com/sublime2025/IPTV/main/img/TVB/Astro剧集.png" group-title="影视",Astr剧集
-http://php.jdshipin.com:8880/TVOD/iptv.php?id=aod$JDSP
-#EXTINF:-1 tvg-name="澳门莲花" tvg-logo="https://ghproxy.cfd/raw.githubusercontent.com/sublime2025/IPTV/main/img/Movie/澳门莲花.png" group-title="影视",澳门莲花
-http://php.jdshipin.com:8880/amlh.php$JDSP
 
 #EXTINF:-1 tvg-name="周星驰" tvg-logo="https://ghproxy.cfd/raw.githubusercontent.com/sublime2025/IPTV/main/img/虎牙.png" group-title="影视",星爷
 https://live.iill.top/huya/11342412
@@ -307,15 +281,6 @@ http://live.iill.top/yy.php?id=1354936155
 https://live.iill.top/huya/11352944
 #EXTINF:-1 tvg-name="新水浒" tvg-logo="https://ghproxy.cfd/raw.githubusercontent.com/sublime2025/IPTV/main/img/虎牙.png" group-title="剧集",新水浒
 https://live.iill.top/huya/11342384
-
-#EXTINF:-1 tvg-name="少年张三丰" tvg-logo="https://ghproxy.cfd/raw.githubusercontent.com/sublime2025/IPTV/main/img/虎牙.png" group-title="剧集",少年张三丰
-https://live.iill.top/huya/26355824
-#EXTINF:-1 tvg-name="少年包青天1" tvg-logo="https://ghproxy.cfd/raw.githubusercontent.com/sublime2025/IPTV/main/img/IMG.png" group-title="剧集",少年包青天1
-http://live.iill.top/yy.php?id=1356043677
-#EXTINF:-1 tvg-name="少年包青天2" tvg-logo="https://ghproxy.cfd/raw.githubusercontent.com/sublime2025/IPTV/main/img/IMG.png" group-title="剧集",少年包青天2
-http://live.iill.top/yy.php?id=38498680
-#EXTINF:-1 tvg-name="少年包青天3" tvg-logo="https://ghproxy.cfd/raw.githubusercontent.com/sublime2025/IPTV/main/img/IMG.png" group-title="剧集",少年包青天3
-http://live.iill.top/yy.php?id=1382851540
 
 #EXTINF:-1 tvg-name="天下第一" tvg-logo="https://ghproxy.cfd/raw.githubusercontent.com/sublime2025/IPTV/main/img/IMG.png" group-title="剧集",天下第一
 http://live.iill.top/yy.php?id=1382736838
