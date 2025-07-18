@@ -143,14 +143,12 @@ http://s1.an94tv.cfd/zhongtian/CH-1/AKTV.m3u8$AKTV
 http://aktv-stream.m16tv.cfd/stream/aktv/hk/AKTV.m3u8$AKTV
 
 #EXTINF:-1 tvg-name="TVBS新闻" tvg-logo="https://ghproxy.cfd/raw.githubusercontent.com/sublime2025/IPTV/main/img/TVB/TVBS新闻.png" group-title="港台",TVBS新闻
-http://s1.an94tv.cfd/tvbs/tvbs/AKTV.m3u8
+http://s1.an94tv.cfd/taiwan/tvbs-1/AKTV.m3u8
 #EXTINF:-1 tvg-name="TVBS新闻" tvg-logo="https://ghproxy.cfd/raw.githubusercontent.com/sublime2025/IPTV/main/img/TVB/TVBS新闻.png" group-title="港台",TVBS新闻
 http://61.221.215.25:8800/hls/9/index.m3u8
 
 #EXTINF:-1 tvg-name="tvN" tvg-logo="https://ghproxy.cfd/raw.githubusercontent.com/sublime2025/IPTV/main/img/TVB/tvN.png" group-title="港台",tvN
 http://s1.an94tv.cfd/aktv/tvn/AKTV.m3u8$AKTV
-#EXTINF:-1 tvg-name="ViuTV" tvg-logo="https://ghproxy.cfd/raw.githubusercontent.com/sublime2025/IPTV/main/img/TVB/ViuTV.png" group-title="港台",ViuTV
-http://aktv-stream.m16tv.cfd/stream/useradd1/viutv/AKTV.m3u8
 
 #EXTINF:-1 tvg-name="CCTV" tvg-logo="https://ghproxy.cfd/raw.githubusercontent.com/sublime2025/IPTV/main/img/TVB/RTHK33.png" group-title="港台",RTHK33
 https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream04/streamPlaylist.m3u8
@@ -188,8 +186,6 @@ http://50.7.234.10:8278/bbcnews_twn/playlist.m3u8?tid=ME2E9411781394117813&ct=19
 https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8?v=1
 #EXTINF:-1 tvg-name="BBC World" tvg-logo="https://ghproxy.cfd/raw.githubusercontent.com/sublime2025/IPTV/main/img/World/BBC.png" group-title="其它",BBC
 https://d3pxo1qcgzxtxs.cloudfront.net/10005/99951298/hls/playlist.m3u8?ads.xumo_channelId=99951298
-#EXTINF:-1 tvg-name="BBC World" tvg-logo="https://ghproxy.cfd/raw.githubusercontent.com/sublime2025/IPTV/main/img/World/BBC.png" group-title="其它",BBC
-http://125.227.210.55:8165/VideoInput/play.ts
 
 #EXTINF:-1 tvg-name="CNN" tvg-logo="https://ghproxy.cfd/raw.githubusercontent.com/sublime2025/IPTV/main/img/World/CNN.png" group-title="其它",CNN
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
@@ -457,8 +453,6 @@ p3p://167.114.175.6:55331/5fea645500007b7e9a898b3d6ea244cf$中文有码2
 p3p://167.114.175.6:55331/5fe80214000d2ec8913a3189085b6434$XXXAV
 #EXTINF:-1 tvg-name="动漫" tvg-logo="https://ghproxy.cfd/raw.githubusercontent.com/sublime2025/IPTV/main/img/Adult/岛国片.png" group-title="限制",岛国片
 p3p://167.114.175.6:55331/5ff742d8000bbabbccce4cb0100a31ff$动漫
-#EXTINF:-1 tvg-name="JAPNHD" tvg-logo="https://ghproxy.cfd/raw.githubusercontent.com/sublime2025/IPTV/main/img/Adult/岛国片.png" group-title="限制",岛国片
-http://88b9da48.kazmazpaz.ru/iptv/2EA55L4SUE4RH4/6225/manifest.m3u8$iptv
 
 #EXTINF:-1 tvg-name="麻豆大番" tvg-logo="https://ghproxy.cfd/raw.githubusercontent.com/sublime2025/IPTV/main/img/Adult/麻豆传媒.png" group-title="限制",国产台
 p3p://167.114.175.6:55331/63fd56ec000b5f0d26d4fe1b07963493$麻豆大番
@@ -478,8 +472,6 @@ p3p://167.114.175.6:55331/6135966100022f18a83512374f864fd8$精东影业
 p3p://167.114.175.6:55331/5ff5420900039286c4fb220f4b133915$果冻传媒
 #EXTINF:-1 tvg-name="PornTW" tvg-logo="https://ghproxy.cfd/raw.githubusercontent.com/sublime2025/IPTV/main/img/Adult/麻豆传媒.png" group-title="限制",国产台
 p3p://167.114.175.6:55331/5ff399460003af78be7fe8571735593d$PornTW
-#EXTINF:-1 tvg-name="麻豆传媒" tvg-logo="https://ghproxy.cfd/raw.githubusercontent.com/sublime2025/IPTV/main/img/Adult/麻豆传媒.png" group-title="限制",国产台
-http://125.227.210.55:51359/VideoInput/play.ts$125
 
 #EXTINF:-1 tvg-name="惊艳台" tvg-logo="https://ghproxy.cfd/raw.githubusercontent.com/sublime2025/IPTV/main/img/Adult/惊艳台.png" group-title="限制",惊艳台
 p3p://167.114.175.6:55331/60626a1b00010e3e6f5a5a4f018e5ebe$173
