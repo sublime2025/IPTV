@@ -193,8 +193,6 @@ https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_35
 https://amg01448-samsungin-cnnnow-samsungin-4npqg.amagi.tv/playlist/amg01448-samsungin-cnnnow-samsungin/playlist.m3u8
 
 #EXTINF:-1 tvg-name="RedBull" tvg-logo="https://ghproxy.cfd/raw.githubusercontent.com/sublime2025/IPTV/main/img/World/红牛运动.png" group-title="其它",RedBull
-http://aktv-stream.m16tv.cfd/stream/tuntun/redbullsports/AKTV.m3u8$AKTV
-#EXTINF:-1 tvg-name="RedBull" tvg-logo="https://ghproxy.cfd/raw.githubusercontent.com/sublime2025/IPTV/main/img/World/红牛运动.png" group-title="其它",RedBull
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
 #EXTINF:-1 tvg-name="RedBull" tvg-logo="https://ghproxy.cfd/raw.githubusercontent.com/sublime2025/IPTV/main/img/World/红牛运动.png" group-title="其它",RedBull
 http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_928.m3u8
