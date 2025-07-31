@@ -258,11 +258,6 @@ TVBJ1美频标,http://php.jdshipin.com/PLTV/iptv.php?id=tvbj1
 无线功夫频标,http://php.jdshipin.com/PLTV/iptv.php?id=yzwx
 无线千禧频标,http://php.jdshipin.com/PLTV/iptv.php?id=tvbc
 AstroRio频标,http://php.jdshipin.com/PLTV/iptv.php?id=aod
-翡翠台,http://php.jdshipin.com:8880/smt.php?id=jade_twn
-翡翠台,http://php.jdshipin.com:8880/smt.php?id=jade_twn
-翡翠台,http://php.jdshipin.com:8880/smt.php?id=jade_twn
-翡翠台,http://php.jdshipin.com:8880/smt.php?id=jade_twn
-无线新闻台,http://php.jdshipin.com:8880/smt.php?id=inews_twn
 无线新闻台,http://php.jdshipin.com:8880/smt.php?id=inews_twn
 无线新闻台,http://php.jdshipin.com/smt.php?id=inews_twn
 TVBJade,http://php.jdshipin.com:8880/smt.php?id=Tvbjade
@@ -442,7 +437,6 @@ RTHK-35,https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream02/s
 澳门mac,http://grandprix2023.asuscomm.com:8891/bysid/96.m3u8
 
 MITV,#genre#
-港澳台,#genre#
 
 东森新闻台,http://api.mytv666.top/api/hk.php?id=3034663439313837653865616166346561376139613235333434396531666564267469643d74762669643d3530
 台视新闻台,http://api.mytv666.top/api/hk.php?id=3532663033343761633136633334333932346565303765616636633239323362267469643d74762669643d3533
