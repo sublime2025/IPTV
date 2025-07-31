@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml"
+
 AKTV,#genre#
 28 AI 智慧賽馬,http://aktv-stream.m16tv.cfd/stream/aktv/28ai/AKTV.m3u8
 Channel 5 HD,http://aktv-stream.m16tv.cfd/stream/aktv/channel5hd/AKTV.m3u8
