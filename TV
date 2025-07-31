@@ -138,9 +138,17 @@ http://aktv-stream.m16tv.cfd/stream/taiwan/inews/AKTV.m3u8$AKTV
 http://aktv-stream.m16tv.cfd/stream/aktv/null-7/AKTV.m3u8$AKTV
 #EXTINF:-1 tvg-name="东森新闻" tvg-logo="https://ghproxy.cfd/raw.githubusercontent.com/sublime2025/IPTV/main/img/TVB/东森新闻.png" group-title="港台",东森新闻
 http://s1.an94tv.cfd/zhongtian/CH-1/AKTV.m3u8$AKTV
+#EXTINF:-1 tvg-name="东森新闻" tvg-logo="https://ghproxy.cfd/raw.githubusercontent.com/sublime2025/IPTV/main/img/TVB/东森新闻.png" group-title="港台",东森新闻
+http://api.mytv666.top/api/hk.php?id=3034663439313837653865616166346561376139613235333434396531666564267469643d74762669643d3530
+#EXTINF:-1 tvg-name="民视新闻" tvg-logo="https://ghproxy.cfd/raw.githubusercontent.com/sublime2025/IPTV/main/img/TVB/民视新闻.png" group-title="港台",民视新闻
+http://api.mytv666.top/api/hk.php?id=6133333434353635663133373938343030353333343563353132326433396230267469643d74762669643d3536
+#EXTINF:-1 tvg-name="华视新闻" tvg-logo="https://ghproxy.cfd/raw.githubusercontent.com/sublime2025/IPTV/main/img/TVB/华视新闻.png" group-title="港台",华视新闻
+http://api.mytv666.top/api/hk.php?id=6336363138633563363661326531343237616265653233303539356532363065267469643d74762669643d3537
+#EXTINF:-1 tvg-name="台视新闻" tvg-logo="https://ghproxy.cfd/raw.githubusercontent.com/sublime2025/IPTV/main/img/TVB/台视新闻.png" group-title="港台",台视新闻
+http://api.mytv666.top/api/hk.php?id=3532663033343761633136633334333932346565303765616636633239323362267469643d74762669643d3533
 
 #EXTINF:-1 tvg-name="娱乐新闻" tvg-logo="https://ghproxy.cfd/raw.githubusercontent.com/sublime2025/IPTV/main/img/TVB/娱乐新闻.png" group-title="港台",娱乐新闻
-http://aktv-stream.m16tv.cfd/stream/aktv/hk/AKTV.m3u8$AKTV
+http://php.jdshipin.com/smt.php?id=Tvbentertainment
 
 #EXTINF:-1 tvg-name="TVBS新闻" tvg-logo="https://ghproxy.cfd/raw.githubusercontent.com/sublime2025/IPTV/main/img/TVB/TVBS新闻.png" group-title="港台",TVBS新闻
 http://s1.an94tv.cfd/taiwan/tvbs-1/AKTV.m3u8
