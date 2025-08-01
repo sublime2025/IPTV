@@ -5,6 +5,7 @@
 |  饭太硬  | [http://www.饭太硬.net/tv](http://www.饭太硬.net/tv) |
 |  盒子迷  | [https://盒子迷.top/禁止贩卖](https://盒子迷.top/禁止贩卖) |
 |  摸鱼儿  | [http://我不是.摸鱼儿.com](http://我不是.摸鱼儿.com) |
+|  猫影视  | [https://tvbox.catvod.com/catvod.json) |
 |   肥猫   | [http://肥猫.com](http://肥猫.com/)                 |
 |   ZWC    | http://kv.zwc365.com/tv.json                                 |
 |   巧记   | http://cdn.qiaoji8.com/tvbox.json                            |
