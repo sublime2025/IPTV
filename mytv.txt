@@ -55,7 +55,7 @@ TVB 星河,http://s1.an94tv.cfd/taiwan2/tvb/AKTV.m3u8
 中天新闻台,http://s1.an94tv.cfd/zhongtian/CH-0/AKTV.m3u8
 東森新聞,http://s1.an94tv.cfd/zhongtian/CH-1/AKTV.m3u8
 
-4GTV,#genre#
+LITV,#genre#
 中天新闻频道,http://litv.zapi.us.kg/?id=4gtv-4gtv009
 东森新闻频道,http://litv.zapi.us.kg/?id=4gtv-4gtv152
 tvbs新闻频道,http://litv.zapi.us.kg/?id=4gtv-4gtv072
@@ -148,7 +148,6 @@ MEZZOl频道,http://litv.zapi.us.kg/?id=4gtv-4gtv083
 Ginx_TV频道,http://litv.zapi.us.kg/?id=4gtv-4gtv053
 
 JDSP,#genre#
-
 凤凰中文,http://php.jdshipin.com:8880/iptv.php?id=fhzw
 广州综合,http://php.jdshipin.com:8880/gztv.php?id=zhonghe
 广州新闻,http://php.jdshipin.com:8880/gztv.php?id=xinwen
@@ -317,7 +316,6 @@ MoMo综合,rtmp://f13h.mine.nu/sat/tv761
 纬来体育,rtmp://f13h.mine.nu/sat/tv721
 ELEVEN1,rtmp://f13h.mine.nu/sat/tv731
 ELEVEN2,rtmp://f13h.mine.nu/sat/tv741
-
 中視,rtmp://220.130.201.73/sat/tv091
 華視,rtmp://220.130.201.73/sat/tv111
 臺視,rtmp://220.130.201.73/sat/tv071
@@ -360,7 +358,6 @@ TVBS HD,http://125.227.210.55:8188/VideoInput/play.ts
 🔮奧視2,http://125.227.210.55:55643/VideoInput/play.ts
 💖NHK BSP,http://125.227.210.55:60116/VideoInput/play.ts
 💖Sex Girl,http://125.227.210.55:62698/VideoInput/play.ts
-
 精艳台,http://18.svi-studio.com:8880/live/908957700097/132663288386/1.m3u8
 潘多拉完美,http://18.svi-studio.com:8880/live/624372101145/418430465490/3.m3u8
 香蕉台,http://18.svi-studio.com:8880/live/624372101145/418430465490/4.m3u8
@@ -368,7 +365,6 @@ TVBS HD,http://125.227.210.55:8188/VideoInput/play.ts
 松2台,http://18.svi-studio.com:8880/live/917952932058/953281067271/6.m3u8
 松3台,http://18.svi-studio.com:8880/live/271871095922/006886711863/20205.m3u8
 極限,https://epg.pw/stream/a4a9b7e7603d96e605468df45eb0d14be5b022328f927957290b981f8c7f7a6c.m3u8
-
 Hustler TVr,http://146.59.54.163/349/index.m3u8
 Extasy,http://146.59.54.163/350/tracks-v1a1/mono.m3u8
 Vividtv,http://146.59.54.163/361/tracks-v1a1/mono.m3u8
@@ -376,29 +372,25 @@ Erox,http://146.59.54.163/363/tracks-v1a1/mono.m3u8
 Redlight HD,http://146.59.54.163/358/tracks-v1a1/mono.m3u8
 
 其它,#genre#
-
 翡翠台,http://cdn2.1689.us.kg/live/?id=gdfct
 翡翠台,http://cdn9.1689.us.kg/smt1.1.php?id=jade_twn
 星河台,http://cdn9.1689.us.kg/smt1.1.php?id=Xinhe
 无线新闻,http://cdn9.1689.us.kg/smt1.1.php?id=inews_twn
 无线华丽,http://cdn9.1689.us.kg/smt1.1.php?id=Tvbjade
 千禧经典,http://cdn9.1689.us.kg/smt1.1.php?id=Tvbclassic
-
 RTHK-33,https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream04/streamPlaylist.m3u8
 RTHK-34,https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream04/streamPlaylist.m3u8
 RTHK-35,https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream02/streamPlaylist.m3u8
-
 香港佛陀,http://js1.amtb.cn/liveedge/_definst_/livetv/chunklist.m3u8
 香港佛陀,https://js1.amtb.cn/liveedge/_definst_/livetv/playlist.m3u8
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq.flv
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
-
 澳视澳门,http://grandprix2023.asuscomm.com:8891/bysid/91.m3u8
 澳视葡语,http://grandprix2023.asuscomm.com:8891/bysid/92.m3u8
 澳门资讯,http://grandprix2023.asuscomm.com:8891/bysid/94.m3u8
 澳门mac,http://grandprix2023.asuscomm.com:8891/bysid/96.m3u8
 
-MITV,#genre#
+MYTV,#genre#
 
 东森新闻台,http://api.mytv666.top/api/hk.php?id=3034663439313837653865616166346561376139613235333434396531666564267469643d74762669643d3530
 台视新闻台,http://api.mytv666.top/api/hk.php?id=3532663033343761633136633334333932346565303765616636633239323362267469643d74762669643d3533
@@ -437,8 +429,8 @@ MITV,#genre#
 民视台湾台,http://api.mytv666.top/api/hk.php?id=6261653964303931643764396634653232316134666337633531336261373363267469643d74762669643d313131
 寰宇新闻台湾台,http://api.mytv666.top/api/hk.php?id=3033373433646530353534613238376432643166376430666330623766303633267469643d74762669643d313133
 
-an94tv,#genre#
 
+an94tv,#genre#
 天映經典(1080),http://s1.an94tv.cfd/aktv/1080/AKTV.m3u8
 無線新聞台,http://s1.an94tv.cfd/aktv/CH-1/AKTV.m3u8
 美亞電影台(HK),http://s1.an94tv.cfd/aktv/hk/AKTV.m3u8
@@ -464,9 +456,7 @@ TVBS,http://s1.an94tv.cfd/taiwan/tvbs/AKTV.m3u8
 TVB,http://s1.an94tv.cfd/taiwan2/tvb/AKTV.m3u8
 TVBS新聞,http://s1.an94tv.cfd/tvbs/tvbs/AKTV.m3u8
 鳳凰衛視香港台,http://s1.an94tv.cfd/aktv/CH-5/AKTV.m3u8
-
 douyincdn,#genre#
-
 凤凰,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_fhzw.flv
 香港,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_fhxg.flv
 V6香港,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_j2.flv
@@ -503,9 +493,7 @@ viuTV6,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_viutv6.flv
 tvbplus,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_j2.flv
 明珠台,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_mz.flv
 民视,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_ms.flv
-
 央视,#genre#
-
 CCTV1,http://43.138.196.212/mi0gu.php?id=cctv1
 CCTV2,http://43.138.196.212/111.php?id=cctv2
 CCTV2,http://43.138.196.212/mi0gu.php?id=cctv2
@@ -530,8 +518,8 @@ CCTV15,http://43.138.196.212/mi0gu.php?id=cctv15
 CCTV17,http://43.138.196.212/111.php?id=cctv17
 CCTV17,http://43.138.196.212/mi0gu.php?id=cctv17
 
-卫视,#genre#
 
+卫视,#genre#
 广西卫视,http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovL3d3dy5kc2suY2MvcGhwL3N4Z2QucGhwP2lkPWd4d3M=
 东方卫视,http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovL3d3dy5kc2suY2MvcGhwL3N4Z2QucGhwP2lkPWRmd3M=
 天津卫视,http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovL3d3dy5kc2suY2MvcGhwL3N4Z2QucGhwP2lkPXRqd3M=
@@ -561,4 +549,5 @@ CCTV17,http://43.138.196.212/mi0gu.php?id=cctv17
 山西卫视,http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovL3d3dy5kc2suY2MvcGhwL3N4Z2QucGhwP2lkPXN4aXdz
 陕西卫视,http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovL3d3dy5kc2suY2MvcGhwL3N4Z2QucGhwP2lkPXN4d3M=
 海南卫视,http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovL3d3dy5kc2suY2MvcGhwL3N4Z2QucGhwP2lkPWhpbndz
+
 
