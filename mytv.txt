@@ -149,15 +149,6 @@ Ginx_TV频道,http://litv.zapi.us.kg/?id=4gtv-4gtv053
 
 JDSP,#genre#
 凤凰中文,http://php.jdshipin.com:8880/iptv.php?id=fhzw
-广州综合,http://php.jdshipin.com:8880/gztv.php?id=zhonghe
-广州新闻,http://php.jdshipin.com:8880/gztv.php?id=xinwen
-广州影视,http://php.jdshipin.com:8880/gztv.php?id=yingshi
-广州法治,http://php.jdshipin.com:8880/gztv.php?id=fazhi
-1905国内电影,http://php.jdshipin.com:8880/1905.php?id=1905dy
-1905国外电影,http://php.jdshipin.com:8880/1905.php?id=1905dy2
-澳门莲花,http://php.jdshipin.com:8880/amlh.php
-海峡卫视,http://php.jdshipin.com:8880/fujian.php?id=9
-
 TVB翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct
 TVB翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct4
 星河台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=xinghe
@@ -257,41 +248,38 @@ Astro欢喜台,http://php.jdshipin.com/smt.php?id=Huahee
 爱奇艺,http://php.jdshipin.com/smt.php?id=Qiyi
 八度空间,http://php.jdshipin.com/smt.php?id=TV8
 
+BXTV,undefined
+myTV SUPER 18台,http://bxtv.3a.ink/api.php?id=18
+TVB Plus,http://bxtv.3a.ink/api.php?id=tvbp
+明珠台,http://bxtv.3a.ink/api.php?id=mz
+無線新聞台,http://bxtv.3a.ink/api.php?id=wxxw
+美亞電影台,http://bxtv.3a.ink/api.php?id=meiya
+翡翠台,http://bxtv.3a.ink/api.php?id=fct
+鳳凰衛視中文台,http://bxtv.3a.ink/api.php?id=fhzw
+鳳凰衛視資訊台,http://bxtv.3a.ink/api.php?id=fhzx
+鳳凰衛視香港台,http://bxtv.3a.ink/api.php?id=fhhk
+緯來體育,http://bxtv.3a.ink/api.php?id=wlty
+广东体育,http://bxtv.3a.ink/api.php?id=gdty
+台視,http://bxtv.3a.ink/api.php?id=台視
+台視新聞,http://bxtv.3a.ink/api.php?id=台視新聞
+中視,http://bxtv.3a.ink/api.php?id=中視
+中視新聞,http://bxtv.3a.ink/api.php?id=中視新聞
+華視,http://bxtv.3a.ink/api.php?id=華視
+華視新聞,http://bxtv.3a.ink/api.php?id=華視新聞
+三立新聞iNEWS,http://bxtv.3a.ink/api.php?id=三立新聞iNEWS
+中天新聞台,http://bxtv.3a.ink/api.php?id=中天新聞
+寰宇新聞台,http://bxtv.3a.ink/api.php?id=寰宇新聞
+寰宇財經台,http://bxtv.3a.ink/api.php?id=寰宇財經
+龍華卡通台,http://bxtv.3a.ink/api.php?id=龍華卡通
+龍華戲劇台,http://bxtv.3a.ink/api.php?id=龍華戲劇
+龍華偶像台,http://bxtv.3a.ink/api.php?id=龍華偶像
+龍華日韓台,http://bxtv.3a.ink/api.php?id=龍華日韓
+龍華經典台,http://bxtv.3a.ink/api.php?id=龍華經典
+龍華電影台,http://bxtv.3a.ink/api.php?id=龍華電影
+龍華洋片台,http://bxtv.3a.ink/api.php?id=龍華洋片
+
+
 HLS,#genre#
-
-东森新闻频道,http://37.27.111.214:8080/live/20/hls.m3u8
-tvbs闽南频道,http://37.27.111.214:8080/live/23/hls.m3u8
-民视闽南频道,http://37.27.111.214:8080/live/6/hls.m3u8
-中视闽南频道,http://37.27.111.214:8080/live/7/hls.m3u8
-华视闽南频道,http://37.27.111.214:8080/live/8/hls.m3u8
-民视第一频道,http://37.27.111.214:8080/live/4/hls.m3u8
-民视台湾频道,http://37.27.111.214:8080/live/5/hls.m3u8
-三立综合频道,http://37.27.111.214:8080/live/31/hls.m3u8
-tvbs欢乐频道,http://37.27.111.214:8080/live/24/hls.m3u8
-龙华电影频道,http://37.27.111.214:8080/live/19/hls.m3u8
-猪哥亮歌厅国,http://37.27.111.214:8080/live/35/hls.m3u8
-亚洲旅游频道,http://37.27.111.214:8080/live/10/hls.m3u8
-幸福空间频道,http://37.27.111.214:8080/live/26/hls.m3u8
-HakkaTV频道,http://37.27.111.214:8080/live/1/hls.m3u8
-TiTV原视频道,http://37.27.111.214:8080/live/2/hls.m3u8
-动画动漫频道,http://37.27.111.214:8080/live/57/hls.m3u8
-Nick动画频壹,http://37.27.111.214:8080/live/12/hls.m3u8
-Nick动画频贰,http://37.27.111.214:8080/live/22/hls.m3u8
-MoMo亲子国,http://37.27.111.214:8080/live/3/hls.m3u8
-博斯高球频壹,http://37.27.111.214:8080/live/13/hls.m3u8
-博斯运动频壹,http://37.27.111.214:8080/live/14/hls.m3u8
-博斯无限频道,http://37.27.111.214:8080/live/15/hls.m3u8
-mTV音乐频道,http://37.27.111.214:8080/live/25/hls.m3u8
-HISTORY频道,http://37.27.111.214:8080/live/27/hls.m3u8
-HITs电影频道,http://37.27.111.214:8080/live/28/hls.m3u8
-探案电影频道,http://37.27.111.214:8080/live/11/hls.m3u8
-CINEMA-频道,http://37.27.111.214:8080/live/30/hls.m3u8
-TV5_MONDE,http://37.27.111.214:8080/live/9/hls.m3u8
-BLOOMBERG,http://37.27.111.214:8080/live/34/hls.m3u8
-DWnews频道,http://37.27.111.214:8080/live/46/hls.m3u8
-CNBc_英频道,http://37.27.111.214:8080/live/102/hls.m3u8
-互动英語频道,http://37.27.111.214:8080/live/54/hls.m3u8
-
 tvbs闽南,http://61.221.215.25:8800/hls/9/index.m3u8
 三立戏剧,http://61.221.215.25:8800/hls/41/index.m3u8
 八大戏剧,http://61.221.215.25:8800/hls/39/index.m3u8
@@ -316,79 +304,24 @@ MoMo综合,rtmp://f13h.mine.nu/sat/tv761
 纬来体育,rtmp://f13h.mine.nu/sat/tv721
 ELEVEN1,rtmp://f13h.mine.nu/sat/tv731
 ELEVEN2,rtmp://f13h.mine.nu/sat/tv741
-中視,rtmp://220.130.201.73/sat/tv091
-華視,rtmp://220.130.201.73/sat/tv111
-臺視,rtmp://220.130.201.73/sat/tv071
-民視,rtmp://220.130.201.73/sat/tv051
-緯來體育,rtmp://220.130.201.73/sat/tv721
-緯來育樂,rtmp://220.130.201.73/sat/tv701
-緯來日本,rtmp://220.130.201.73/sat/tv771
-東森超視,rtmp://220.130.201.73/sat/tv331
+
 
 台湾代理,#genre#
-CINEMAX,http://125.227.210.55:8151/VideoInput/play.ts
 Cnbc new,http://125.227.210.55:8152/VideoInput/play.ts
 HBO HD,http://125.227.210.55:8153/VideoInput/play.ts
 Discovery,http://125.227.210.55:8154/VideoInput/play.ts
-緯來體育臺,http://125.227.210.55:8155/VideoInput/play.ts
-🈲驚艷臺,http://125.227.210.55:8156/VideoInput/play.ts
-🍌香蕉臺,http://125.227.210.55:8159/VideoInput/play.ts
-三立臺灣臺,http://125.227.210.55:8160/VideoInput/play.ts
 Bloomberg,http://125.227.210.55:8161/VideoInput/play.ts
-三立新聞,http://125.227.210.55:8162/VideoInput/play.ts
 BBC new,http://125.227.210.55:8165/VideoInput/play.ts
 CNN new,http://125.227.210.55:8166/VideoInput/play.ts
-CN卡通,http://125.227.210.55:8167/VideoInput/play.ts
-JTV,http://125.227.210.55:8169/VideoInput/play.ts
+CN Carton,http://125.227.210.55:8167/VideoInput/play.ts
 TVRI,http://125.227.210.55:8172/VideoInput/play.ts
-TVRI卡通,http://125.227.210.55:8173/VideoInput/play.ts
-TVBS新聞臺,http://125.227.210.55:8186/VideoInput/play.ts
-TVBS歡樂臺,http://125.227.210.55:8187/VideoInput/play.ts
-TVBS HD,http://125.227.210.55:8188/VideoInput/play.ts
-👅奧視🔞3,http://125.227.210.55:8917/VideoInput/play.ts
-💖TV5臺,http://125.227.210.55:15533/VideoInput/play.ts
-💖YTN臺,http://125.227.210.55:17478/VideoInput/play.ts
-💖NHK JAPAN臺,http://125.227.210.55:35802/VideoInput/play.ts
-💖PBS臺,http://125.227.210.55:36950/VideoInput/play.ts
-💖鳳凰HD臺,http://125.227.210.55:39004/VideoInput/play.ts
-💖DW臺,http://125.227.210.55:42534/VideoInput/play.ts
-💖BBC臺,http://125.227.210.55:44350/VideoInput/play.ts
-💖KOREA臺,http://125.227.210.55:48553/VideoInput/play.ts
-💖Mainu臺,http://125.227.210.55:51359/VideoInput/play.ts
-🔮奧視2,http://125.227.210.55:55643/VideoInput/play.ts
-💖NHK BSP,http://125.227.210.55:60116/VideoInput/play.ts
-💖Sex Girl,http://125.227.210.55:62698/VideoInput/play.ts
-精艳台,http://18.svi-studio.com:8880/live/908957700097/132663288386/1.m3u8
-潘多拉完美,http://18.svi-studio.com:8880/live/624372101145/418430465490/3.m3u8
-香蕉台,http://18.svi-studio.com:8880/live/624372101145/418430465490/4.m3u8
-松1台,http://18.svi-studio.com:8880/live/584830114073/800309151021/5.m3u8
-松2台,http://18.svi-studio.com:8880/live/917952932058/953281067271/6.m3u8
-松3台,http://18.svi-studio.com:8880/live/271871095922/006886711863/20205.m3u8
-極限,https://epg.pw/stream/a4a9b7e7603d96e605468df45eb0d14be5b022328f927957290b981f8c7f7a6c.m3u8
-Hustler TVr,http://146.59.54.163/349/index.m3u8
-Extasy,http://146.59.54.163/350/tracks-v1a1/mono.m3u8
-Vividtv,http://146.59.54.163/361/tracks-v1a1/mono.m3u8
-Erox,http://146.59.54.163/363/tracks-v1a1/mono.m3u8
-Redlight HD,http://146.59.54.163/358/tracks-v1a1/mono.m3u8
-
-其它,#genre#
-翡翠台,http://cdn2.1689.us.kg/live/?id=gdfct
-翡翠台,http://cdn9.1689.us.kg/smt1.1.php?id=jade_twn
-星河台,http://cdn9.1689.us.kg/smt1.1.php?id=Xinhe
-无线新闻,http://cdn9.1689.us.kg/smt1.1.php?id=inews_twn
-无线华丽,http://cdn9.1689.us.kg/smt1.1.php?id=Tvbjade
-千禧经典,http://cdn9.1689.us.kg/smt1.1.php?id=Tvbclassic
-RTHK-33,https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream04/streamPlaylist.m3u8
-RTHK-34,https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream04/streamPlaylist.m3u8
-RTHK-35,https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream02/streamPlaylist.m3u8
-香港佛陀,http://js1.amtb.cn/liveedge/_definst_/livetv/chunklist.m3u8
-香港佛陀,https://js1.amtb.cn/liveedge/_definst_/livetv/playlist.m3u8
-香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq.flv
-香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
-澳视澳门,http://grandprix2023.asuscomm.com:8891/bysid/91.m3u8
-澳视葡语,http://grandprix2023.asuscomm.com:8891/bysid/92.m3u8
-澳门资讯,http://grandprix2023.asuscomm.com:8891/bysid/94.m3u8
-澳门mac,http://grandprix2023.asuscomm.com:8891/bysid/96.m3u8
+Sport1,http://125.227.210.55:8173/VideoInput/play.ts
+TV5 Monde,http://125.227.210.55:15533/VideoInput/play.ts
+KBS World,http://125.227.210.55:17478/VideoInput/play.ts
+NHK World,http://125.227.210.55:35802/VideoInput/play.ts
+Phoenix,http://125.227.210.55:39004/VideoInput/play.ts
+DW,http://125.227.210.55:42534/VideoInput/play.ts
+Ariang,http://125.227.210.55:48553/VideoInput/play.ts
 
 MYTV,#genre#
 
@@ -456,26 +389,14 @@ TVBS,http://s1.an94tv.cfd/taiwan/tvbs/AKTV.m3u8
 TVB,http://s1.an94tv.cfd/taiwan2/tvb/AKTV.m3u8
 TVBS新聞,http://s1.an94tv.cfd/tvbs/tvbs/AKTV.m3u8
 鳳凰衛視香港台,http://s1.an94tv.cfd/aktv/CH-5/AKTV.m3u8
-douyincdn,#genre#
-凤凰,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_fhzw.flv
-香港,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_fhxg.flv
-V6香港,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_j2.flv
-香港77,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_hoy77.flv
-香港78,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_hoy78.flv
+
+AWEI,#genre#
 凤凰中文,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_fhzw.flv
--凤凰资讯,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_fhzx.flv
-凤凰香港,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_fhxg.flv
-香港1,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_jade.flv
-香港2,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_bdzh.flv
-香港3,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_bddy.flv
-香港4,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_dszh.flv
-香港5,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_dscs.flv
-香港6,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_ztzh.flv
-香港7,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_ztyz.flv
-香港8,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_ztxw.flv
-香港9,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_fhxg.flv
-香港10,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_fhzx.flv
-中天,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_ztzh.flv
+凤凰资讯,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_fhzx.flv
+香港香港,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_fhxg.flv
+V6香港,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_j2.flv
+香港78,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_hoy78.flv
+翡翠台,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_jade.flv
 中天新闻,http://push-rtmp-hs-spe-f5.douyincdn.com/live/ztxw01.flv
 美亚电影,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_msdy.flv
 美亚,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_mydy.flv
@@ -486,14 +407,14 @@ viuTV,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_viu.flv
 viuTV6,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_viutv6.flv
 重温经典,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_cwjd.flv
 中天新闻,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_ztxw.flv
-翡翠,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_jade.flv
 民视新闻,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_mstw.flv
-翡翠台,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_jade.flv
 无线新闻,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_wxxw.flv
 tvbplus,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_j2.flv
 明珠台,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_mz.flv
 民视,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_ms.flv
+
 央视,#genre#
+
 CCTV1,http://43.138.196.212/mi0gu.php?id=cctv1
 CCTV2,http://43.138.196.212/111.php?id=cctv2
 CCTV2,http://43.138.196.212/mi0gu.php?id=cctv2
@@ -518,8 +439,8 @@ CCTV15,http://43.138.196.212/mi0gu.php?id=cctv15
 CCTV17,http://43.138.196.212/111.php?id=cctv17
 CCTV17,http://43.138.196.212/mi0gu.php?id=cctv17
 
-
 卫视,#genre#
+
 广西卫视,http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovL3d3dy5kc2suY2MvcGhwL3N4Z2QucGhwP2lkPWd4d3M=
 东方卫视,http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovL3d3dy5kc2suY2MvcGhwL3N4Z2QucGhwP2lkPWRmd3M=
 天津卫视,http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovL3d3dy5kc2suY2MvcGhwL3N4Z2QucGhwP2lkPXRqd3M=
