@@ -113,6 +113,8 @@ http://z.b.bkpcp.top/m.php?id=jxws
 http://s1.an94tv.cfd/aktv2/CH-0/AKTV.m3u8$AKTV
 #EXTINF:-1 tvg-name="纬来体育" tvg-logo="https://ghproxy.cfd/raw.githubusercontent.com/sublime2025/IPTV/main/img/Sport/纬来体育.png" group-title="港台",纬来体育
 http://bxtv.3a.ink/api.php?id=wlty
+#EXTINF:-1 tvg-name="博斯网球" tvg-logo="https://ghproxy.cfd/raw.githubusercontent.com/sublime2025/IPTV/main/img/Sport/博斯网球.png" group-title="港台",博斯网球
+https://live.catvod.com/catvod_com.php?id=bositennis_twn
 
 #EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://ghproxy.cfd/raw.githubusercontent.com/sublime2025/IPTV/main/img/TVB/凤凰中文.png" group-title="港台",凤凰卫视
 http://s1.an94tv.cfd/aktv/CH-3/AKTV.m3u8$AKTV
@@ -177,13 +179,9 @@ https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m
 
 #EXTINF:-1 tvg-name="DW" tvg-logo="https://ghproxy.cfd/raw.githubusercontent.com/sublime2025/IPTV/main/img/World/DW.png" group-title="海外",DW
 https://live.catvod.com/catvod_com.php?id=dw_twn
-#EXTINF:-1 tvg-name="DW" tvg-logo="https://ghproxy.cfd/raw.githubusercontent.com/sublime2025/IPTV/main/img/World/DW.png" group-title="海外",DW
-http://37.27.111.214:8080/live/46/hls.m3u8
 
 #EXTINF:-1 tvg-name="France24" tvg-logo="https://ghproxy.cfd/raw.githubusercontent.com/sublime2025/IPTV/main/img/World/France24.png" group-title="海外",France24
 https://live.catvod.com/catvod_com.php?id=france24_twn
-#EXTINF:-1 tvg-name="France24" tvg-logo="https://ghproxy.cfd/raw.githubusercontent.com/sublime2025/IPTV/main/img/World/France24.png" group-title="海外",France24
-http://50.7.234.10:8278/france24_twn/playlist.m3u8?tid=MD8D3999259739992597&ct=19225&tsum=f842be32f837e71c7df73d173c6705b1
 
 #EXTINF:-1 tvg-name="Japan 24h" tvg-logo="https://ghproxy.cfd/raw.githubusercontent.com/sublime2025/IPTV/main/img/World/Japan24.png" group-title="海外",NTVNews24
 http://s1.an94tv.cfd/aktvjp/japannews24hlive/AKTV.m3u8$AKTV
@@ -218,6 +216,12 @@ http://s1.an94tv.cfd/aktv/lovenaturehd/AKTV.m3u8
 #EXTINF:-1 tvg-name="Love Nature" tvg-logo="https://ghproxy.cfd/raw.githubusercontent.com/sublime2025/IPTV/main/img/World/动物星球.png" group-title="海外",Nature
 https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 
+#EXTINF:-1 tvg-name="MTV" tvg-logo="https://ghproxy.cfd/raw.githubusercontent.com/sublime2025/IPTV/main/img/World/MTV.png" group-title="海外",MTV
+https://live.catvod.com/catvod_com.php?id=mtvhd_twn
+#EXTINF:-1 tvg-name="WWE" tvg-logo="https://ghproxy.cfd/raw.githubusercontent.com/sublime2025/IPTV/main/img/World/WWE.png" group-title="海外",WWE
+https://live.catvod.com/catvod_com.php?id=Wwe
+#EXTINF:-1 tvg-name="NBA" tvg-logo="https://ghproxy.cfd/raw.githubusercontent.com/sublime2025/IPTV/main/img/World/NBA.png" group-title="海外",NBA
+https://live.catvod.com/catvod_com.php?id=Nba
 █████████████████████████████████████████████████████████████████████████████████████████████████████████
 
 #EXTINF:-1 tvg-name="美亚电影港" tvg-logo="https://ghproxy.cfd/raw.githubusercontent.com/sublime2025/IPTV/main/img/Movie/美亚电影.png" group-title="影视",美亚电影
