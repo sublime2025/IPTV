@@ -24,7 +24,7 @@
 |  YanG-1989  | https://tv.iill.top/m3u/Gather                               | IPV4 |
 |    ZBDS     | https://live.zbds.top/tv/iptv6.m3u                           | IPV6 |
 |    ZBDS     | https://live.zbds.top/tv/iptv4.m3u                           | IPV4 |
-|    AKTV     | https://aktv.space/live.m3u                                     | IPV4 |
+|    AKTV     | ~~https://aktv.space/live.m3u~~                              | IPV4 |
 
 #### 空壳软件
 
