@@ -40,7 +40,7 @@
 |    VLC    | [https://www.videolan.org](https://www.videolan.org/vlc/#download) | 全平台  |
 | ZyPlayer  | https://github.com/Hiram-Wong/ZyPlayer/releases              | 多平台  |
 | Potplayer | https://potplayer.tv/                                        | Windows |
-|    Ku9    | https://share.feijipan.com/s/FvDnPdfy                        | Android |
+|    Ku9    | https://share.feijipan.com/s/61ETBL21                        | Android |
 
 #### 其它工具
 
