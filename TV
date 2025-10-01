@@ -133,44 +133,26 @@ http://bxtv.3a.ink/api.php?id=popc
 #EXTINF:-1 tvg-name="美亚电影港" tvg-logo="https://ghproxy.cfd/raw.githubusercontent.com/sublime2025/IPTV/main/img/Movie/美亚电影.png" group-title="港台",美亚电影
 http://bxtv.3a.ink/api.php?id=meiya
 
-█████████████████████████████████████████████████████████████████████████████████████████████████████████
-
-#EXTINF:-1 tvg-name="CNA" tvg-logo="https://ghproxy.cfd/raw.githubusercontent.com/sublime2025/IPTV/main/img/World/CNA.png" group-title="海外",CNA
+#EXTINF:-1 tvg-name="CNA" tvg-logo="https://ghproxy.cfd/raw.githubusercontent.com/sublime2025/IPTV/main/img/World/CNA.png" group-title="港台",CNA
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 
-#EXTINF:-1 tvg-name="DW" tvg-logo="https://ghproxy.cfd/raw.githubusercontent.com/sublime2025/IPTV/main/img/World/DW.png" group-title="海外",DW
-https://live.catvod.com/catvod_com.php?id=dw_twn
-
-#EXTINF:-1 tvg-name="France24" tvg-logo="https://ghproxy.cfd/raw.githubusercontent.com/sublime2025/IPTV/main/img/World/France24.png" group-title="海外",France24
-https://live.catvod.com/catvod_com.php?id=france24_twn
-
-#EXTINF:-1 tvg-name="Japan 24h" tvg-logo="https://ghproxy.cfd/raw.githubusercontent.com/sublime2025/IPTV/main/img/World/Japan24.png" group-title="海外",NTVNews24
-https://n24-cdn-live.ntv.co.jp/ch01/index_high.m3u8
-
-#EXTINF:-1 tvg-name="NHK World" tvg-logo="https://ghproxy.cfd/raw.githubusercontent.com/sublime2025/IPTV/main/img/World/NHK.png" group-title="海外",NHK
-https://live.catvod.com/catvod_com.php?id=nhkworld_japan
-
-#EXTINF:-1 tvg-name="BBC World" tvg-logo="https://ghproxy.cfd/raw.githubusercontent.com/sublime2025/IPTV/main/img/World/BBC.png" group-title="海外",BBC
-https://live.catvod.com/catvod_com.php?id=Bbcnews
-#EXTINF:-1 tvg-name="BBC World" tvg-logo="https://ghproxy.cfd/raw.githubusercontent.com/sublime2025/IPTV/main/img/World/BBC.png" group-title="海外",BBC
+#EXTINF:-1 tvg-name="BBC World" tvg-logo="https://ghproxy.cfd/raw.githubusercontent.com/sublime2025/IPTV/main/img/World/BBC.png" group-title="港台",BBC
 https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8?v=1
-#EXTINF:-1 tvg-name="BBC World" tvg-logo="https://ghproxy.cfd/raw.githubusercontent.com/sublime2025/IPTV/main/img/World/BBC.png" group-title="海外",BBC
+#EXTINF:-1 tvg-name="BBC World" tvg-logo="https://ghproxy.cfd/raw.githubusercontent.com/sublime2025/IPTV/main/img/World/BBC.png" group-title="港台",BBC
 https://d3pxo1qcgzxtxs.cloudfront.net/10005/99951298/hls/playlist.m3u8?ads.xumo_channelId=99951298
 
-#EXTINF:-1 tvg-name="CNN" tvg-logo="https://ghproxy.cfd/raw.githubusercontent.com/sublime2025/IPTV/main/img/World/CNN.png" group-title="海外",CNN
-https://live.catvod.com/catvod_com.php?id=Cnn
-#EXTINF:-1 tvg-name="CNN" tvg-logo="https://ghproxy.cfd/raw.githubusercontent.com/sublime2025/IPTV/main/img/World/CNN.png" group-title="海外",CNN
+#EXTINF:-1 tvg-name="CNN" tvg-logo="https://ghproxy.cfd/raw.githubusercontent.com/sublime2025/IPTV/main/img/World/CNN.png" group-title="港台",CNN
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
-#EXTINF:-1 tvg-name="CNN" tvg-logo="https://ghproxy.cfd/raw.githubusercontent.com/sublime2025/IPTV/main/img/World/CNN.png" group-title="海外",CNN
+#EXTINF:-1 tvg-name="CNN" tvg-logo="https://ghproxy.cfd/raw.githubusercontent.com/sublime2025/IPTV/main/img/World/CNN.png" group-title="港台",CNN
 https://amg01448-samsungin-cnnnow-samsungin-4npqg.amagi.tv/playlist/amg01448-samsungin-cnnnow-samsungin/playlist.m3u8
 
-#EXTINF:-1 tvg-name="RedBull" tvg-logo="https://ghproxy.cfd/raw.githubusercontent.com/sublime2025/IPTV/main/img/World/红牛运动.png" group-title="海外",RedBull
+#EXTINF:-1 tvg-name="RedBull" tvg-logo="https://ghproxy.cfd/raw.githubusercontent.com/sublime2025/IPTV/main/img/World/红牛运动.png" group-title="港台",RedBull
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
-#EXTINF:-1 tvg-name="RedBull" tvg-logo="https://ghproxy.cfd/raw.githubusercontent.com/sublime2025/IPTV/main/img/World/红牛运动.png" group-title="海外",RedBull
+#EXTINF:-1 tvg-name="RedBull" tvg-logo="https://ghproxy.cfd/raw.githubusercontent.com/sublime2025/IPTV/main/img/World/红牛运动.png" group-title="港台",RedBull
 http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_928.m3u8
-#EXTINF:-1 tvg-name="Animal Planet" tvg-logo="https://ghproxy.cfd/raw.githubusercontent.com/sublime2025/IPTV/main/img/World/动物星球.png" group-title="海外",Animal
+
+#EXTINF:-1 tvg-name="Animal Planet" tvg-logo="https://ghproxy.cfd/raw.githubusercontent.com/sublime2025/IPTV/main/img/World/动物星球.png" group-title="港台",Animal
 http://61.221.215.25:8800/hls/57/index.m3u8
-#EXTINF:-1 tvg-name="Love Nature" tvg-logo="https://ghproxy.cfd/raw.githubusercontent.com/sublime2025/IPTV/main/img/World/动物星球.png" group-title="海外",Nature
 
 █████████████████████████████████████████████████████████████████████████████████████████████████████████
 
@@ -213,10 +195,6 @@ https://live.iill.top/douyu/9942574
 https://live.iill.top/huya/11601966
 #EXTINF:-1 tvg-name="海贼王" tvg-logo="https://ghproxy.cfd/raw.githubusercontent.com/sublime2025/IPTV/main/img/路飞.png" group-title="动漫",海贼王
 https://live.iill.top/huya/16913382
-#EXTINF:-1 tvg-name="火影忍者" tvg-logo="https://ghproxy.cfd/raw.githubusercontent.com/sublime2025/IPTV/main/img/鸣人.png" group-title="动漫",火影忍者
-https://live.iill.top/huya/11342385
-#EXTINF:-1 tvg-name="灌篮高手" tvg-logo="https://ghproxy.cfd/raw.githubusercontent.com/sublime2025/IPTV/main/img/樱木花道.png" group-title="动漫",灌篮高手
-http://live.iill.top/yy.php?id=1382735626
 
 #EXTINF:-1 tvg-name="哆啦A梦" tvg-logo="https://ghproxy.cfd/raw.githubusercontent.com/sublime2025/IPTV/main/img/机器猫.png" group-title="动漫",哆啦A梦
 https://live.iill.top/huya/11601963
@@ -240,11 +218,11 @@ https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTl
 #EXTINF:-1 tvg-name="1996" tvg-logo="https://ghproxy.cfd/raw.githubusercontent.com/sublime2025/IPTV/main/img/春晚.png" group-title="春晚",1996
 https://alimov2.a.kwimgs.com/upic/2023/01/13/22/BMjAyMzAxMTMyMjEwMDNfNDAzMDAxOTlfOTM1MTIzMzYxNTJfMF8z_b_Bd841eae10ab1c9955ef55fbedfae6c45.mp4
 #EXTINF:-1 tvg-name="1997" tvg-logo="https://ghproxy.cfd/raw.githubusercontent.com/sublime2025/IPTV/main/img/春晚.png" group-title="春晚",1997
-https://txmov2.a.kwimgs.com/bs3/video-hls/5225864507896315430_hlshd15.m3u8
+
 #EXTINF:-1 tvg-name="1998" tvg-logo="https://ghproxy.cfd/raw.githubusercontent.com/sublime2025/IPTV/main/img/春晚.png" group-title="春晚",1998
-https://txmov2.a.kwimgs.com/bs3/video-hls/5225864507896315430_hlshd15.m3u8
+
 #EXTINF:-1 tvg-name="1999" tvg-logo="https://ghproxy.cfd/raw.githubusercontent.com/sublime2025/IPTV/main/img/春晚.png" group-title="春晚",1999
-https://txmov2.a.kwimgs.com/bs3/video-hls/5258234133675308186_hlshd15.m3u8
+
 #EXTINF:-1 tvg-name="2000" tvg-logo="https://ghproxy.cfd/raw.githubusercontent.com/sublime2025/IPTV/main/img/春晚.png" group-title="春晚",2000
 https://alimov2.a.kwimgs.com/upic/2023/01/13/21/BMjAyMzAxMTMyMTE4MzRfNDAzMDAxOTlfOTM1MDY4ODIxMTNfMF8z_b_Bdddf4e7ef0ff6cfd477857bb40e78419.mp4
 #EXTINF:-1 tvg-name="2001" tvg-logo="https://ghproxy.cfd/raw.githubusercontent.com/sublime2025/IPTV/main/img/春晚.png" group-title="春晚",2001
@@ -262,13 +240,13 @@ https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTl
 #EXTINF:-1 tvg-name="2007" tvg-logo="https://ghproxy.cfd/raw.githubusercontent.com/sublime2025/IPTV/main/img/春晚.png" group-title="春晚",2007
 https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQzMjNfMF8z_b_B00b069c7899976459ceeaa99353dfefe.mp4
 #EXTINF:-1 tvg-name="2008" tvg-logo="https://ghproxy.cfd/raw.githubusercontent.com/sublime2025/IPTV/main/img/春晚.png" group-title="春晚",2008
-https://txmov2.a.kwimgs.com/bs3/video-hls/5210946337266019890_hlshd15.m3u8
+
 #EXTINF:-1 tvg-name="2009" tvg-logo="https://ghproxy.cfd/raw.githubusercontent.com/sublime2025/IPTV/main/img/春晚.png" group-title="春晚",2009
 https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQzOTBfMF8z_b_B29a36a85e0277f6c2a1f033ef7c10708.mp4
 #EXTINF:-1 tvg-name="2010" tvg-logo="https://ghproxy.cfd/raw.githubusercontent.com/sublime2025/IPTV/main/img/春晚.png" group-title="春晚",2010
 https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQ0MjlfMF8z_b_B8818807a00eed329a69fb494f405bd43.mp4
 #EXTINF:-1 tvg-name="2011" tvg-logo="https://ghproxy.cfd/raw.githubusercontent.com/sublime2025/IPTV/main/img/春晚.png" group-title="春晚",2011
-https://txmov2.a.kwimgs.com/bs3/video-hls/5243597434070590481_hlshd15.m3u8
+
 #EXTINF:-1 tvg-name="2012" tvg-logo="https://ghproxy.cfd/raw.githubusercontent.com/sublime2025/IPTV/main/img/春晚.png" group-title="春晚",2012
 https://txmov2.a.kwimgs.com/bs3/video-hls/5219953534755647343_hlshd15.m3u8
 #EXTINF:-1 tvg-name="2013" tvg-logo="https://ghproxy.cfd/raw.githubusercontent.com/sublime2025/IPTV/main/img/春晚.png" group-title="春晚",2013
@@ -276,23 +254,23 @@ https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTl
 #EXTINF:-1 tvg-name="2014" tvg-logo="https://ghproxy.cfd/raw.githubusercontent.com/sublime2025/IPTV/main/img/春晚.png" group-title="春晚",2014
 https://alimov2.a.kwimgs.com/upic/2023/01/06/16/BMjAyMzAxMDYxNjMxMTNfNDAzMDAxOTlfOTI4OTY2ODAzNjlfMF8z_b_Bdee65c77f9e7b2120a185c919dad81d2.mp4
 #EXTINF:-1 tvg-name="2015" tvg-logo="https://ghproxy.cfd/raw.githubusercontent.com/sublime2025/IPTV/main/img/春晚.png" group-title="春晚",2015
-https://txmov2.a.kwimgs.com/bs3/video-hls/5248101009010430183_hlshd15.m3u8
+
 #EXTINF:-1 tvg-name="2016" tvg-logo="https://ghproxy.cfd/raw.githubusercontent.com/sublime2025/IPTV/main/img/春晚.png" group-title="春晚",2016
-https://txmov2.a.kwimgs.com/bs3/video-hls/5238530884094441260_hlshd15.m3u8
+
 #EXTINF:-1 tvg-name="2017" tvg-logo="https://ghproxy.cfd/raw.githubusercontent.com/sublime2025/IPTV/main/img/春晚.png" group-title="春晚",2017
-https://txmov2.a.kwimgs.com/bs3/video-hls/5191524564569524830_hlshd15.m3u8
+
 #EXTINF:-1 tvg-name="2018" tvg-logo="https://ghproxy.cfd/raw.githubusercontent.com/sublime2025/IPTV/main/img/春晚.png" group-title="春晚",2018
 https://alimov2.a.kwimgs.com/upic/2023/01/06/16/BMjAyMzAxMDYxNjMxMTRfNDAzMDAxOTlfOTI4OTY2ODE2MTBfMF8z_b_B11a778e34390a21de42d407e94f45b91.mp4
 #EXTINF:-1 tvg-name="2019" tvg-logo="https://ghproxy.cfd/raw.githubusercontent.com/sublime2025/IPTV/main/img/春晚.png" group-title="春晚",2019
-https://txmov2.a.kwimgs.com/bs3/video-hls/5239093835831655107_hlshd15.m3u8
+
 #EXTINF:-1 tvg-name="2020" tvg-logo="https://ghproxy.cfd/raw.githubusercontent.com/sublime2025/IPTV/main/img/春晚.png" group-title="春晚",2020
-https://txmov2.a.kwimgs.com/bs3/video-hls/5222205336887088723_hlshd15.m3u8
+
 #EXTINF:-1 tvg-name="2021" tvg-logo="https://ghproxy.cfd/raw.githubusercontent.com/sublime2025/IPTV/main/img/春晚.png" group-title="春晚",2021
-https://txmov2.a.kwimgs.com/bs3/video-hls/5255700831151909807_hlshd15.m3u8
+
 #EXTINF:-1 tvg-name="2022" tvg-logo="https://ghproxy.cfd/raw.githubusercontent.com/sublime2025/IPTV/main/img/春晚.png" group-title="春晚",2022
-https://txmov2.a.kwimgs.com/bs3/video-hls/5224457109297710655_hlshd15.m3u8
+
 #EXTINF:-1 tvg-name="2023" tvg-logo="https://ghproxy.cfd/raw.githubusercontent.com/sublime2025/IPTV/main/img/春晚.png" group-title="春晚",2023
-https://txmov2.a.kwimgs.com/bs3/video-hls/5251197255879398624_hlshd15.m3u8
+
 #EXTINF:-1 tvg-name="2024" tvg-logo="https://ghproxy.cfd/raw.githubusercontent.com/sublime2025/IPTV/main/img/春晚.png" group-title="春晚",2024
 https://p2.bdstatic.com/rtmp.liveshow.lss-user.baidubce.com/live/stream_bduid_6488563992_8982723413/merged_1707497046297_88536_25144_41936.m3u8
 #EXTINF:-1 tvg-name="2025" tvg-logo="https://ghproxy.cfd/raw.githubusercontent.com/sublime2025/IPTV/main/img/春晚.png" group-title="春晚",2025
