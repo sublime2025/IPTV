@@ -115,6 +115,10 @@ http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw$JDSP
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzx$JDSP
 #EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://ghproxy.cfd/raw.githubusercontent.com/sublime2025/IPTV/main/img/TVB/翡翠台.png" group-title="港台",翡翠台
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct4$JDSP
+#EXTINF:-1 tvg-name="娱乐新闻" tvg-logo="https://ghproxy.cfd/raw.githubusercontent.com/sublime2025/IPTV/main/img/TVB/娱乐新闻.png" group-title="港台",娱乐新闻
+http://php.jdshipin.com/smt.php?id=Tvbentertainment$JDSP
+#EXTINF:-1 tvg-name="美亚电影港" tvg-logo="https://ghproxy.cfd/raw.githubusercontent.com/sublime2025/IPTV/main/img/Movie/美亚电影.png" group-title="港台",美亚电影
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=meiya$JDSP
 
 #EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://ghproxy.cfd/raw.githubusercontent.com/sublime2025/IPTV/main/img/TVB/凤凰中文.png" group-title="港台",凤凰卫视
 http://bxtv.3a.ink/api.php?id=fhzw$BXTV
@@ -122,15 +126,12 @@ http://bxtv.3a.ink/api.php?id=fhzw$BXTV
 http://bxtv.3a.ink/api.php?id=fhzx$BXTV
 #EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://ghproxy.cfd/raw.githubusercontent.com/sublime2025/IPTV/main/img/TVB/翡翠台.png" group-title="港台",翡翠台
 http://bxtv.3a.ink/api.php?id=fct$BXTV
-
-#EXTINF:-1 tvg-name="娱乐新闻" tvg-logo="https://ghproxy.cfd/raw.githubusercontent.com/sublime2025/IPTV/main/img/TVB/娱乐新闻.png" group-title="港台",娱乐新闻
-http://php.jdshipin.com/smt.php?id=Tvbentertainment
-
 #EXTINF:-1 tvg-name="Now新闻" tvg-logo="https://ghproxy.cfd/raw.githubusercontent.com/sublime2025/IPTV/main/img/TVB/Now新闻.png" group-title="港台",Now新闻
 http://bxtv.3a.ink/api.php?id=now
-
-#EXTINF:-1 tvg-name="TVBS新闻" tvg-logo="https://ghproxy.cfd/raw.githubusercontent.com/sublime2025/IPTV/main/img/TVB/TVBS新闻.png" group-title="港台",TVBS新闻
-http://61.221.215.25:8800/hls/9/index.m3u8
+#EXTINF:-1 tvg-name="PopC" tvg-logo="https://ghproxy.cfd/raw.githubusercontent.com/sublime2025/IPTV/main/img/Movie/PopC.png" group-title="港台",PopC
+http://bxtv.3a.ink/api.php?id=popc
+#EXTINF:-1 tvg-name="美亚电影港" tvg-logo="https://ghproxy.cfd/raw.githubusercontent.com/sublime2025/IPTV/main/img/Movie/美亚电影.png" group-title="港台",美亚电影
+http://bxtv.3a.ink/api.php?id=meiya
 
 █████████████████████████████████████████████████████████████████████████████████████████████████████████
 
@@ -171,54 +172,37 @@ http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_928.m3u8
 http://61.221.215.25:8800/hls/57/index.m3u8
 #EXTINF:-1 tvg-name="Love Nature" tvg-logo="https://ghproxy.cfd/raw.githubusercontent.com/sublime2025/IPTV/main/img/World/动物星球.png" group-title="海外",Nature
 
-
 █████████████████████████████████████████████████████████████████████████████████████████████████████████
 
-
-#EXTINF:-1 tvg-name="美亚电影港" tvg-logo="https://ghproxy.cfd/raw.githubusercontent.com/sublime2025/IPTV/main/img/Movie/美亚电影.png" group-title="影视",美亚电影
-http://php.jdshipin.com:8880/TVOD/iptv.php?id=meiya$JDSP
-#EXTINF:-1 tvg-name="美亚电影港" tvg-logo="https://ghproxy.cfd/raw.githubusercontent.com/sublime2025/IPTV/main/img/Movie/美亚电影.png" group-title="影视",美亚电影
-http://bxtv.3a.ink/api.php?id=meiya
-#EXTINF:-1 tvg-name="PopC" tvg-logo="https://ghproxy.cfd/raw.githubusercontent.com/sublime2025/IPTV/main/img/Movie/PopC.png" group-title="影视",PopC
-http://bxtv.3a.ink/api.php?id=popc
-
-#EXTINF:-1 tvg-name="周星驰" tvg-logo="https://ghproxy.cfd/raw.githubusercontent.com/sublime2025/IPTV/main/img/虎牙.png" group-title="影视",星爷
+#EXTINF:-1 tvg-name="周星驰" tvg-logo="https://ghproxy.cfd/raw.githubusercontent.com/sublime2025/IPTV/main/img/虎牙.png" group-title="虎牙",星爷
 https://live.iill.top/huya/11342412
-#EXTINF:-1 tvg-name="周润发" tvg-logo="https://ghproxy.cfd/raw.githubusercontent.com/sublime2025/IPTV/main/img/虎牙.png" group-title="影视",发哥
+#EXTINF:-1 tvg-name="周润发" tvg-logo="https://ghproxy.cfd/raw.githubusercontent.com/sublime2025/IPTV/main/img/虎牙.png" group-title="虎牙",发哥
 https://live.iill.top/huya/11342387
-#EXTINF:-1 tvg-name="刘德华" tvg-logo="https://ghproxy.cfd/raw.githubusercontent.com/sublime2025/IPTV/main/img/虎牙.png" group-title="影视",华仔
+#EXTINF:-1 tvg-name="刘德华" tvg-logo="https://ghproxy.cfd/raw.githubusercontent.com/sublime2025/IPTV/main/img/虎牙.png" group-title="虎牙",华仔
 https://live.iill.top/huya/11342424
-#EXTINF:-1 tvg-name="成龙" tvg-logo="https://ghproxy.cfd/raw.githubusercontent.com/sublime2025/IPTV/main/img/虎牙.png" group-title="影视",龙叔
-https://live.iill.top/huya/11342386
-#EXTINF:-1 tvg-name="沈腾" tvg-logo="https://ghproxy.cfd/raw.githubusercontent.com/sublime2025/IPTV/main/img/虎牙.png" group-title="影视",沈腾
-https://live.iill.top/huya/11601968
-#EXTINF:-1 tvg-name="林正英" tvg-logo="https://ghproxy.cfd/raw.githubusercontent.com/sublime2025/IPTV/main/img/虎牙.png" group-title="影视",英叔
+#EXTINF:-1 tvg-name="林正英" tvg-logo="https://ghproxy.cfd/raw.githubusercontent.com/sublime2025/IPTV/main/img/虎牙.png" group-title="虎牙",英叔
 https://live.iill.top/huya/11342421
+#EXTINF:-1 tvg-name="成龙" tvg-logo="https://ghproxy.cfd/raw.githubusercontent.com/sublime2025/IPTV/main/img/虎牙.png" group-title="虎牙",龙叔
+https://live.iill.top/huya/11342386
+#EXTINF:-1 tvg-name="沈腾" tvg-logo="https://ghproxy.cfd/raw.githubusercontent.com/sublime2025/IPTV/main/img/虎牙.png" group-title="虎牙",沈腾
+https://live.iill.top/huya/11601968
 
-█████████████████████████████████████████████████████████████████████████████████████████████████████████
-
-#EXTINF:-1 tvg-name="陈翔六点半" tvg-logo="https://ghproxy.cfd/raw.githubusercontent.com/sublime2025/IPTV/main/img/虎牙.png" group-title="剧集",陈翔六点半
+#EXTINF:-1 tvg-name="陈翔六点半" tvg-logo="https://ghproxy.cfd/raw.githubusercontent.com/sublime2025/IPTV/main/img/虎牙.png" group-title="虎牙",陈翔六点半
 https://live.iill.top/huya/11274154
-#EXTINF:-1 tvg-name="爱情公寓" tvg-logo="https://ghproxy.cfd/raw.githubusercontent.com/sublime2025/IPTV/main/img/虎牙.png" group-title="剧集",爱情公寓
+#EXTINF:-1 tvg-name="爱情公寓" tvg-logo="https://ghproxy.cfd/raw.githubusercontent.com/sublime2025/IPTV/main/img/虎牙.png" group-title="虎牙",爱情公寓
 https://live.iill.top/huya/11336726
-
-#EXTINF:-1 tvg-name="新三国" tvg-logo="https://ghproxy.cfd/raw.githubusercontent.com/sublime2025/IPTV/main/img/虎牙.png" group-title="剧集",新三国
+#EXTINF:-1 tvg-name="新三国" tvg-logo="https://ghproxy.cfd/raw.githubusercontent.com/sublime2025/IPTV/main/img/虎牙.png" group-title="虎牙",新三国
 https://live.iill.top/huya/11352944
-#EXTINF:-1 tvg-name="新水浒" tvg-logo="https://ghproxy.cfd/raw.githubusercontent.com/sublime2025/IPTV/main/img/虎牙.png" group-title="剧集",新水浒
+#EXTINF:-1 tvg-name="新水浒" tvg-logo="https://ghproxy.cfd/raw.githubusercontent.com/sublime2025/IPTV/main/img/虎牙.png" group-title="虎牙",新水浒
 https://live.iill.top/huya/11342384
-
-#EXTINF:-1 tvg-name="倚天屠龙记" tvg-logo="https://ghproxy.cfd/raw.githubusercontent.com/sublime2025/IPTV/main/img/虎牙.png" group-title="剧集",倚天屠龙记
+#EXTINF:-1 tvg-name="倚天屠龙记" tvg-logo="https://ghproxy.cfd/raw.githubusercontent.com/sublime2025/IPTV/main/img/虎牙.png" group-title="虎牙",倚天屠龙记
 https://live.iill.top/huya/11342403
-
-#EXTINF:-1 tvg-name="风云雄霸天下" tvg-logo="https://ghproxy.cfd/raw.githubusercontent.com/sublime2025/IPTV/main/img/虎牙.png" group-title="剧集",风云雄霸天下
+#EXTINF:-1 tvg-name="风云雄霸天下" tvg-logo="https://ghproxy.cfd/raw.githubusercontent.com/sublime2025/IPTV/main/img/虎牙.png" group-title="虎牙",风云雄霸天下
 https://live.iill.top/huya/21059612
-#EXTINF:-1 tvg-name="庆余年" tvg-logo="https://ghproxy.cfd/raw.githubusercontent.com/sublime2025/IPTV/main/img/虎牙.png" group-title="剧集",庆余年
+#EXTINF:-1 tvg-name="庆余年" tvg-logo="https://ghproxy.cfd/raw.githubusercontent.com/sublime2025/IPTV/main/img/虎牙.png" group-title="虎牙",庆余年
 https://live.iill.top/huya/11352960
 
 █████████████████████████████████████████████████████████████████████████████████████████████████████████
-
-#EXTINF:-1 tvg-name="Animax HK" tvg-logo="https://ghproxy.cfd/raw.githubusercontent.com/sublime2025/IPTV/main/img/TVB/Animax.png" group-title="动漫",Animax
-http://s1.an94tv.cfd/aktv/animaxhk/AKTV.m3u8
 
 #EXTINF:-1 tvg-name="猫和老鼠" tvg-logo="https://ghproxy.cfd/raw.githubusercontent.com/sublime2025/IPTV/main/img/猫和老鼠.png" group-title="动漫",猫和老鼠
 https://live.iill.top/huya/11352879
