@@ -1,152 +1,3 @@
-AKTV,#genre#
-Animax (HK),http://s1.an94tv.cfd/aktv/animaxhk/AKTV.m3u8
-AXN,http://s1.an94tv.cfd/aktv/axn/AKTV.m3u8
-Channel 5 HD,http://s1.an94tv.cfd/aktv/channel5hd/AKTV.m3u8
-Channel 8 HD,http://s1.an94tv.cfd/aktv/channel8hd/AKTV.m3u8
-Channel U HD,http://s1.an94tv.cfd/aktv/channeluhd/AKTV.m3u8
-Love Nature HD,http://s1.an94tv.cfd/aktv/lovenaturehd/AKTV.m3u8
-PopC,http://s1.an94tv.cfd/aktv/popc/AKTV.m3u8
-ROCK Action,http://s1.an94tv.cfd/aktv/rockaction/AKTV.m3u8
-TVB Plus,http://s1.an94tv.cfd/aktv/tvbplus/AKTV.m3u8
-tvN,http://s1.an94tv.cfd/aktv/tvn/AKTV.m3u8
-天映經典(1080),http://s1.an94tv.cfd/aktv/1080/AKTV.m3u8
-明珠剧集台(北美),http://s1.an94tv.cfd/aktv/CH-19/AKTV.m3u8
-明珠台,http://s1.an94tv.cfd/aktv/CH-2/AKTV.m3u8
-無線新聞台,http://s1.an94tv.cfd/aktv/CH-1/AKTV.m3u8
-美亞電影台(HK),http://s1.an94tv.cfd/aktv/hk/AKTV.m3u8
-翡翠一台(北美),http://s1.an94tv.cfd/aktv/CH-8/AKTV.m3u8
-翡翠剧集台(北美),http://s1.an94tv.cfd/aktv/CH-18/AKTV.m3u8
-翡翠台,http://s1.an94tv.cfd/aktv/CH-0/AKTV.m3u8
-翡翠娛樂台(北美),http://s1.an94tv.cfd/aktv/CH-7/AKTV.m3u8
-翡翠综合台(北美),http://s1.an94tv.cfd/aktv/CH-17/AKTV.m3u8
-鳳凰衛視中文台,http://s1.an94tv.cfd/aktv/CH-3/AKTV.m3u8
-鳳凰衛視資訊台,http://s1.an94tv.cfd/aktv/CH-4/AKTV.m3u8
-鳳凰衛視香港台,http://s1.an94tv.cfd/aktv/CH-5/AKTV.m3u8
-黃金翡翠台,http://s1.an94tv.cfd/aktv/CH-6/AKTV.m3u8
-Sky Sports F1,http://s1.an94tv.cfd/aktv2/skysportsf1/AKTV.m3u8
-天映电影,http://s1.an94tv.cfd/aktv2/CH-3/AKTV.m3u8
-好萊塢電影台,http://s1.an94tv.cfd/aktv2/CH-1/AKTV.m3u8
-東森洋片,http://s1.an94tv.cfd/aktv2/CH-2/AKTV.m3u8
-緯來體育台,http://s1.an94tv.cfd/aktv2/CH-0/AKTV.m3u8
-CNA,http://s1.an94tv.cfd/aktv3/cna/AKTV.m3u8
-RTHK32,http://s1.an94tv.cfd/aktv3/rthk32/AKTV.m3u8
-朝鲜恩情台,http://s1.an94tv.cfd/aktv3/CH-0/AKTV.m3u8
-Japan News 24H LIVE,http://s1.an94tv.cfd/aktvjp/japannews24hlive/AKTV.m3u8
-日テレNEWS LIVE,http://s1.an94tv.cfd/aktvjp/ntv/AKTV.m3u8
-8TV,http://s1.an94tv.cfd/astro/8tv/AKTV.m3u8
-Astro Football,http://s1.an94tv.cfd/astro/CH-0/AKTV.m3u8
-Astro Sport UHD,http://s1.an94tv.cfd/astro/astrosportuhd/AKTV.m3u8
-EuroSport 1,http://s1.an94tv.cfd/astro/eurosport1/AKTV.m3u8
-EuroSport 2,http://s1.an94tv.cfd/astro/eurosport2/AKTV.m3u8
-TNT SPORTS 1,http://s1.an94tv.cfd/astro/tntsports1/AKTV.m3u8
-TNT SPORTS 2,http://s1.an94tv.cfd/astro/tntsports2/AKTV.m3u8
-TNT SPORTS 3,http://s1.an94tv.cfd/astro/tntsports3/AKTV.m3u8
-中天亚洲台,http://s1.an94tv.cfd/astro/CH-1/AKTV.m3u8
-CinemaWorld,http://s1.an94tv.cfd/taiwan/cinemaworld/AKTV.m3u8
-HITS,http://s1.an94tv.cfd/taiwan/hits/AKTV.m3u8
-KLT-靖天國際台,http://s1.an94tv.cfd/taiwan/CH-3/AKTV.m3u8
-MagellanTV頻道,http://s1.an94tv.cfd/taiwan/magellantv/AKTV.m3u8
-TVBS,http://s1.an94tv.cfd/taiwan/tvbs/AKTV.m3u8
-TVBS新聞,http://s1.an94tv.cfd/taiwan/tvbs-1/AKTV.m3u8
-民視,http://s1.an94tv.cfd/taiwan/CH-1/AKTV.m3u8
-民視第一台,http://s1.an94tv.cfd/taiwan/CH-0/AKTV.m3u8
-龍華日韓台,http://s1.an94tv.cfd/taiwan/CH-5/AKTV.m3u8
-TVB 星河,http://s1.an94tv.cfd/taiwan2/tvb/AKTV.m3u8
-中天新闻台,http://s1.an94tv.cfd/zhongtian/CH-0/AKTV.m3u8
-東森新聞,http://s1.an94tv.cfd/zhongtian/CH-1/AKTV.m3u8
-
-LITV,#genre#
-中天新闻频道,http://litv.zapi.us.kg/?id=4gtv-4gtv009
-东森新闻频道,http://litv.zapi.us.kg/?id=4gtv-4gtv152
-tvbs新闻频道,http://litv.zapi.us.kg/?id=4gtv-4gtv072
-寰宇新闻频道,http://litv.zapi.us.kg/?id=litv-longturn14
-非凡新闻频道,http://litv.zapi.us.kg/?id=4gtv-4gtv010
-闽镜新闻频道,http://litv.zapi.us.kg/?id=4gtv-4gtv075
-民视新闻频道,http://litv.zapi.us.kg/?id=litv-ftv13
-中视新闻频道,http://litv.zapi.us.kg/?id=4gtv-4gtv074
-华视新闻频道,http://litv.zapi.us.kg/?id=4gtv-4gtv052
-台视新闻频道,http://litv.zapi.us.kg/?id=4gtv-4gtv051
-民视闽南频道,http://litv.zapi.us.kg/?id=4gtv-4gtv002
-民视闽南频道,http://litv.zapi.us.kg/?id=4gtv-4gtv155
-中视闽南频道,http://litv.zapi.us.kg/?id=4gtv-4gtv040
-华视闽南频道,http://litv.zapi.us.kg/?id=4gtv-4gtv041
-台视闽南频道,http://litv.zapi.us.kg/?id=4gtv-4gtv066
-寰宇闽南频道,http://litv.zapi.us.kg/?id=litv-longturn15
-tvbs闽南频道,http://litv.zapi.us.kg/?id=4gtv-4gtv073
-民视台湾频道,http://litv.zapi.us.kg/?id=4gtv-4gtv001
-民视台湾频道,http://litv.zapi.us.kg/?id=4gtv-4gtv156
-民视第一频道,http://litv.zapi.us.kg/?id=4gtv-4gtv003
-民视旅游频道,http://litv.zapi.us.kg/?id=litv-ftv07
-民视影剧频道,http://litv.zapi.us.kg/?id=litv-ftv09
-民视综艺频道,http://litv.zapi.us.kg/?id=4gtv-4gtv004
-中视菁采频道,http://litv.zapi.us.kg/?id=4gtv-4gtv064
-中视经典频道,http://litv.zapi.us.kg/?id=4gtv-4gtv080
-台视财经频道,http://litv.zapi.us.kg/?id=4gtv-4gtv056
-公视戏剧频道,http://litv.zapi.us.kg/?id=4gtv-4gtv042
-闽南戏剧频道,http://litv.zapi.us.kg/?id=litv-longturn22
-国际财经频道,http://litv.zapi.us.kg/?id=4gtv-4gtv104
-东森财经频道,http://litv.zapi.us.kg/?id=4gtv-4gtv153
-tvbs精采频道,http://litv.zapi.us.kg/?id=4gtv-4gtv067
-tvbs欢乐频道,http://litv.zapi.us.kg/?id=4gtv-4gtv068
-八大精彩频道,http://litv.zapi.us.kg/?id=4gtv-4gtv034
-八大综艺频道,http://litv.zapi.us.kg/?id=4gtv-4gtv039
-爱尔达娱乐台,http://litv.zapi.us.kg/?id=4gtv-4gtv070
-靖洋戏剧频道,http://litv.zapi.us.kg/?id=4gtv-4gtv045
-靖洋卡通频道,http://litv.zapi.us.kg/?id=4gtv-4gtv057
-靖天卡通频道,http://litv.zapi.us.kg/?id=4gtv-4gtv044
-靖天综合频道,http://litv.zapi.us.kg/?id=4gtv-4gtv046
-靖天日本频道,http://litv.zapi.us.kg/?id=4gtv-4gtv047
-靖天欢乐频道,http://litv.zapi.us.kg/?id=4gtv-4gtv054
-靖天映画频道,http://litv.zapi.us.kg/?id=4gtv-4gtv055
-靖天戏剧频道,http://litv.zapi.us.kg/?id=4gtv-4gtv058
-靖天电影频道,http://litv.zapi.us.kg/?id=4gtv-4gtv061
-靖天育乐频道,http://litv.zapi.us.kg/?id=4gtv-4gtv062
-靖天国际频道,http://litv.zapi.us.kg/?id=4gtv-4gtv063
-靖天资讯频道,http://litv.zapi.us.kg/?id=4gtv-4gtv065
-龙华卡通频道,http://litv.zapi.us.kg/?id=litv-longturn01
-龙华日韩频道,http://litv.zapi.us.kg/?id=litv-longturn11
-龙华偶像频道,http://litv.zapi.us.kg/?id=litv-longturn12
-龙华电影频道,http://litv.zapi.us.kg/?id=litv-longturn03
-龙华戏剧频道,http://litv.zapi.us.kg/?id=litv-longturn18
-龙华经典频道,http://litv.zapi.us.kg/?id=litv-longturn21
-国会频道壹台,http://litv.zapi.us.kg/?id=4gtv-4gtv084
-国会频道贰台,http://litv.zapi.us.kg/?id=4gtv-4gtv085
-好消息壹频道,http://litv.zapi.us.kg/?id=litv-ftv16
-好消息贰频道,http://litv.zapi.us.kg/?id=litv-ftv17
-智林体育频道,http://litv.zapi.us.kg/?id=4gtv-4gtv101
-博斯魅力频道,http://litv.zapi.us.kg/?id=litv-longturn04
-博斯网球频道,http://litv.zapi.us.kg/?id=litv-longturn09
-博斯高球壹台,http://litv.zapi.us.kg/?id=litv-longturn05
-博斯高球贰台,http://litv.zapi.us.kg/?id=litv-longturn06
-博斯运动壹台,http://litv.zapi.us.kg/?id=litv-longturn07
-博斯运动贰台,http://litv.zapi.us.kg/?id=litv-longturn08
-博斯无限壹台,http://litv.zapi.us.kg/?id=litv-longturn10
-博斯无限贰台,http://litv.zapi.us.kg/?id=litv-longturn13
-阿里郎频道台,http://litv.zapi.us.kg/?id=4gtv-4gtv079
-达文西频道台,http://litv.zapi.us.kg/?id=4gtv-4gtv018
-猪哥亮歌厅台,http://litv.zapi.us.kg/?id=4gtv-4gtv006
-亚洲旅游频道,http://litv.zapi.us.kg/?id=litv-longturn17
-美国之音频道,http://litv.zapi.us.kg/?id=litv-ftv03
-半岛新闻频道,http://litv.zapi.us.kg/?id=litv-ftv10
-非凡商业频道,http://litv.zapi.us.kg/?id=4gtv-4gtv048
-第壹商业频道,http://litv.zapi.us.kg/?id=4gtv-4gtv109
-爱放动漫频道,http://litv.zapi.us.kg/?id=litv-ftv15
-古典音乐频道,http://litv.zapi.us.kg/?id=4gtv-4gtv059
-客家电视频道,http://litv.zapi.us.kg/?id=4gtv-4gtv043
-华仁纪实频道,http://litv.zapi.us.kg/?id=4gtv-4gtv013
-时尚运动频道,http://litv.zapi.us.kg/?id=4gtv-4gtv014
-生活英语频道,http://litv.zapi.us.kg/?id=litv-longturn20
-采昌影剧频道,http://litv.zapi.us.kg/?id=4gtv-4gtv049
-数位电影频道,http://litv.zapi.us.kg/?id=4gtv-4gtv011
-Amc电影频道,http://litv.zapi.us.kg/?id=4gtv-4gtv017
-CAT电影频道,http://litv.zapi.us.kg/?id=4gtv-4gtv076
-TRA体育频道,http://litv.zapi.us.kg/?id=4gtv-4gtv077
-SMArt知识台,http://litv.zapi.us.kg/?id=litv-longturn19
-GLO-Bet频道,http://litv.zapi.us.kg/?id=4gtv-4gtv016
-TRACEU频道,http://litv.zapi.us.kg/?id=4gtv-4gtv082
-MEZZOl频道,http://litv.zapi.us.kg/?id=4gtv-4gtv083
-Ginx_TV频道,http://litv.zapi.us.kg/?id=4gtv-4gtv053
-
 JDSP,#genre#
 凤凰中文,http://php.jdshipin.com:8880/iptv.php?id=fhzw
 翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct
@@ -278,7 +129,6 @@ TVB Plus,http://bxtv.3a.ink/api.php?id=tvbp
 龍華電影台,http://bxtv.3a.ink/api.php?id=龍華電影
 龍華洋片台,http://bxtv.3a.ink/api.php?id=龍華洋片
 
-
 HLS,#genre#
 tvbs闽南,http://61.221.215.25:8800/hls/9/index.m3u8
 三立戏剧,http://61.221.215.25:8800/hls/41/index.m3u8
@@ -390,28 +240,6 @@ TVB,http://s1.an94tv.cfd/taiwan2/tvb/AKTV.m3u8
 TVBS新聞,http://s1.an94tv.cfd/tvbs/tvbs/AKTV.m3u8
 鳳凰衛視香港台,http://s1.an94tv.cfd/aktv/CH-5/AKTV.m3u8
 
-AWEI,#genre#
-凤凰中文,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_fhzw.flv
-凤凰资讯,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_fhzx.flv
-香港香港,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_fhxg.flv
-V6香港,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_j2.flv
-香港78,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_hoy78.flv
-翡翠台,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_jade.flv
-中天新闻,http://push-rtmp-hs-spe-f5.douyincdn.com/live/ztxw01.flv
-美亚电影,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_msdy.flv
-美亚,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_mydy.flv
-八大,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_bddy.flv
-综合,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_bdzh.flv
-中天综合,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_ztzh.flv
-viuTV,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_viu.flv
-viuTV6,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_viutv6.flv
-重温经典,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_cwjd.flv
-中天新闻,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_ztxw.flv
-民视新闻,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_mstw.flv
-无线新闻,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_wxxw.flv
-tvbplus,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_j2.flv
-明珠台,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_mz.flv
-民视,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_ms.flv
 
 央视,#genre#
 
@@ -754,5 +582,3 @@ HBO频道频限,http://iptv.4666888.xyz/iptv.php?id=20249
 山西卫视,http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovL3d3dy5kc2suY2MvcGhwL3N4Z2QucGhwP2lkPXN4aXdz
 陕西卫视,http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovL3d3dy5kc2suY2MvcGhwL3N4Z2QucGhwP2lkPXN4d3M=
 海南卫视,http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovL3d3dy5kc2suY2MvcGhwL3N4Z2QucGhwP2lkPWhpbndz
-
-
