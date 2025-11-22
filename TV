@@ -100,12 +100,12 @@ http://go.bkpcp.top/mg/ahws
 #EXTINF:-1 tvg-name="江西卫视" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/sublime2025/IPTV/main/img/IPTV/江西卫视.png" group-title="卫视",江西卫视
 http://go.bkpcp.top/mg/jxws
 
+#EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/sublime2025/IPTV/main/img/IPTV/东方卫视.png" group-title="卫视",东方卫视
+http://106.53.99.30/tv/api.php?id=dfws4k
+#EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/sublime2025/IPTV/main/img/IPTV/湖南卫视.png" group-title="卫视",湖南卫视
+http://106.53.99.30/tv/api.php?id=hnws4k
 #EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/sublime2025/IPTV/main/img/IPTV/江苏卫视.png" group-title="卫视",江苏卫视
-http://z.b.bkpcp.top/m.php?id=jsws
-#EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/sublime2025/IPTV/main/img/IPTV/广东卫视.png" group-title="卫视",广东卫视
-http://z.b.bkpcp.top/m.php?id=gdws
-#EXTINF:-1 tvg-name="江西卫视" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/sublime2025/IPTV/main/img/IPTV/江西卫视.png" group-title="卫视",江西卫视
-http://z.b.bkpcp.top/m.php?id=jxws
+http://106.53.99.30/tv/api.php?id=jsws4k
 
 █████████████████████████████████████████████████████████████████████████████████████████████████████████
 
@@ -126,8 +126,6 @@ http://bxtv.3a.ink/api.php?id=fhzw$BXTV
 http://bxtv.3a.ink/api.php?id=fhzx$BXTV
 #EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/sublime2025/IPTV/main/img/TVB/翡翠台.png" group-title="港台",翡翠台
 http://bxtv.3a.ink/api.php?id=fct$BXTV
-#EXTINF:-1 tvg-name="NOW新闻" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/sublime2025/IPTV/main/img/TVB/NOW新闻.png" group-title="港台",NOW新闻
-http://bxtv.3a.ink/api.php?id=now
 #EXTINF:-1 tvg-name="PopC" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/sublime2025/IPTV/main/img/Movie/PopC.png" group-title="港台",PopC
 http://bxtv.3a.ink/api.php?id=popc
 #EXTINF:-1 tvg-name="美亚电影港" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/sublime2025/IPTV/main/img/Movie/美亚电影.png" group-title="港台",美亚电影
@@ -137,9 +135,9 @@ http://bxtv.3a.ink/api.php?id=meiya
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 
 #EXTINF:-1 tvg-name="BBC World" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/sublime2025/IPTV/main/img/World/BBC.png" group-title="港台",BBC
-https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8?v=1
-#EXTINF:-1 tvg-name="BBC World" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/sublime2025/IPTV/main/img/World/BBC.png" group-title="港台",BBC
 https://d3pxo1qcgzxtxs.cloudfront.net/10005/99951298/hls/playlist.m3u8?ads.xumo_channelId=99951298
+#EXTINF:-1 tvg-name="BBC World" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/sublime2025/IPTV/main/img/World/BBC.png" group-title="港台",BBC
+https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8?v=1
 
 #EXTINF:-1 tvg-name="CNN" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/sublime2025/IPTV/main/img/World/CNN.png" group-title="港台",CNN
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
@@ -192,12 +190,10 @@ http://www.douzhicloud.site:35455/huya/29465850
 http://live.ottiptv.cc/huya/29465849
 #EXTINF:-1 tvg-name="西游记2" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/sublime2025/IPTV/main/img/虎牙.png" group-title="虎牙",西游记
 http://live.ottiptv.cc/huya/29465859
-#EXTINF:-1 tvg-name="笑傲江湖" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/sublime2025/IPTV/main/img/虎牙.png" group-title="虎牙",笑傲江湖
+#EXTINF:-1 tvg-name="玫瑰的故事" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/sublime2025/IPTV/main/img/虎牙.png" group-title="虎牙",玫瑰的故事
 http://www.douzhicloud.site:35455/huya/23865142
 #EXTINF:-1 tvg-name="天龙八部" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/sublime2025/IPTV/main/img/虎牙.png" group-title="虎牙",天龙八部
 http://www.douzhicloud.site:35455/yy/1351814644
-#EXTINF:-1 tvg-name="神雕侠侣" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/sublime2025/IPTV/main/img/虎牙.png" group-title="虎牙",神雕侠侣
-http://www.douzhicloud.site:35455/huya/23865171
 #EXTINF:-1 tvg-name="鹿鼎记" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/sublime2025/IPTV/main/img/虎牙.png" group-title="虎牙",鹿鼎记
 http://www.douzhicloud.site:35455/yy/28265277
 #EXTINF:-1 tvg-name="倚天屠龙记" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/sublime2025/IPTV/main/img/虎牙.png" group-title="虎牙",倚天屠龙记
