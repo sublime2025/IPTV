@@ -100,13 +100,6 @@ http://go.bkpcp.top/mg/ahws
 #EXTINF:-1 tvg-name="江西卫视" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/sublime2025/IPTV/main/img/IPTV/江西卫视.png" group-title="卫视",江西卫视
 http://go.bkpcp.top/mg/jxws
 
-#EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/sublime2025/IPTV/main/img/IPTV/东方卫视.png" group-title="卫视",东方卫视
-http://106.53.99.30/tv/api.php?id=dfws4k
-#EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/sublime2025/IPTV/main/img/IPTV/湖南卫视.png" group-title="卫视",湖南卫视
-http://106.53.99.30/tv/api.php?id=hnws4k
-#EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/sublime2025/IPTV/main/img/IPTV/江苏卫视.png" group-title="卫视",江苏卫视
-http://106.53.99.30/tv/api.php?id=jsws4k
-
 █████████████████████████████████████████████████████████████████████████████████████████████████████████
 
 #EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/sublime2025/IPTV/main/img/TVB/凤凰中文.png" group-title="港台",凤凰卫视
