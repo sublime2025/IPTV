@@ -105,20 +105,9 @@ http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw$JDSP
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://cdn.jsdelivr.net/gh/sublime2025/IPTV@main/img/TVB/凤凰资讯.png" group-title="港台",凤凰资讯
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzx$JDSP
 #EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://cdn.jsdelivr.net/gh/sublime2025/IPTV@main/img/TVB/翡翠台.png" group-title="港台",翡翠台
-http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct4$JDSP
+http://mytv.cdn.loc.cc/o12.php?id=fct
 #EXTINF:-1 tvg-name="美亚电影港" tvg-logo="https://cdn.jsdelivr.net/gh/sublime2025/IPTV@main/img/Movie/美亚电影.png" group-title="港台",美亚电影
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=meiya$JDSP
-
-#EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://cdn.jsdelivr.net/gh/sublime2025/IPTV@main/img/TVB/凤凰中文.png" group-title="港台",凤凰卫视
-http://bxtv.3a.ink/api.php?id=fhzw$BXTV
-#EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://cdn.jsdelivr.net/gh/sublime2025/IPTV@main/img/TVB/凤凰资讯.png" group-title="港台",凤凰资讯
-http://bxtv.3a.ink/api.php?id=fhzx$BXTV
-#EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://cdn.jsdelivr.net/gh/sublime2025/IPTV@main/img/TVB/翡翠台.png" group-title="港台",翡翠台
-http://bxtv.3a.ink/api.php?id=fct$BXTV
-#EXTINF:-1 tvg-name="美亚电影港" tvg-logo="https://cdn.jsdelivr.net/gh/sublime2025/IPTV@main/img/Movie/美亚电影.png" group-title="港台",美亚电影
-http://bxtv.3a.ink/api.php?id=meiya$BXTV
-#EXTINF:-1 tvg-name="PopC" tvg-logo="https://cdn.jsdelivr.net/gh/sublime2025/IPTV@main/img/Movie/PopC.png" group-title="港台",PopC
-http://bxtv.3a.ink/api.php?id=popc$BXTV
 
 #EXTINF:-1 tvg-name="CNA" tvg-logo="https://cdn.jsdelivr.net/gh/sublime2025/IPTV@main/img/World/CNA.png" group-title="港台",CNA
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
